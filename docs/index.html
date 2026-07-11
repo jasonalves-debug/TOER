@@ -195,12 +195,12 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#0a0f0b;font-famil
     background:rgba(0,0,0,.75); border:1px solid var(--bdr); border-radius:6px;
     backdrop-filter:blur(6px); cursor:pointer; font-size:18px;
   }
-  #filters, #layertoggles, #overviewbtn, #audiobtn{
+  #filters, #overviewbtn, #audiobtn{
     position:static !important; width:100%; box-sizing:border-box;
     margin-bottom:6px; top:auto; right:auto; left:auto; bottom:auto;
   }
-  #filters, #layertoggles{display:flex; gap:6px;}
-  #filters .fbtn, #layertoggles .fbtn{flex:1; min-height:40px; display:flex; align-items:center; justify-content:center;}
+  #filters{display:flex; gap:6px;}
+  #filters .fbtn{flex:1; min-height:40px; display:flex; align-items:center; justify-content:center;}
   #mobilecontrols{
     display:none; position:absolute; top:60px; right:12px; z-index:65;
     width:min(260px, calc(100vw - 24px)); background:rgba(8,12,9,.95);
@@ -291,9 +291,6 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#0a0f0b;font-famil
   <div class="fbtn" data-f="police" onclick="setFilter('police')">🚓 POLICE</div>
   <div class="fbtn" data-f="fire" onclick="setFilter('fire')">🚒 FIRE</div>
 </div>
-<div id="layertoggles" style="position:absolute;top:104px;right:20px;z-index:50;display:flex;gap:6px;">
-  <div class="fbtn on" id="newstogglebtn" onclick="toggleNewsLayer()"><span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:#c084fc;margin-right:6px;"></span>NEWS</div>
-</div>
 <div id="overviewbtn" onclick="returnToOverview()" title="Return camera to city overview" style="position:absolute;top:150px;right:20px;z-index:50;display:flex;align-items:center;gap:6px;background:rgba(0,0,0,.7);border:1px solid var(--bdr);border-radius:4px;padding:8px 14px;cursor:pointer;backdrop-filter:blur(6px);">
   <span style="font-size:10px;font-weight:700;letter-spacing:2px;color:rgba(255,255,255,.7);">🏠 OVERVIEW</span>
 </div>
@@ -325,7 +322,6 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#0a0f0b;font-famil
 // Set this after deploying the worker (see README.md). Example:
 // 'https://toronto-emergency-proxy.yoursubdomain.workers.dev'
 const DATA_URL       = 'data/incidents.json'; // same-origin — served by your own machine, no CORS involved
-const NEWS_URL        = 'data/news.json';
 const HOME_VIEW     = { center:[-79.3832,43.6532], zoom:11.4, pitch:0, bearing:0 };
 // pitch is intentionally 0 here, not tilted: the 3D buildings layer has
 // minzoom:13 (well above this overview's zoom 11.4) so it was never visible
@@ -875,54 +871,6 @@ function clearRelationships(){
   map.getSource('relationships')?.setData({type:'FeatureCollection',features:[]});
 }
 
-/* ───────────────────────── NEWS & POLITICIANS ───────────────────────── */
-let newsArticles = [];
-async function fetchNews(){
-  try{
-    const res = await fetch(`${NEWS_URL}?t=${Date.now()}`, {cache:'no-store'});
-    if(!res.ok) return;
-    const json = await res.json();
-    newsArticles = json.articles || [];
-    const src = map.getSource('news');
-    if(src) src.setData({
-      type:'FeatureCollection',
-      features: newsArticles.map(a=>({
-        type:'Feature',
-        geometry:{type:'Point', coordinates:[a.lng, a.lat]},
-        properties:{ id:a.id, hasPolitician: !!(a.politicians && a.politicians.length) },
-      })),
-    });
-  }catch(e){ console.warn('[news fetch failed]', e.message); }
-}
-function flyToNews(id){
-  const a = newsArticles.find(x=>x.id===id);
-  if(!a) return;
-  busy = true; focusedId = null; clearRelationships(); hideCallout();
-  map.flyTo({ center:[a.lng,a.lat], zoom:15, pitch:40, duration:3000 });
-  map.once('moveend', ()=>{ busy=false; showNewsCallout(a); });
-}
-function showNewsCallout(a){
-  const co=document.getElementById('callout');
-  const pols = (a.politicians||[]).map(p=>`<div style="display:flex;align-items:center;gap:6px;margin-top:6px;">
-      ${p.photo?`<img src="${p.photo}" style="width:24px;height:24px;border-radius:50%;object-fit:cover;" onerror="this.style.display='none'">`:''}
-      <span style="font-size:10px;color:var(--text);">${p.name} · ${p.role}</span>
-    </div>`).join('');
-  co.innerHTML = `
-    <div class="cosev" style="color:#c084fc;border:1px solid rgba(192,132,252,.4);background:rgba(192,132,252,.1);">📰 ${a.source.toUpperCase()}</div>
-    <div class="cotype">${a.title}</div>
-    <div class="coloc">📍 ${a.location}${a.approximate?' (approximate)':''}</div>
-    <div class="cotime">${timeAgo(new Date(a.ts))}</div>
-    <div style="font-size:11px;color:var(--muted);margin-top:8px;line-height:1.5;">${a.summary}</div>
-    ${pols}
-    <div class="colinks"><a href="${a.link}" target="_blank" rel="noopener" onclick="event.stopPropagation()">📖 Read Full Article</a></div>
-    <div style="text-align:center;font-size:8px;color:var(--dim);margin-top:8px;">click to close</div>`;
-  co.onclick = ()=>{ hideCallout(); };
-  const pos = map.project([a.lng, a.lat]);
-  co.style.left = (pos.x + 22) + 'px';
-  co.style.top = Math.max(80, pos.y - 20) + 'px';
-  co.style.display = 'block';
-}
-
 /* ───────────────────────── CAMERA FLIGHT ───────────────────────── */
 let focusedId=null;
 
@@ -969,15 +917,10 @@ map.on('render', ()=>{
  * drawer instead of a fixed side panel. */
 function isMobileLayout(){ return window.innerWidth <= 768; }
 
-function toggleNewsLayer(){
-  const btn = document.getElementById('newstogglebtn');
-  const on = btn.classList.toggle('on');
-  map.setLayoutProperty('news-dots', 'visibility', on ? 'visible' : 'none');
-}
 function setupMobileLayout(){
   if(!isMobileLayout()) return;
   const panel = document.getElementById('mobilecontrols');
-  ['filters','layertoggles','overviewbtn'].forEach(id=>{
+  ['filters','overviewbtn'].forEach(id=>{
     const el = document.getElementById(id);
     if(el && el.parentElement !== panel) panel.appendChild(el);
   });
@@ -1112,26 +1055,8 @@ map.on('load', ()=>{
     },
   }, 'incidents-circle');
 
-  // News articles (geocoded from RSS) — purple, distinct from incidents.
-  // Slightly larger ring if a politician is tagged in the article.
-  map.addSource('news', { type:'geojson', data:{type:'FeatureCollection',features:[]} });
-  map.addLayer({
-    id:'news-dots', type:'circle', source:'news',
-    paint:{
-      'circle-radius':['case',['get','hasPolitician'],7,5],
-      'circle-color':'#c084fc',
-      'circle-opacity':0.85,
-      'circle-stroke-width':['case',['get','hasPolitician'],2,1],
-      'circle-stroke-color':'#ffffff',
-    },
-  });
-  map.on('mouseenter','news-dots', ()=>map.getCanvas().style.cursor='pointer');
-  map.on('mouseleave','news-dots', ()=>map.getCanvas().style.cursor='');
-  map.on('click','news-dots', (e)=>flyToNews(e.features[0].properties.id));
-
   typeText('INITIALIZING — connecting to Toronto Police Service public data portal…');
   refresh();      // one-shot load — this is a snapshot tool, not a live dashboard
-  fetchNews();
   addBuildings3D(); // enhancement only — called last, guarded, can't block anything above
 });
 </script>
