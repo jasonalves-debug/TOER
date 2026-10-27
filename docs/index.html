@@ -665,11 +665,6 @@ function ingest(list){
   renderMarkers();
   renderStats();
   typeText(`LOADED ${incidents.length} INCIDENTS FROM LAST 24H`);
-  if(incidents.length){
-    const bounds = new maplibregl.LngLatBounds();
-    incidents.forEach(d=>bounds.extend([d.lng,d.lat]));
-    map.fitBounds(bounds, { padding:{top:110,bottom:110,left:340,right:60}, maxZoom:13, duration:2200 });
-  }
 }
 
 /* ───────────────────────── MARKERS ───────────────────────── */
