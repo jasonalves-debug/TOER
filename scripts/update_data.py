@@ -519,6 +519,187 @@ def attach_relationships(incidents, max_related=6, max_distance_m=600, max_hours
         candidates.sort(key=lambda c: (c["distance_m"], c["minutes_apart"]))
         d["related"] = candidates[:max_related]
 
+# ─────────────────────────── Events (multi-agency merge) + cameras ───────────────────────────
+# Same principle as above: computed here, the frontend only renders the result.
+CAMERAS_PATH = os.path.join(DATA_DIR, "cameras.json")
+CAMERA_MAX_M = 300          # a camera further than this from an incident isn't showing the scene
+EVENT_MAX_M = 200           # police + fire reports this close...
+EVENT_MAX_MINUTES = 60      # ...and this close in time are treated as one event
+SEV_RANK = {"critical": 3, "high": 2, "medium": 1, "low": 0}
+EVENT_KEYS = ("event_id", "event_primary", "event_label", "event_count", "event_sources", "event_members")
+SOURCE_NAME = {"police": "Police", "fire": "Fire"}
+
+
+def load_cameras():
+    try:
+        with open(CAMERAS_PATH) as f:
+            return json.load(f).get("cameras", [])
+    except (OSError, json.JSONDecodeError):
+        return []
+
+
+def attach_cameras(incidents, cameras, max_m=CAMERA_MAX_M):
+    """Attach the nearest camera within max_m to each precisely-located incident."""
+    deg = max_m / 111000.0 * 1.5  # cheap lat/lng prefilter before haversine
+    n = 0
+    for d in incidents:
+        d.pop("camera", None)  # incidents persist between runs — never keep a stale camera
+        if d.get("approximate"):
+            continue
+        best, best_m = None, max_m + 1
+        for c in cameras:
+            if abs(c["lat"] - d["lat"]) > deg or abs(c["lng"] - d["lng"]) > deg * 1.5:
+                continue
+            m = haversine_m(d["lat"], d["lng"], c["lat"], c["lng"])
+            if m < best_m:
+                best, best_m = c, m
+        if best and best_m <= max_m:
+            d["camera"] = {"name": best["name"], "src": best["src"],
+                           "distance_m": round(best_m), "views": best["views"]}
+            n += 1
+    return n
+
+
+def merge_events(incidents, max_m=EVENT_MAX_M, max_minutes=EVENT_MAX_MINUTES):
+    """
+    One dot per event: police + fire reports at the same spot and time become a
+    single event. Only links reports from DIFFERENT agencies (two police calls
+    at one intersection can be unrelated), and never approximate-area ones.
+    Members stay in the list; all but one are flagged event_primary=False so the
+    frontend hides them. The primary is the most severe member.
+    """
+    for d in incidents:
+        for k in EVENT_KEYS:
+            d.pop(k, None)  # recomputed every run
+    items = []
+    for d in incidents:
+        if d.get("approximate"):
+            continue
+        try:
+            items.append((d, datetime.fromisoformat(d["ts"])))
+        except (ValueError, KeyError):
+            continue
+
+    parent = {d["id"]: d["id"] for d, _ in items}
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    for i, (a, ta) in enumerate(items):
+        for b, tb in items[i + 1:]:
+            if a.get("source") == b.get("source"):
+                continue
+            if abs((ta - tb).total_seconds()) > max_minutes * 60:
+                continue
+            if haversine_m(a["lat"], a["lng"], b["lat"], b["lng"]) > max_m:
+                continue
+            parent[find(a["id"])] = find(b["id"])
+
+    groups = {}
+    for d, _ in items:
+        groups.setdefault(find(d["id"]), []).append(d)
+
+    merged = 0
+    for members in groups.values():
+        if len(members) < 2:
+            continue
+        members.sort(key=lambda d: (SEV_RANK.get(d.get("severity"), 0), d.get("source") == "fire", d["ts"]),
+                     reverse=True)
+        primary = members[0]
+        sources = sorted({m.get("source", "police") for m in members})
+        label = " + ".join(SOURCE_NAME.get(s, s.title()) for s in sources)
+        eid = "ev_" + hashlib.sha1("|".join(sorted(m["id"] for m in members)).encode()).hexdigest()[:10]
+        member_ids = {m["id"] for m in members}
+        for m in members:
+            m["event_id"] = eid
+            m["event_primary"] = m is primary
+            m["related"] = [r for r in m.get("related", []) if r["id"] not in member_ids]
+        primary["event_label"] = label
+        primary["event_count"] = len(members)
+        primary["event_sources"] = sources
+        primary["event_members"] = [{"id": m["id"], "source": m.get("source", "police"),
+                                     "type_plain": m.get("type_plain") or m.get("type", ""), "ts": m["ts"]}
+                                    for m in members]
+        merged += 1
+    return merged
+
+
+# ─────────────────────────── Postal-area summaries ───────────────────────────
+# Powers the "type your postal prefix" box. fsa.json (built by build_fsa.py) gives
+# each prefix a centre + radius; every incident is assigned to its prefix here,
+# and the per-area numbers are precomputed so the page only has to draw them.
+FSA_PATH = os.path.join(DATA_DIR, "fsa.json")
+FSA_LOC_RE = re.compile(r"^([A-Z]\d[A-Z])\b")  # FSA-only fire/medical calls are labelled "M1K (approximate area)"
+FSA_REACH = 1.25                                 # how far past an area's radius we still claim an incident
+
+
+def load_fsas():
+    try:
+        with open(FSA_PATH) as f:
+            return json.load(f).get("fsas", {})
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def fsa_for(d, fsas):
+    if d.get("approximate"):
+        m = FSA_LOC_RE.match(d.get("location") or "")
+        if m and m.group(1) in fsas:
+            return m.group(1)
+    best, best_m = None, None
+    for code, f in fsas.items():
+        reach = f["r"] * FSA_REACH
+        deg = reach / 111000.0
+        if abs(f["lat"] - d["lat"]) > deg or abs(f["lng"] - d["lng"]) > deg * 1.5:
+            continue
+        m = haversine_m(d["lat"], d["lng"], f["lat"], f["lng"])
+        if m <= reach and (best_m is None or m < best_m):
+            best, best_m = code, m
+    return best
+
+
+def build_area_summary(incidents, fsas, now=None):
+    """Per-postal-area counts, severity mix, 24-hour pulse strip and latest incident ids. None if no fsa.json."""
+    if not fsas:
+        return None
+    now = now or datetime.now(timezone.utc)
+    by = {}
+    for d in incidents:
+        if d.get("event_primary") is False:      # merged into another dot — count the event once
+            continue
+        code = fsa_for(d, fsas)
+        if not code:
+            continue
+        try:
+            ts = datetime.fromisoformat(d["ts"])
+        except (ValueError, KeyError):
+            continue
+        h = max(0, int((now - ts).total_seconds() // 3600))
+        if h > 23:
+            continue
+        sev = d.get("severity") if d.get("severity") in SEV_RANK else "low"
+        a = by.setdefault(code, {"n": 0, "sev": {k: 0 for k in SEV_RANK}, "src": {},
+                                 "hours": [0] * 24, "worst": [-1] * 24, "_l": []})
+        a["n"] += 1
+        a["sev"][sev] += 1
+        src = d.get("source", "police")
+        a["src"][src] = a["src"].get(src, 0) + 1
+        i = 23 - h                                # index 23 = the most recent hour
+        a["hours"][i] += 1
+        a["worst"][i] = max(a["worst"][i], SEV_RANK[sev])
+        a["_l"].append((ts, d["id"]))
+    areas = len(fsas)
+    counts = {c: by[c]["n"] if c in by else 0 for c in fsas}
+    for code, a in by.items():
+        below = sum(1 for c in counts.values() if c < a["n"])
+        a["pct_busier"] = round(100 * below / areas)
+        a["latest"] = [i for _, i in sorted(a["_l"], reverse=True)[:3]]
+        del a["_l"]
+    return {"areas": areas, "assigned": sum(a["n"] for a in by.values()), "by_fsa": by}
+
 
 # ─────────────────────────── Long-term history & anomaly detection ───────────────────────────
 # This is deliberately a SEPARATE file from incidents.json. incidents.json is
@@ -704,6 +885,21 @@ def main():
 
     attach_relationships(incidents)
 
+    cameras = load_cameras()
+    n_cam = attach_cameras(incidents, cameras)
+    n_ev = merge_events(incidents)
+    print(f"[cameras] {len(cameras)} cameras on file, {n_cam} incidents have one within {CAMERA_MAX_M} m")
+    print(f"[events] {n_ev} multi-agency event(s) merged; "
+          f"{sum(1 for d in incidents if d.get('event_primary') is False)} duplicate dot(s) hidden")
+
+    fsas = load_fsas()
+    area_summary = build_area_summary(incidents, fsas)
+    if area_summary:
+        print(f"[areas] {area_summary['areas']} postal areas on file; {area_summary['assigned']} incident(s) "
+              f"assigned across {len(area_summary['by_fsa'])} area(s)")
+    else:
+        print("[areas] no fsa.json yet — postal lookup will say it's not ready")
+
     history = load_history()
     record_history(newly_seen, history)
     save_history(history)
@@ -720,6 +916,7 @@ def main():
         "retention_hours": RETENTION_HOURS,
         "incidents": incidents,
         "anomalies": anomalies,
+        "area_summary": area_summary,
     }
 
     os.makedirs(DATA_DIR, exist_ok=True)

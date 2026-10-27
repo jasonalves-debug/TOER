@@ -18,6 +18,16 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Fetch traffic cameras (refreshes at most once a day)
+        run: python scripts/fetch_cameras.py
+        continue-on-error: true  # cameras are a bonus — never block incident updates
+        env:
+          ONTARIO511_KEY: ${{ secrets.ONTARIO511_KEY }}  # optional — add under Settings > Secrets > Actions
+
+      - name: Build postal-area table (rebuilds at most monthly)
+        run: python scripts/build_fsa.py
+        continue-on-error: true  # the postal lookup is a bonus — never block incident updates
+
       - name: Fetch TPS + TFS, compute intelligence, write incidents.json
         run: python scripts/update_data.py
 
@@ -33,7 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data/incidents.json docs/data/geocode_cache.json docs/data/history_stats.json \
+          git add docs/data/incidents.json docs/data/cameras.json docs/data/fsa.json docs/data/geocode_cache.json docs/data/history_stats.json \
                    docs/data/road_restrictions.json docs/data/road_geocode_cache.json \
                    docs/data/news.json docs/data/news_geocode_cache.json
           if git diff --staged --quiet; then

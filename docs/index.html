@@ -140,7 +140,7 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#0a0f0b;font-famil
 #termtext{font-size:10.5px;color:rgba(0,232,122,.88);font-family:var(--mono);line-height:1.7;min-height:18px;}
 
 /* callout */
-#callout{position:absolute;z-index:60;display:none;width:300px;background:rgba(6,12,8,.92);border:1px solid rgba(255,30,60,.4);border-radius:5px;padding:13px 15px;backdrop-filter:blur(8px);box-shadow:0 10px 40px rgba(0,0,0,.6);cursor:pointer;}
+#callout{max-height:85vh;overflow-y:auto;position:absolute;z-index:60;display:none;width:300px;background:rgba(6,12,8,.92);border:1px solid rgba(255,30,60,.4);border-radius:5px;padding:13px 15px;backdrop-filter:blur(8px);box-shadow:0 10px 40px rgba(0,0,0,.6);cursor:pointer;}
 #callout .cosev{font-size:9px;font-weight:700;letter-spacing:1.5px;padding:2px 7px;border-radius:2px;display:inline-block;margin-bottom:8px;}
 #callout .cotype{font-size:14px;font-weight:700;color:var(--text);margin-bottom:5px;}
 #callout .coloc{font-size:11px;color:var(--muted);margin-bottom:8px;line-height:1.5;}
@@ -249,6 +249,71 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#0a0f0b;font-famil
 
   .cb{ display:none; } /* corner brackets — pure decoration, costs nothing to lose, frees visual space */
 }
+
+/* ───────── postal-area lookup ───────── */
+#areasearch{position:absolute;top:104px;right:20px;z-index:50;}
+#areasearch form{display:flex;align-items:center;gap:8px;background:rgba(0,0,0,.7);border:1px solid var(--bdr);border-radius:4px;padding:5px 6px 5px 10px;backdrop-filter:blur(6px);transition:border-color .2s,box-shadow .2s;}
+#areasearch form:focus-within{border-color:rgba(0,232,122,.55);box-shadow:0 0 0 3px rgba(0,232,122,.12);}
+#areasearch .as-ico{cursor:pointer;font-size:13px;line-height:1;}
+#areasearch .as-lbl{font-size:9px;font-weight:700;letter-spacing:2px;color:var(--muted);}
+#areainput{width:58px;background:transparent;border:none;outline:none;color:var(--text);font-family:var(--mono);font-size:14px;font-weight:600;letter-spacing:3px;text-transform:uppercase;text-align:center;}
+#areainput::placeholder{color:rgba(255,255,255,.22);}
+#areasearch button{font-family:var(--mono);font-size:10px;font-weight:700;letter-spacing:1.5px;color:var(--g);background:rgba(0,232,122,.08);border:1px solid rgba(0,232,122,.35);border-radius:3px;padding:5px 9px;cursor:pointer;}
+#areasearch button:hover{background:rgba(0,232,122,.18);}
+#areahint{position:absolute;top:calc(100% + 6px);right:0;white-space:nowrap;font-size:10px;color:var(--yw);background:rgba(20,16,0,.92);border:1px solid rgba(255,204,0,.35);border-radius:3px;padding:5px 9px;opacity:0;pointer-events:none;transition:opacity .2s;}
+#areahint.show{opacity:1;}
+#areasearch.shake form{animation:areashake .35s;}
+@keyframes areashake{20%{transform:translateX(-5px)}40%{transform:translateX(5px)}60%{transform:translateX(-3px)}80%{transform:translateX(3px)}}
+
+#areacard{position:absolute;top:196px;right:20px;z-index:55;width:310px;max-height:calc(100vh - 196px - 70px);overflow-y:auto;background:rgba(6,12,8,.93);border:1px solid rgba(0,232,122,.35);border-radius:6px;padding:14px 16px 12px;backdrop-filter:blur(10px);box-shadow:0 12px 40px rgba(0,0,0,.55),0 0 28px rgba(0,232,122,.08);opacity:0;transform:translateX(18px);pointer-events:none;transition:opacity .35s ease,transform .35s ease;}
+#areacard.show{opacity:1;transform:none;pointer-events:auto;}
+#areacard .ac-head{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:10px;}
+#areacard .ac-code{font-family:var(--mono);font-size:26px;font-weight:700;letter-spacing:5px;color:var(--g);text-shadow:0 0 16px rgba(0,232,122,.45);line-height:1;}
+#areacard .ac-sub{font-size:8.5px;letter-spacing:2px;color:var(--muted);margin-top:5px;}
+#areacard .ac-x{cursor:pointer;color:var(--muted);font-size:14px;padding:2px 4px;}
+#areacard .ac-x:hover{color:var(--text);}
+#areacard .ac-hero{display:flex;align-items:center;gap:12px;margin:4px 0 12px;}
+#areacard .ac-n{font-family:var(--mono);font-size:54px;font-weight:700;line-height:1;color:var(--text);text-shadow:0 0 22px rgba(255,255,255,.18);}
+#areacard .ac-lab{font-size:12px;font-weight:600;line-height:1.5;}
+#areacard .ac-lab span{font-size:10px;font-weight:400;color:var(--muted);}
+#areacard .ac-rtxt{font-size:10.5px;color:var(--muted);margin-bottom:6px;}
+#areacard .ac-track{position:relative;height:4px;border-radius:2px;background:linear-gradient(90deg,#00e87a,#ffcc00,#ff3355);opacity:.85;margin-bottom:14px;}
+#areacard .ac-track i{position:absolute;top:50%;width:10px;height:10px;border-radius:50%;background:#fff;box-shadow:0 0 0 2px rgba(6,12,8,.95),0 0 10px rgba(255,255,255,.7);transform:translate(-50%,-50%);transition:left .8s cubic-bezier(.2,.8,.2,1);}
+#areacard .ac-stack{display:flex;height:8px;border-radius:4px;overflow:hidden;gap:2px;margin-bottom:7px;}
+#areacard .ac-stack i{display:block;min-width:4px;}
+#areacard .ac-legend{display:flex;gap:12px;flex-wrap:wrap;font-size:10px;color:var(--muted);margin-bottom:14px;}
+#areacard .ac-legend b{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:4px;}
+#areacard .ac-pulse{display:flex;align-items:flex-end;gap:2px;height:46px;margin-bottom:4px;}
+#areacard .ac-pulse i{flex:1;border-radius:1px 1px 0 0;min-height:2px;transform-origin:bottom;animation:acgrow .6s ease both;}
+@keyframes acgrow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+#areacard .ac-axis{display:flex;justify-content:space-between;font-size:8px;letter-spacing:1px;color:var(--dim);margin-bottom:14px;}
+#areacard .ac-latest-h{font-size:8.5px;letter-spacing:2px;color:var(--muted);margin-bottom:5px;}
+#areacard .ac-row{display:flex;gap:9px;align-items:flex-start;padding:7px 6px;border-radius:3px;cursor:pointer;}
+#areacard .ac-row:hover{background:rgba(255,255,255,.05);}
+#areacard .ac-row .d{width:8px;height:8px;border-radius:50%;margin-top:4px;flex:none;}
+#areacard .ac-row .t{font-size:11.5px;font-weight:600;}
+#areacard .ac-row .l{font-size:10px;color:var(--muted);margin-top:1px;}
+#areacard .ac-quiet{text-align:center;padding:14px 4px 10px;}
+#areacard .ac-qi{font-size:30px;color:var(--g);text-shadow:0 0 18px rgba(0,232,122,.5);}
+#areacard .ac-qt{font-size:16px;font-weight:700;margin:4px 0 4px;}
+#areacard .ac-qs{font-size:11px;color:var(--muted);line-height:1.5;}
+#areacard .ac-note{font-size:8.5px;color:var(--dim);line-height:1.5;margin-top:10px;padding-top:8px;border-top:1px solid var(--bdr);}
+@media (prefers-reduced-motion: reduce){#areacard,#areacard .ac-track i{transition:none}#areacard .ac-pulse i{animation:none}}
+@media (max-width: 768px){
+  #disclaimer{top:112px;}
+  #areasearch{top:64px;right:12px;z-index:52;}
+  #areasearch form{width:44px;height:44px;padding:0;justify-content:center;overflow:hidden;border-radius:6px;}
+  #areasearch .as-lbl,#areasearch input,#areasearch button{display:none;}
+  #areasearch .as-ico{font-size:18px;padding:12px;}
+  #areasearch.open{left:12px;}
+  #areasearch.open form{width:100%;height:auto;padding:5px 6px 5px 12px;justify-content:flex-start;}
+  #areasearch.open .as-lbl,#areasearch.open input,#areasearch.open button{display:inline-block;}
+  #areasearch.open .as-ico{padding:0;font-size:13px;}
+  #areasearch.open input{flex:1;width:auto;text-align:left;font-size:16px;}
+  #areahint{left:0;right:auto;}
+  #areacard{left:12px;right:12px;top:auto;bottom:76px;width:auto;max-height:52vh;transform:translateY(18px);}
+  #areacard.show{transform:none;}
+}
 </style>
 </head>
 <body>
@@ -307,6 +372,17 @@ html,body{width:100vw;height:100vh;overflow:hidden;background:#0a0f0b;font-famil
 </div>
 
 <div id="ftr"></div>
+
+<div id="areasearch">
+  <form onsubmit="return areaLookup(event)" autocomplete="off">
+    <span class="as-ico" onclick="areaToggleInput()" title="Look up your area">📍</span>
+    <span class="as-lbl">POSTAL</span>
+    <input id="areainput" maxlength="3" placeholder="M1K" aria-label="First 3 characters of your postal code" spellcheck="false" autocapitalize="characters" autocomplete="off">
+    <button type="submit">GO</button>
+  </form>
+  <div id="areahint"></div>
+</div>
+<div id="areacard" aria-live="polite"></div>
 
 <div id="callout"></div>
 
@@ -531,6 +607,7 @@ async function fetchReal(){
     lastSourceStatus = json.source_status || {};
     lastGenerated = json.generated || null;
     lastAnomalies = json.anomalies || [];
+    areaSummary = json.area_summary || null;
     if(!json.generated){ fallbackReason='update_data.py HAS NOT RUN YET'; return null; }
     if(!json.incidents || !json.incidents.length){ fallbackReason='NO INCIDENTS IN LAST FETCH — check update.log'; return null; }
     return json.incidents.map(d=>({...d, ts:new Date(d.ts)}));
@@ -597,6 +674,12 @@ async function refresh(){
     }
     ingest(real);
     renderAnomalies();
+    if(activeFsa) renderAreaCard(activeFsa);   // keep an open area card in step with fresh data
+    if(!urlAreaTried){                          // shareable link: ?fsa=M1K opens straight to that area
+      urlAreaTried = true;
+      const q = (new URLSearchParams(location.search).get('fsa')||'').toUpperCase();
+      if(AREA_RE.test(q)) setTimeout(()=>showArea(q), 700);
+    }
   }else{
     if(dataSource!=='sim'){
       dataSource='sim';
@@ -609,6 +692,159 @@ async function refresh(){
     }
   }
 }
+let activeFsa = null, areaSummary = null, urlAreaTried = false;
+/* ───────────────────────── POSTAL AREA LOOKUP ─────────────────────────
+   Type the first 3 characters of a postal code: the map flies there, dims
+   everything outside a glowing ring and shows a summary card. All numbers are
+   precomputed by update_data.py (area_summary) — this only draws them. */
+const FSA_URL = DATA_URL.replace('incidents.json','fsa.json');
+const AREA_RE = /^[A-Z]\d[A-Z]$/;
+const RANK_SEV = ['low','medium','high','critical'];
+let fsaTable = null, areaRaf = 0, areaLatest = [];
+
+function areaEsc(t){ return String(t==null?'':t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+async function loadFsaTable(){
+  if(fsaTable) return fsaTable;
+  try{
+    const r = await fetch(`${FSA_URL}?t=${Math.floor(Date.now()/3600000)}`);
+    if(!r.ok) return null;
+    fsaTable = (await r.json()).fsas || null;
+  }catch(e){ return null; }
+  return fsaTable;
+}
+
+function areaHint(msg){
+  const el=document.getElementById('areahint'), box=document.getElementById('areasearch');
+  el.textContent=msg; el.classList.add('show');
+  clearTimeout(areaHint.t); areaHint.t=setTimeout(()=>el.classList.remove('show'),3400);
+  box.classList.remove('shake'); void box.offsetWidth; box.classList.add('shake');
+}
+function areaToggleInput(){
+  const box=document.getElementById('areasearch');
+  if(window.innerWidth<=768) box.classList.toggle('open');
+  document.getElementById('areainput').focus();
+}
+function areaLookup(ev){
+  ev.preventDefault();
+  const code=document.getElementById('areainput').value.trim().toUpperCase();
+  if(!AREA_RE.test(code)){ areaHint('Enter 3 characters, like M1K'); return false; }
+  showArea(code);
+  return false;
+}
+
+function circleRing(lat,lng,rm,n=96){
+  const dLat=rm/111320, dLng=rm/(111320*Math.cos(lat*Math.PI/180)), ring=[];
+  for(let i=0;i<=n;i++){ const a=i/n*2*Math.PI; ring.push([lng+dLng*Math.cos(a), lat+dLat*Math.sin(a)]); }
+  return ring;
+}
+function ensureAreaLayers(){
+  if(map.getSource('area-ring')) return;
+  const empty={type:'FeatureCollection',features:[]};
+  map.addSource('area-ring',{type:'geojson',data:empty});
+  map.addSource('area-dim',{type:'geojson',data:empty});
+  map.addLayer({id:'area-dim',type:'fill',source:'area-dim',paint:{'fill-color':'#02060a','fill-opacity':0,'fill-opacity-transition':{duration:800}}});
+  map.addLayer({id:'area-glow',type:'line',source:'area-ring',paint:{'line-color':'#00e87a','line-width':12,'line-blur':10,'line-opacity':0.35}});
+  map.addLayer({id:'area-line',type:'line',source:'area-ring',paint:{'line-color':'#7dffbf','line-width':1.6,'line-opacity':0.9}});
+}
+function drawArea(f){
+  ensureAreaLayers();
+  const ring=circleRing(f.lat,f.lng,f.r);
+  const world=[[-180,-85],[180,-85],[180,85],[-180,85],[-180,-85]];
+  map.getSource('area-ring').setData({type:'Feature',geometry:{type:'LineString',coordinates:ring}});
+  map.getSource('area-dim').setData({type:'Feature',geometry:{type:'Polygon',coordinates:[world,ring]}});
+  map.setPaintProperty('area-dim','fill-opacity',0.55);
+  let x0=1e9,x1=-1e9,y0=1e9,y1=-1e9;
+  ring.forEach(([x,y])=>{ x0=Math.min(x0,x); x1=Math.max(x1,x); y0=Math.min(y0,y); y1=Math.max(y1,y); });
+  const mob=isMobileLayout();
+  map.fitBounds([[x0,y0],[x1,y1]],{
+    padding: mob ? {top:130,bottom:300,left:24,right:24} : {top:110,bottom:110,left:340,right:360},
+    maxZoom:14.5, pitch:0, bearing:0, duration:1800,
+  });
+  animateArea();
+}
+function animateArea(){
+  cancelAnimationFrame(areaRaf);
+  if(window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const t0=performance.now();
+  const tick=t=>{
+    if(!activeFsa) return;
+    const k=(Math.sin((t-t0)/650)+1)/2;
+    map.setPaintProperty('area-glow','line-opacity',0.15+0.4*k);
+    map.setPaintProperty('area-glow','line-width',9+7*k);
+    areaRaf=requestAnimationFrame(tick);
+  };
+  areaRaf=requestAnimationFrame(tick);
+}
+
+async function showArea(code){
+  if(!map.isStyleLoaded()) await new Promise(r=>map.once('idle',r));
+  const t=await loadFsaTable();
+  if(!t){ areaHint('Area lookup is not ready yet — try after the next update'); return; }
+  const f=t[code];
+  if(!f){ areaHint(`${code} isn't a Toronto area I have data for`); return; }
+  activeFsa=code;
+  document.getElementById('areainput').value=code;
+  document.getElementById('areasearch').classList.remove('open');
+  hideCallout(); clearRelationships(); focusedId=null; renderTicker();
+  drawArea(f);
+  renderAreaCard(code);
+  document.getElementById('areacard').classList.add('show');
+  try{ const u=new URL(location.href); u.searchParams.set('fsa',code); history.replaceState(null,'',u); }catch(e){}
+}
+function clearArea(){
+  activeFsa=null; cancelAnimationFrame(areaRaf);
+  if(map.getSource('area-dim')){
+    map.setPaintProperty('area-dim','fill-opacity',0);
+    setTimeout(()=>{ if(!activeFsa && map.getSource('area-dim')){
+      const e={type:'FeatureCollection',features:[]};
+      map.getSource('area-dim').setData(e); map.getSource('area-ring').setData(e);
+    }},900);
+  }
+  document.getElementById('areacard').classList.remove('show');
+  try{ const u=new URL(location.href); u.searchParams.delete('fsa'); history.replaceState(null,'',u); }catch(e){}
+  map.flyTo({...HOME_VIEW,duration:1800});
+}
+document.addEventListener('keydown',e=>{ if(e.key==='Escape' && activeFsa) clearArea(); });
+function areaOpen(i){ const d=areaLatest[i]; if(d) focusIncident(d); }
+
+function renderAreaCard(code){
+  const el=document.getElementById('areacard');
+  const head=`<div class="ac-head"><div><div class="ac-code">${code}</div><div class="ac-sub">AREA SUMMARY · LAST 24H</div></div><div class="ac-x" onclick="clearArea()" title="Close (Esc)">✕</div></div>`;
+  const note=`<div class="ac-note">Area is estimated from the postal prefix, not an exact boundary. Counts are as of the last data update.</div>`;
+  const S=areaSummary;
+  areaLatest=[];
+  if(!S){
+    el.innerHTML=head+`<div class="ac-quiet"><div class="ac-qt">Summary not ready</div><div class="ac-qs">Area summaries appear after the next data update.</div></div>`+note;
+    return;
+  }
+  const a=S.by_fsa && S.by_fsa[code];
+  if(!a){
+    el.innerHTML=head+`<div class="ac-quiet"><div class="ac-qi">✓</div><div class="ac-qt">All quiet</div><div class="ac-qs">No incidents reported in ${code} in the last 24 hours.</div></div>`+note;
+    return;
+  }
+  const src=Object.entries(a.src||{}).map(([k,v])=>`${v} ${k}`).join(' · ');
+  const rankTxt = a.pct_busier>=90 ? 'Among the busiest areas right now'
+                : a.pct_busier<=10 ? 'Quieter than most areas'
+                : `Busier than ${a.pct_busier}% of ${S.areas} areas`;
+  const order=['critical','high','medium','low'].filter(k=>a.sev[k]);
+  const stack=order.map(k=>`<i style="flex:${a.sev[k]};background:${SEV_COLOR[k]}" title="${SEV_LABEL[k]}: ${a.sev[k]}"></i>`).join('');
+  const legend=order.map(k=>`<span><b style="background:${SEV_COLOR[k]}"></b>${a.sev[k]} ${SEV_LABEL[k].toLowerCase()}</span>`).join('');
+  const max=Math.max(1,...a.hours);
+  const bars=a.hours.map((c,i)=>{
+    const h=23-i, col=c?SEV_COLOR[RANK_SEV[a.worst[i]]]:'rgba(255,255,255,.12)', ht=c?Math.max(18,Math.round(100*c/max)):6;
+    return `<i style="height:${ht}%;background:${col};animation-delay:${i*14}ms" title="${h===0?'this hour':h+'h ago'}: ${c} incident${c===1?'':'s'}"></i>`;
+  }).join('');
+  areaLatest=(a.latest||[]).map(id=>incidents.find(x=>x.id===id)).filter(Boolean);
+  const rows=areaLatest.map((d,i)=>`<div class="ac-row" onclick="areaOpen(${i})"><div class="d" style="background:${SEV_COLOR[d.severity]};box-shadow:0 0 8px ${SEV_COLOR[d.severity]}"></div><div><div class="t">${areaEsc(displayType(d))}</div><div class="l">${areaEsc(d.location)} · ${timeAgo(d.ts)}</div></div></div>`).join('');
+  el.innerHTML=head+
+    `<div class="ac-hero"><div class="ac-n">${a.n}</div><div class="ac-lab">incident${a.n===1?'':'s'}<br><span>${areaEsc(src)}</span></div></div>`+
+    `<div class="ac-rtxt">${rankTxt}</div><div class="ac-track"><i style="left:${Math.max(2,Math.min(98,a.pct_busier))}%"></i></div>`+
+    `<div class="ac-stack">${stack}</div><div class="ac-legend">${legend}</div>`+
+    `<div class="ac-pulse">${bars}</div><div class="ac-axis"><span>24H AGO</span><span>12H</span><span>NOW</span></div>`+
+    (rows?`<div class="ac-latest-h">LATEST</div>${rows}`:'')+note;
+}
+
 function renderAnomalies(){
   const panel = document.getElementById('anomalypanel');
   const list = document.getElementById('anomalylist');
@@ -646,7 +882,10 @@ function scheduleSimSpawn(){
   }, wait);
 }
 
-function visible(d){ return activeFilter==='all' || (d.source||'police')===activeFilter; }
+function visible(d){
+  if(d.event_primary===false) return false; // merged into another dot
+  return activeFilter==='all' || (d.event_sources||[d.source||'police']).includes(activeFilter);
+}
 function setFilter(f){
   activeFilter=f;
   document.querySelectorAll('.fbtn[data-f]').forEach(b=>b.classList.toggle('on', b.dataset.f===f));
@@ -664,7 +903,7 @@ function ingest(list){
   renderTicker();
   renderMarkers();
   renderStats();
-  typeText(`LOADED ${incidents.length} INCIDENTS FROM LAST 24H`);
+  typeText(`LOADED ${incidents.filter(d=>d.event_primary!==false).length} INCIDENTS FROM LAST 24H`);
 }
 
 /* ───────────────────────── MARKERS ───────────────────────── */
@@ -763,7 +1002,7 @@ function buildRow(d, km){
   row.innerHTML=`
     <div class="tdot" style="background:${SEV_COLOR[d.severity]};color:${SEV_COLOR[d.severity]}"></div>
     <div class="tinfo">
-      <div class="ttype">${SOURCE_ICON[d.source]||''} ${displayType(d)}</div>
+      <div class="ttype">${SOURCE_ICON[d.source]||''} ${displayType(d)}${d.event_label?` <span style="color:var(--g);font-size:9px">+${d.event_count-1} ${d.event_label}</span>`:''}</div>
       <div class="tloc">${d.location}${d.division?' · '+d.division:''}</div>
       <div class="tmeta">${timeAgo(d.ts)} · ${d.ts.toLocaleTimeString('en-CA',{timeZone:'America/Toronto',hour:'2-digit',minute:'2-digit',hour12:true})}${distNote}</div>
     </div>`;
@@ -783,7 +1022,7 @@ function renderStats(){
     <div class="fk"><div class="fn" style="color:${SEV_COLOR.low}">${counts.low}</div><div class="fl">Low</div></div>`;
   const upd=document.getElementById('updatedline');
   if(upd){
-    const total=incidents.length;
+    const total=incidents.filter(d=>d.event_primary!==false).length;
     let ago='';
     if(typeof lastGenerated!=='undefined' && lastGenerated){
       const m=Math.floor((Date.now()-new Date(lastGenerated).getTime())/60000);
@@ -820,12 +1059,25 @@ function showCallout(d){
     ? `<div style="font-size:9px;color:var(--g);margin-top:6px;">🔗 ${d.related.length} nearby/recent incident${d.related.length>1?'s':''} linked on map</div>` : '';
   const revAddrNote = (d.reverse_address && d.reverse_address.toLowerCase() !== (d.location||'').toLowerCase())
     ? `<div style="font-size:10px;color:var(--muted);margin-top:2px;">≈ ${d.reverse_address}</div>` : '';
+  const camEsc = t=>String(t==null?'':t).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  const eventNote = d.event_label
+    ? `<div style="font-size:10px;color:var(--g);margin-bottom:8px;">🔗 ${camEsc(d.event_label)} · ${d.event_count} reports at this spot</div>` : '';
+  const camView = d.camera && d.camera.views && d.camera.views[0];
+  const cameraBlock = camView
+    ? `<div style="margin-bottom:10px;">
+         <img src="${camEsc(camView[1])}" referrerpolicy="no-referrer" loading="lazy" alt="Traffic camera" style="width:100%;border-radius:3px;display:block;background:#000;min-height:60px;"
+              onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
+         <div style="display:none;font-size:9px;color:var(--yw);">Camera image unavailable right now</div>
+         <div style="font-size:9px;color:var(--muted);margin-top:3px;">📹 ${camEsc(d.camera.name)} · ${d.camera.distance_m} m away · still image, may be minutes old</div>
+       </div>` : '';
   co.innerHTML=`
     <div class="cosev" style="color:${SEV_COLOR[d.severity]};border:1px solid ${SEV_COLOR[d.severity]}66;background:${SEV_COLOR[d.severity]}18">${SEV_LABEL[d.severity]}</div>
     <div class="cotype">${SOURCE_ICON[d.source]||''} ${plain}${rawNote}</div>
     <div class="coloc">📍 ${d.location}${d.division?' · '+d.division:''}</div>
     ${revAddrNote}
     <div class="cotime">${exactTime(d.ts)}<br><span style="color:var(--dim)">${timeAgo(d.ts)}</span></div>
+    ${eventNote}
+    ${cameraBlock}
     ${approxNote}
     ${links}
     ${relatedNote}
