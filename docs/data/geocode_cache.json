@@ -67,5 +67,21 @@
   "xx:sheppard ave e|blue ridge rd": null,
   "fsa2:M1E": null,
   "fsa2:M6R": null,
-  "fsa2:M6K": null
+  "fsa2:M6K": null,
+  "st:clonmore dr|golf club parkette trl|scarborough": null,
+  "fsa2:M5M": null,
+  "st:bay st|hayter st|toronto": {
+    "lat": 43.6591377,
+    "lng": -79.3852663
+  },
+  "fsa2:M5A": null,
+  "st:old oak rd|old oak dr|etobicoke": {
+    "lat": 43.6435559,
+    "lng": -79.5656326
+  },
+  "fsa2:M5B": null,
+  "fsa2:M4S": null,
+  "fsa2:M4C": null,
+  "st:fulwell cres|ollerton rd|north york": null,
+  "st:pape ave|gertrude pl|toronto": null
 }
