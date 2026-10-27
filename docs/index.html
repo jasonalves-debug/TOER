@@ -1042,7 +1042,53 @@ function streetViewUrl(d){ return `https://www.google.com/maps/@?api=1&map_actio
 function googleMapsUrl(d){ return `https://www.google.com/maps/@?api=1&map_action=map&center=${d.lat},${d.lng}&zoom=18&basemap=satellite`; }
 
 /* ───────────────────────── CALLOUT ───────────────────────── */
+/* ───────────── STREET-LEVEL PHOTO FALLBACK (Mapillary, free) ─────────────
+   When no traffic camera is near an incident, show the closest recent
+   street-level photo instead. Looked up only when a popup is opened.
+   Off while MAPILLARY_TOKEN is empty. */
+const MAPILLARY_TOKEN = 'MLY|29637615969164268|535e7c6957e4055fac6b6c541170837b';  // free Mapillary client token goes between these quotes
+let calloutSeq = 0;
+async function loadStreetPhoto(d, seq){
+  if(!MAPILLARY_TOKEN || !document.getElementById('mlybox')) return;
+  const key = 'mly:' + d.lat.toFixed(4) + ',' + d.lng.toFixed(4);
+  let hit = null;
+  try{ const c = sessionStorage.getItem(key); if(c) hit = JSON.parse(c); }catch(e){}
+  if(!hit){
+    try{
+      const dLat = 0.0005, dLng = 0.0007;   // roughly a 110 m x 110 m box around the incident
+      const url = 'https://graph.mapillary.com/images?access_token=' + encodeURIComponent(MAPILLARY_TOKEN)
+        + '&fields=id,captured_at,computed_geometry,is_pano,thumb_1024_url,creator'
+        + '&bbox=' + [d.lng-dLng, d.lat-dLat, d.lng+dLng, d.lat+dLat].map(n=>n.toFixed(6)).join(',') + '&limit=100';
+      const r = await fetch(url);
+      if(!r.ok) return;
+      const items = ((await r.json()).data || []).filter(x=>!x.is_pano && x.thumb_1024_url && x.computed_geometry);
+      const scored = items.map(x=>{
+        const [lng,lat] = x.computed_geometry.coordinates;
+        const m = Math.hypot((lat-d.lat)*111320, (lng-d.lng)*111320*Math.cos(d.lat*Math.PI/180));
+        return {x,m};
+      }).filter(o=>o.m<=50).sort((a,b)=>a.m-b.m);
+      if(scored.length){
+        const near = scored[0].m;   // among shots about as close as the closest, prefer the newest
+        const best = scored.filter(o=>o.m<=near+15).sort((a,b)=>b.x.captured_at-a.x.captured_at)[0].x;
+        hit = {id:best.id, url:best.thumb_1024_url, at:best.captured_at, user:(best.creator&&best.creator.username)||''};
+      }else hit = {none:true};
+      try{ sessionStorage.setItem(key, JSON.stringify(hit)); }catch(e){}
+    }catch(e){ return; }
+  }
+  const box = document.getElementById('mlybox');
+  if(!hit || hit.none || !box || seq!==calloutSeq) return;   // no photo, or the popup moved on to another incident
+  const when = new Date(hit.at).toLocaleDateString('en-CA',{year:'numeric',month:'short'});
+  box.innerHTML = `<div style="margin-bottom:10px;">
+      <a href="https://www.mapillary.com/app/?pKey=${areaEsc(hit.id)}&focus=photo" target="_blank" rel="noopener" onclick="event.stopPropagation()">
+        <img src="${areaEsc(hit.url)}" referrerpolicy="no-referrer" loading="lazy" alt="Street-level photo" style="width:100%;border-radius:3px;display:block;background:#000;min-height:60px;" onerror="this.parentNode.parentNode.style.display='none'">
+      </a>
+      <div style="font-size:9px;color:var(--muted);margin-top:3px;">📷 Street-level photo · ${areaEsc(when)} · not live</div>
+      <div style="font-size:8px;color:var(--dim);">© Mapillary${hit.user?' · '+areaEsc(hit.user):''}</div>
+    </div>`;
+}
+
 function showCallout(d){
+  const seq=++calloutSeq;
   const co=document.getElementById('callout');
   const srcLabel = dataSource==='live' ? (d.source==='fire'?'TFS LIVE':'TPS LIVE') : 'SIMULATED';
   const plain = displayType(d);
@@ -1078,6 +1124,7 @@ function showCallout(d){
     <div class="cotime">${exactTime(d.ts)}<br><span style="color:var(--dim)">${timeAgo(d.ts)}</span></div>
     ${eventNote}
     ${cameraBlock}
+    ${(!camView && !d.approximate && MAPILLARY_TOKEN) ? '<div id="mlybox"></div>' : ''}
     ${approxNote}
     ${links}
     ${relatedNote}
@@ -1086,6 +1133,7 @@ function showCallout(d){
   co.onclick = ()=>{ hideCallout(); clearRelationships(); focusedId=null; renderTicker(); };
   positionCallout(d);
   co.style.display='block';
+  if(!camView && !d.approximate) loadStreetPhoto(d, seq);
 }
 function positionCallout(d){
   const co=document.getElementById('callout');
