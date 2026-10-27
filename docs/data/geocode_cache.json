@@ -83,5 +83,16 @@
   "fsa2:M4S": null,
   "fsa2:M4C": null,
   "st:fulwell cres|ollerton rd|north york": null,
-  "st:pape ave|gertrude pl|toronto": null
+  "st:pape ave|gertrude pl|toronto": null,
+  "st:don mills rd|van horne ave|north york": {
+    "lat": 43.7875362,
+    "lng": -79.352381
+  },
+  "fsa2:M1V": null,
+  "st:alton towers crcl|goldhawk trl|scarborough": null,
+  "fsa2:M4M": null,
+  "st:lavington dr|celestine dr|etobicoke": null,
+  "xx:o'connor dr|amsterdam ave": null,
+  "fsa2:M1G": null,
+  "st:westhead rd|thames ave|etobicoke": null
 }

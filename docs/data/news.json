@@ -1,15 +1,51 @@
 {
-  "generated": "2026-10-27T19:41:03.071658+00:00",
+  "generated": "2026-10-27T23:15:03.578164+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_cbc_9.7396755",
+      "source": "cbc",
+      "title": "Patrick Brown outlines key priorities after cruising to 3rd term as Brampton mayor",
+      "summary": "After comfortably securing his third consecutive term as Mayor of Brampton, Patrick Brown says he's excited to have a united council that will prioritize infrastructure and recreation projects, and focus on public safety.",
+      "link": "https://www.cbc.ca/news/canada/toronto/patrick-brown-outlines-key-priorities-after-cruising-to-3rd-term-as-brampton-mayor-9.7396755?cmp=rss",
+      "ts": "2026-10-27T23:00:09+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4949791",
+      "source": "citynews",
+      "title": "Durham police officer suspended without pay after being charged in child sexual exploitation investigation",
+      "summary": "A Durham police officer has been charged in connection to an Ontario Provincial Police (OPP) child sexual exploitation investigation. Northumberland OPP received a report regarding the alleged sexual exploitation of a young person on Oct. 21 and began an investigation. Search warrants were then executed in Whitby and Ajax with the help of Durham police&#8217;s [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/27/durham-police-officer-charged-in-connection-to-child-sexual-exploitation-investigation/",
+      "ts": "2026-10-27T22:38:30+00:00",
+      "lat": 43.8509,
+      "lng": -79.0204,
+      "location": "Ajax",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4949699",
+      "source": "citynews",
+      "title": "Toronto police say woman was targeted in elaborate fraud where suspects allegedly impersonated detective, judge",
+      "summary": "Toronto police investigators allege suspects targeted a woman in a home improvement scam, and then posed as authorities to bilk her out of even more money. A probe into the elaborate alleged ruse began on Monday, October 5, 2026, when a woman who lives in the Lakeshore Boulevard West and Royal York Road area contacted [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/27/toronto-police-say-woman-was-targeted-in-elaborate-fraud-where-suspects-allegedly-impersonated-detective-judge/",
+      "ts": "2026-10-27T21:43:03+00:00",
+      "lat": 43.634946,
+      "lng": -79.4408717,
+      "location": "Lakeshore Boulevard",
+      "approximate": true
+    },
+    {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4949502",
       "source": "citynews",
-      "title": "Multi-vehicle collision closes Hwy. 403 on-ramp in Burlington",
-      "summary": "A crash involving multiple vehicles has led to road closures on Highway 403 and the QEW in Burlington on Tuesday. The OPP says the collision involves a dump truck and occupants from the vehicles are being assessed for injuries. It is unclear how many people may be injured at this time. The Highway 403 southbound [&#8230;]",
+      "title": "5 injured in multi-vehicle collision on westbound QEW in Burlington",
+      "summary": "Five people have been injured in a two-vehicle crash that has led to road closures on Highway 403 and the QEW in Burlington on Tuesday. The Ontario Provincial Police (OPP) says the collision involves a sedan and utility vehicle around 12:45 p.m. Four people in the sedan were taken to hospital, two with serious injuries [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/10/27/multi-vehicle-collision-hwy-403-burlington/",
       "ts": "2026-10-27T17:37:32+00:00",
       "lat": 43.7413836,
