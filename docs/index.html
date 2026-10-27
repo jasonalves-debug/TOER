@@ -1112,7 +1112,7 @@ function showCallout(d){
   const cameraBlock = camView
     ? `<div style="margin-bottom:10px;">
          <img src="${camEsc(camView[1])}" referrerpolicy="no-referrer" loading="lazy" alt="Traffic camera" style="width:100%;border-radius:3px;display:block;background:#000;min-height:60px;"
-              onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
+              onerror="if(!this.dataset.r){this.dataset.r=1;this.removeAttribute('referrerpolicy');this.src=this.src.split('?')[0]+'?t='+Date.now();return;}this.style.display='none';this.nextElementSibling.style.display='block';if(window._mlyRetry)window._mlyRetry();">
          <div style="display:none;font-size:9px;color:var(--yw);">Camera image unavailable right now</div>
          <div style="font-size:9px;color:var(--muted);margin-top:3px;">📹 ${camEsc(d.camera.name)} · ${d.camera.distance_m} m away · still image, may be minutes old</div>
        </div>` : '';
@@ -1124,7 +1124,7 @@ function showCallout(d){
     <div class="cotime">${exactTime(d.ts)}<br><span style="color:var(--dim)">${timeAgo(d.ts)}</span></div>
     ${eventNote}
     ${cameraBlock}
-    ${(!camView && !d.approximate && MAPILLARY_TOKEN) ? '<div id="mlybox"></div>' : ''}
+    ${(!d.approximate && MAPILLARY_TOKEN) ? '<div id="mlybox"></div>' : ''}
     ${approxNote}
     ${links}
     ${relatedNote}
@@ -1133,7 +1133,8 @@ function showCallout(d){
   co.onclick = ()=>{ hideCallout(); clearRelationships(); focusedId=null; renderTicker(); };
   positionCallout(d);
   co.style.display='block';
-  if(!camView && !d.approximate) loadStreetPhoto(d, seq);
+  window._mlyRetry = d.approximate ? null : ()=>{ window._mlyRetry=null; loadStreetPhoto(d, seq); };
+  if(!camView && !d.approximate) window._mlyRetry();
 }
 function positionCallout(d){
   const co=document.getElementById('callout');
