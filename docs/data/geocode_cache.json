@@ -126,5 +126,22 @@
   "st:lawrence ave|bathurst st|north york": {
     "lat": 43.7190984,
     "lng": -79.4295681
-  }
+  },
+  "xx:o'connor dr|yardley ave": null,
+  "st:dunvegan rd|lonsdale rd|toronto": null,
+  "st:mcmahon dr|ethennonnhawahstihnen' lane|north york": null,
+  "xx:steeles ave w|alness st": null,
+  "xx:bloor st w|huron st": {
+    "lat": 43.6670201,
+    "lng": -79.4018152
+  },
+  "fsa2:M4R": null,
+  "xx:steeles ave e|townsend rd": {
+    "lat": 43.8110768,
+    "lng": -79.357284
+  },
+  "st:victoria park ave|sloane ave|scarborough": null,
+  "st:greylawn cres|babson rd|scarborough": null,
+  "fsa2:M9P": null,
+  "fsa2:M6B": null
 }

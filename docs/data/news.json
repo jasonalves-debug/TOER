@@ -1,56 +1,44 @@
 {
-  "generated": "2026-10-28T15:49:14.536971+00:00",
+  "generated": "2026-10-28T20:51:46.126799+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950224",
-      "source": "citynews",
-      "title": "Man wanted in alleged sexual assault of victim near Black Creek and Tretheway",
-      "summary": "A man is wanted in connection to a sexual assault in the area of Black Creek Drive and Trethewey Drive. Toronto police were called to the area on Oct. 22 for reports of a sexual assault around 6:45 p.m. It&#8217;s alleged the victim was out for a jog when an unknown male suspect began following [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/28/man-wanted-in-alleged-sexual-assault-of-victim-near-black-creek-and-tretheway/",
-      "ts": "2026-10-28T15:15:02+00:00",
-      "lat": 43.6855007,
-      "lng": -79.4813628,
-      "location": "Black Creek Drive",
+      "id": "news_cbc_9.7400112",
+      "source": "cbc",
+      "title": "1 charge dropped ahead of second Frank Stronach sexual assault trial: lawyer",
+      "summary": "Frank Stronach's lawyer says one charge of sexual assault against her client in an upcoming Newmarket, Ont., trial has been dropped.",
+      "link": "https://www.cbc.ca/news/canada/toronto/frank-stronach-second-trial-charge-dropped-9.7400112?cmp=rss",
+      "ts": "2026-10-28T20:43:34+00:00",
+      "lat": 44.0592,
+      "lng": -79.4613,
+      "location": "Newmarket",
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4948366",
-      "source": "citynews",
-      "title": "Brampton Diwali Mela 2026 to be headlined by Punjabi singer Sukshinder Shinda",
-      "summary": "The City of Brampton is hosting its fourth annual Diwali Mela next month and this year it falls on the festival date itself, Nov. 8, 2026. The family-friendly event will feature food vendors and activities for all ages as well as numerous cultural dance performances from regions across India including kathak, garba and bhangra on [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/28/brampton-annual-diwali-celebration-2026/",
-      "ts": "2026-10-28T14:38:54+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
+      "id": "news_cbc_9.7399943",
+      "source": "cbc",
+      "title": "Vaughan real estate agent pleads guilty to extortion plot in Project South case",
+      "summary": "A Vaughan real estate agent pleaded guilty to an extortion charge Wednesday for a plot discovered through wire taps in sweeping police corruption probe Project South.",
+      "link": "https://www.cbc.ca/news/canada/toronto/vaughan-real-estate-extortion-project-south-9.7399943?cmp=rss",
+      "ts": "2026-10-28T20:15:37+00:00",
+      "lat": 43.8361,
+      "lng": -79.4985,
+      "location": "Vaughan",
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950129",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4950487",
       "source": "citynews",
-      "title": "Woman charged after police recover dozens of items allegedly stolen from Milton gravesites",
-      "summary": "A woman has been charged following an investigation into a series of thefts from gravesites at a Milton cemetery that police say affected approximately 20 families. The Halton Regional Police Service (HRPS) says it launched an investigation after Milton Evergreen Cemetery staff contacted police in July about reports of missing items from gravesites. According to [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/28/milton-cemetery-thefts-gravesites-woman-charged-halton-police/",
-      "ts": "2026-10-28T13:22:17+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950103",
-      "source": "citynews",
-      "title": "Driver killed after deer hit by sedan is struck by pickup truck in York Region",
-      "summary": "A driver is dead following a serious collision in Georgina, Ont., that investigators believe began when the driver of a sedan struck a deer on a rural roadway. York Regional Police (YRP) told CityNews officers were called to the area of Ravenshoe Road and Miles Road shortly before 7 p.m. Tuesday for reports of a [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/28/york-region-georgina-deer-struck-fatal-crash/",
-      "ts": "2026-10-28T12:41:24+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
+      "title": "One charge against Frank Stronach dropped ahead of second sex assault trial: lawyer",
+      "summary": "Frank Stronach's lawyer says one charge of sexual assault against her client in an upcoming Newmarket, Ont., trial has been dropped.",
+      "link": "https://toronto.citynews.ca/2026/10/28/one-charge-against-frank-stronach-dropped-ahead-of-second-sex-assault-trial-lawyer/",
+      "ts": "2026-10-28T19:30:14+00:00",
+      "lat": 44.0592,
+      "lng": -79.4613,
+      "location": "Newmarket",
       "approximate": true
     },
     {
@@ -63,18 +51,6 @@
       "lat": 43.6532,
       "lng": -79.3832,
       "location": "Downtown",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950024",
-      "source": "citynews",
-      "title": "Toronto man charged after alleged street race in Mississauga near pedestrians",
-      "summary": "A Toronto man is facing multiple charges after Peel Regional Police (PRP) said he took part in a street race at high speeds in Mississauga, putting nearby pedestrians at risk. It&#8217;s alleged that officers observed several vehicles engaged in a street race near Meadowpine Boulevard and Meadowvale Boulevard at approximately 2 a.m. on Oct. 4. [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/28/toronto-man-charged-mississauga-street-race/",
-      "ts": "2026-10-28T09:53:35+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     },
     {
@@ -111,30 +87,6 @@
       "lat": 43.7315,
       "lng": -79.7624,
       "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7397010",
-      "source": "cbc",
-      "title": "Alvin Tedjo elected Mississauga mayor; Patrick Brown re-elected in Brampton",
-      "summary": "Alvin Tedjo has been elected mayor of Mississauga, defeating the city's current and former mayors in a closely watched municipal races. Patrick Brown has won a third term in Brampton, while Christina Early is set become Caledon mayor, CBC projects.",
-      "link": "https://www.cbc.ca/news/canada/toronto/mississauga-mayor-result-9.7397010?cmp=rss",
-      "ts": "2026-10-27T00:37:18+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7395863",
-      "source": "cbc",
-      "title": "Scarborough's Eric Bauza, modern voice of Bugs Bunny, Daffy Duck and others, dead at 46",
-      "summary": "Eric Bauza of Scarborough, Ont., the Emmy-award winning voice actor best known for the iconic Bugs Bunny, has died.",
-      "link": "https://www.cbc.ca/news/canada/toronto/eric-bauza-bugs-bunny-looney-tunes-obituary-9.7395863?cmp=rss",
-      "ts": "2026-10-26T12:13:46+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
       "approximate": true
     }
   ]
