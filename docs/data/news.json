@@ -1,10 +1,82 @@
 {
-  "generated": "2026-10-28T08:53:26.079793+00:00",
+  "generated": "2026-10-28T15:49:14.536971+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4950224",
+      "source": "citynews",
+      "title": "Man wanted in alleged sexual assault of victim near Black Creek and Tretheway",
+      "summary": "A man is wanted in connection to a sexual assault in the area of Black Creek Drive and Trethewey Drive. Toronto police were called to the area on Oct. 22 for reports of a sexual assault around 6:45 p.m. It&#8217;s alleged the victim was out for a jog when an unknown male suspect began following [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/28/man-wanted-in-alleged-sexual-assault-of-victim-near-black-creek-and-tretheway/",
+      "ts": "2026-10-28T15:15:02+00:00",
+      "lat": 43.6855007,
+      "lng": -79.4813628,
+      "location": "Black Creek Drive",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4948366",
+      "source": "citynews",
+      "title": "Brampton Diwali Mela 2026 to be headlined by Punjabi singer Sukshinder Shinda",
+      "summary": "The City of Brampton is hosting its fourth annual Diwali Mela next month and this year it falls on the festival date itself, Nov. 8, 2026. The family-friendly event will feature food vendors and activities for all ages as well as numerous cultural dance performances from regions across India including kathak, garba and bhangra on [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/28/brampton-annual-diwali-celebration-2026/",
+      "ts": "2026-10-28T14:38:54+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4950129",
+      "source": "citynews",
+      "title": "Woman charged after police recover dozens of items allegedly stolen from Milton gravesites",
+      "summary": "A woman has been charged following an investigation into a series of thefts from gravesites at a Milton cemetery that police say affected approximately 20 families. The Halton Regional Police Service (HRPS) says it launched an investigation after Milton Evergreen Cemetery staff contacted police in July about reports of missing items from gravesites. According to [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/28/milton-cemetery-thefts-gravesites-woman-charged-halton-police/",
+      "ts": "2026-10-28T13:22:17+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4950103",
+      "source": "citynews",
+      "title": "Driver killed after deer hit by sedan is struck by pickup truck in York Region",
+      "summary": "A driver is dead following a serious collision in Georgina, Ont., that investigators believe began when the driver of a sedan struck a deer on a rural roadway. York Regional Police (YRP) told CityNews officers were called to the area of Ravenshoe Road and Miles Road shortly before 7 p.m. Tuesday for reports of a [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/28/york-region-georgina-deer-struck-fatal-crash/",
+      "ts": "2026-10-28T12:41:24+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7398624",
+      "source": "cbc",
+      "title": "Downtown Oshawa has 2 new progressive councillors. Here\u2019s what they want to change",
+      "summary": "Downtown Oshawa will be represented by two new progressive faces in municipal politics, who say they\u2019re focused on a housing-forward approach to tackling issues in the city\u2019s core and prioritizing input from residents.",
+      "link": "https://www.cbc.ca/news/canada/toronto/downtown-oshawa-progressive-councillors-election-9.7398624?cmp=rss",
+      "ts": "2026-10-28T10:00:00+00:00",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "location": "Downtown",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4950024",
+      "source": "citynews",
+      "title": "Toronto man charged after alleged street race in Mississauga near pedestrians",
+      "summary": "A Toronto man is facing multiple charges after Peel Regional Police (PRP) said he took part in a street race at high speeds in Mississauga, putting nearby pedestrians at risk. It&#8217;s alleged that officers observed several vehicles engaged in a street race near Meadowpine Boulevard and Meadowvale Boulevard at approximately 2 a.m. on Oct. 4. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/28/toronto-man-charged-mississauga-street-race/",
+      "ts": "2026-10-28T09:53:35+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7399077",
       "source": "cbc",
@@ -42,66 +114,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4949791",
-      "source": "citynews",
-      "title": "Durham police officer suspended without pay after being charged in child sexual exploitation investigation",
-      "summary": "A Durham police officer has been charged in connection to an Ontario Provincial Police (OPP) child sexual exploitation investigation. Northumberland OPP received a report regarding the alleged sexual exploitation of a young person on Oct. 21 and began an investigation. Search warrants were then executed in Whitby and Ajax with the help of Durham police&#8217;s [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/27/durham-police-officer-charged-in-connection-to-child-sexual-exploitation-investigation/",
-      "ts": "2026-10-27T22:38:30+00:00",
-      "lat": 43.8509,
-      "lng": -79.0204,
-      "location": "Ajax",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4949699",
-      "source": "citynews",
-      "title": "Toronto police say woman was targeted in elaborate fraud where suspects allegedly impersonated detective, judge",
-      "summary": "Toronto police investigators allege suspects targeted a woman in a home improvement scam, and then posed as authorities to bilk her out of even more money. A probe into the elaborate alleged ruse began on Monday, October 5, 2026, when a woman who lives in the Lakeshore Boulevard West and Royal York Road area contacted [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/27/toronto-police-say-woman-was-targeted-in-elaborate-fraud-where-suspects-allegedly-impersonated-detective-judge/",
-      "ts": "2026-10-27T21:43:03+00:00",
-      "lat": 43.634946,
-      "lng": -79.4408717,
-      "location": "Lakeshore Boulevard",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4949502",
-      "source": "citynews",
-      "title": "5 injured in multi-vehicle collision on westbound QEW in Burlington",
-      "summary": "Five people have been injured in a two-vehicle crash that has led to road closures on Highway 403 and the QEW in Burlington on Tuesday. The Ontario Provincial Police (OPP) says the collision involves a sedan and utility vehicle around 12:45 p.m. Four people in the sedan were taken to hospital, two with serious injuries [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/27/multi-vehicle-collision-hwy-403-burlington/",
-      "ts": "2026-10-27T17:37:32+00:00",
-      "lat": 43.7413836,
-      "lng": -79.6286278,
-      "location": "Highway 403",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4949464",
-      "source": "citynews",
-      "title": "Etobicoke man charged in immigration fraud scheme after allegedly posing as lawyer",
-      "summary": "A 55-year-old Etobicoke man is facing a fraud charge after allegedly posing as a lawyer and legal expert while offering immigration-related services to clients seeking work permits and permanent residency in Canada. The Halton Regional Police Service (HRPS) launched an investigation into alleged immigration fraud involving Kishorbhai Patel, who also used the name &#8220;Kishor Patel.&#8221; [&#823",
-      "link": "https://toronto.citynews.ca/2026/10/27/etobicoke-man-charged-halton-police-immigration-fraud-scheme/",
-      "ts": "2026-10-27T16:46:51+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7396575",
-      "source": "cbc",
-      "title": "Tito-Dante Marimpietri elected Oshawa\u2019s next mayor as polls show incumbents re-elected in Pickering, Whitby",
-      "summary": "Tito-Dante Marimpietri will be the next mayor of Oshawa after cruising to a decisive win, according to the city's unofficial results page.",
-      "link": "https://www.cbc.ca/news/canada/toronto/oshawa-mayor-election-9.7396575?cmp=rss",
-      "ts": "2026-10-27T02:15:35+00:00",
-      "lat": 43.8384,
-      "lng": -79.0868,
-      "location": "Pickering",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7397010",
       "source": "cbc",
       "title": "Alvin Tedjo elected Mississauga mayor; Patrick Brown re-elected in Brampton",
@@ -111,42 +123,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7396545",
-      "source": "cbc",
-      "title": "Police locate vehicle allegedly used by Toronto mother to abduct 3 children",
-      "summary": "Toronto police say they have found a vehicle believed to have been used to abduct three children from Scarborough on Friday, but the children and their mother have not been found.",
-      "link": "https://www.cbc.ca/news/canada/toronto/vehicle-found-missing-three-children-toronto-9.7396545?cmp=rss",
-      "ts": "2026-10-26T19:04:45+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7396455",
-      "source": "cbc",
-      "title": "Brampton man arrested, charged in connection with fatal stabbing in Mississauga",
-      "summary": "A 35-year-old Brampton man has been arrested and charged in the stabbing death of a 47-year-old Bradford, Ont., man in Mississauga over the weekend.",
-      "link": "https://www.cbc.ca/news/canada/toronto/suspect-mississauga-fatal-stabbing-industrial-area-9.7396455?cmp=rss",
-      "ts": "2026-10-26T17:59:06+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7396224",
-      "source": "cbc",
-      "title": "Toronto man sentenced to life with no chance of parole for 16 years in death of filmmaker",
-      "summary": "A Toronto man has been sentenced to life with no chance of parole for 16 years for killing a filmmaker whose body was found in a trash compactor in Liberty Village more than three years ago.",
-      "link": "https://www.cbc.ca/news/canada/toronto/toronto-man-sentencing-filmmaker-killing-second-degree-murder-9.7396224?cmp=rss",
-      "ts": "2026-10-26T16:06:00+00:00",
-      "lat": 43.6373,
-      "lng": -79.4211,
-      "location": "Liberty Village",
       "approximate": true
     },
     {

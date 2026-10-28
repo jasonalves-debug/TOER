@@ -108,5 +108,23 @@
   "st:birchmount rd|mcgregor rd|scarborough": null,
   "st:islington ave|monogram pl|etobicoke": null,
   "fsa2:M4Y": null,
-  "st:york st|lakeshore w york st ramp|toronto": null
+  "st:york st|lakeshore w york st ramp|toronto": null,
+  "st:eastville ave|sunnypoint cres|scarborough": null,
+  "st:steeles ave|middlefield rd|scarborough": {
+    "lat": 43.8324498,
+    "lng": -79.267602
+  },
+  "st:woodycrest ave|ln n danforth w woodycrest|toronto": null,
+  "fsa2:M5S": null,
+  "fsa2:M8Y": null,
+  "st:marlee ave|beltline trl|york": null,
+  "fsa2:M3B": null,
+  "st:yonge st|downes st|toronto": null,
+  "fsa2:M6P": null,
+  "xx:victoria park ave|jonesville cres": null,
+  "fsa2:M1L": null,
+  "st:lawrence ave|bathurst st|north york": {
+    "lat": 43.7190984,
+    "lng": -79.4295681
+  }
 }
