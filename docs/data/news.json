@@ -1,10 +1,34 @@
 {
-  "generated": "2026-10-27T23:15:03.578164+00:00",
+  "generated": "2026-10-28T02:23:26.867048+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7399077",
+      "source": "cbc",
+      "title": "Durham police officer charged in child sexual exploitation investigation",
+      "summary": "A Durham Regional Police officer has been arrested and charged with seven offences related to child sexual abuse and exploitation material, Ontario Provincial Police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/durham-regional-police-service-officer-charged-9.7399077?cmp=rss",
+      "ts": "2026-10-28T02:04:16+00:00",
+      "lat": 43.9,
+      "lng": -78.9,
+      "location": "Durham Region",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7398835",
+      "source": "cbc",
+      "title": "Tedjo beat 2 incumbents in Mississauga's mayoral race. Here are his plans for the city",
+      "summary": "One day after a decisive victory, Alvin Tedjo announced his priorities as the next mayor of Mississauga, saying he will focus on affordability, crime, housing, transportation and the economy.",
+      "link": "https://www.cbc.ca/news/canada/toronto/alvin-tedjo-mississauga-mayor-election-priorities-9.7398835?cmp=rss",
+      "ts": "2026-10-27T23:34:17+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7396755",
       "source": "cbc",
@@ -63,18 +87,6 @@
       "lat": 43.6205,
       "lng": -79.5132,
       "location": "Etobicoke",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4949351",
-      "source": "citynews",
-      "title": "Man sought in alleged sexual assault of store employee in Church-Wellesley",
-      "summary": "The Toronto Police Service (TPS) is searching for a male suspect who is wanted following the alleged sexual assault of a female who works at a store in the Church-Wellesley area. Officers said on Monday, Sept. 14, at around 7:20 p.m., a man entered a store near Yonge Street and St. Mary Street and allegedly [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/27/toronto-man-wanted-sexual-assault-church-wellesley-store/",
-      "ts": "2026-10-27T15:19:16+00:00",
-      "lat": 43.7445449,
-      "lng": -79.4068969,
-      "location": "Yonge Street",
       "approximate": true
     },
     {

@@ -94,5 +94,15 @@
   "st:lavington dr|celestine dr|etobicoke": null,
   "xx:o'connor dr|amsterdam ave": null,
   "fsa2:M1G": null,
-  "st:westhead rd|thames ave|etobicoke": null
+  "st:westhead rd|thames ave|etobicoke": null,
+  "fsa2:M1C": null,
+  "st:yonge st|soudan ave|toronto": {
+    "lat": 43.7043046,
+    "lng": -79.3976527
+  },
+  "fsa2:M3A": null,
+  "st:mutual st|gould st|toronto": {
+    "lat": 43.6583512,
+    "lng": -79.3768462
+  }
 }
