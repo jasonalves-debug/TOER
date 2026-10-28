@@ -104,5 +104,9 @@
   "st:mutual st|gould st|toronto": {
     "lat": 43.6583512,
     "lng": -79.3768462
-  }
+  },
+  "st:birchmount rd|mcgregor rd|scarborough": null,
+  "st:islington ave|monogram pl|etobicoke": null,
+  "fsa2:M4Y": null,
+  "st:york st|lakeshore w york st ramp|toronto": null
 }
