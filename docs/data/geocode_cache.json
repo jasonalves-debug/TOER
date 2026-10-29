@@ -192,5 +192,14 @@
   "fsa2:M8X": null,
   "fsa2:M5G": null,
   "fsa2:M8W": null,
-  "fsa2:M4N": null
+  "fsa2:M4N": null,
+  "st:bathurst st|herrick st|toronto": null,
+  "fsa2:M9W": null,
+  "fsa2:M9B": null,
+  "st:sibley ave|coleman ave|east york": null,
+  "st:sheppard ave|bryant st|north york": null,
+  "xx:roncesvalles ave|marion st": null,
+  "st:antrim cres|dundalk dr|scarborough": null,
+  "xx:eglinton ave e|sinnott rd": null,
+  "st:capreol crt|fort york blvd|toronto": null
 }

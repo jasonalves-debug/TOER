@@ -1,14 +1,74 @@
 {
-  "generated": "2026-10-29T13:45:12.901510+00:00",
+  "generated": "2026-10-29T19:17:32.231108+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_cbc_9.7400034",
+      "source": "cbc",
+      "title": "How Brampton's youngest councillor plans to bring a 'generational' change to city hall",
+      "summary": "Sukhman Sangha, 29, became Brampton's youngest regional councillor following Monday's municipal election. Representing wards 9 and 10 on the city's northeast borders, he says he has strong plans to advocate for the community where housing and population growth are on the rise, but services haven't kept up.",
+      "link": "https://www.cbc.ca/news/canada/toronto/how-brampton-s-youngest-councillor-plans-to-bring-a-generational-change-to-city-hall-9.7400034?cmp=rss",
+      "ts": "2026-10-29T18:10:49+00:00",
+      "lat": 43.6534,
+      "lng": -79.3841,
+      "location": "City Hall",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4951278",
+      "source": "citynews",
+      "title": "Oakville man wanted for alleged SIM card swap scam",
+      "summary": "Investigators with the Durham Regional Police Service (DRPS) are looking for a man in connection with a SIM card swap fraud probe. The DRPS Financial Crimes unit began the investigation in October 2025 after a person&#8217;s cellphone unexpectedly entered SOS mode and lost connection to their cellular network. Police say when the person contacted their [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/29/oakville-man-wanted-alleged-sim-card-swap-scam/",
+      "ts": "2026-10-29T17:30:56+00:00",
+      "lat": 43.4675,
+      "lng": -79.6877,
+      "location": "Oakville",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4951307",
+      "source": "citynews",
+      "title": "Man wanted after alleged sexual assault on TTC Finch West LRT",
+      "summary": "Toronto police are asking for the public&#8217;s help identifying a man wanted in connection with an alleged sexual assault involving a youth aboard a TTC light rail vehicle earlier this week. Investigators say the incident occurred on Wednesday in the area of Finch Avenue West and Sentinel Road, near the TTC&#8217;s Finch West LRT line. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/29/toronto-sexual-assault-suspect-ttc-finch-west-lrt/",
+      "ts": "2026-10-29T17:23:01+00:00",
+      "lat": 43.7797735,
+      "lng": -79.4155289,
+      "location": "Finch Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4951187",
+      "source": "citynews",
+      "title": "Man wanted for alleged sexual assault of minor in Etobicoke underground parking garage",
+      "summary": "Toronto police are looking for a man who is wanted in connection with the alleged sexual assault of a minor in Etobicoke. Police began investigating a report of a sexual assault at an apartment building in the Dixon Road and Wincott Drive area on Wednesday. Investigators say the suspect was in the underground garage level [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/29/suspect-sought-sexual-assault-of-minor-in-etobicoke-underground-parking-garage/",
+      "ts": "2026-10-29T15:42:40+00:00",
+      "lat": 43.6998532,
+      "lng": -79.5338749,
+      "location": "Dixon Road",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7401085",
+      "source": "cbc",
+      "title": "City traffic agent dead after being struck by driver of dump truck in Toronto, police say",
+      "summary": "A City of Toronto traffic agent has died after being struck by a driver of a dump truck in the city's Thorncliffe Park neighbourhood Thursday, Toronto police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/thorncliffe-park-toronto-pedestrian-fatal-9.7401085?cmp=rss",
+      "ts": "2026-10-29T15:04:33+00:00",
+      "lat": 43.704553,
+      "lng": -79.3454074,
+      "location": "Thorncliffe Park",
+      "approximate": true
+    },
+    {
       "id": "news_cbc_9.7400796",
       "source": "cbc",
-      "title": "4 in hospital as Toronto police investigate shooting in Bridle Path home",
+      "title": "4 hospitalized as Toronto police investigate home invasion, shooting at Bridle Path home",
       "summary": "Toronto police say they're investigating a home invasion after three people were shot inside a North York residence early Thursday. They say four people were injured, and two are in life-threatening condition.",
       "link": "https://www.cbc.ca/news/canada/toronto/home-invasion-investigation-north-york-toronto-police-9.7400796?cmp=rss",
       "ts": "2026-10-29T12:32:41+00:00",
@@ -18,87 +78,15 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4951042",
-      "source": "citynews",
-      "title": "4 injured, 1 critically, in Vaughan collision involving dump truck",
-      "summary": "York Regional Police (YRP) said four people were injured, one critically, following a multi-vehicle crash involving a dump truck in Vaughan on Monday. Officers responded to a collision at the intersection of Kirby Road and Jane Street at approximately 3:45 p.m. on Oct. 26. Three occupants of an SUV were transported to a hospital, with [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/29/vaughan-crash-jane-street-kirby-road-4-injured/",
-      "ts": "2026-10-29T12:25:13+00:00",
-      "lat": 43.7196017,
-      "lng": -79.5186554,
-      "location": "Kirby Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950995",
-      "source": "citynews",
-      "title": "Stretch of eastbound Hwy. 401 express in Scarborough closed due to police investigation",
-      "summary": "A stretch of eastbound Highway 401 express near Neilson Road in Scarborough is closed for a police investigation, Ontario Provincial Police say. Emergency crews were called to the scene just after 6 a.m. on Thursday. According to a post on X from Ontario Provincial Police, all eastbound express lanes of the 401 are closed at [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/29/highway-401-crash-morningside-scarborough/",
-      "ts": "2026-10-29T11:21:16+00:00",
-      "lat": 43.6911749,
-      "lng": -79.569902,
-      "location": "Highway 401",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7400731",
       "source": "cbc",
-      "title": "Man dead after being struck by vehicle in Richmond Hill: York police",
-      "summary": "A man has died in Richmond Hill after being struck by a vehicle Wednesday night, York police said.",
+      "title": "Man dead after being struck by two vehicles in Richmond Hill: York police",
+      "summary": "A 27-year-old man has died in Richmond Hill after being struck by a vehicle Wednesday night, York police said.",
       "link": "https://www.cbc.ca/news/canada/toronto/pedestrian-fatal-crash-york-police-richmond-hill-9.7400731?cmp=rss",
       "ts": "2026-10-29T10:22:06+00:00",
       "lat": 43.6896,
       "lng": -79.4759,
       "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950951",
-      "source": "citynews",
-      "title": "2 critically injured after shooting inside Bridle Path home, suspects flee in SUV: Toronto police",
-      "summary": "Two people have life-threatening injuries after an early-morning shooting inside a home in Toronto&#8217;s Bridle Path neighbourhood that police say is being investigated as a home invasion. Toronto police said officers were called to the area of Bayview Avenue and Lawrence Avenue East at approximately 3:43 a.m. Thursday following reports of a shooting inside a [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/29/toronto-shooting-bridle-path-police-bayview-lawrence/",
-      "ts": "2026-10-29T10:17:27+00:00",
-      "lat": 43.6662059,
-      "lng": -79.3574641,
-      "location": "Bayview Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950941",
-      "source": "citynews",
-      "title": "Police investigating fatal pedestrian collision in Richmond Hill",
-      "summary": "A male pedestrian is dead after being struck in Richmond Hill on Wednesday night, police say. York Regional Police (YRP) said officers responded to a collision involving a male pedestrian in the area of Yonge Street and Tower Hill Road at approximately 9:20 p.m. Wednesday. Investigators closed Yonge Street between Townwood Drive and Tower Hill [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/29/richmond-hill-pedestrian-fatal-collision-york-police-yonge-street/",
-      "ts": "2026-10-29T09:29:47+00:00",
-      "lat": 43.7445449,
-      "lng": -79.4068969,
-      "location": "Yonge Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950861",
-      "source": "citynews",
-      "title": "Daniel\u2019s Art Supplies, beloved by Toronto artists, closing after 42 years in Chinatown",
-      "summary": "Daniel Choi, the owner of Daniel's Art Supplies, says the Toronto building he partly leases has been sold and renovations are coming.",
-      "link": "https://toronto.citynews.ca/2026/10/29/daniels-art-supplies-store-in-chinatown-toronto-closing/",
-      "ts": "2026-10-29T09:15:30+00:00",
-      "lat": 43.6529,
-      "lng": -79.3975,
-      "location": "Chinatown",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950913",
-      "source": "citynews",
-      "title": "From spells to tarot: witchcraft stores brew sense of community among young Canadians",
-      "summary": "A whiff of palo santo incense, cosy lighting and Pinterest-worthy vintage cabinets may have drawn you into this newly opened store in downtown Oakville, Ont.",
-      "link": "https://toronto.citynews.ca/2026/10/29/from-spells-to-tarot-witchcraft-stores-brew-sense-of-community-among-young-canadians/",
-      "ts": "2026-10-29T08:00:13+00:00",
-      "lat": 43.6532,
-      "lng": -79.3832,
-      "location": "Downtown",
       "approximate": true
     },
     {
@@ -135,30 +123,6 @@
       "lat": 43.8361,
       "lng": -79.4985,
       "location": "Vaughan",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7398624",
-      "source": "cbc",
-      "title": "Downtown Oshawa has 2 new progressive councillors. Here\u2019s what they want to change",
-      "summary": "Downtown Oshawa will be represented by two new progressive faces in municipal politics, who say they\u2019re focused on a housing-forward approach to tackling issues in the city\u2019s core and prioritizing input from residents.",
-      "link": "https://www.cbc.ca/news/canada/toronto/downtown-oshawa-progressive-councillors-election-9.7398624?cmp=rss",
-      "ts": "2026-10-28T10:00:00+00:00",
-      "lat": 43.6532,
-      "lng": -79.3832,
-      "location": "Downtown",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7399077",
-      "source": "cbc",
-      "title": "Durham police officer charged in child sexual exploitation investigation",
-      "summary": "A Durham Regional Police officer has been arrested and charged with seven offences related to child sexual abuse and exploitation material, Ontario Provincial Police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/durham-regional-police-service-officer-charged-9.7399077?cmp=rss",
-      "ts": "2026-10-28T02:04:16+00:00",
-      "lat": 43.9,
-      "lng": -78.9,
-      "location": "Durham Region",
       "approximate": true
     }
   ]
