@@ -201,5 +201,16 @@
   "xx:roncesvalles ave|marion st": null,
   "st:antrim cres|dundalk dr|scarborough": null,
   "xx:eglinton ave e|sinnott rd": null,
-  "st:capreol crt|fort york blvd|toronto": null
+  "st:capreol crt|fort york blvd|toronto": null,
+  "fsa2:M2L": null,
+  "st:alliance ave|cliff st|york": null,
+  "fsa2:M6A": null,
+  "st:overbrook pl|maxwell st|north york": null,
+  "st:george st|dundas st e|toronto": {
+    "lat": 43.6581878,
+    "lng": -79.3726274
+  },
+  "st:sherbourne st|ln n dundas w sherbourne|toronto": null,
+  "fsa2:M8Z": null,
+  "fsa2:M6H": null
 }

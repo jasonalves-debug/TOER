@@ -1,10 +1,22 @@
 {
-  "generated": "2026-10-29T19:17:32.231108+00:00",
+  "generated": "2026-10-29T23:30:26.534609+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4951600",
+      "source": "citynews",
+      "title": "Toronto man faces hate-motivated charges after alleged anti-Chinese slurs, threats",
+      "summary": "Toronto Police Service officers have arrested a Toronto man after an alleged hate-motivated incident in Toronto&#8217;s west end on Wednesday. Investigators say two people were in a coffee shop in the Bloor Street West and Keele Street area when the suspect entered and started yelling anti-Chinese slurs at them. &#8220;The victims exited the coffee shop [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/29/toronto-man-faces-hate-motivated-charges-after-alleged-anti-chinese-slurs-threats/",
+      "ts": "2026-10-29T23:06:32+00:00",
+      "lat": 43.6732614,
+      "lng": -79.3691736,
+      "location": "Bloor Street",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7400034",
       "source": "cbc",
@@ -42,22 +54,10 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4951187",
-      "source": "citynews",
-      "title": "Man wanted for alleged sexual assault of minor in Etobicoke underground parking garage",
-      "summary": "Toronto police are looking for a man who is wanted in connection with the alleged sexual assault of a minor in Etobicoke. Police began investigating a report of a sexual assault at an apartment building in the Dixon Road and Wincott Drive area on Wednesday. Investigators say the suspect was in the underground garage level [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/29/suspect-sought-sexual-assault-of-minor-in-etobicoke-underground-parking-garage/",
-      "ts": "2026-10-29T15:42:40+00:00",
-      "lat": 43.6998532,
-      "lng": -79.5338749,
-      "location": "Dixon Road",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7401085",
       "source": "cbc",
       "title": "City traffic agent dead after being struck by driver of dump truck in Toronto, police say",
-      "summary": "A City of Toronto traffic agent has died after being struck by a driver of a dump truck in the city's Thorncliffe Park neighbourhood Thursday, Toronto police say.",
+      "summary": "A city traffic agent has died after being struck by a driver of a dump truck in the city's Thorncliffe Park neighbourhood Thursday, Toronto police say.",
       "link": "https://www.cbc.ca/news/canada/toronto/thorncliffe-park-toronto-pedestrian-fatal-9.7401085?cmp=rss",
       "ts": "2026-10-29T15:04:33+00:00",
       "lat": 43.704553,
@@ -99,18 +99,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7400112",
-      "source": "cbc",
-      "title": "1 charge dropped ahead of second Frank Stronach sexual assault trial: lawyer",
-      "summary": "Frank Stronach's lawyer says one charge of sexual assault against her client in an upcoming Newmarket, Ont., trial has been dropped.",
-      "link": "https://www.cbc.ca/news/canada/toronto/frank-stronach-second-trial-charge-dropped-9.7400112?cmp=rss",
-      "ts": "2026-10-28T20:43:34+00:00",
-      "lat": 44.0592,
-      "lng": -79.4613,
-      "location": "Newmarket",
       "approximate": true
     },
     {
