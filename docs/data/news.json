@@ -1,10 +1,58 @@
 {
-  "generated": "2026-10-28T20:51:46.126799+00:00",
+  "generated": "2026-10-29T00:40:54.009997+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4950713",
+      "source": "citynews",
+      "title": "Police searching for missing 8-year-old boy near Brampton park",
+      "summary": "Police are searching the area around a Brampton park for a missing eight-year-old boy.",
+      "link": "https://toronto.citynews.ca/2026/10/28/police-searching-for-missing-8-year-old-boy-near-brampton-park/",
+      "ts": "2026-10-28T23:59:06+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4950627",
+      "source": "citynews",
+      "title": "Suspect wanted in alleged sex assault of underage victim at Scarborough school open house",
+      "summary": "Toronto police are searching for a suspect who allegedly sexually assaulted an underaged victim at Scarborough school open house. Officers were called to the school on Tuesday for reports of a sexual assault in the area of Guildwood Parkway and Livingston Road. A man allegedly attended the open house and sexually assaulted the victim while [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/28/suspect-wanted-in-alleged-sex-assault-of-underage-victim-at-scarborough-school-open-house/",
+      "ts": "2026-10-28T21:43:56+00:00",
+      "lat": 43.7470129,
+      "lng": -79.2017003,
+      "location": "Guildwood Parkway",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4950598",
+      "source": "citynews",
+      "title": "Two teens charged in stabbing, robbery at Whitby movie theatre",
+      "summary": "Two youths are facing charges following a stabbing and robbery at Whitby movie theatre last weekend.",
+      "link": "https://toronto.citynews.ca/2026/10/28/two-teens-charged-in-stabbing-robbery-at-whitby-movie-theatre/",
+      "ts": "2026-10-28T21:19:27+00:00",
+      "lat": 43.8975,
+      "lng": -78.9428,
+      "location": "Whitby",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7400158",
+      "source": "cbc",
+      "title": "Halton police sergeant charged after chase of stolen Hummer ends in crash: SIU",
+      "summary": "A Halton police officer has been charged after a stolen Hummer crashed into a tractor-trailer in Mississauga last year following a police chase, according to Ontario's Special Investigations Unit.",
+      "link": "https://www.cbc.ca/news/canada/toronto/siu-charges-halton-regional-police-sergeant-chase-hummer-9.7400158?cmp=rss",
+      "ts": "2026-10-28T21:18:21+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7400112",
       "source": "cbc",

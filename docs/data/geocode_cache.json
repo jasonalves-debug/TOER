@@ -143,5 +143,36 @@
   "st:victoria park ave|sloane ave|scarborough": null,
   "st:greylawn cres|babson rd|scarborough": null,
   "fsa2:M9P": null,
-  "fsa2:M6B": null
+  "fsa2:M6B": null,
+  "st:wellesley st|bleecker st|toronto": {
+    "lat": 43.6663414,
+    "lng": -79.3734414
+  },
+  "st:dufferin st|ramsden rd|york": null,
+  "xx:willowdale ave|sheppard ave e": {
+    "lat": 43.7655645,
+    "lng": -79.3933912
+  },
+  "xx:lake shore blvd w|legion rd": {
+    "lat": 43.6205199,
+    "lng": -79.4830131
+  },
+  "st:arleta ave|sheppard ave w|north york": {
+    "lat": 43.7416707,
+    "lng": -79.5013468
+  },
+  "fsa2:M3H": null,
+  "st:clinton st|college st|toronto": {
+    "lat": 43.6554607,
+    "lng": -79.4132663
+  },
+  "fsa2:M9R": null,
+  "fsa2:M9V": null,
+  "fsa2:M5E": null,
+  "fsa2:M4W": null,
+  "st:mcgill st|ln w church s mc gill|toronto": null,
+  "xx:dundas st w|islington ave": {
+    "lat": 43.6512835,
+    "lng": -79.5261493
+  }
 }
