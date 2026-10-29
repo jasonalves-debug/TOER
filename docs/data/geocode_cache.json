@@ -174,5 +174,11 @@
   "xx:dundas st w|islington ave": {
     "lat": 43.6512835,
     "lng": -79.5261493
+  },
+  "st:old mill dr|bloor st w|toronto": null,
+  "fsa2:M9L": null,
+  "st:brydon dr|rexdale blvd|etobicoke": {
+    "lat": 43.7116739,
+    "lng": -79.5710801
   }
 }

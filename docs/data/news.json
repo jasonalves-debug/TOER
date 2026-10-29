@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T00:40:54.009997+00:00",
+  "generated": "2026-10-29T06:31:08.147967+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
@@ -8,7 +8,7 @@
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4950713",
       "source": "citynews",
-      "title": "Police searching for missing 8-year-old boy near Brampton park",
+      "title": "Missing 8-year-old boy in Brampton found safe",
       "summary": "Police are searching the area around a Brampton park for a missing eight-year-old boy.",
       "link": "https://toronto.citynews.ca/2026/10/28/police-searching-for-missing-8-year-old-boy-near-brampton-park/",
       "ts": "2026-10-28T23:59:06+00:00",
@@ -75,18 +75,6 @@
       "lat": 43.8361,
       "lng": -79.4985,
       "location": "Vaughan",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4950487",
-      "source": "citynews",
-      "title": "One charge against Frank Stronach dropped ahead of second sex assault trial: lawyer",
-      "summary": "Frank Stronach's lawyer says one charge of sexual assault against her client in an upcoming Newmarket, Ont., trial has been dropped.",
-      "link": "https://toronto.citynews.ca/2026/10/28/one-charge-against-frank-stronach-dropped-ahead-of-second-sex-assault-trial-lawyer/",
-      "ts": "2026-10-28T19:30:14+00:00",
-      "lat": 44.0592,
-      "lng": -79.4613,
-      "location": "Newmarket",
       "approximate": true
     },
     {
