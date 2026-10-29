@@ -180,5 +180,17 @@
   "st:brydon dr|rexdale blvd|etobicoke": {
     "lat": 43.7116739,
     "lng": -79.5710801
-  }
+  },
+  "xx:jesmond ave|oakwood ave": {
+    "lat": 43.6898877,
+    "lng": -79.4397368
+  },
+  "xx:millwood rd|overlea blvd": {
+    "lat": 43.7015924,
+    "lng": -79.3525821
+  },
+  "fsa2:M8X": null,
+  "fsa2:M5G": null,
+  "fsa2:M8W": null,
+  "fsa2:M4N": null
 }
