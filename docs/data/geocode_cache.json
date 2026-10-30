@@ -216,5 +216,10 @@
   "fsa2:M3N": null,
   "st:forty second st|marie curtis park trl|etobicoke": null,
   "fsa2:M1B": null,
-  "xx:steeles ave w|founders rd": null
+  "xx:steeles ave w|founders rd": null,
+  "st:finch ave|bridletowne crcl|scarborough": null,
+  "st:john st|queen st w|toronto": {
+    "lat": 43.6499304,
+    "lng": -79.3908808
+  }
 }

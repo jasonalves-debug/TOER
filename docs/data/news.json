@@ -1,10 +1,22 @@
 {
-  "generated": "2026-10-30T02:52:58.639954+00:00",
+  "generated": "2026-10-30T09:45:12.776791+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7402148",
+      "source": "cbc",
+      "title": "'We've had enough': Condo owners rally at Queen's Park to call for change in how condo boards operate",
+      "summary": "A group of condo owners took their fight for legislative change to Queen's Park this week to demand reforms they say would protect the 1.9 million people in Ontario who live in condos.",
+      "link": "https://www.cbc.ca/news/canada/toronto/condo-owners-rally-legislative-change-9.7402148?cmp=rss",
+      "ts": "2026-10-30T09:00:00+00:00",
+      "lat": 43.6631,
+      "lng": -79.3903,
+      "location": "Queen'S Park",
+      "approximate": false
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4951600",
       "source": "citynews",
@@ -28,18 +40,6 @@
       "lng": -79.3841,
       "location": "City Hall",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4951278",
-      "source": "citynews",
-      "title": "Oakville man wanted for alleged SIM card swap scam",
-      "summary": "Investigators with the Durham Regional Police Service (DRPS) are looking for a man in connection with a SIM card swap fraud probe. The DRPS Financial Crimes unit began the investigation in October 2025 after a person&#8217;s cellphone unexpectedly entered SOS mode and lost connection to their cellular network. Police say when the person contacted their [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/29/oakville-man-wanted-alleged-sim-card-swap-scam/",
-      "ts": "2026-10-29T17:30:56+00:00",
-      "lat": 43.4675,
-      "lng": -79.6877,
-      "location": "Oakville",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7401085",
