@@ -230,5 +230,14 @@
   "st:wakunda pl|o'connor dr|north york": {
     "lat": 43.7160579,
     "lng": -79.3047658
+  },
+  "st:bergamot ave|rexdale blvd|etobicoke": {
+    "lat": 43.7135767,
+    "lng": -79.5593539
+  },
+  "fsa2:M6M": null,
+  "xx:bellamy rd n|eglinton ave e": {
+    "lat": 43.7403005,
+    "lng": -79.2326619
   }
 }

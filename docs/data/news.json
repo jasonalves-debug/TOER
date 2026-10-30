@@ -1,10 +1,70 @@
 {
-  "generated": "2026-10-30T16:17:31.666109+00:00",
+  "generated": "2026-10-30T20:59:06.629432+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7403458",
+      "source": "cbc",
+      "title": "Police charge 33-year-old dump truck driver in collision that killed city traffic agent",
+      "summary": "Police say they've arrested and charged 33-year-old Brampton man in a collision that killed a Toronto traffic agent on Thursday.",
+      "link": "https://www.cbc.ca/news/canada/toronto/toronto-traffic-agent-death-charge-laid-9.7403458?cmp=rss",
+      "ts": "2026-10-30T20:23:19+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952101",
+      "source": "citynews",
+      "title": "Portion of TTC Line 2 shut down twice due to trespasser at track level on Friday",
+      "summary": "A portion of Line 2 Bloor-Danforth came to a halt twice on Friday, causing delays for commuters first during the busy morning rush hour and then once again in the afternoon. The service disruption was due to a trespasser on the tracks both times. The first incident started around 6:45 a.m., with service suspended between [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/30/portion-of-ttc-line-2-shut-down-twice-due-to-trespasser-at-track-level-on-friday/",
+      "ts": "2026-10-30T17:16:30+00:00",
+      "lat": 43.6832,
+      "lng": -79.3235,
+      "location": "Danforth",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952163",
+      "source": "citynews",
+      "title": "OPP officer charged with assault during arrest in Caledon: SIU",
+      "summary": "An Ontario Provincial Police officer who was involved in an arrest that left a man seriously injured in Caledon has been charged with assault.",
+      "link": "https://toronto.citynews.ca/2026/10/30/opp-officer-charged-with-assault-during-arrest-in-caledon-siu/",
+      "ts": "2026-10-30T17:12:47+00:00",
+      "lat": 43.8618,
+      "lng": -79.8613,
+      "location": "Caledon",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7402993",
+      "source": "cbc",
+      "title": "OPP officer charged with assault after Caledon man injured in arrest: SIU",
+      "summary": "An Ontario Provinical Police officer who was involved in an arrest that left a man seriously injured in Caledon last year has been charged with assault.",
+      "link": "https://www.cbc.ca/news/canada/toronto/siu-caledon-opp-officer-assault-charge-arrest-injuries-9.7402993?cmp=rss",
+      "ts": "2026-10-30T17:02:32+00:00",
+      "lat": 43.8618,
+      "lng": -79.8613,
+      "location": "Caledon",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7402894",
+      "source": "cbc",
+      "title": "Ontario government completes bike lane removal on section of Bloor Street W.",
+      "summary": "Bike lanes on a 1.2-kilometre stretch of Bloor Street West have been completely removed, according to the province Friday. It comes just weeks after dozens of residents came together in Etobicoke to protest the removal, which is the first part of Ontario's plan to rip out bike lanes on three major roads in Toronto.",
+      "link": "https://www.cbc.ca/news/canada/toronto/etobicoke-bloor-street-west-bike-lane-removal-section-complete-9.7402894?cmp=rss",
+      "ts": "2026-10-30T17:01:23+00:00",
+      "lat": 43.6732614,
+      "lng": -79.3691736,
+      "location": "Bloor Street",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4952102",
       "source": "citynews",
@@ -15,30 +75,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4951908",
-      "source": "citynews",
-      "title": "Ontario completes removal of bike lanes on stretch of Bloor Street West in Etobicoke",
-      "summary": "The Doug Ford government says it has completed the removal of a section of bike lanes on Bloor Street West in Etobicoke, restoring vehicle lanes along a 1.2-kilometre stretch of roadway the province argues is needed to ease traffic congestion. In a release issued Friday, the province said work has wrapped up between Clissold Road [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/30/bloor-street-west-bike-lanes-removal-etobicoke-doug-ford/",
-      "ts": "2026-10-30T12:54:12+00:00",
-      "lat": 43.6732614,
-      "lng": -79.3691736,
-      "location": "Bloor Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4951886",
-      "source": "citynews",
-      "title": "Large fire breaks out at Brampton truck yard",
-      "summary": "Fire crews were called to the scene of a massive fire that tore through a large truck yard in Brampton. Firefighters responded to the yard on Ward Road near Williams Parkway and Humberwest Parkway just before 2:30 a.m. on Friday. 680 NewsRadio reports a few workers were inside a building at the back of the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/30/large-fire-breaks-out-at-brampton-truck-yard/",
-      "ts": "2026-10-30T11:53:54+00:00",
-      "lat": 43.8147405,
-      "lng": -79.3046955,
-      "location": "Ward Road",
       "approximate": true
     },
     {
@@ -75,42 +111,6 @@
       "lat": 43.704553,
       "lng": -79.3454074,
       "location": "Thorncliffe Park",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7400796",
-      "source": "cbc",
-      "title": "4 hospitalized as Toronto police investigate home invasion, shooting at Bridle Path home",
-      "summary": "Toronto police say they're investigating a home invasion after three people were shot inside a North York residence early Thursday. They say four people were injured, and two are in life-threatening condition.",
-      "link": "https://www.cbc.ca/news/canada/toronto/home-invasion-investigation-north-york-toronto-police-9.7400796?cmp=rss",
-      "ts": "2026-10-29T12:32:41+00:00",
-      "lat": 43.7615,
-      "lng": -79.4111,
-      "location": "North York",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7400731",
-      "source": "cbc",
-      "title": "Man dead after being struck by two vehicles in Richmond Hill: York police",
-      "summary": "A 27-year-old man has died in Richmond Hill after being struck by a vehicle Wednesday night, York police said.",
-      "link": "https://www.cbc.ca/news/canada/toronto/pedestrian-fatal-crash-york-police-richmond-hill-9.7400731?cmp=rss",
-      "ts": "2026-10-29T10:22:06+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7399943",
-      "source": "cbc",
-      "title": "Vaughan real estate agent pleads guilty to extortion plot in Project South case",
-      "summary": "A Vaughan real estate agent pleaded guilty to an extortion charge Wednesday for a plot discovered through wire taps in sweeping police corruption probe Project South.",
-      "link": "https://www.cbc.ca/news/canada/toronto/vaughan-real-estate-extortion-project-south-9.7399943?cmp=rss",
-      "ts": "2026-10-28T20:15:37+00:00",
-      "lat": 43.8361,
-      "lng": -79.4985,
-      "location": "Vaughan",
       "approximate": true
     }
   ]
