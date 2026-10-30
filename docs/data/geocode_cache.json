@@ -221,5 +221,14 @@
   "st:john st|queen st w|toronto": {
     "lat": 43.6499304,
     "lng": -79.3908808
+  },
+  "xx:rimrock rd|whitehorse rd": {
+    "lat": 43.7564174,
+    "lng": -79.4714466
+  },
+  "st:shady hollow dr|maresfield dr|scarborough": null,
+  "st:wakunda pl|o'connor dr|north york": {
+    "lat": 43.7160579,
+    "lng": -79.3047658
   }
 }

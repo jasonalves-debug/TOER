@@ -1,10 +1,46 @@
 {
-  "generated": "2026-10-30T09:45:12.776791+00:00",
+  "generated": "2026-10-30T16:17:31.666109+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952102",
+      "source": "citynews",
+      "title": "Walmart Canada launches AI shopping assistant Sparky",
+      "summary": "MISSISSAUGA \u2014 Walmart Inc. has brought its AI chatbot Sparky to Canada, more than a year after the retailer first rolled out the shopping assistant in the United States.",
+      "link": "https://toronto.citynews.ca/2026/10/30/walmart-canada-launches-ai-shopping-assistant-sparky/",
+      "ts": "2026-10-30T15:59:22+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4951908",
+      "source": "citynews",
+      "title": "Ontario completes removal of bike lanes on stretch of Bloor Street West in Etobicoke",
+      "summary": "The Doug Ford government says it has completed the removal of a section of bike lanes on Bloor Street West in Etobicoke, restoring vehicle lanes along a 1.2-kilometre stretch of roadway the province argues is needed to ease traffic congestion. In a release issued Friday, the province said work has wrapped up between Clissold Road [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/30/bloor-street-west-bike-lanes-removal-etobicoke-doug-ford/",
+      "ts": "2026-10-30T12:54:12+00:00",
+      "lat": 43.6732614,
+      "lng": -79.3691736,
+      "location": "Bloor Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4951886",
+      "source": "citynews",
+      "title": "Large fire breaks out at Brampton truck yard",
+      "summary": "Fire crews were called to the scene of a massive fire that tore through a large truck yard in Brampton. Firefighters responded to the yard on Ward Road near Williams Parkway and Humberwest Parkway just before 2:30 a.m. on Friday. 680 NewsRadio reports a few workers were inside a building at the back of the [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/30/large-fire-breaks-out-at-brampton-truck-yard/",
+      "ts": "2026-10-30T11:53:54+00:00",
+      "lat": 43.8147405,
+      "lng": -79.3046955,
+      "location": "Ward Road",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7402148",
       "source": "cbc",
@@ -16,18 +52,6 @@
       "lng": -79.3903,
       "location": "Queen'S Park",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4951600",
-      "source": "citynews",
-      "title": "Toronto man faces hate-motivated charges after alleged anti-Chinese slurs, threats",
-      "summary": "Toronto Police Service officers have arrested a Toronto man after an alleged hate-motivated incident in Toronto&#8217;s west end on Wednesday. Investigators say two people were in a coffee shop in the Bloor Street West and Keele Street area when the suspect entered and started yelling anti-Chinese slurs at them. &#8220;The victims exited the coffee shop [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/29/toronto-man-faces-hate-motivated-charges-after-alleged-anti-chinese-slurs-threats/",
-      "ts": "2026-10-29T23:06:32+00:00",
-      "lat": 43.6732614,
-      "lng": -79.3691736,
-      "location": "Bloor Street",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7400034",
@@ -75,18 +99,6 @@
       "lat": 43.6896,
       "lng": -79.4759,
       "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7400158",
-      "source": "cbc",
-      "title": "Halton police sergeant charged after chase of stolen Hummer ends in crash: SIU",
-      "summary": "A Halton police officer has been charged after a stolen Hummer crashed into a tractor-trailer in Mississauga last year following a police chase, according to Ontario's Special Investigations Unit.",
-      "link": "https://www.cbc.ca/news/canada/toronto/siu-charges-halton-regional-police-sergeant-chase-hummer-9.7400158?cmp=rss",
-      "ts": "2026-10-28T21:18:21+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     },
     {
