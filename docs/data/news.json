@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T23:30:26.534609+00:00",
+  "generated": "2026-10-30T02:52:58.639954+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
@@ -39,18 +39,6 @@
       "lat": 43.4675,
       "lng": -79.6877,
       "location": "Oakville",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4951307",
-      "source": "citynews",
-      "title": "Man wanted after alleged sexual assault on TTC Finch West LRT",
-      "summary": "Toronto police are asking for the public&#8217;s help identifying a man wanted in connection with an alleged sexual assault involving a youth aboard a TTC light rail vehicle earlier this week. Investigators say the incident occurred on Wednesday in the area of Finch Avenue West and Sentinel Road, near the TTC&#8217;s Finch West LRT line. [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/29/toronto-sexual-assault-suspect-ttc-finch-west-lrt/",
-      "ts": "2026-10-29T17:23:01+00:00",
-      "lat": 43.7797735,
-      "lng": -79.4155289,
-      "location": "Finch Avenue",
       "approximate": true
     },
     {
