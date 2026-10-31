@@ -259,5 +259,19 @@
     "lat": 43.7585969,
     "lng": -79.3615021
   },
-  "fsa2:M4K": null
+  "fsa2:M4K": null,
+  "st:dundas st|mccaul st|toronto": null,
+  "st:unwin ave|regatta rd|toronto": null,
+  "st:kipling ave|dundas w kipling n ramp|etobicoke": null,
+  "fsa2:M9A": null,
+  "st:eastern ave|lewis st|toronto": null,
+  "st:adelaide st|duncan st|toronto": {
+    "lat": 43.6481186,
+    "lng": -79.3885244
+  },
+  "st:crawford st|lobb ave|toronto": {
+    "lat": 43.6465305,
+    "lng": -79.4155775
+  },
+  "fsa2:M9C": null
 }

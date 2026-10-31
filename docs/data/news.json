@@ -1,10 +1,46 @@
 {
-  "generated": "2026-10-31T06:21:12.764451+00:00",
+  "generated": "2026-10-31T12:58:01.947479+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952681",
+      "source": "citynews",
+      "title": "Driver facing impaired driving charges following 3 vehicle crash in Scarborough",
+      "summary": "One person is facing impaired driving charges following a three-vehicle crash in Scarborough.",
+      "link": "https://toronto.citynews.ca/2026/10/31/driver-facing-impaired-driving-charges-following-3-vehicle-crash-in-scarborough/",
+      "ts": "2026-10-31T12:42:34+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952471",
+      "source": "citynews",
+      "title": "Toronto Pearson airport, Seneca Polytechnic form partnership to connect students with in-demand jobs",
+      "summary": "Toronto Pearson airport staff are looking to connect Seneca students with aviation, construction, office, operations and maintenance jobs.",
+      "link": "https://toronto.citynews.ca/2026/10/31/toronto-pearson-airport-seneca-polytechnic-jobs-partnership/",
+      "ts": "2026-10-31T10:59:56+00:00",
+      "lat": 43.6777,
+      "lng": -79.6248,
+      "location": "Pearson Airport",
+      "approximate": false
+    },
+    {
+      "id": "news_cbc_9.7403468",
+      "source": "cbc",
+      "title": "Is this Toronto's spookiest street? Meet the skeleton's of Pape Avenue",
+      "summary": "Houses along Pape Avenue, north of Queen East, are covered in skeletons posing in grand, creative, larger-than-life displays. CBC's Haydn Watters finds why the neighbourhood is so obsessed with skulls and bones.",
+      "link": "https://www.cbc.ca/player/play/9.7403468?cmp=rss",
+      "ts": "2026-10-31T08:00:00+00:00",
+      "lat": 43.670004,
+      "lng": -79.3411995,
+      "location": "Pape Avenue",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4952530",
       "source": "citynews",
@@ -42,30 +78,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952445",
-      "source": "citynews",
-      "title": "Second man charged in aggravated assault investigation, 2 other suspects still outstanding",
-      "summary": "Toronto police have arrested and charged a second suspect in connection with an aggravated assault that occurred in Scarborough earlier this month. In a news release shared Friday, police announced the arrest of 34-year-old Kadeem Anderson-Binns of Toronto. Police previously arrested 31-year-old Vincent Lewis of Toronto in relation to the same case. It all started [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/30/second-man-charged-in-aggravated-assault-investigation-2-other-suspects-still-outstanding/",
-      "ts": "2026-10-30T21:34:39+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952439",
-      "source": "citynews",
-      "title": "Man, 27, facing sex assault charges in North York attack",
-      "summary": "A 27-year-old man is facing almost half a dozen charges in connection with an alleged sexual assault in North York.",
-      "link": "https://toronto.citynews.ca/2026/10/30/man-27-facing-sex-assault-charges-in-north-york-attack/",
-      "ts": "2026-10-30T21:29:42+00:00",
-      "lat": 43.7615,
-      "lng": -79.4111,
-      "location": "North York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7403458",
       "source": "cbc",
       "title": "Police arrest dump truck driver in collision that killed Toronto traffic agent",
@@ -75,18 +87,6 @@
       "lat": 43.7315,
       "lng": -79.7624,
       "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952345",
-      "source": "citynews",
-      "title": "Long accused of abetting crypto crimes, Binance has now become a victim",
-      "summary": "NEW YORK (AP) \u2014 Binance and its billionaire founder have long been accused of profiting off crypto criminals.",
-      "link": "https://toronto.citynews.ca/2026/10/30/long-accused-of-abetting-crypto-crimes-binance-has-now-become-a-victim/",
-      "ts": "2026-10-30T19:43:52+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
       "approximate": true
     },
     {
@@ -124,18 +124,6 @@
       "lng": -79.3903,
       "location": "Queen'S Park",
       "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7401085",
-      "source": "cbc",
-      "title": "City traffic agent dead after being struck by driver of dump truck in Toronto, police say",
-      "summary": "A city traffic agent has died after being struck by a driver of a dump truck in the city's Thorncliffe Park neighbourhood Thursday, Toronto police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/thorncliffe-park-toronto-pedestrian-fatal-9.7401085?cmp=rss",
-      "ts": "2026-10-29T15:04:33+00:00",
-      "lat": 43.704553,
-      "lng": -79.3454074,
-      "location": "Thorncliffe Park",
-      "approximate": true
     }
   ]
 }
