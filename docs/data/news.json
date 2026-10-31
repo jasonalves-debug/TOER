@@ -1,10 +1,22 @@
 {
-  "generated": "2026-10-31T12:58:01.947479+00:00",
+  "generated": "2026-10-31T17:37:46.447170+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952662",
+      "source": "citynews",
+      "title": "Police identify suspect in violent Bridle Path home invasion",
+      "summary": "Toronto police have identified one of the three suspects wanted in connection with a violent home invasion in the Bridle Path on Thursday. Investigators say 23-year-old Daijohn Richards was among the three masked suspects who forced their way into the home on Hyde Park Circle in the area of Bayview Avenue and Lawrence Avenue East [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/31/police-identify-suspect-in-violent-bridle-path-home-invasion/",
+      "ts": "2026-10-31T14:25:21+00:00",
+      "lat": 43.737494,
+      "lng": -79.3796839,
+      "location": "Hyde Park",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4952681",
       "source": "citynews",
@@ -39,18 +51,6 @@
       "lat": 43.670004,
       "lng": -79.3411995,
       "location": "Pape Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952530",
-      "source": "citynews",
-      "title": "Motorcyclist seriously injured in Mississauga crash",
-      "summary": "A motorcyclist was rushed to a trauma centre on Friday evening following a serious crash in Mississauga. Emergency crews were called to the area of Financial Drive and Derry Road just after 8:30 p.m. for reports of a two-vehicle collision. Police said in a social media post that one of the vehicles involved was a [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/30/motorcyclist-seriously-injured-in-brampton-crash-2/",
-      "ts": "2026-10-31T01:59:17+00:00",
-      "lat": 43.6772045,
-      "lng": -79.4946716,
-      "location": "Financial Drive",
       "approximate": true
     },
     {
@@ -90,18 +90,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7402993",
-      "source": "cbc",
-      "title": "OPP officer charged with assault after Caledon man injured in arrest: SIU",
-      "summary": "An Ontario Provinical Police officer who was involved in an arrest that left a man seriously injured in Caledon last year has been charged with assault.",
-      "link": "https://www.cbc.ca/news/canada/toronto/siu-caledon-opp-officer-assault-charge-arrest-injuries-9.7402993?cmp=rss",
-      "ts": "2026-10-30T17:02:32+00:00",
-      "lat": 43.8618,
-      "lng": -79.8613,
-      "location": "Caledon",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7402894",
       "source": "cbc",
       "title": "Ontario government completes bike lane removal on section of Bloor Street W.",
@@ -112,18 +100,6 @@
       "lng": -79.3691736,
       "location": "Bloor Street",
       "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7402148",
-      "source": "cbc",
-      "title": "'We've had enough': Condo owners rally at Queen's Park to call for change in how condo boards operate",
-      "summary": "A group of condo owners took their fight for legislative change to Queen's Park this week to demand reforms they say would protect the 1.9 million people in Ontario who live in condos.",
-      "link": "https://www.cbc.ca/news/canada/toronto/condo-owners-rally-legislative-change-9.7402148?cmp=rss",
-      "ts": "2026-10-30T09:00:00+00:00",
-      "lat": 43.6631,
-      "lng": -79.3903,
-      "location": "Queen'S Park",
-      "approximate": false
     }
   ]
 }
