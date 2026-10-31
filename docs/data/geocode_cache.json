@@ -247,5 +247,17 @@
   "st:lawrence ave|bendale acres|scarborough": null,
   "fsa2:M6C": null,
   "st:redpath ave|broadway ave|toronto": null,
-  "st:king st|springhurst ave|toronto": null
+  "st:king st|springhurst ave|toronto": null,
+  "st:grackle trl|oasis blvd|scarborough": null,
+  "st:western battery rd|pirandello st|toronto": {
+    "lat": 43.6400611,
+    "lng": -79.4140669
+  },
+  "st:thomas riley rd|samuel wood way|etobicoke": null,
+  "fsa2:M2H": null,
+  "st:leslie st|bannatyne dr|north york": {
+    "lat": 43.7585969,
+    "lng": -79.3615021
+  },
+  "fsa2:M4K": null
 }
