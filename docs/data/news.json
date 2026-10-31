@@ -1,10 +1,22 @@
 {
-  "generated": "2026-10-31T17:37:46.447170+00:00",
+  "generated": "2026-10-31T20:42:03.595655+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952769",
+      "source": "citynews",
+      "title": "Toronto cyclists protest Ford government\u2019s bike lane removals at Queen\u2019s Park",
+      "summary": "Dozens of cycling advocates and protesters spent their Halloween decrying Ontario\u2019s contentious decision to continue removing bike lanes across Toronto.&#160; The protest comes at the heels of Ontario Transportation Minister Prabmeet Sarkaria\u2019s announcement on Friday that bike lanes along Bloor Street West in Etobicoke have been officially removed.&#160; \u201cWe heard from communities, and that\u2019s why ",
+      "link": "https://toronto.citynews.ca/2026/10/31/toronto-cyclists-protest-ford-governments-bike-lane-removals-at-queens-park/",
+      "ts": "2026-10-31T18:29:34+00:00",
+      "lat": 43.6732614,
+      "lng": -79.3691736,
+      "location": "Bloor Street",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4952662",
       "source": "citynews",
@@ -75,18 +87,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7403458",
-      "source": "cbc",
-      "title": "Police arrest dump truck driver in collision that killed Toronto traffic agent",
-      "summary": "Police say they've arrested and charged 33-year-old Brampton man in a collision that killed a Toronto traffic agent on Thursday.",
-      "link": "https://www.cbc.ca/news/canada/toronto/toronto-traffic-agent-death-charge-laid-9.7403458?cmp=rss",
-      "ts": "2026-10-30T20:23:19+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
       "approximate": true
     },
     {

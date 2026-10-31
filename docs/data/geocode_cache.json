@@ -278,5 +278,17 @@
     "lat": 43.8127038,
     "lng": -79.2434354
   },
-  "fsa2:M9N": null
+  "fsa2:M9N": null,
+  "st:lawrence ave|highland creek trl|scarborough": null,
+  "st:progress ave|estate dr|scarborough": null,
+  "st:st clair ave|avenue rd|toronto": {
+    "lat": 43.6822869,
+    "lng": -79.3998246
+  },
+  "fsa2:M3C": null,
+  "st:river st|wyatt ave|toronto": null,
+  "st:queens wharf rd|housey st|toronto": null,
+  "fsa2:M4X": null,
+  "st:queen st|ryerson ave|toronto": null,
+  "st:humber college blvd|hepc|etobicoke": null
 }
