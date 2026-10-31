@@ -1,10 +1,58 @@
 {
-  "generated": "2026-10-30T20:59:06.629432+00:00",
+  "generated": "2026-10-31T00:41:57.446723+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7403712",
+      "source": "cbc",
+      "title": "York Catholic school board chair contributed to \u2018toxic environment': board\u2019s integrity commissioner",
+      "summary": "The integrity commissioner for the York Catholic District School Board is taking disciplinary action against the board\u2019s chair after an investigation fund she used \u201cprofane\u201d language towards the former education director.",
+      "link": "https://www.cbc.ca/news/canada/toronto/ycdsb-board-chair-integrity-commissioner-report-9.7403712?cmp=rss",
+      "ts": "2026-10-30T22:51:00+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7403385",
+      "source": "cbc",
+      "title": "Mississauga mayor-elect unveils transition team",
+      "summary": "Just days after his sizeable victory, mayor-elect Alvin Tedjo has unveiled the list of people who have joined his transition team as he prepares to take over the role of mayor from Carolyn Parrish in November.",
+      "link": "https://www.cbc.ca/news/canada/toronto/mississauga-mayor-elect-alvin-tedjo-releases-transition-team-list-9.7403385?cmp=rss",
+      "ts": "2026-10-30T21:40:14+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952445",
+      "source": "citynews",
+      "title": "Second man charged in aggravated assault investigation, 2 other suspects still outstanding",
+      "summary": "Toronto police have arrested and charged a second suspect in connection with an aggravated assault that occurred in Scarborough earlier this month. In a news release shared Friday, police announced the arrest of 34-year-old Kadeem Anderson-Binns of Toronto. Police previously arrested 31-year-old Vincent Lewis of Toronto in relation to the same case. It all started [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/10/30/second-man-charged-in-aggravated-assault-investigation-2-other-suspects-still-outstanding/",
+      "ts": "2026-10-30T21:34:39+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952439",
+      "source": "citynews",
+      "title": "Man, 27, facing sex assault charges in North York attack",
+      "summary": "A 27-year-old man is facing almost half a dozen charges in connection with an alleged sexual assault in North York.",
+      "link": "https://toronto.citynews.ca/2026/10/30/man-27-facing-sex-assault-charges-in-north-york-attack/",
+      "ts": "2026-10-30T21:29:42+00:00",
+      "lat": 43.7615,
+      "lng": -79.4111,
+      "location": "North York",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7403458",
       "source": "cbc",
@@ -18,9 +66,21 @@
       "approximate": true
     },
     {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952345",
+      "source": "citynews",
+      "title": "Long accused of abetting crypto crimes, Binance has now become a victim",
+      "summary": "NEW YORK (AP) \u2014 Binance and its billionaire founder have long been accused of profiting off crypto criminals.",
+      "link": "https://toronto.citynews.ca/2026/10/30/long-accused-of-abetting-crypto-crimes-binance-has-now-become-a-victim/",
+      "ts": "2026-10-30T19:43:52+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4952101",
       "source": "citynews",
-      "title": "Portion of TTC Line 2 shut down twice due to trespasser at track level on Friday",
+      "title": "Trespassers shut down part of TTC Line 2 twice on Friday, cops say both incidents are connected",
       "summary": "A portion of Line 2 Bloor-Danforth came to a halt twice on Friday, causing delays for commuters first during the busy morning rush hour and then once again in the afternoon. The service disruption was due to a trespasser on the tracks both times. The first incident started around 6:45 a.m., with service suspended between [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/10/30/portion-of-ttc-line-2-shut-down-twice-due-to-trespasser-at-track-level-on-friday/",
       "ts": "2026-10-30T17:16:30+00:00",
@@ -66,18 +126,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952102",
-      "source": "citynews",
-      "title": "Walmart Canada launches AI shopping assistant Sparky",
-      "summary": "MISSISSAUGA \u2014 Walmart Inc. has brought its AI chatbot Sparky to Canada, more than a year after the retailer first rolled out the shopping assistant in the United States.",
-      "link": "https://toronto.citynews.ca/2026/10/30/walmart-canada-launches-ai-shopping-assistant-sparky/",
-      "ts": "2026-10-30T15:59:22+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7402148",
       "source": "cbc",
       "title": "'We've had enough': Condo owners rally at Queen's Park to call for change in how condo boards operate",
@@ -87,18 +135,6 @@
       "lat": 43.6631,
       "lng": -79.3903,
       "location": "Queen'S Park",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7400034",
-      "source": "cbc",
-      "title": "How Brampton's youngest councillor plans to bring a 'generational' change to city hall",
-      "summary": "Sukhman Sangha, 29, became Brampton's youngest regional councillor following Monday's municipal election. Representing wards 9 and 10 on the city's northeast borders, he says he has strong plans to advocate for the community where housing and population growth are on the rise, but services haven't kept up.",
-      "link": "https://www.cbc.ca/news/canada/toronto/how-brampton-s-youngest-councillor-plans-to-bring-a-generational-change-to-city-hall-9.7400034?cmp=rss",
-      "ts": "2026-10-29T18:10:49+00:00",
-      "lat": 43.6534,
-      "lng": -79.3841,
-      "location": "City Hall",
       "approximate": false
     },
     {

@@ -239,5 +239,13 @@
   "xx:bellamy rd n|eglinton ave e": {
     "lat": 43.7403005,
     "lng": -79.2326619
-  }
+  },
+  "fsa2:M4L": null,
+  "xx:malvern ave|kingston rd": null,
+  "fsa2:M5T": null,
+  "fsa2:M4G": null,
+  "st:lawrence ave|bendale acres|scarborough": null,
+  "fsa2:M6C": null,
+  "st:redpath ave|broadway ave|toronto": null,
+  "st:king st|springhurst ave|toronto": null
 }
