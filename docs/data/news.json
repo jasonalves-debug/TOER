@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-01T05:06:28.491493+00:00",
+  "generated": "2026-11-01T11:51:44.160554+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7401727",
+      "source": "cbc",
+      "title": "Pickering city council returning to in-person meetings after year-long virtual shift due to threats",
+      "summary": "Pickering city council is set to officially return to in-person meetings in its newly renovated council chambers on Nov. 16. after conducting municipal business online for nearly two years.",
+      "link": "https://www.cbc.ca/news/canada/toronto/pickering-city-council-returning-to-in-person-meetings-after-year-long-virtual-shift-due-to-threats-9.7401727?cmp=rss",
+      "ts": "2026-11-01T09:00:00+00:00",
+      "lat": 43.8384,
+      "lng": -79.0868,
+      "location": "Pickering",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4952888",
       "source": "citynews",
@@ -99,18 +111,6 @@
       "lat": 43.6896,
       "lng": -79.4759,
       "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7403385",
-      "source": "cbc",
-      "title": "Mississauga mayor-elect unveils transition team",
-      "summary": "Just days after his sizeable victory, mayor-elect Alvin Tedjo has unveiled the list of people who have joined his transition team as he prepares to take over the role of mayor from Carolyn Parrish in November.",
-      "link": "https://www.cbc.ca/news/canada/toronto/mississauga-mayor-elect-alvin-tedjo-releases-transition-team-list-9.7403385?cmp=rss",
-      "ts": "2026-10-30T21:40:14+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     }
   ]
