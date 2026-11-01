@@ -305,5 +305,12 @@
     "lat": 43.6583477,
     "lng": -79.3723489
   },
-  "st:niska rd|tobermory dr|north york": null
+  "st:niska rd|tobermory dr|north york": null,
+  "st:spencer ave|spencer cowan parkette trl|toronto": null,
+  "st:st clair ave|lansdowne ave|toronto": null,
+  "fsa2:M1T": null,
+  "st:mccowan rd|landmark blvd|scarborough": null,
+  "fsa2:M1S": null,
+  "st:cranbrooke ave|jedburgh rd|toronto": null,
+  "fsa2:M4V": null
 }
