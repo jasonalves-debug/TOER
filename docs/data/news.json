@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-01T17:47:06.023551+00:00",
+  "generated": "2026-11-01T21:50:10.887932+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953102",
+      "source": "citynews",
+      "title": "Woman facing impaired driving charge in 3-vehicle crash in Etobicoke",
+      "summary": "A 40-year-old woman is facing impaired driving charges following a three-vehicle crash in Etobicoke on Sunday.",
+      "link": "https://toronto.citynews.ca/2026/11/01/woman-facing-impaired-driving-charge-in-3-vehicle-crash-in-etobicoke/",
+      "ts": "2026-11-01T18:49:31+00:00",
+      "lat": 43.6205,
+      "lng": -79.5132,
+      "location": "Etobicoke",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7404287",
       "source": "cbc",
@@ -75,18 +87,6 @@
       "lat": 43.7315,
       "lng": -79.7624,
       "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952831",
-      "source": "citynews",
-      "title": "Woman killed in North York stabbing",
-      "summary": "A woman was killed during a stabbing in North York on Saturday, according to Toronto police. Emergency crews were called to the area of Bathurst Street and Finch Avenue West just after 4 p.m. Upon arrival, police located a woman with obvious stab wounds in the parking lot of an apartment complex. The woman was [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/31/woman-seriously-injured-in-north-york-stabbing-3/",
-      "ts": "2026-10-31T21:34:27+00:00",
-      "lat": 43.7202855,
-      "lng": -79.4299205,
-      "location": "Bathurst Street",
       "approximate": true
     },
     {
