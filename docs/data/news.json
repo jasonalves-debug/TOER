@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-01T11:51:44.160554+00:00",
+  "generated": "2026-11-01T17:47:06.023551+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7404287",
+      "source": "cbc",
+      "title": "Carney calls December byelection for Scarborough North, 5 other ridings in Canada",
+      "summary": "Prime Minister Mark Carney has called byelections for a total of six ridings located in Saskatchewan, Ontario and Quebec that will give the Liberals a chance to strengthen their thin majority in the House of Commons.",
+      "link": "https://www.cbc.ca/news/politics/carney-byelections-saskatchewan-ontario-quebec-9.7404287?cmp=rss",
+      "ts": "2026-11-01T14:35:58+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4952986",
+      "source": "citynews",
+      "title": "Woman dead after single-vehicle crash near Oshawa",
+      "summary": "A woman is dead following a single-vehicle crash near Oshawa.",
+      "link": "https://toronto.citynews.ca/2026/11/01/woman-dead-after-single-vehicle-crash-near-oshawa/",
+      "ts": "2026-11-01T14:27:36+00:00",
+      "lat": 43.8971,
+      "lng": -78.8658,
+      "location": "Oshawa",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7404705",
+      "source": "cbc",
+      "title": "Woman dies in hospital after stabbing in North York, police investigate as homicide",
+      "summary": "Toronto police are investigating a homicide in North York after a woman died in hospital with stab wounds on Friday.",
+      "link": "https://www.cbc.ca/news/canada/toronto/north-york-stabbing-homicide-toronto-police-9.7404705?cmp=rss",
+      "ts": "2026-11-01T13:45:53+00:00",
+      "lat": 43.7615,
+      "lng": -79.4111,
+      "location": "North York",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7401727",
       "source": "cbc",
@@ -54,42 +90,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952769",
-      "source": "citynews",
-      "title": "Toronto cyclists protest Ford government\u2019s bike lane removals at Queen\u2019s Park",
-      "summary": "Dozens of cycling advocates and protesters spent their Halloween decrying Ontario\u2019s contentious decision to continue removing bike lanes across Toronto.&#160; The protest comes at the heels of Ontario Transportation Minister Prabmeet Sarkaria\u2019s announcement on Friday that bike lanes along Bloor Street West in Etobicoke have been officially removed.&#160; \u201cWe heard from communities, and that\u2019s why ",
-      "link": "https://toronto.citynews.ca/2026/10/31/toronto-cyclists-protest-ford-governments-bike-lane-removals-at-queens-park/",
-      "ts": "2026-10-31T18:29:34+00:00",
-      "lat": 43.6732614,
-      "lng": -79.3691736,
-      "location": "Bloor Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952662",
-      "source": "citynews",
-      "title": "Police identify suspect in violent Bridle Path home invasion",
-      "summary": "Toronto police have identified one of the three suspects wanted in connection with a violent home invasion in the Bridle Path on Thursday. Investigators say 23-year-old Daijohn Richards was among the three masked suspects who forced their way into the home on Hyde Park Circle in the area of Bayview Avenue and Lawrence Avenue East [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/31/police-identify-suspect-in-violent-bridle-path-home-invasion/",
-      "ts": "2026-10-31T14:25:21+00:00",
-      "lat": 43.737494,
-      "lng": -79.3796839,
-      "location": "Hyde Park",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952681",
-      "source": "citynews",
-      "title": "Driver facing impaired driving charges following 3 vehicle crash in Scarborough",
-      "summary": "One person is facing impaired driving charges following a three-vehicle crash in Scarborough.",
-      "link": "https://toronto.citynews.ca/2026/10/31/driver-facing-impaired-driving-charges-following-3-vehicle-crash-in-scarborough/",
-      "ts": "2026-10-31T12:42:34+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7403468",
       "source": "cbc",
       "title": "Is this Toronto's spookiest street? Meet the skeleton's of Pape Avenue",
@@ -99,18 +99,6 @@
       "lat": 43.670004,
       "lng": -79.3411995,
       "location": "Pape Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7403712",
-      "source": "cbc",
-      "title": "York Catholic school board chair contributed to \u2018toxic environment': board\u2019s integrity commissioner",
-      "summary": "The integrity commissioner for the York Catholic District School Board is taking disciplinary action against the board\u2019s chair after an investigation fund she used \u201cprofane\u201d language towards the former education director.",
-      "link": "https://www.cbc.ca/news/canada/toronto/ycdsb-board-chair-integrity-commissioner-report-9.7403712?cmp=rss",
-      "ts": "2026-10-30T22:51:00+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
       "approximate": true
     }
   ]

@@ -319,5 +319,13 @@
   "st:hobden pl|sandwell dr|etobicoke": null,
   "xx:paxman rd|west mall cres": null,
   "fsa2:M5H": null,
-  "st:albion rd|lund ave|etobicoke": null
+  "st:albion rd|lund ave|etobicoke": null,
+  "st:sudbury st|abell st|toronto": null,
+  "st:briar hill ave|yonge st|toronto": {
+    "lat": 43.7128431,
+    "lng": -79.4037078
+  },
+  "xx:allen n yorkdale rd ramp|yorkdale rd": null,
+  "st:goodall dr|littles rd|scarborough": null,
+  "st:four winds dr|columbia gt|north york": null
 }
