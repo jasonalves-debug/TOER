@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-02T01:21:38.702884+00:00",
+  "generated": "2026-11-02T08:02:08.154864+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953235",
+      "source": "citynews",
+      "title": "Sewing needles found in Halloween candy distributed in Oshawa, police say",
+      "summary": "Police in Durham Region are investigating after sewing needles were found in Halloween candy that was given to trick-or-treaters over the weekend. Detectives said the incident was reported in Oshawa, near Ritson Road North and Taunton Road. Officers were canvassing the area late Sunday evening. Authorities are reminding the public to check all Halloween candy [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/01/sewing-needles-found-in-halloween-candy-distributed-in-oshawa-police-say/",
+      "ts": "2026-11-02T01:39:07+00:00",
+      "lat": 43.8971,
+      "lng": -78.8658,
+      "location": "Oshawa",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4953217",
       "source": "citynews",
