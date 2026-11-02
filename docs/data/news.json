@@ -1,20 +1,32 @@
 {
-  "generated": "2026-11-01T21:50:10.887932+00:00",
+  "generated": "2026-11-02T01:21:38.702884+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953217",
+      "source": "citynews",
+      "title": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20",
+      "summary": "MEXICO CITY \u2014 Twenty-year-old Mercedes driver&#160;Kimi Antonelli&#160;became the youngest champion in the history of&#160;Formula 1&#160;on Sunday with four races still left in the season. Antonelli, the first Italian to win the title since Alberto Ascari in 1953, took an unassailable lead in the standings over teammate George Russell and Ferrari&#8217;s Lewis Hamilton after the&#160;Mexico City ",
+      "link": "https://toronto.citynews.ca/2026/11/01/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
+      "ts": "2026-11-01T23:21:10+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
+    {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4953102",
       "source": "citynews",
-      "title": "Woman facing impaired driving charge in 3-vehicle crash in Etobicoke",
+      "title": "Woman facing impaired driving charge in 3-vehicle crash near High Park",
       "summary": "A 40-year-old woman is facing impaired driving charges following a three-vehicle crash in Etobicoke on Sunday.",
       "link": "https://toronto.citynews.ca/2026/11/01/woman-facing-impaired-driving-charge-in-3-vehicle-crash-in-etobicoke/",
       "ts": "2026-11-01T18:49:31+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
+      "lat": 43.6462813,
+      "lng": -79.4637945,
+      "location": "High Park",
       "approximate": true
     },
     {
@@ -63,18 +75,6 @@
       "lat": 43.8384,
       "lng": -79.0868,
       "location": "Pickering",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952888",
-      "source": "citynews",
-      "title": "Pedestrian in her 80s killed in Markham car crash",
-      "summary": "An elderly pedestrian was killed Saturday after getting hit by a car in Markham, according to police. Emergency crews were called to the area of 16th Avenue and Markham Road just after 5:30 p.m. York Regional Police told 680 News Radio that a woman in her 80s was struck and pronounced dead. The driver of [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/10/31/pedestrian-in-her-80s-killed-in-markham-car-crash/",
-      "ts": "2026-11-01T03:11:31+00:00",
-      "lat": 43.7460073,
-      "lng": -79.2200988,
-      "location": "Markham Road",
       "approximate": true
     },
     {
