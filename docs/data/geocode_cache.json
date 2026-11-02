@@ -340,5 +340,28 @@
   "st:rhodes ave|dundas st e|toronto": null,
   "st:vine ave|ln e mc murray n vine|toronto": null,
   "st:braymore blvd|fireside dr|scarborough": null,
-  "st:gracefield ave|bryn rd|north york": null
+  "st:gracefield ave|bryn rd|north york": null,
+  "st:sheppard ave|harrisfarm gt|scarborough": null,
+  "fsa2:M1H": null,
+  "st:st george st|prince arthur ave|toronto": {
+    "lat": 43.6684387,
+    "lng": -79.398844
+  },
+  "xx:eastern ave|logan ave": {
+    "lat": 43.6579645,
+    "lng": -79.3414747
+  },
+  "xx:scott st|church st": null,
+  "st:adelaide st|portugal sq|toronto": {
+    "lat": 43.6454069,
+    "lng": -79.403577
+  },
+  "xx:college st|university ave": {
+    "lat": 43.658367,
+    "lng": -79.4001521
+  },
+  "st:st george st|hoskin ave|toronto": {
+    "lat": 43.6639034,
+    "lng": -79.3982789
+  }
 }

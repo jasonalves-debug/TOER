@@ -1,44 +1,80 @@
 {
-  "generated": "2026-11-02T08:02:08.154864+00:00",
+  "generated": "2026-11-02T18:25:13.575019+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4953235",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953537",
       "source": "citynews",
-      "title": "Sewing needles found in Halloween candy distributed in Oshawa, police say",
-      "summary": "Police in Durham Region are investigating after sewing needles were found in Halloween candy that was given to trick-or-treaters over the weekend. Detectives said the incident was reported in Oshawa, near Ritson Road North and Taunton Road. Officers were canvassing the area late Sunday evening. Authorities are reminding the public to check all Halloween candy [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/01/sewing-needles-found-in-halloween-candy-distributed-in-oshawa-police-say/",
-      "ts": "2026-11-02T01:39:07+00:00",
-      "lat": 43.8971,
-      "lng": -78.8658,
-      "location": "Oshawa",
+      "title": "Man facing multiple charges in connection to East York shooting",
+      "summary": "A 45-year-old man was arrested in connection to a September shooting in East York, according to police. Officers were called to the Danforth Avenue and Greenwood Avenue area on Sept. 1 around 2 a.m., for reports of a shooting. Police allege the suspect was in an altercation outside a &#8220;licensed establishment&#8221; in the area. He [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/02/man-facing-multiple-charges-in-connection-to-east-york-shooting/",
+      "ts": "2026-11-02T17:47:29+00:00",
+      "lat": 43.6947213,
+      "lng": -79.2717902,
+      "location": "Danforth Avenue",
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4953217",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953523",
       "source": "citynews",
-      "title": "Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20",
-      "summary": "MEXICO CITY \u2014 Twenty-year-old Mercedes driver&#160;Kimi Antonelli&#160;became the youngest champion in the history of&#160;Formula 1&#160;on Sunday with four races still left in the season. Antonelli, the first Italian to win the title since Alberto Ascari in 1953, took an unassailable lead in the standings over teammate George Russell and Ferrari&#8217;s Lewis Hamilton after the&#160;Mexico City ",
-      "link": "https://toronto.citynews.ca/2026/11/01/mercedes-driver-kimi-antonelli-becomes-youngest-champion-in-f1-history-at-age-20/",
-      "ts": "2026-11-01T23:21:10+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
+      "title": "SIU investigating after boy, 14, seriously injured following arrest at TTC station",
+      "summary": "Ontario&#8217;s police watchdog is investigating after a 14-year-old boy sustained a serious injury following an interaction with officers at a Toronto transit station last month. The Special Investigations Unit (SIU) said the incident occurred on Oct. 7 at approximately 3:30 p.m. at TTC Finch West Station, in the Finch Avenue West and Keele Street area. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/02/toronto-ttc-finch-west-station-boy-arrest-police-siu/",
+      "ts": "2026-11-02T17:18:52+00:00",
+      "lat": 43.7797735,
+      "lng": -79.4155289,
+      "location": "Finch Avenue",
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4953102",
+      "id": "news_cbc_9.7405325",
+      "source": "cbc",
+      "title": "Woman, 43, dead after fiery multi-vehicle collision in Whitby, Ont.",
+      "summary": "A woman is dead after a collision Sunday on Highway 401 where two vehicles caught fire, police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/fatal-collision-highway-401-whitby-9.7405325?cmp=rss",
+      "ts": "2026-11-02T13:26:47+00:00",
+      "lat": 43.6911749,
+      "lng": -79.569902,
+      "location": "Highway 401",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953369",
       "source": "citynews",
-      "title": "Woman facing impaired driving charge in 3-vehicle crash near High Park",
-      "summary": "A 40-year-old woman is facing impaired driving charges following a three-vehicle crash in Etobicoke on Sunday.",
-      "link": "https://toronto.citynews.ca/2026/11/01/woman-facing-impaired-driving-charge-in-3-vehicle-crash-in-etobicoke/",
-      "ts": "2026-11-01T18:49:31+00:00",
-      "lat": 43.6462813,
-      "lng": -79.4637945,
-      "location": "High Park",
+      "title": "20-year-old man charged in fatal Hwy.\u00a0401 crash",
+      "summary": "The Ontario Provincial Police (OPP) has laid charges against a 20-year-old man after a deadly crash resulted in the death of a 43-year-old woman on Highway 401 Sunday evening. Emergency crews were called to a section of the westbound lanes of the highway near Thickson Road, just after 7 p.m. Police say two of the vehicles [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/02/woman-43-killed-in-hwy-401-crash-police/",
+      "ts": "2026-11-02T13:05:04+00:00",
+      "lat": 43.6911749,
+      "lng": -79.569902,
+      "location": "Highway 401",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953319",
+      "source": "citynews",
+      "title": "Restaurant destroyed in 2-alarm fire in Scarborough",
+      "summary": "A restaurant was destroyed in a two-alarm fire in Scarborough early Monday morning, prompting a major response from Toronto Fire Services. Fire crews were called to 4401 Sheppard Ave. E., near Sheppard Avenue East and Brimley Road, at approximately 3:29 a.m. on Nov. 2 for reports of a restaurant on fire. Toronto Fire acting district [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/02/fire-commercial-building-scarborough-sheppard-brimley-restaurant/",
+      "ts": "2026-11-02T10:46:39+00:00",
+      "lat": 43.7615761,
+      "lng": -79.4109371,
+      "location": "Sheppard Ave",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7403101",
+      "source": "cbc",
+      "title": "Garden suite built under new Toronto city planning rules upsets neighbours",
+      "summary": "Fed up with what she calls a violation of her backyard privacy, an East York woman is going public with her campaign to have new garden suites limited to just one storey.",
+      "link": "https://www.cbc.ca/news/canada/toronto/garden-suites-city-planning-neighbours-9.7403101?cmp=rss",
+      "ts": "2026-11-02T09:00:00+00:00",
+      "lat": 43.6913,
+      "lng": -79.3287,
+      "location": "East York",
       "approximate": true
     },
     {
@@ -51,18 +87,6 @@
       "lat": 43.7731,
       "lng": -79.2578,
       "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4952986",
-      "source": "citynews",
-      "title": "Woman dead after single-vehicle crash near Oshawa",
-      "summary": "A woman is dead following a single-vehicle crash near Oshawa.",
-      "link": "https://toronto.citynews.ca/2026/11/01/woman-dead-after-single-vehicle-crash-near-oshawa/",
-      "ts": "2026-11-01T14:27:36+00:00",
-      "lat": 43.8971,
-      "lng": -78.8658,
-      "location": "Oshawa",
       "approximate": true
     },
     {
@@ -99,18 +123,6 @@
       "lat": 43.7315,
       "lng": -79.7624,
       "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7403468",
-      "source": "cbc",
-      "title": "Is this Toronto's spookiest street? Meet the skeleton's of Pape Avenue",
-      "summary": "Houses along Pape Avenue, north of Queen East, are covered in skeletons posing in grand, creative, larger-than-life displays. CBC's Haydn Watters finds why the neighbourhood is so obsessed with skulls and bones.",
-      "link": "https://www.cbc.ca/player/play/9.7403468?cmp=rss",
-      "ts": "2026-10-31T08:00:00+00:00",
-      "lat": 43.670004,
-      "lng": -79.3411995,
-      "location": "Pape Avenue",
       "approximate": true
     }
   ]
