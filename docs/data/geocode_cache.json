@@ -374,5 +374,19 @@
     "lat": 43.685766,
     "lng": -79.5133419
   },
-  "st:buttonwood ave|ln 1 w jane n emmett|york": null
+  "st:buttonwood ave|ln 1 w jane n emmett|york": null,
+  "xx:dundas st w|neilson dr": null,
+  "st:sumner heights dr|burleigh heights dr|north york": null,
+  "st:marlee ave|hillmount ave|north york": null,
+  "fsa2:M8V": null,
+  "fsa2:M6L": null,
+  "st:jane st|shoreham dr|north york": {
+    "lat": 43.7689691,
+    "lng": -79.5205825
+  },
+  "st:bellwoods ave|robinson st|toronto": null,
+  "st:st clair ave|kennedy rd|scarborough": {
+    "lat": 43.7168097,
+    "lng": -79.2612285
+  }
 }
