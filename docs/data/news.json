@@ -1,10 +1,58 @@
 {
-  "generated": "2026-11-03T16:05:38.932545+00:00",
+  "generated": "2026-11-03T21:47:55.804407+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7407678",
+      "source": "cbc",
+      "title": "Arrests made in protests of Bloor Street bike lane removal intended to quell dissent, lawyers allege",
+      "summary": "Four people arrested last month during protests against the removal of Etobicoke bike lanes and their lawyers say Toronto police laid \"heavy-handed criminal charges\" against them to deter future protests \u2014 an allegation the police service refutes.",
+      "link": "https://www.cbc.ca/news/canada/toronto/bike-lane-removal-protest-arrestees-lawyers-speak-out-9.7407678?cmp=rss",
+      "ts": "2026-11-03T21:27:24+00:00",
+      "lat": 43.6732614,
+      "lng": -79.3691736,
+      "location": "Bloor Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4954573",
+      "source": "citynews",
+      "title": "Man arrested for allegedly assaulting parking enforcement officer in downtown Toronto",
+      "summary": "Toronto police have arrested a man after he allegedly assaulted a parking enforcement officer in downtown Toronto on Monday. Police responded to a call for an assault on a peace officer in the area of Queen Street East and Victoria Street around 9:30 a.m. The victim, a parking enforcement officer, was followed by a man [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/03/man-arrested-for-allegedly-assaulting-parking-enforcement-officer-in-downtown-toronto-2/",
+      "ts": "2026-11-03T20:48:57+00:00",
+      "lat": 43.7748001,
+      "lng": -79.5182714,
+      "location": "Queen Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4954423",
+      "source": "citynews",
+      "title": "Lawyer for arrested bike lane protestors says release conditions violated Charter rights",
+      "summary": "A lawyer for four people who were arrested and charged while protesting the province&#8217;s removal of bike lanes on Bloor Street West in Etobicoke says their Charter rights were violated by the release conditions set by the Toronto Police Service (TPS). Attorney Leora Smith, of Community Justice Collective, says the accused were handed an ultimatum [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/03/toronto-bike-lanes-protests-etobicoke-arrests-lawyer/",
+      "ts": "2026-11-03T18:43:31+00:00",
+      "lat": 43.6732614,
+      "lng": -79.3691736,
+      "location": "Bloor Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4954422",
+      "source": "citynews",
+      "title": "Toronto police investigating second report of pins found in Halloween candy",
+      "summary": "Toronto police say they are investigating two separate reports of sewing needles and pins being discovered in Halloween candy collected by children while trick-or-treating in the city&#8217;s east end. In an update Tuesday, investigators said the incidents involve candy collected on Halloween night in two neighbourhoods: the Upper Beaches and in Leslieville. In the first [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/03/toronto-police-halloween-candy-pins-needles/",
+      "ts": "2026-11-03T17:46:14+00:00",
+      "lat": 43.6631,
+      "lng": -79.3287,
+      "location": "Leslieville",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7407060",
       "source": "cbc",
@@ -15,30 +63,6 @@
       "lat": 43.8384,
       "lng": -79.0868,
       "location": "Pickering",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4954232",
-      "source": "citynews",
-      "title": "Road worker killed after being struck by dump truck in Pickering",
-      "summary": "A 31-year-old road worker has died after being struck by a reversing dump truck at a road construction site in Pickering, Durham police say. Officers were called to the area of Peter Matthews Drive and Alexander Knox Drive at approximately 2:40 p.m. on Monday for a pedestrian-involved collision. According to police, asphalt repair work was [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/03/pickering-road-worker-dead-dump-truck-collision/",
-      "ts": "2026-11-03T13:25:24+00:00",
-      "lat": 43.8384,
-      "lng": -79.0868,
-      "location": "Pickering",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4954136",
-      "source": "citynews",
-      "title": "Former Alberta junior hockey executive charged with sex offences against players",
-      "summary": "A former junior hockey executive in Alberta has been charged with sexually exploiting three players. Tyler King, 39, was arrested Friday at a U.S. border crossing in Ontario, RCMP announced Monday. He had been working with the State University of New York campus at Oswego in New York state. RCMP said the 39-year-old is to [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/03/canada-alberta-junior-hockey-executive-charged/",
-      "ts": "2026-11-03T10:20:37+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
       "approximate": true
     },
     {
@@ -56,7 +80,7 @@
     {
       "id": "news_cbc_9.7406776",
       "source": "cbc",
-      "title": "Man dead, SIU investigating after overnight incident at U of T Mississauga: police",
+      "title": "Man dead, SIU investigating after incident at U of T Mississauga: police",
       "summary": "Police say one person has been found dead and a shelter-in-place order that was issued late Monday has been lifted after officers responded to a dangerous weapons call at a University of Toronto dormitory in Mississauga.",
       "link": "https://www.cbc.ca/news/canada/toronto/police-activity-utm-student-residence-9.7406776?cmp=rss",
       "ts": "2026-11-03T03:36:58+00:00",
@@ -68,9 +92,9 @@
     {
       "id": "news_cbc_9.7406695",
       "source": "cbc",
-      "title": "Hundreds of food delivery drivers protest downtown to demand dignity, fair pay from employers",
+      "title": "Hundreds of food delivery drivers protest downtown to demand dignity, fair pay from companies",
       "summary": "Hundreds of delivery drivers gathered at a protest in downtown Toronto on Monday to demand that their employers provide dignity and fair pay.",
-      "link": "https://www.cbc.ca/news/canada/toronto/hundreds-of-food-delivery-drivers-protest-downtown-to-demand-dignity-fair-pay-from-employers-9.7406695?cmp=rss",
+      "link": "https://www.cbc.ca/news/canada/toronto/hundreds-of-food-delivery-drivers-protest-downtown-to-demand-dignity-fair-pay-from-companies-9.7406695?cmp=rss",
       "ts": "2026-11-03T02:31:22+00:00",
       "lat": 43.6532,
       "lng": -79.3832,
