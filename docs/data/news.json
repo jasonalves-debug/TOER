@@ -1,10 +1,82 @@
 {
-  "generated": "2026-11-03T01:09:55.397095+00:00",
+  "generated": "2026-11-03T07:57:24.016903+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953937",
+      "source": "citynews",
+      "title": "Child dies of measles in New York\u2019s first such death in 30 years",
+      "summary": "LOWVILLE, N.Y. (AP) \u2014 A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years, state officials announced Monday.",
+      "link": "https://toronto.citynews.ca/2026/11/02/child-dies-of-measles-in-new-yorks-first-such-death-in-30-years/",
+      "ts": "2026-11-03T03:37:27+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7406776",
+      "source": "cbc",
+      "title": "Incident at University of Toronto Mississauga campus 'contained' to single residential unit, police say",
+      "summary": "Peel police say an incident at the University of Toronto Mississauga campus has been \"contained\" to a single residential unit after students were told to shelter in place on Monday night.",
+      "link": "https://www.cbc.ca/news/canada/toronto/police-activity-utm-student-residence-9.7406776?cmp=rss",
+      "ts": "2026-11-03T03:36:58+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953927",
+      "source": "citynews",
+      "title": "Police \u2018resolve\u2019 shelter-in-place order at University of Toronto Mississauga",
+      "summary": "The University of Toronto issued a shelter-in-place order for its Mississauga campus on Monday night, citing reports of police activity at a student residence hall. The safety alert was posted to the university\u2019s website just after 9:30 p.m. Peel Regional Police (PRP) told CityNews the initial 911 call indicated that a person was barricaded inside [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/02/university-of-toronto-issues-shelter-in-place-order-for-mississauga-campus/",
+      "ts": "2026-11-03T03:14:27+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7406695",
+      "source": "cbc",
+      "title": "Hundreds of food delivery drivers protest downtown to demand dignity, fair pay from employers",
+      "summary": "Hundreds of delivery drivers gathered at a protest in downtown Toronto on Monday to demand that their employers provide dignity and fair pay.",
+      "link": "https://www.cbc.ca/news/canada/toronto/hundreds-of-food-delivery-drivers-protest-downtown-to-demand-dignity-fair-pay-from-employers-9.7406695?cmp=rss",
+      "ts": "2026-11-03T02:31:22+00:00",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "location": "Downtown Toronto",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953912",
+      "source": "citynews",
+      "title": "More than a meal: Seva Kitchen Canada builds community at Allan Gardens",
+      "summary": "Every Sunday at noon, volunteers with Seva Kitchen Canada arrive at Allan Gardens in downtown Toronto to serve fresh, hot meals. For those who gather, the weekly service also offers familiar faces, friendship and a sense of belonging. For more than 17 years, the volunteer-run initiative has supported people facing food insecurity and loneliness. Volunteers [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/02/more-than-a-meal-seva-kitchen-canada-builds-community-at-allan-gardens/",
+      "ts": "2026-11-03T02:00:32+00:00",
+      "lat": 43.661712,
+      "lng": -79.3744096,
+      "location": "Allan Gardens",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4953865",
+      "source": "citynews",
+      "title": "Concerns raised over excessive crowding, safety at Toronto Halloween on Church Street event",
+      "summary": "The Halloween on Church Street event in Toronto sees a large number of people gather downtown, but this year's event raised multiple issues.",
+      "link": "https://toronto.citynews.ca/2026/11/02/halloween-on-church-street-toronto-2026/",
+      "ts": "2026-11-03T01:43:31+00:00",
+      "lat": 43.6721488,
+      "lng": -79.3852925,
+      "location": "Church Street",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4953872",
       "source": "citynews",
@@ -40,30 +112,6 @@
       "lng": -79.3814966,
       "location": "Church Street & Gloucester Street",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4953702",
-      "source": "citynews",
-      "title": "Man accused of robbing lottery tickets from Vaughan gas station arrested",
-      "summary": "York Regional Police have arrested a man in connection with a commercial robbery investigation in Vaughan. Officers were called to the area of Yonge Street and Steeles Avenue West on Oct. 24 for reports of a robbery at a gas station. According to detectives, a suspect allegedly entered the store, pushed an employee and fled [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/02/man-accused-of-robbing-lottery-tickets-from-vaughan-gas-station-arrested/",
-      "ts": "2026-11-02T20:33:29+00:00",
-      "lat": 43.7445449,
-      "lng": -79.4068969,
-      "location": "Yonge Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4953681",
-      "source": "citynews",
-      "title": "Durham police investigating after home, vehicles damaged by gunfire in Pickering",
-      "summary": "Durham police are investigating after a home and two vehicles were hit by gunfire in Pickering on Sunday. Officers responded to a call for gunfire in the area of Shadybrook Drive and Edgewood Road around 8:25 p.m. The victim reported hearing multiple shots outside their home and called police. When officers arrived they found several [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/02/durham-police-investigating-after-home-vehicles-damaged-by-gunfire-in-pickering/",
-      "ts": "2026-11-02T20:25:54+00:00",
-      "lat": 43.8384,
-      "lng": -79.0868,
-      "location": "Pickering",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7406086",
@@ -111,18 +159,6 @@
       "lat": 43.6913,
       "lng": -79.3287,
       "location": "East York",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7404287",
-      "source": "cbc",
-      "title": "Carney calls December byelection for Scarborough North, 5 other ridings in Canada",
-      "summary": "Prime Minister Mark Carney has called byelections for a total of six ridings located in Saskatchewan, Ontario and Quebec that will give the Liberals a chance to strengthen their thin majority in the House of Commons.",
-      "link": "https://www.cbc.ca/news/politics/carney-byelections-saskatchewan-ontario-quebec-9.7404287?cmp=rss",
-      "ts": "2026-11-01T14:35:58+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
       "approximate": true
     },
     {
