@@ -363,5 +363,16 @@
   "st:st george st|hoskin ave|toronto": {
     "lat": 43.6639034,
     "lng": -79.3982789
-  }
+  },
+  "st:hiawatha rd|ln n gerrard e woodfield|toronto": null,
+  "xx:finch ave e|yonge st": {
+    "lat": 43.7803128,
+    "lng": -79.4155132
+  },
+  "fsa2:M5J": null,
+  "xx:richview rd|scarlett rd": {
+    "lat": 43.685766,
+    "lng": -79.5133419
+  },
+  "st:buttonwood ave|ln 1 w jane n emmett|york": null
 }
