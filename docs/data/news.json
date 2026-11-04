@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T02:00:13.699159+00:00",
+  "generated": "2026-11-04T09:00:14.765576+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
@@ -63,18 +63,6 @@
       "lat": 43.7748001,
       "lng": -79.5182714,
       "location": "Queen Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4954423",
-      "source": "citynews",
-      "title": "Lawyer for arrested bike lane protestors says release conditions violated Charter rights",
-      "summary": "A lawyer for four people who were arrested and charged while protesting the province&#8217;s removal of bike lanes on Bloor Street West in Etobicoke says their Charter rights were violated by the release conditions set by the Toronto Police Service (TPS). Leora Smith, of Community Justice Collective, says the accused were handed an ultimatum when [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/03/toronto-bike-lanes-protests-etobicoke-arrests-lawyer/",
-      "ts": "2026-11-03T18:43:31+00:00",
-      "lat": 43.6732614,
-      "lng": -79.3691736,
-      "location": "Bloor Street",
       "approximate": true
     },
     {

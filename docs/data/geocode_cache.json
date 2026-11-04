@@ -402,5 +402,14 @@
   "st:wilson ave|jane st|north york": {
     "lat": 43.7212502,
     "lng": -79.5084852
+  },
+  "st:baby point rd|l'estrange pl|york": null,
+  "st:sheppard ave|don mills rd|north york": {
+    "lat": 43.7756567,
+    "lng": -79.3470322
+  },
+  "st:sherbourne st|isabella st|toronto": {
+    "lat": 43.6695379,
+    "lng": -79.3760623
   }
 }
