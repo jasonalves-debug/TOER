@@ -1,10 +1,118 @@
 {
-  "generated": "2026-11-04T17:07:07.409400+00:00",
+  "generated": "2026-11-04T22:38:47.279082+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7409547",
+      "source": "cbc",
+      "title": "Incoming Mississauga mayor pushes for provincial funding during first Queen's Park visit",
+      "summary": "During his first visit to Queen's Park since being elected mayor of Mississauga, Alvin Tedjo says he's pushing for more financial support from the province to help him address some key priorities.",
+      "link": "https://www.cbc.ca/news/canada/toronto/mississauga-mayor-elect-alvin-tedjo-visits-queen-s-park-in-funding-push-9.7409547?cmp=rss",
+      "ts": "2026-11-04T22:21:19+00:00",
+      "lat": 43.6631,
+      "lng": -79.3903,
+      "location": "Queen'S Park",
+      "approximate": false
+    },
+    {
+      "id": "news_cbc_9.7409497",
+      "source": "cbc",
+      "title": "Ex-secretary of Serbian Orthodox Diocese of Canada charged with fraud over missing $200K: Halton police",
+      "summary": "The ex-secretary of the Serbian Orthodox Diocese of Canada, located in Milton, Ont., has been arrested and charged with fraud after a police investigation found over $200,000 went missing from the diocese.",
+      "link": "https://www.cbc.ca/news/canada/toronto/serbian-orthodox-diocese-fraud-200k-9.7409497?cmp=rss",
+      "ts": "2026-11-04T20:51:47+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955772",
+      "source": "citynews",
+      "title": "At least one person dead, QEW fully closed in Niagara Falls crash involving tractor trailer",
+      "summary": "At least one person has died and the Queen Elizabeth Way (QEW) is closed in both directions following a three-vehicle crash in Niagara Falls. Ontario Provincial Police (OPP) say the crash, which involved a tractor trailer, happened between Thorold Stone Road and Mountain Road Wednesday afternoon. One person has been pronounced dead while others are [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/04/at-least-one-person-killed-qew-fully-closed-in-niagara-falls-crash-involving-tractor-trailer/",
+      "ts": "2026-11-04T20:35:57+00:00",
+      "lat": 43.6174906,
+      "lng": -79.5269202,
+      "location": "Queen Elizabeth Way",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955739",
+      "source": "citynews",
+      "title": "TTC adjusting service on Queen St. E. for streetcar track renewal, sewer rehabilitation work",
+      "summary": "The TTC says it is adjusting service along Queen St. E. to accommodate the renewal of aging streetcar tracks and sewer rehabilitation work. Preliminary rail welding work is already underway between Leslie and Laing streets, with 501/301 Queen streetcars diverting via Gerrard Street East between Broadview and Coxwell avenues. Replacement 501B/301B Queen and 503 Kingston [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/04/ttc-adjusting-service-on-queen-st-e-for-streetcar-track-renewal-sewer-rehabilitation-work/",
+      "ts": "2026-11-04T20:15:00+00:00",
+      "lat": 43.7748001,
+      "lng": -79.5182714,
+      "location": "Queen St",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7409208",
+      "source": "cbc",
+      "title": "Early childhood educators call out Ontario over wage freeze, while child care capped at $22 until 2027",
+      "summary": "Early childhood educators called out the Ford government at Queen's Park Wednesday after a recent memo revealed a wage floor freeze and that workers will not receive an expected annual $1-per-hour increase in 2027.",
+      "link": "https://www.cbc.ca/news/canada/toronto/early-childhood-educators-queens-park-wage-freeze-9.7409208?cmp=rss",
+      "ts": "2026-11-04T19:45:47+00:00",
+      "lat": 43.6631,
+      "lng": -79.3903,
+      "location": "Queen'S Park",
+      "approximate": false
+    },
+    {
+      "id": "news_cbc_9.7409341",
+      "source": "cbc",
+      "title": "Man dead following industrial incident in Scarborough: police",
+      "summary": "A man is dead after an industrial incident that happened just before noon Wednesday near McNicoll Avenue and Tapscott Road, Toronto police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/man-dead-industrial-incident-9.7409341?cmp=rss",
+      "ts": "2026-11-04T19:36:33+00:00",
+      "lat": 43.8031629,
+      "lng": -79.3432147,
+      "location": "McNicoll Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955622",
+      "source": "citynews",
+      "title": "Man dies following incident involving construction equipment in Scarborough",
+      "summary": "A man is dead after being injured by construction equipment in Scarborough, police say. Toronto police and paramedics responded to the area of McNicoll Avenue and Tapscott Road, near Markham Road and Steeles Avenue, just before noon on Wednesday. Investigators say the 54-year-old man was attempting to make repairs on his tractor-trailer in a supply [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/04/scarborough-industrial-accident-fatality/",
+      "ts": "2026-11-04T18:28:00+00:00",
+      "lat": 43.8031629,
+      "lng": -79.3432147,
+      "location": "McNicoll Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7409036",
+      "source": "cbc",
+      "title": "'There's no 2.0': Ford dismisses Toronto's bid for new funding agreement",
+      "summary": "Ontario Premier Doug Ford says he won't be signing a formal new funding agreement with the City of Toronto, even as city hall pitches for long-term help from Queen's Park. Ford, however, did signal some money could be unlocked for public safety.",
+      "link": "https://www.cbc.ca/news/canada/toronto/doug-ford-toronto-new-deal-rejection-9.7409036?cmp=rss",
+      "ts": "2026-11-04T18:20:08+00:00",
+      "lat": 43.6631,
+      "lng": -79.3903,
+      "location": "Queen'S Park",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955636",
+      "source": "citynews",
+      "title": "First Nations Bank gets $15M investment from Mississaugas of the Credit First Nation",
+      "summary": "TORONTO \u2014 First Nations Bank of Canada has announced a $15-million investment by the Mississaugas of the Credit First Nation.",
+      "link": "https://toronto.citynews.ca/2026/11/04/first-nations-bank-gets-15m-investment-from-mississaugas-of-the-credit-first-nation/",
+      "ts": "2026-11-04T18:00:04+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4955439",
       "source": "citynews",
@@ -15,66 +123,6 @@
       "lat": 43.6896,
       "lng": -79.4759,
       "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4955435",
-      "source": "citynews",
-      "title": "Woman, 12-year-old charged after Air Cadet supervisor suffers \u2018life-altering\u2019 injuries in Hamilton assault",
-      "summary": "A Hamilton man suffered life-altering injuries after confronting two youths accused of blasting an air horn into the ears of Air Cadets selling Remembrance Day poppies at a local mall, police say. Officers were called to Centre Mall, located at 1223 Barton St. E., at approximately 1:45 p.m. on Sunday, Nov. 1, following reports of [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/04/hamilton-assault-cadet-poppies-mall-youth-charged/",
-      "ts": "2026-11-04T15:43:38+00:00",
-      "lat": 43.6680433,
-      "lng": -79.4122495,
-      "location": "Barton St",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4955384",
-      "source": "citynews",
-      "title": "\u2018We\u2019re scared\u2019: Residents concerned over falling glass from Vaughan condo building",
-      "summary": "A recurring problem of falling glass from a high-rise condominium complex in Vaughan has residents concerned, as property management, along with the developer, race to determine the cause. Residents say since the opening of the D&#8217;Or Condos, located in the New Westminster Drive and Centre Street area near Thornhill City Centre in 2023, there have [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/04/vaughan-condo-dors-falling-glass/",
-      "ts": "2026-11-04T15:08:26+00:00",
-      "lat": 43.7900776,
-      "lng": -79.4572864,
-      "location": "New Westminster Drive",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4955426",
-      "source": "citynews",
-      "title": "Cornell rape investigation will be led by a former prosecutor in the Sean \u2018Diddy\u2019 Combs case",
-      "summary": "NEW YORK (AP) \u2014 A reopened criminal investigation into gang rape allegations at Cornell University will be led by a former Manhattan federal prosecutor who oversaw high-profile sex crimes cases against music mogul Sean \u201cDiddy\u201d Combs and fashion executive Peter Nyg\u00e5rd, New York Attorney General Letitia James announced on Wednesday.",
-      "link": "https://toronto.citynews.ca/2026/11/04/cornell-rape-investigation-will-be-led-by-a-former-prosecutor-in-the-sean-diddy-combs-case/",
-      "ts": "2026-11-04T15:02:56+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4955406",
-      "source": "citynews",
-      "title": "Toronto man arrested after trying to force his way into woman\u2019s home in Scarborough: police",
-      "summary": "Toronto police have arrested a man in connection with a criminal harassment investigation stemming from an incident in Scarborough earlier this week. Police say a woman noticed an unknown man allegedly following her home in the Warden Avenue and Danforth Road area on Monday. He then allegedly tried to force his way into her home but [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/04/toronto-man-arrested-after-trying-to-force-his-way-into-womans-home-in-scarborough-police/",
-      "ts": "2026-11-04T14:49:46+00:00",
-      "lat": 43.7200717,
-      "lng": -79.284397,
-      "location": "Warden Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4955350",
-      "source": "citynews",
-      "title": "Motorcyclist seriously injured in crash with another vehicle in Mississauga",
-      "summary": "A motorcycle rider is seriously injured following a collision with another vehicle in Mississauga. Emergency crews were called to the area of Dundas Street East and Haines Road near Cawthra Road just before 6 a.m. on Wednesday. Paramedics said they transported a man to hospital with serious, life-threating injuries. In an update, police said the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/04/mississauga-crash-motorcycle-dundas-haines/",
-      "ts": "2026-11-04T12:29:03+00:00",
-      "lat": 43.6565147,
-      "lng": -79.3810752,
-      "location": "Dundas Street",
       "approximate": true
     },
     {
@@ -114,30 +162,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7407060",
-      "source": "cbc",
-      "title": "Road worker dead after being struck by dump truck in Pickering: police",
-      "summary": "A road worker has died after being struck by a dump truck in Pickering, Ont., Monday, Durham police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/road-worker-dies-pickering-dump-truck-9.7407060?cmp=rss",
-      "ts": "2026-11-03T14:55:22+00:00",
-      "lat": 43.8384,
-      "lng": -79.0868,
-      "location": "Pickering",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7406275",
-      "source": "cbc",
-      "title": "Toronto hoping to negotiate new deal with Ontario amid financial uncertainty",
-      "summary": "Fresh from her election victory, Toronto Mayor Olivia Chow is preparing to try and convince Ontario Premier Doug Ford to sign a new agreement with her city. Toronto officials are hoping for a deal with the province that includes long-term funding for city hall.",
-      "link": "https://www.cbc.ca/news/canada/toronto/toronto-ontario-new-deal-negotiations-9.7406275?cmp=rss",
-      "ts": "2026-11-03T09:00:00+00:00",
-      "lat": 43.6534,
-      "lng": -79.3841,
-      "location": "City Hall",
-      "approximate": false
-    },
-    {
       "id": "news_cbc_9.7406776",
       "source": "cbc",
       "title": "Man dead, SIU investigating after incident at U of T Mississauga: police",
@@ -148,18 +172,6 @@
       "lng": -79.3957,
       "location": "U Of T",
       "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7406695",
-      "source": "cbc",
-      "title": "Hundreds of food delivery drivers protest downtown to demand dignity, fair pay from companies",
-      "summary": "Hundreds of delivery drivers gathered at a protest in downtown Toronto on Monday to demand that their employers provide dignity and fair pay.",
-      "link": "https://www.cbc.ca/news/canada/toronto/hundreds-of-food-delivery-drivers-protest-downtown-to-demand-dignity-fair-pay-from-companies-9.7406695?cmp=rss",
-      "ts": "2026-11-03T02:31:22+00:00",
-      "lat": 43.6532,
-      "lng": -79.3832,
-      "location": "Downtown Toronto",
-      "approximate": true
     }
   ]
 }

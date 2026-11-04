@@ -415,5 +415,17 @@
   "st:kelvinway dr|adencliff rd|scarborough": null,
   "st:tapscott rd|ironside cres|scarborough": null,
   "st:borough dr|progress ave|scarborough": null,
-  "st:sheppard ave|silver maple gt|scarborough": null
+  "st:sheppard ave|silver maple gt|scarborough": null,
+  "xx:weston rd|lawrence ave w": {
+    "lat": 43.7003042,
+    "lng": -79.5159712
+  },
+  "st:college st|euclid ave|toronto": null,
+  "fsa2:M1X": null,
+  "st:parliament st|aberdeen ave|toronto": {
+    "lat": 43.6652497,
+    "lng": -79.3682816
+  },
+  "fsa2:M6G": null,
+  "xx:varley lane|royal york rd": null
 }
