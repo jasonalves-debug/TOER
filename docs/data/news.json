@@ -1,20 +1,80 @@
 {
-  "generated": "2026-11-04T09:00:14.765576+00:00",
+  "generated": "2026-11-04T17:07:07.409400+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4954754",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955439",
       "source": "citynews",
-      "title": "Pedestrian in hospital after being hit by a car in downtown Toronto",
-      "summary": "A pedestrian was transported to a hospital Tuesday evening after being hit by a car in downtown Toronto, paramedics said. Emergency crews were called to Mount Pleasant and Bloor Street East just after 7 p.m. for reports of a pedestrian struck. One man was brought to a trauma centre with serious, but non-life-threatening injuries.",
-      "link": "https://toronto.citynews.ca/2026/11/03/pedestrian-in-hospital-after-being-hit-by-a-car-in-downtown-toronto/",
-      "ts": "2026-11-04T00:35:36+00:00",
-      "lat": 43.6732614,
-      "lng": -79.3691736,
-      "location": "Bloor Street",
+      "title": "23 charged, $7.5M in drugs seized in cannabis trafficking bust: York police",
+      "summary": "York Regional Police say they have seized $7.5 million worth of drugs after an investigation into a criminal group allegedly involved in a wide-ranging operation of producing, trafficking and exporting illegal cannabis. The investigation, dubbed project North Star, was led by York Regional Police&#8217;s Complex Investigation Unit in collaboration with the London Police Service, Ontario [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/04/york-police-cannabis-trafficking-drug-bust/",
+      "ts": "2026-11-04T16:24:46+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955435",
+      "source": "citynews",
+      "title": "Woman, 12-year-old charged after Air Cadet supervisor suffers \u2018life-altering\u2019 injuries in Hamilton assault",
+      "summary": "A Hamilton man suffered life-altering injuries after confronting two youths accused of blasting an air horn into the ears of Air Cadets selling Remembrance Day poppies at a local mall, police say. Officers were called to Centre Mall, located at 1223 Barton St. E., at approximately 1:45 p.m. on Sunday, Nov. 1, following reports of [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/04/hamilton-assault-cadet-poppies-mall-youth-charged/",
+      "ts": "2026-11-04T15:43:38+00:00",
+      "lat": 43.6680433,
+      "lng": -79.4122495,
+      "location": "Barton St",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955384",
+      "source": "citynews",
+      "title": "\u2018We\u2019re scared\u2019: Residents concerned over falling glass from Vaughan condo building",
+      "summary": "A recurring problem of falling glass from a high-rise condominium complex in Vaughan has residents concerned, as property management, along with the developer, race to determine the cause. Residents say since the opening of the D&#8217;Or Condos, located in the New Westminster Drive and Centre Street area near Thornhill City Centre in 2023, there have [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/04/vaughan-condo-dors-falling-glass/",
+      "ts": "2026-11-04T15:08:26+00:00",
+      "lat": 43.7900776,
+      "lng": -79.4572864,
+      "location": "New Westminster Drive",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955426",
+      "source": "citynews",
+      "title": "Cornell rape investigation will be led by a former prosecutor in the Sean \u2018Diddy\u2019 Combs case",
+      "summary": "NEW YORK (AP) \u2014 A reopened criminal investigation into gang rape allegations at Cornell University will be led by a former Manhattan federal prosecutor who oversaw high-profile sex crimes cases against music mogul Sean \u201cDiddy\u201d Combs and fashion executive Peter Nyg\u00e5rd, New York Attorney General Letitia James announced on Wednesday.",
+      "link": "https://toronto.citynews.ca/2026/11/04/cornell-rape-investigation-will-be-led-by-a-former-prosecutor-in-the-sean-diddy-combs-case/",
+      "ts": "2026-11-04T15:02:56+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955406",
+      "source": "citynews",
+      "title": "Toronto man arrested after trying to force his way into woman\u2019s home in Scarborough: police",
+      "summary": "Toronto police have arrested a man in connection with a criminal harassment investigation stemming from an incident in Scarborough earlier this week. Police say a woman noticed an unknown man allegedly following her home in the Warden Avenue and Danforth Road area on Monday. He then allegedly tried to force his way into her home but [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/04/toronto-man-arrested-after-trying-to-force-his-way-into-womans-home-in-scarborough-police/",
+      "ts": "2026-11-04T14:49:46+00:00",
+      "lat": 43.7200717,
+      "lng": -79.284397,
+      "location": "Warden Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4955350",
+      "source": "citynews",
+      "title": "Motorcyclist seriously injured in crash with another vehicle in Mississauga",
+      "summary": "A motorcycle rider is seriously injured following a collision with another vehicle in Mississauga. Emergency crews were called to the area of Dundas Street East and Haines Road near Cawthra Road just before 6 a.m. on Wednesday. Paramedics said they transported a man to hospital with serious, life-threating injuries. In an update, police said the [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/04/mississauga-crash-motorcycle-dundas-haines/",
+      "ts": "2026-11-04T12:29:03+00:00",
+      "lat": 43.6565147,
+      "lng": -79.3810752,
+      "location": "Dundas Street",
       "approximate": true
     },
     {
@@ -51,18 +111,6 @@
       "lat": 43.6732614,
       "lng": -79.3691736,
       "location": "Bloor Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4954573",
-      "source": "citynews",
-      "title": "Man arrested for allegedly assaulting parking enforcement officer in downtown Toronto",
-      "summary": "Toronto police have arrested a man after he allegedly assaulted a parking enforcement officer in downtown Toronto on Monday. Police responded to a call for an assault on a peace officer in the area of Queen Street East and Victoria Street around 9:30 a.m. The victim, a parking enforcement officer, was followed by a man [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/03/man-arrested-for-allegedly-assaulting-parking-enforcement-officer-in-downtown-toronto-2/",
-      "ts": "2026-11-03T20:48:57+00:00",
-      "lat": 43.7748001,
-      "lng": -79.5182714,
-      "location": "Queen Street",
       "approximate": true
     },
     {
@@ -112,30 +160,6 @@
       "lng": -79.3832,
       "location": "Downtown Toronto",
       "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7406086",
-      "source": "cbc",
-      "title": "Man charged in 401 crash in Mississauga that left 2 dead in July, OPP says",
-      "summary": "A Mississauga man has been charged in a crash on Highway 401 that left two people dead and three injured in July, Ontario Provincial Police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/mississauga-man-charged-fatal-highway-401-crash-9.7406086?cmp=rss",
-      "ts": "2026-11-02T19:53:34+00:00",
-      "lat": 43.6911749,
-      "lng": -79.569902,
-      "location": "Highway 401",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7405992",
-      "source": "cbc",
-      "title": "Inside man or scapegoat? Defence, prosecutors make closing submissions in Pearson airport gold heist trial",
-      "summary": "Was a then-Air Canada employee an inside man who helped carry out one of the biggest gold heists in Canadian history, or a scapegoat exploited by a longtime friend? Those were the two competing scenarios presented to a Brampton, Ont., court Monday as prosecutors and defence lawyers made their closing submissions in the trial of Parmpal Sidhu.",
-      "link": "https://www.cbc.ca/news/canada/toronto/defence-prosecutors-closing-arguments-pearson-airport-gold-heist-9.7405992?cmp=rss",
-      "ts": "2026-11-02T19:09:56+00:00",
-      "lat": 43.6777,
-      "lng": -79.6248,
-      "location": "Pearson Airport",
-      "approximate": false
     }
   ]
 }

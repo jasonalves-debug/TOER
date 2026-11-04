@@ -411,5 +411,9 @@
   "st:sherbourne st|isabella st|toronto": {
     "lat": 43.6695379,
     "lng": -79.3760623
-  }
+  },
+  "st:kelvinway dr|adencliff rd|scarborough": null,
+  "st:tapscott rd|ironside cres|scarborough": null,
+  "st:borough dr|progress ave|scarborough": null,
+  "st:sheppard ave|silver maple gt|scarborough": null
 }
