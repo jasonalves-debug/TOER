@@ -396,5 +396,11 @@
     "lat": 43.6478273,
     "lng": -79.3833728
   },
-  "st:rostrevor rd|dewbourne ave|york": null
+  "st:rostrevor rd|dewbourne ave|york": null,
+  "st:woolner ave|rockcliffe blvd|york": null,
+  "st:victoria park ave|york mills rd|scarborough": null,
+  "st:wilson ave|jane st|north york": {
+    "lat": 43.7212502,
+    "lng": -79.5084852
+  }
 }

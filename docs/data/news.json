@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-03T21:47:55.804407+00:00",
+  "generated": "2026-11-04T02:00:13.699159+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4954754",
+      "source": "citynews",
+      "title": "Pedestrian in hospital after being hit by a car in downtown Toronto",
+      "summary": "A pedestrian was transported to a hospital Tuesday evening after being hit by a car in downtown Toronto, paramedics said. Emergency crews were called to Mount Pleasant and Bloor Street East just after 7 p.m. for reports of a pedestrian struck. One man was brought to a trauma centre with serious, but non-life-threatening injuries.",
+      "link": "https://toronto.citynews.ca/2026/11/03/pedestrian-in-hospital-after-being-hit-by-a-car-in-downtown-toronto/",
+      "ts": "2026-11-04T00:35:36+00:00",
+      "lat": 43.6732614,
+      "lng": -79.3691736,
+      "location": "Bloor Street",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7408073",
+      "source": "cbc",
+      "title": "Specialty food bank that caters to Durham Region residents looking for home indoors",
+      "summary": "A food bank that caters to residents in Durham Region with complex health and dietary needs is looking for a new home indoors.",
+      "link": "https://www.cbc.ca/news/canada/toronto/whitby-specialty-food-bank-need-indoor-home-9.7408073?cmp=rss",
+      "ts": "2026-11-04T00:06:19+00:00",
+      "lat": 43.9,
+      "lng": -78.9,
+      "location": "Durham Region",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7408167",
+      "source": "cbc",
+      "title": "Why Mississauga, Brampton residents should care about the U.S. midterms",
+      "summary": "With Americans heading to the polls Tuesday, CBC\u2019s Nav Nanwa examines how the U.S. midterm results could ripple through Peel\u2019s automotive and steel sectors.",
+      "link": "https://www.cbc.ca/player/play/9.7408167?cmp=rss",
+      "ts": "2026-11-04T00:05:42+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7407678",
       "source": "cbc",
@@ -33,24 +69,12 @@
       "id": "news_citynews_https://toronto.citynews.ca/?p=4954423",
       "source": "citynews",
       "title": "Lawyer for arrested bike lane protestors says release conditions violated Charter rights",
-      "summary": "A lawyer for four people who were arrested and charged while protesting the province&#8217;s removal of bike lanes on Bloor Street West in Etobicoke says their Charter rights were violated by the release conditions set by the Toronto Police Service (TPS). Attorney Leora Smith, of Community Justice Collective, says the accused were handed an ultimatum [&#8230;]",
+      "summary": "A lawyer for four people who were arrested and charged while protesting the province&#8217;s removal of bike lanes on Bloor Street West in Etobicoke says their Charter rights were violated by the release conditions set by the Toronto Police Service (TPS). Leora Smith, of Community Justice Collective, says the accused were handed an ultimatum when [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/03/toronto-bike-lanes-protests-etobicoke-arrests-lawyer/",
       "ts": "2026-11-03T18:43:31+00:00",
       "lat": 43.6732614,
       "lng": -79.3691736,
       "location": "Bloor Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4954422",
-      "source": "citynews",
-      "title": "Toronto police investigating second report of pins found in Halloween candy",
-      "summary": "Toronto police say they are investigating two separate reports of sewing needles and pins being discovered in Halloween candy collected by children while trick-or-treating in the city&#8217;s east end. In an update Tuesday, investigators said the incidents involve candy collected on Halloween night in two neighbourhoods: the Upper Beaches and in Leslieville. In the first [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/03/toronto-police-halloween-candy-pins-needles/",
-      "ts": "2026-11-03T17:46:14+00:00",
-      "lat": 43.6631,
-      "lng": -79.3287,
-      "location": "Leslieville",
       "approximate": true
     },
     {
@@ -124,30 +148,6 @@
       "lng": -79.6248,
       "location": "Pearson Airport",
       "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7405325",
-      "source": "cbc",
-      "title": "Man faces impaired driving charges after fiery crash in Whitby leaves woman dead",
-      "summary": "A driver is facing impaired driving charges after a fiery collision on Highway 401 on Sunday left a woman dead, police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/fatal-collision-highway-401-whitby-9.7405325?cmp=rss",
-      "ts": "2026-11-02T13:26:47+00:00",
-      "lat": 43.6911749,
-      "lng": -79.569902,
-      "location": "Highway 401",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7403101",
-      "source": "cbc",
-      "title": "Garden suite built under new Toronto city planning rules upsets neighbours",
-      "summary": "Fed up with what she calls a violation of her backyard privacy, an East York woman is going public with her campaign to have new garden suites limited to just one storey.",
-      "link": "https://www.cbc.ca/news/canada/toronto/garden-suites-city-planning-neighbours-9.7403101?cmp=rss",
-      "ts": "2026-11-02T09:00:00+00:00",
-      "lat": 43.6913,
-      "lng": -79.3287,
-      "location": "East York",
-      "approximate": true
     }
   ]
 }
