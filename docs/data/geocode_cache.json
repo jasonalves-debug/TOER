@@ -447,5 +447,11 @@
   },
   "st:zappacosta dr|vena way|north york": null,
   "fsa2:M3M": null,
-  "st:pharmacy ave|edge park ave|scarborough": null
+  "st:pharmacy ave|edge park ave|scarborough": null,
+  "st:commercial rd|laird dr|east york": {
+    "lat": 43.7082605,
+    "lng": -79.3627507
+  },
+  "st:queen st|brookmount rd|toronto": null,
+  "st:victoria st|gould st|toronto": null
 }
