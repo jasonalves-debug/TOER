@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-05T02:50:38.909193+00:00",
+  "generated": "2026-11-05T10:30:48.418766+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7409569",
+      "source": "cbc",
+      "title": "U.S.-made pipes are being installed next to Ontario's legislature as Canadian steel jobs vanish",
+      "summary": "As Canadian governments push to improve local supply chains amidst an ongoing trade war with the United States, the City of Toronto has been forced to head south of the border. Officials say only American companies make the steel pipes they are currently installing near Queen's Park.",
+      "link": "https://www.cbc.ca/news/canada/toronto/toronto-water-mains-replacement-united-states-products-9.7409569?cmp=rss",
+      "ts": "2026-11-05T09:00:00+00:00",
+      "lat": 43.6631,
+      "lng": -79.3903,
+      "location": "Queen'S Park",
+      "approximate": false
+    },
     {
       "id": "news_cbc_9.7410060",
       "source": "cbc",
@@ -81,7 +93,7 @@
       "id": "news_citynews_https://toronto.citynews.ca/?p=4955772",
       "source": "citynews",
       "title": "At least one person dead, QEW fully closed in Niagara Falls crash involving tractor trailer",
-      "summary": "At least one person has died and the Queen Elizabeth Way (QEW) is closed in both directions following a three-vehicle crash in Niagara Falls. Ontario Provincial Police (OPP) say the crash, which involved a tractor trailer, happened between Thorold Stone Road and Mountain Road Wednesday afternoon. One person has been pronounced dead while others are [&#8230;]",
+      "summary": "At least one person has died and the Queen Elizabeth Way (QEW) is closed in both directions following a three-vehicle crash in Niagara Falls. Ontario Provincial Police (OPP) say the crash, which involved a tractor trailer, happened between Thorold Stone Road and Mountain Road Wednesday afternoon. One person has been pronounced dead while one other [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/04/at-least-one-person-killed-qew-fully-closed-in-niagara-falls-crash-involving-tractor-trailer/",
       "ts": "2026-11-04T20:35:57+00:00",
       "lat": 43.6174906,
@@ -126,18 +138,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4955622",
-      "source": "citynews",
-      "title": "Man dies following incident involving construction equipment in Scarborough",
-      "summary": "A man is dead after being injured by construction equipment in Scarborough, police say. Toronto police and paramedics responded to the area of McNicoll Avenue and Tapscott Road, near Markham Road and Steeles Avenue, just before noon on Wednesday. Investigators say the 54-year-old man was attempting to make repairs on his tractor-trailer in a supply [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/04/scarborough-industrial-accident-fatality/",
-      "ts": "2026-11-04T18:28:00+00:00",
-      "lat": 43.8031629,
-      "lng": -79.3432147,
-      "location": "McNicoll Avenue",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7409036",
       "source": "cbc",
       "title": "'There's no 2.0': Ford dismisses Toronto's bid for new funding agreement",
@@ -148,18 +148,6 @@
       "lng": -79.3903,
       "location": "Queen'S Park",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4955636",
-      "source": "citynews",
-      "title": "First Nations Bank gets $15M investment from Mississaugas of the Credit First Nation",
-      "summary": "TORONTO \u2014 First Nations Bank of Canada has announced a $15-million investment by the Mississaugas of the Credit First Nation.",
-      "link": "https://toronto.citynews.ca/2026/11/04/first-nations-bank-gets-15m-investment-from-mississaugas-of-the-credit-first-nation/",
-      "ts": "2026-11-04T18:00:04+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7408073",
@@ -174,18 +162,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7408167",
-      "source": "cbc",
-      "title": "Why Mississauga, Brampton residents should care about the U.S. midterms",
-      "summary": "With Americans heading to the polls Tuesday, CBC\u2019s Nav Nanwa examines how the U.S. midterm results could ripple through Peel\u2019s automotive and steel sectors.",
-      "link": "https://www.cbc.ca/player/play/9.7408167?cmp=rss",
-      "ts": "2026-11-04T00:05:42+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7407678",
       "source": "cbc",
       "title": "Arrests made in protests of Bloor Street bike lane removal intended to quell dissent, lawyers allege",
@@ -196,18 +172,6 @@
       "lng": -79.3691736,
       "location": "Bloor Street",
       "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7406776",
-      "source": "cbc",
-      "title": "Man dead, SIU investigating after incident at U of T Mississauga: police",
-      "summary": "Police say one person has been found dead and a shelter-in-place order that was issued late Monday has been lifted after officers responded to a dangerous weapons call at a University of Toronto dormitory in Mississauga.",
-      "link": "https://www.cbc.ca/news/canada/toronto/police-activity-utm-student-residence-9.7406776?cmp=rss",
-      "ts": "2026-11-03T03:36:58+00:00",
-      "lat": 43.6629,
-      "lng": -79.3957,
-      "location": "U Of T",
-      "approximate": false
     }
   ]
 }
