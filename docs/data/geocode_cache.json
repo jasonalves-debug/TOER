@@ -453,5 +453,19 @@
     "lng": -79.3627507
   },
   "st:queen st|brookmount rd|toronto": null,
-  "st:victoria st|gould st|toronto": null
+  "st:victoria st|gould st|toronto": null,
+  "st:meadowcliffe dr|pine ridge dr|scarborough": null,
+  "st:church st|granby st|toronto": {
+    "lat": 43.6613834,
+    "lng": -79.3788736
+  },
+  "st:eppleworth rd|corvette ave|scarborough": null,
+  "st:marlington cres|chalkfarm dr|north york": null,
+  "st:queens wharf rd|fort york blvd|toronto": null,
+  "st:yonge st|bishop ave|north york": null,
+  "st:trudelle st|mccowan rd|scarborough": {
+    "lat": 43.7403928,
+    "lng": -79.2393384
+  },
+  "st:overlea blvd|charles h hiscott bdge|north york": null
 }
