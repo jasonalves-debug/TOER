@@ -467,5 +467,15 @@
     "lat": 43.7403928,
     "lng": -79.2393384
   },
-  "st:overlea blvd|charles h hiscott bdge|north york": null
+  "st:overlea blvd|charles h hiscott bdge|north york": null,
+  "st:daleberry pl|york mills rd|north york": {
+    "lat": 43.7482036,
+    "lng": -79.3768882
+  },
+  "st:heydon park rd|ln n st annes w heydon park|toronto": null,
+  "xx:bloor st w|brock ave": {
+    "lat": 43.6591398,
+    "lng": -79.4388054
+  },
+  "st:snowcrest ave|unicorn ave|north york": null
 }

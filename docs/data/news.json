@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-06T05:45:10.208941+00:00",
+  "generated": "2026-11-06T13:16:39.380044+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957134",
+      "source": "citynews",
+      "title": "2-alarm fire at North York home under construction displaces multiple residents",
+      "summary": "A two-alarm fire at a home under construction in North York spread to neighbouring properties and displaced five residents early Friday morning. Toronto Fire Services crews were called to an address on Daleberry Place, in the York Mills Road and Bayview Avenue area, at approximately 2 a.m. after receiving reports of a house fire. When [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/06/north-york-two-alarm-fire-homes-damaged/",
+      "ts": "2026-11-06T11:24:30+00:00",
+      "lat": 43.7482036,
+      "lng": -79.3768882,
+      "location": "Daleberry Place",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4957019",
       "source": "citynews",
@@ -40,18 +52,6 @@
       "lng": -79.3903,
       "location": "Queen'S Park",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4956832",
-      "source": "citynews",
-      "title": "4 pedestrians, including 2 young children, injured in Richmond Hill collision",
-      "summary": "Four pedestrians, including two children under the age of 10, were injured in a crash in Richmond Hill on Thursday afternoon. York regional police say the crash happened at the intersection of Major Mackenzie Drive and Newkirk Road around 3:15 p.m. One woman was taken to a trauma centre with life-threatening injuries while another woman [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/05/multiple-pedestrians-struck-in-richmond-hill-collision/",
-      "ts": "2026-11-05T21:53:56+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7411076",
