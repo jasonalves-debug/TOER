@@ -1,10 +1,34 @@
 {
-  "generated": "2026-11-05T23:47:58.848383+00:00",
+  "generated": "2026-11-06T05:45:10.208941+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957019",
+      "source": "citynews",
+      "title": "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million",
+      "summary": "NEW YORK (AP) \u2014 Three people accused of using artificial intelligence to impersonate corporate executives and attorneys to steal about $129 million have been indicted on charges of wire fraud and aggravated identity theft, prosecutors said Thursday.",
+      "link": "https://toronto.citynews.ca/2026/11/05/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+      "ts": "2026-11-06T02:37:59+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7411587",
+      "source": "cbc",
+      "title": "2 women, 2 children, struck by vehicle in Richmond Hill, Ont.: police",
+      "summary": "York Regional Police say four pedestrians, including two children, were struck by a vehicle in Richmond Hill, north of Toronto, on Thursday afternoon.",
+      "link": "https://www.cbc.ca/news/canada/toronto/pedestrians-children-struck-vehicle-richmond-hill-9.7411587?cmp=rss",
+      "ts": "2026-11-06T01:21:47+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7411152",
       "source": "cbc",
@@ -20,8 +44,8 @@
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4956832",
       "source": "citynews",
-      "title": "Multiple pedestrians struck, 1 critically injured in Richmond Hill collision",
-      "summary": "Four pedestrians have been taken to hospital after a collision in Richmond Hill Thursday afternoon. York regional police say the crash happened at the intersection of Major Mackenzie Drive and Newkirk Road around 3:15 p.m. One person was taken to a trauma centre with life-threatening injuries while three others were taken to a local hospital [&#8230;]",
+      "title": "4 pedestrians, including 2 young children, injured in Richmond Hill collision",
+      "summary": "Four pedestrians, including two children under the age of 10, were injured in a crash in Richmond Hill on Thursday afternoon. York regional police say the crash happened at the intersection of Major Mackenzie Drive and Newkirk Road around 3:15 p.m. One woman was taken to a trauma centre with life-threatening injuries while another woman [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/05/multiple-pedestrians-struck-in-richmond-hill-collision/",
       "ts": "2026-11-05T21:53:56+00:00",
       "lat": 43.6896,
@@ -64,42 +88,6 @@
       "lng": -79.3903,
       "location": "Queen'S Park",
       "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7410060",
-      "source": "cbc",
-      "title": "Amazon workers in Toronto area launch organizing drive with help of Unifor",
-      "summary": "A group of Amazon employees packed a hall in Scarborough on Wednesday to launch an organizing drive across fulfillment centres in the Greater Toronto Area with the help of Canada's largest private sector union.",
-      "link": "https://www.cbc.ca/news/canada/toronto/amazon-organizing-drive-gta-unifor-9.7410060?cmp=rss",
-      "ts": "2026-11-05T02:44:24+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7410039",
-      "source": "cbc",
-      "title": "Woman dead after being struck by vehicle in Newmarket, police say",
-      "summary": "A woman in her 20s has died after being struck by a vehicle in Newmarket, Ont., on Wednesday evening, police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/pedestrian-fatal-newmarket-9.7410039?cmp=rss",
-      "ts": "2026-11-05T01:26:59+00:00",
-      "lat": 44.0592,
-      "lng": -79.4613,
-      "location": "Newmarket",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7409742",
-      "source": "cbc",
-      "title": "Canadian military flying ace William Barker commemorated with new statue on Yonge Street",
-      "summary": "A new statue of a Canadian World War I flying ace was unveiled in Toronto Wednesday afternoon, the latest effort to breathe life into his memory, which his grandson said was nearly lost to time.",
-      "link": "https://www.cbc.ca/news/canada/toronto/william-barker-statue-unveiled-9.7409742?cmp=rss",
-      "ts": "2026-11-04T23:18:35+00:00",
-      "lat": 43.7445449,
-      "lng": -79.4068969,
-      "location": "Yonge Street",
-      "approximate": true
     }
   ]
 }
