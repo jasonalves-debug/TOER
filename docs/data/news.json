@@ -1,33 +1,105 @@
 {
-  "generated": "2026-11-06T13:16:39.380044+00:00",
+  "generated": "2026-11-06T20:02:30.460858+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4957134",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957511",
       "source": "citynews",
-      "title": "2-alarm fire at North York home under construction displaces multiple residents",
-      "summary": "A two-alarm fire at a home under construction in North York spread to neighbouring properties and displaced five residents early Friday morning. Toronto Fire Services crews were called to an address on Daleberry Place, in the York Mills Road and Bayview Avenue area, at approximately 2 a.m. after receiving reports of a house fire. When [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/06/north-york-two-alarm-fire-homes-damaged/",
-      "ts": "2026-11-06T11:24:30+00:00",
-      "lat": 43.7482036,
-      "lng": -79.3768882,
-      "location": "Daleberry Place",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4957019",
-      "source": "citynews",
-      "title": "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million",
-      "summary": "NEW YORK (AP) \u2014 Three people accused of using artificial intelligence to impersonate corporate executives and attorneys to steal about $129 million have been indicted on charges of wire fraud and aggravated identity theft, prosecutors said Thursday.",
-      "link": "https://toronto.citynews.ca/2026/11/05/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-      "ts": "2026-11-06T02:37:59+00:00",
+      "title": "Welfare call leads York Regional Police to Markham drug lab",
+      "summary": "A check welfare call led York Regional Police (YRP) to a clandestine drug lab in Markham where around $640,000 worth of illegal substances were discovered and seized, YRP said in a release Friday. Officers were called to a residence in the Jeremy Drive and Fred Varley Drive area on October 23, 2026. &#8220;On scene, officers [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/06/welfare-call-leads-york-regional-police-to-markham-drug-lab/",
+      "ts": "2026-11-06T19:53:49+00:00",
       "lat": 43.6896,
       "lng": -79.4759,
       "location": "York",
       "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957430",
+      "source": "citynews",
+      "title": "Almost time to change your tires as winter driving approaches in Toronto",
+      "summary": "Toronto and most of southern Ontario has been enjoying warmer temperatures but it&#8217;s approaching that time of year when you need to start making the switch to winter tires. The staff at OK Tire in Etobicoke said they are already ramping up for the peak of getting winter tires installed. &#8220;We&#8217;re about 65 per cent [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/06/almost-time-to-change-your-tires-as-winter-driving-approaches-in-toronto/",
+      "ts": "2026-11-06T19:23:29+00:00",
+      "lat": 43.6205,
+      "lng": -79.5132,
+      "location": "Etobicoke",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7412371",
+      "source": "cbc",
+      "title": "Woman dead, man arrested after stabbing in North York: Toronto police",
+      "summary": "Toronto police are investigating a homicide after a woman died in a stabbing in North York Friday morning.",
+      "link": "https://www.cbc.ca/news/canada/toronto/homicide-investigation-9.7412371?cmp=rss",
+      "ts": "2026-11-06T17:51:11+00:00",
+      "lat": 43.7615,
+      "lng": -79.4111,
+      "location": "North York",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957387",
+      "source": "citynews",
+      "title": "Female fatally stabbed in North York; male in custody, police say",
+      "summary": "The Toronto Police Service (TPS) has launched a homicide investigation after a female was fatally stabbed in North York on Friday morning. Investigators were called to the Wilson Avenue and Jane Street area for reports of a person with a knife just before 8:30 a.m. on Nov. 6. A female was located with stab wounds. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/06/toronto-homicide-female-stabbed-male-arrested-police-north-york/",
+      "ts": "2026-11-06T17:22:04+00:00",
+      "lat": 43.7366585,
+      "lng": -79.4375085,
+      "location": "Wilson Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957383",
+      "source": "citynews",
+      "title": "OPP and Hamilton police team up to dismantle auto theft network",
+      "summary": "Six people are facing charges after an investigation into an organized group that was allegedly stealing high-value vehicles throughout southwestern Ontario. The Ontario Provincial Police (OPP) and Hamilton Police Service (HPS) both launched separate probes into the group in February, 2026. Later realizing that their investigations were connected, they teamed up to form Project TORRENS [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/06/opp-and-hamilton-police-team-up-to-dismantle-auto-theft-network/",
+      "ts": "2026-11-06T17:21:57+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957399",
+      "source": "citynews",
+      "title": "Mamdani and Hochul promise a new day for Puerto Rico after Democrats sweep midterms",
+      "summary": "SAN JUAN, Puerto Rico (AP) \u2014 New York City Mayor Zohran Mamdani and New York Gov. Kathy Hochul pledged more support for Puerto Rico on Friday as it remains mired in multiple crises, asserting during a trip to the island that the sweeping Democratic win in the U.S. midterm elections will be a boon for the U.S. territory.",
+      "link": "https://toronto.citynews.ca/2026/11/06/mamdani-and-hochul-promise-a-new-day-for-puerto-rico-after-democrats-sweep-midterms/",
+      "ts": "2026-11-06T17:10:37+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7411892",
+      "source": "cbc",
+      "title": "City of Toronto pauses hiring, citing 'financial pressures' ahead of budget season",
+      "summary": "As Toronto stares down another difficult budget season, with a $1-billion shortfall, a hiring freeze is being put in place at city hall. The pause won't apply to emergency services, but means some job applications have been paused partway through the process.",
+      "link": "https://www.cbc.ca/news/canada/toronto/toronto-hiring-freeze-2026-9.7411892?cmp=rss",
+      "ts": "2026-11-06T14:41:11+00:00",
+      "lat": 43.6534,
+      "lng": -79.3841,
+      "location": "City Hall",
+      "approximate": false
+    },
+    {
+      "id": "news_cbc_9.7411836",
+      "source": "cbc",
+      "title": "U of T dean of dentistry steps down after investigation into antisemitic images in course material",
+      "summary": "The University of Toronto says its dean of dentistry Anil Kishen voluntarily stepped down following an investigation into his use of antisemitic imagery in February.",
+      "link": "https://www.cbc.ca/news/canada/toronto/dean-dentistry-univiersity-toronto-steps-down-antisemitic-images-9.7411836?cmp=rss",
+      "ts": "2026-11-06T13:25:15+00:00",
+      "lat": 43.6629,
+      "lng": -79.3957,
+      "location": "U Of T",
+      "approximate": false
     },
     {
       "id": "news_cbc_9.7411587",
