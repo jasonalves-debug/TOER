@@ -1,15 +1,39 @@
 {
-  "generated": "2026-11-07T18:03:34.605823+00:00",
+  "generated": "2026-11-07T21:53:14.149262+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_cbc_9.7413737",
+      "source": "cbc",
+      "title": "Confirmed measles case in Durham region: unimmunized child with history of recent international travel",
+      "summary": "Durham region\u2019s health department is warning residents of a confirmed measles case in an unimmunized child with a history of recent international travel.",
+      "link": "https://www.cbc.ca/news/canada/toronto/confirmed-measles-case-durham-region-9.7413737?cmp=rss",
+      "ts": "2026-11-07T20:23:38+00:00",
+      "lat": 43.9,
+      "lng": -78.9,
+      "location": "Durham Region",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957958",
+      "source": "citynews",
+      "title": "E-bike rider hit by a car in Parkdale, police say",
+      "summary": "Toronto police are investigating after an e-bike rider was hit by a car in Toronto\u2019s west end on Saturday. Emergency crews were called to the Parkdale neighbourhood, near Queen and Dufferin Streets, just before noon for reports of a collision. A male cyclist was transported to a hospital. The extent of his injuries was not [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/07/e-bike-rider-hit-by-a-car-in-parkdale-police-say/",
+      "ts": "2026-11-07T18:23:27+00:00",
+      "lat": 43.6394,
+      "lng": -79.4374,
+      "location": "Parkdale",
+      "approximate": true
+    },
+    {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4957947",
       "source": "citynews",
-      "title": "Two dead, including infant, in Ontario tractor-trailer crash",
-      "summary": "Ontario Provincial Police say they are investigating a fatal collision involving a tractor-trailer that left two people, including an infant, dead. Officers first responded to reports of a collision between a tractor-trailer and a passenger vehicle at around 8 p.m. Friday on Highway 69 north of Key River. Police say the driver of the passenger [&#8230;]",
+      "title": "Two dead, including infant, in tractor-trailer crash north of Parry Sound",
+      "summary": "Two people are dead, including an infant, following a fatal collision involving a tractor-trailer north of Parry Sound. Provincial police responded to reports of a collision between a tractor-trailer and a passenger vehicle at around 8 p.m. Friday on Highway 69 north of Key River. Police say the driver of the passenger vehicle, a 30-year-old [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/07/two-dead-including-infant-in-ontario-tractor-trailer-crash/",
       "ts": "2026-11-07T17:39:35+00:00",
       "lat": 43.6972014,
@@ -27,18 +51,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4957773",
-      "source": "citynews",
-      "title": "Unifor says it thinks Stellantis has sold Brampton assembly plant",
-      "summary": "A union representing Stellantis autoworkers says it thinks the company has sold its idled assembly plant in southern Ontario.",
-      "link": "https://toronto.citynews.ca/2026/11/06/unifor-says-it-thinks-stellantis-has-sold-brampton-assembly-plant/",
-      "ts": "2026-11-07T01:51:29+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
       "approximate": true
     },
     {

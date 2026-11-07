@@ -518,5 +518,16 @@
   "st:st george st|bloor st w|toronto": {
     "lat": 43.6671228,
     "lng": -79.3995476
-  }
+  },
+  "st:steeles ave|black creek|north york": {
+    "lat": 43.7665515,
+    "lng": -79.5639187
+  },
+  "st:sloane ave|ruscica dr|north york": null,
+  "xx:dupont st|christie st": {
+    "lat": 43.671735,
+    "lng": -79.4217074
+  },
+  "st:lydon ave|bernice cres|york": null,
+  "st:shuter st|sackville st|toronto": null
 }
