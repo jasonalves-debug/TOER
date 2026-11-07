@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-07T13:05:08.270818+00:00",
+  "generated": "2026-11-07T18:03:34.605823+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957947",
+      "source": "citynews",
+      "title": "Two dead, including infant, in Ontario tractor-trailer crash",
+      "summary": "Ontario Provincial Police say they are investigating a fatal collision involving a tractor-trailer that left two people, including an infant, dead. Officers first responded to reports of a collision between a tractor-trailer and a passenger vehicle at around 8 p.m. Friday on Highway 69 north of Key River. Police say the driver of the passenger [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/07/two-dead-including-infant-in-ontario-tractor-trailer-crash/",
+      "ts": "2026-11-07T17:39:35+00:00",
+      "lat": 43.6972014,
+      "lng": -79.5911431,
+      "location": "Highway 69",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7412643",
       "source": "cbc",
@@ -39,18 +51,6 @@
       "lat": 43.7731,
       "lng": -79.2578,
       "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4957607",
-      "source": "citynews",
-      "title": "Tesla\u2019s Cybertruck heads for an exit after years of hype and division",
-      "summary": "NEW YORK (AP) \u2014 Tesla\u2019s Cybertruck, the hulking, stainless-steel pickup that inspired devotion and derision with its science-fiction looks, will cease production next year.",
-      "link": "https://toronto.citynews.ca/2026/11/06/teslas-cybertruck-heads-for-an-exit-after-years-of-hype-and-division/",
-      "ts": "2026-11-06T20:41:51+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
       "approximate": true
     },
     {

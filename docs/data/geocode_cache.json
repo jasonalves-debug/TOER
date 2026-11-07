@@ -504,5 +504,19 @@
     "lng": -79.3770093
   },
   "st:richmond st|ln w ontario n richmond|toronto": null,
-  "fsa2:M4E": null
+  "fsa2:M4E": null,
+  "st:wilson ave|elrose ave|north york": null,
+  "st:king st|charlotte st|toronto": null,
+  "st:martin grove rd|longbourne dr|etobicoke": {
+    "lat": 43.6808331,
+    "lng": -79.5665865
+  },
+  "xx:dixon rd|islington ave": {
+    "lat": 43.6968294,
+    "lng": -79.5463527
+  },
+  "st:st george st|bloor st w|toronto": {
+    "lat": 43.6671228,
+    "lng": -79.3995476
+  }
 }
