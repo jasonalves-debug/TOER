@@ -483,5 +483,19 @@
     "lng": -79.2407598
   },
   "xx:avenue rd|oaklands ave": null,
-  "st:wellington st|ln w yonge n wellington|toronto": null
+  "st:wellington st|ln w yonge n wellington|toronto": null,
+  "st:dundas st|arnold ave|toronto": null,
+  "st:gerrard st|matty eckler playground trl|toronto": null,
+  "st:wellesley st|ontario st|toronto": {
+    "lat": 43.6685917,
+    "lng": -79.3858894
+  },
+  "st:dupont st|lansdowne ave|toronto": {
+    "lat": 43.666594,
+    "lng": -79.44631
+  },
+  "xx:bay st|bloor st w": {
+    "lat": 43.6694204,
+    "lng": -79.3892232
+  }
 }
