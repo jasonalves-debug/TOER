@@ -1,10 +1,34 @@
 {
-  "generated": "2026-11-07T00:07:34.564740+00:00",
+  "generated": "2026-11-07T06:00:25.075702+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4957773",
+      "source": "citynews",
+      "title": "Unifor says it thinks Stellantis has sold Brampton assembly plant",
+      "summary": "A union representing Stellantis autoworkers says it thinks the company has sold its idled assembly plant in southern Ontario.",
+      "link": "https://toronto.citynews.ca/2026/11/06/unifor-says-it-thinks-stellantis-has-sold-brampton-assembly-plant/",
+      "ts": "2026-11-07T01:51:29+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7413209",
+      "source": "cbc",
+      "title": "Hitachi Rail opens new Canadian headquarters in Scarborough",
+      "summary": "Hitachi Rail officially opened its new Canadian headquarters in Scarborough on Friday. The headquarters will be the base for more than 1,100 employees and 100 paid interns a year, it says.",
+      "link": "https://www.cbc.ca/news/canada/toronto/hitachi-rail-canadian-headquarters-scarborough-official-opening-9.7413209?cmp=rss",
+      "ts": "2026-11-07T00:52:56+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4957607",
       "source": "citynews",
@@ -21,7 +45,7 @@
       "id": "news_citynews_https://toronto.citynews.ca/?p=4957511",
       "source": "citynews",
       "title": "Welfare call leads York Regional Police to Markham drug lab",
-      "summary": "A check welfare call led York Regional Police (YRP) to a clandestine drug lab in Markham where around $640,000 worth of illegal substances were discovered and seized, YRP said in a release Friday. Officers were called to a residence in the Jeremy Drive and Fred Varley Drive area on October 23, 2026. &#8220;On scene, officers [&#8230;]",
+      "summary": "A call to check on the welfare of an individual led police to a clandestine drug lab in Markham where around $640,000 worth of illegal substances were discovered and seized, York Regional Police (YRP) said in a release Friday. Officers were called to a residence in the Jeremy Drive and Fred Varley Drive area on [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/06/welfare-call-leads-york-regional-police-to-markham-drug-lab/",
       "ts": "2026-11-06T19:53:49+00:00",
       "lat": 43.6896,
@@ -44,8 +68,8 @@
     {
       "id": "news_cbc_9.7412371",
       "source": "cbc",
-      "title": "Woman dead, man arrested after stabbing in North York: Toronto police",
-      "summary": "Toronto police are investigating a homicide after a woman died in a stabbing in North York Friday morning.",
+      "title": "Man charged after woman fatally stabbed in North York, police say",
+      "summary": "A man has been arrested and charged after a woman was fatally stabbed in North York on Friday morning, Toronto police say.",
       "link": "https://www.cbc.ca/news/canada/toronto/homicide-investigation-9.7412371?cmp=rss",
       "ts": "2026-11-06T17:51:11+00:00",
       "lat": 43.7615,
@@ -112,18 +136,6 @@
       "lng": -79.4111,
       "location": "North York",
       "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7409569",
-      "source": "cbc",
-      "title": "U.S.-made pipes are being installed next to Ontario's legislature as Canadian steel jobs vanish",
-      "summary": "As Canadian governments push to improve local supply chains amidst an ongoing trade war with the United States, the City of Toronto has been forced to head south of the border. Officials say only American companies make the steel pipes they are currently installing near Queen's Park.",
-      "link": "https://www.cbc.ca/news/canada/toronto/toronto-water-mains-replacement-united-states-products-9.7409569?cmp=rss",
-      "ts": "2026-11-05T09:00:00+00:00",
-      "lat": 43.6631,
-      "lng": -79.3903,
-      "location": "Queen'S Park",
-      "approximate": false
     }
   ]
 }

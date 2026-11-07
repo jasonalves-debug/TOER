@@ -497,5 +497,11 @@
   "xx:bay st|bloor st w": {
     "lat": 43.6694204,
     "lng": -79.3892232
-  }
+  },
+  "st:victor ave|broadview ave|toronto": null,
+  "st:adelaide st|yonge st|toronto": {
+    "lat": 43.6506511,
+    "lng": -79.3770093
+  },
+  "st:richmond st|ln w ontario n richmond|toronto": null
 }
