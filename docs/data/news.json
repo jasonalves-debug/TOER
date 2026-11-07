@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-07T06:00:25.075702+00:00",
+  "generated": "2026-11-07T13:05:08.270818+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7412643",
+      "source": "cbc",
+      "title": "Problematic or protected? The debate over filming police in real time",
+      "summary": "Social media posts showing real-time positions of police officers in a standoff with an armed suspect at the University of Toronto's Mississauga campus on Monday night prompted a stern warning from police, but legal experts say the law isn't clear-cut on the issue.",
+      "link": "https://www.cbc.ca/news/canada/toronto/posting-police-positions-social-media-real-time-utm-9.7412643?cmp=rss",
+      "ts": "2026-11-07T09:00:00+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4957773",
       "source": "citynews",
@@ -39,30 +51,6 @@
       "lat": 43.6896,
       "lng": -79.4759,
       "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4957511",
-      "source": "citynews",
-      "title": "Welfare call leads York Regional Police to Markham drug lab",
-      "summary": "A call to check on the welfare of an individual led police to a clandestine drug lab in Markham where around $640,000 worth of illegal substances were discovered and seized, York Regional Police (YRP) said in a release Friday. Officers were called to a residence in the Jeremy Drive and Fred Varley Drive area on [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/06/welfare-call-leads-york-regional-police-to-markham-drug-lab/",
-      "ts": "2026-11-06T19:53:49+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4957430",
-      "source": "citynews",
-      "title": "The need for winter tires is imminent. Find out when to make the change",
-      "summary": "Toronto and most of southern Ontario has been enjoying warmer temperatures but it&#8217;s approaching that time of year when you need to start making the switch to winter tires. The staff at OK Tire in Etobicoke said they are already ramping up for the peak of getting winter tires installed. &#8220;We&#8217;re about 65 per cent [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/06/almost-time-to-change-your-tires-as-winter-driving-approaches-in-toronto/",
-      "ts": "2026-11-06T19:23:29+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
       "approximate": true
     },
     {
@@ -124,18 +112,6 @@
       "lng": -79.3903,
       "location": "Queen'S Park",
       "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7411076",
-      "source": "cbc",
-      "title": "Victim in fatal North York stabbing identified: police",
-      "summary": "A woman who was fatally stabbed in an incident that left two people dead has been identified by Toronto police.",
-      "link": "https://www.cbc.ca/news/canada/toronto/north-york-stabbing-victim-identified-9.7411076?cmp=rss",
-      "ts": "2026-11-05T20:34:07+00:00",
-      "lat": 43.7615,
-      "lng": -79.4111,
-      "location": "North York",
-      "approximate": true
     }
   ]
 }
