@@ -1,10 +1,34 @@
 {
-  "generated": "2026-11-08T01:12:15.111569+00:00",
+  "generated": "2026-11-08T07:26:44.151468+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7413897",
+      "source": "cbc",
+      "title": "Person dead after shooting in Etobicoke: police",
+      "summary": "A person has died after a shooting in Etobicoke Saturday, according to Toronto police.",
+      "link": "https://www.cbc.ca/news/canada/toronto/person-dead-shooting-etobicoke-9.7413897?cmp=rss",
+      "ts": "2026-11-08T01:19:00+00:00",
+      "lat": 43.6205,
+      "lng": -79.5132,
+      "location": "Etobicoke",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958073",
+      "source": "citynews",
+      "title": "Health officials warn of possible measles exposure in Durham Region",
+      "summary": "Health officials in Durham Region are advising the public about a possible exposure to measles after a local unimmunized child who recently returned from travel internationally tested positive for the virus.",
+      "link": "https://toronto.citynews.ca/2026/11/07/health-officials-warn-of-possible-measles-exposure-in-durham-region/",
+      "ts": "2026-11-08T01:11:33+00:00",
+      "lat": 43.9,
+      "lng": -78.9,
+      "location": "Durham Region",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7413789",
       "source": "cbc",
@@ -33,7 +57,7 @@
       "id": "news_citynews_https://toronto.citynews.ca/?p=4958027",
       "source": "citynews",
       "title": "One man dead in Etobicoke shooting",
-      "summary": "Toronto police are searching for at least one suspect following a shooting in the west end.",
+      "summary": "Toronto police are searching for two suspects following a fatal shooting in the west end.",
       "link": "https://toronto.citynews.ca/2026/11/07/man-injured-in-west-end-shooting/",
       "ts": "2026-11-07T22:22:19+00:00",
       "lat": 43.6205,
