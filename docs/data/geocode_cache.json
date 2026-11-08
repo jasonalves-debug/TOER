@@ -560,5 +560,10 @@
   "st:dufferin st|glen park ave|north york": {
     "lat": 43.7139187,
     "lng": -79.454957
+  },
+  "st:dalmatian cres|ww w meadowvale s ellesmere|scarborough": null,
+  "st:weston rd|sheppard ave w|north york": {
+    "lat": 43.7326488,
+    "lng": -79.5381819
   }
 }

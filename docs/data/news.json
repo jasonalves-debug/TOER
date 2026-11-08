@@ -1,10 +1,58 @@
 {
-  "generated": "2026-11-08T19:00:46.463499+00:00",
+  "generated": "2026-11-08T22:54:22.766775+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7414341",
+      "source": "cbc",
+      "title": "Workers rally against potential layoffs at Etobicoke nursing home",
+      "summary": "A group of unionized long-term care workers rallied in Etobicoke Saturday to sound the alarm over potential layoffs and staffing shortages.",
+      "link": "https://www.cbc.ca/news/canada/toronto/workers-rally-potential-layoffs-etobicoke-long-term-care-home-9.7414341?cmp=rss",
+      "ts": "2026-11-08T21:11:01+00:00",
+      "lat": 43.6205,
+      "lng": -79.5132,
+      "location": "Etobicoke",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958288",
+      "source": "citynews",
+      "title": "Brampton man charged in multiple street racing incidents across GTA",
+      "summary": "A 24-year-old Brampton man is facing more than half a dozen charges in connection with multiple street racing incidents across the GTA.",
+      "link": "https://toronto.citynews.ca/2026/11/08/brampton-man-charged-in-multiple-street-racing-incidents-across-gta/",
+      "ts": "2026-11-08T20:47:06+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958276",
+      "source": "citynews",
+      "title": "York University investigating cybersecurity incident, data theft",
+      "summary": "York University is investigating a cybersecurity incident resulting in the theft of personal data which was discovered last month.",
+      "link": "https://toronto.citynews.ca/2026/11/08/york-university-investigating-cybersecurity-incident-data-theft/",
+      "ts": "2026-11-08T20:02:16+00:00",
+      "lat": 43.7735,
+      "lng": -79.5019,
+      "location": "York University",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958249",
+      "source": "citynews",
+      "title": "\u2018Godzilla Minus Zero\u2019 stomps to a record-setting $31.6 debut, clobbering \u2018The Cat in the Hat\u2019",
+      "summary": "NEW YORK (AP) \u2014 \u201cGodzilla Minus Zero\u201d stomped into movie theaters with a chart-topping $31.6 million over the weekend, scoring a record debut for a foreign-language film at the North American box office.",
+      "link": "https://toronto.citynews.ca/2026/11/08/godzilla-minus-zero-stomps-to-a-record-setting-31-6-debut-clobbering-the-cat-in-the-hat/",
+      "ts": "2026-11-08T18:34:34+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7414261",
       "source": "cbc",
@@ -90,18 +138,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958073",
-      "source": "citynews",
-      "title": "Health officials warn of possible measles exposure in Durham Region",
-      "summary": "Health officials in Durham Region are advising the public about a possible exposure to measles after a local unimmunized child who recently returned from travel internationally tested positive for the virus.",
-      "link": "https://toronto.citynews.ca/2026/11/07/health-officials-warn-of-possible-measles-exposure-in-durham-region/",
-      "ts": "2026-11-08T01:11:33+00:00",
-      "lat": 43.9,
-      "lng": -78.9,
-      "location": "Durham Region",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7413789",
       "source": "cbc",
       "title": "A dip in gold prices brings out jewelry shoppers in Mississauga on Diwali weekend",
@@ -123,18 +159,6 @@
       "lat": 43.7731,
       "lng": -79.2578,
       "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958027",
-      "source": "citynews",
-      "title": "Victim identified in Etobicoke shooting, police hunt underway for 2 suspects",
-      "summary": "Toronto police are searching for two suspects after a teenager was killed during a shooting in Etobicoke on Saturday.",
-      "link": "https://toronto.citynews.ca/2026/11/07/man-injured-in-west-end-shooting/",
-      "ts": "2026-11-07T22:22:19+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
       "approximate": true
     },
     {
@@ -196,30 +220,6 @@
       "lng": -79.4111,
       "location": "North York",
       "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7411892",
-      "source": "cbc",
-      "title": "City of Toronto pauses hiring, citing 'financial pressures' ahead of budget season",
-      "summary": "As Toronto stares down another difficult budget season, with a $1-billion shortfall, a hiring freeze is being put in place at city hall. The pause won't apply to emergency services, but means some job applications have been paused partway through the process.",
-      "link": "https://www.cbc.ca/news/canada/toronto/toronto-hiring-freeze-2026-9.7411892?cmp=rss",
-      "ts": "2026-11-06T14:41:11+00:00",
-      "lat": 43.6534,
-      "lng": -79.3841,
-      "location": "City Hall",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7411836",
-      "source": "cbc",
-      "title": "U of T dean of dentistry steps down after investigation into antisemitic images in course material",
-      "summary": "The University of Toronto says its dean of dentistry Anil Kishen voluntarily stepped down following an investigation into his use of antisemitic imagery in February.",
-      "link": "https://www.cbc.ca/news/canada/toronto/dean-dentistry-univiersity-toronto-steps-down-antisemitic-images-9.7411836?cmp=rss",
-      "ts": "2026-11-06T13:25:15+00:00",
-      "lat": 43.6629,
-      "lng": -79.3957,
-      "location": "U Of T",
-      "approximate": false
     }
   ]
 }
