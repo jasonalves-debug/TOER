@@ -1,10 +1,58 @@
 {
-  "generated": "2026-11-07T21:53:14.149262+00:00",
+  "generated": "2026-11-08T01:12:15.111569+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7413789",
+      "source": "cbc",
+      "title": "A dip in gold prices brings out jewelry shoppers in Mississauga on Diwali weekend",
+      "summary": "As gold prices dip, some shoppers are taking advantage by buying jewelry during the South Asian festival of Diwali.",
+      "link": "https://www.cbc.ca/news/canada/toronto/a-dip-in-gold-prices-brings-out-jewelry-shoppers-in-mississauga-on-diwali-weekend-9.7413789?cmp=rss",
+      "ts": "2026-11-08T00:05:13+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7413808",
+      "source": "cbc",
+      "title": "Scarborough Health Network hosts breast screening awareness event for Black community",
+      "summary": "Dozens of Black women were screened for breast cancer Saturday at an awareness event hosted by the Scarborough Health Network.",
+      "link": "https://www.cbc.ca/news/canada/toronto/scarborough-breast-screening-awareness-event-9.7413808?cmp=rss",
+      "ts": "2026-11-07T22:42:45+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958027",
+      "source": "citynews",
+      "title": "One man dead in Etobicoke shooting",
+      "summary": "Toronto police are searching for at least one suspect following a shooting in the west end.",
+      "link": "https://toronto.citynews.ca/2026/11/07/man-injured-in-west-end-shooting/",
+      "ts": "2026-11-07T22:22:19+00:00",
+      "lat": 43.6205,
+      "lng": -79.5132,
+      "location": "Etobicoke",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7412663",
+      "source": "cbc",
+      "title": "Hunter\u2019s brace powers AFC Toronto back to NSL final",
+      "summary": "Kaylee Hunter scored twice as AFC Toronto booked its place in the 2026 Northern Super League final with a commanding 4-0 victory over Ottawa Rapid FC in the second leg of their semifinal matchup at TD Place in Ottawa.",
+      "link": "https://www.cbc.ca/sports/soccer/nsl-playpffs-ottawa-rapid-afc-toronto-november-7-9.7412663?cmp=rss",
+      "ts": "2026-11-07T21:22:36+00:00",
+      "lat": 43.6452837,
+      "lng": -79.3952549,
+      "location": "TD Place",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7413737",
       "source": "cbc",

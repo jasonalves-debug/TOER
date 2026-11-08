@@ -529,5 +529,17 @@
     "lng": -79.4217074
   },
   "st:lydon ave|bernice cres|york": null,
-  "st:shuter st|sackville st|toronto": null
+  "st:shuter st|sackville st|toronto": null,
+  "xx:waterfront trl|long branch ave": null,
+  "xx:lake shore blvd w|newfoundland rd": null,
+  "st:lawrence ave|galloway rd|scarborough": null,
+  "xx:kennedy rd|steeles ave e": {
+    "lat": 43.8235077,
+    "lng": -79.3067328
+  },
+  "st:lawrence ave|culford rd|north york": {
+    "lat": 43.706206,
+    "lng": -79.4875213
+  },
+  "xx:lowther ave|bedford rd": null
 }
