@@ -544,5 +544,21 @@
   "xx:lowther ave|bedford rd": null,
   "xx:ashley rd|bexhill crt": null,
   "xx:jameson ave|lake shore blvd w": null,
-  "st:st dennis dr|david salomon dr|north york": null
+  "st:st dennis dr|david salomon dr|north york": null,
+  "st:ontario st|prospect st|toronto": null,
+  "xx:markham rd|lawrence ave e": {
+    "lat": 43.7600126,
+    "lng": -79.2250504
+  },
+  "st:pape ave|ln n eastern w pape|toronto": null,
+  "st:burnhamill pl|custead crt|etobicoke": null,
+  "st:eglinton ave|yonge st|toronto": {
+    "lat": 43.706056,
+    "lng": -79.40262
+  },
+  "xx:lawrence ave e|crockford blvd": null,
+  "st:dufferin st|glen park ave|north york": {
+    "lat": 43.7139187,
+    "lng": -79.454957
+  }
 }

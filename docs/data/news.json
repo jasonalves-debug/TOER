@@ -1,14 +1,50 @@
 {
-  "generated": "2026-11-08T14:28:07.985687+00:00",
+  "generated": "2026-11-08T19:00:46.463499+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_cbc_9.7414261",
+      "source": "cbc",
+      "title": "Police identify 18-year-old victim of fatal Etobicoke shooting",
+      "summary": "Toronto police have identified the victim of a homicide in Etobicoke on Saturday. Malik Abass, 18, of Mississauga, was shot in the area of Rathburn Road and The East Mall, the Toronto Police Service said in a news release Sunday.",
+      "link": "https://www.cbc.ca/news/canada/toronto/police-identify-victim-fatal-etobicoke-shooting-9.7414261?cmp=rss",
+      "ts": "2026-11-08T18:12:27+00:00",
+      "lat": 43.653009,
+      "lng": -79.5729924,
+      "location": "Rathburn Road",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7414235",
+      "source": "cbc",
+      "title": "York University warns of personal data theft in cybersecurity incident",
+      "summary": "York University is warning the community of a cybersecurity incident that resulted in the theft of personal information, including personal contact details and student identification numbers.",
+      "link": "https://www.cbc.ca/news/canada/toronto/york-university-department-forms-cybersecurity-incident-9.7414235?cmp=rss",
+      "ts": "2026-11-08T17:50:29+00:00",
+      "lat": 43.7735,
+      "lng": -79.5019,
+      "location": "York University",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958229",
+      "source": "citynews",
+      "title": "Man, 45, accused of breaking into multiple Brampton area vehicles",
+      "summary": "A rash of vehicle break-ins was recently reported in the city of Brampton and detectives believe they may have found the culprit. On Nov. 3, Peel Regional Police arrested 45-year-old Frank Medeiros of no fixed address in connection with a series of \u201cvehicle-related mischief incidents\u201d and thefts from motor vehicles, according to a press release [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/08/man-45-accused-of-breaking-into-multiple-brampton-area-vehicles/",
+      "ts": "2026-11-08T17:46:25+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
       "id": "news_cbc_9.7414072",
       "source": "cbc",
-      "title": "Fire at Vaughan restaurant being investigated as possible arson: York police",
+      "title": "Fire at Vaughan restaurant investigated as possible arson: York police",
       "summary": "York police are investigating a suspected case of arson after a fire at Shawarma Royale in Vaughan on Sunday morning.",
       "link": "https://www.cbc.ca/news/canada/toronto/vaughan-fire-arson-york-police-9.7414072?cmp=rss",
       "ts": "2026-11-08T13:43:36+00:00",
@@ -92,8 +128,8 @@
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4958027",
       "source": "citynews",
-      "title": "Man killed in Etobicoke shooting, police hunt underway for 2 suspects",
-      "summary": "Toronto police are searching for two suspects following a fatal shooting in the west end.",
+      "title": "Victim identified in Etobicoke shooting, police hunt underway for 2 suspects",
+      "summary": "Toronto police are searching for two suspects after a teenager was killed during a shooting in Etobicoke on Saturday.",
       "link": "https://toronto.citynews.ca/2026/11/07/man-injured-in-west-end-shooting/",
       "ts": "2026-11-07T22:22:19+00:00",
       "lat": 43.6205,
@@ -123,18 +159,6 @@
       "lat": 43.9,
       "lng": -78.9,
       "location": "Durham Region",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4957958",
-      "source": "citynews",
-      "title": "E-bike rider hit by a car in Parkdale, police say",
-      "summary": "Toronto police are investigating after an e-bike rider was hit by a car in Toronto\u2019s west end on Saturday. Emergency crews were called to the Parkdale neighbourhood, near Queen and Dufferin Streets, just before noon for reports of a collision. A male cyclist was transported to a hospital. The extent of his injuries was not [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/07/e-bike-rider-hit-by-a-car-in-parkdale-police-say/",
-      "ts": "2026-11-07T18:23:27+00:00",
-      "lat": 43.6394,
-      "lng": -79.4374,
-      "location": "Parkdale",
       "approximate": true
     },
     {
@@ -195,30 +219,6 @@
       "lat": 43.6629,
       "lng": -79.3957,
       "location": "U Of T",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7411587",
-      "source": "cbc",
-      "title": "2 women, 2 children, struck by vehicle in Richmond Hill, Ont.: police",
-      "summary": "York Regional Police say four pedestrians, including two children, were struck by a vehicle in Richmond Hill, north of Toronto, on Thursday afternoon.",
-      "link": "https://www.cbc.ca/news/canada/toronto/pedestrians-children-struck-vehicle-richmond-hill-9.7411587?cmp=rss",
-      "ts": "2026-11-06T01:21:47+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7411152",
-      "source": "cbc",
-      "title": "Toronto fire chief welcomes new lithium-ion regulations in record-setting year for battery fires",
-      "summary": "Toronto's fire chief says new regulations from Queen's Park to ban people from modifying lithium-ion batteries are a welcome \"first step.\" The city has already seen more than 120 blazes sparked by the batteries this year alone.",
-      "link": "https://www.cbc.ca/news/canada/toronto/toronto-lithium-ion-battery-fire-regulations-9.7411152?cmp=rss",
-      "ts": "2026-11-05T22:01:22+00:00",
-      "lat": 43.6631,
-      "lng": -79.3903,
-      "location": "Queen'S Park",
       "approximate": false
     }
   ]
