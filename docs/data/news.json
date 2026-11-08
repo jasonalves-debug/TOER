@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-08T07:26:44.151468+00:00",
+  "generated": "2026-11-08T14:28:07.985687+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7414072",
+      "source": "cbc",
+      "title": "Fire at Vaughan restaurant being investigated as possible arson: York police",
+      "summary": "York police are investigating a suspected case of arson after a fire at Shawarma Royale in Vaughan on Sunday morning.",
+      "link": "https://www.cbc.ca/news/canada/toronto/vaughan-fire-arson-york-police-9.7414072?cmp=rss",
+      "ts": "2026-11-08T13:43:36+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958140",
+      "source": "citynews",
+      "title": "Man stabbed outside downtown Toronto nightclub",
+      "summary": "Toronto police are investigating after a man was stabbed outside of a downtown nightclub early Sunday morning. Emergency crews were called to the area of Lake Shore Boulevard and Parliament Street at approximately 1:30 a.m. for reports of an assault. When officers arrived at the scene, they located a man in his 20s who had [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/08/man-stabbed-outside-downtown-toronto-nightclub/",
+      "ts": "2026-11-08T12:36:49+00:00",
+      "lat": 43.6443965,
+      "lng": -79.3760531,
+      "location": "Lake Shore Boulevard",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7412692",
+      "source": "cbc",
+      "title": "An Ontario nature sanctuary home to over 70 rare species will now be protected for generations to come",
+      "summary": "A nature sanctuary in Whitby, Ont., home to over 70 rare species, some of which are at-risk, is now part of the Ontario Nature reserve system after its acquisition of the forested area from its previous land trust owners last week.",
+      "link": "https://www.cbc.ca/news/canada/toronto/conservation-group-helps-to-secure-future-of-rare-old-growth-forest-on-lake-ontario-9.7412692?cmp=rss",
+      "ts": "2026-11-08T09:00:00+00:00",
+      "lat": 43.8975,
+      "lng": -78.9428,
+      "location": "Whitby",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7413897",
       "source": "cbc",
@@ -56,7 +92,7 @@
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4958027",
       "source": "citynews",
-      "title": "One man dead in Etobicoke shooting",
+      "title": "Man killed in Etobicoke shooting, police hunt underway for 2 suspects",
       "summary": "Toronto police are searching for two suspects following a fatal shooting in the west end.",
       "link": "https://toronto.citynews.ca/2026/11/07/man-injured-in-west-end-shooting/",
       "ts": "2026-11-07T22:22:19+00:00",
@@ -99,18 +135,6 @@
       "lat": 43.6394,
       "lng": -79.4374,
       "location": "Parkdale",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4957947",
-      "source": "citynews",
-      "title": "Two dead, including infant, in tractor-trailer crash north of Parry Sound",
-      "summary": "Two people are dead, including an infant, following a fatal collision involving a tractor-trailer north of Parry Sound. Provincial police responded to reports of a collision between a tractor-trailer and a passenger vehicle at around 8 p.m. Friday on Highway 69 north of Key River. Police say the driver of the passenger vehicle, a 30-year-old [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/07/two-dead-including-infant-in-ontario-tractor-trailer-crash/",
-      "ts": "2026-11-07T17:39:35+00:00",
-      "lat": 43.6972014,
-      "lng": -79.5911431,
-      "location": "Highway 69",
       "approximate": true
     },
     {
