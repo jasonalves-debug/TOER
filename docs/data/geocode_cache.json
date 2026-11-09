@@ -580,5 +580,9 @@
   "xx:sherbourne st|dundas st e": {
     "lat": 43.6582824,
     "lng": -79.3712612
-  }
+  },
+  "xx:yonge st|farnham ave": null,
+  "st:elder st|pannahill rd|north york": null,
+  "st:broadview ave|bater ave|east york": null,
+  "st:patricia ave|candy courtway|north york": null
 }

@@ -1,10 +1,82 @@
 {
-  "generated": "2026-11-09T10:13:58.833799+00:00",
+  "generated": "2026-11-09T20:50:43.714564+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7415377",
+      "source": "cbc",
+      "title": "Ajax, Pickering casino workers back to work after ratifying new collective agreement with employer",
+      "summary": "Hundreds of workers from Casino Ajax and Pickering Casino Resort who have been on strike since the end of July are back at work after ratifying a new collective agreement with Great Canadian Entertainment.",
+      "link": "https://www.cbc.ca/news/canada/toronto/ajax-pickering-casino-strike-ends-9.7415377?cmp=rss",
+      "ts": "2026-11-09T20:10:14+00:00",
+      "lat": 43.8384,
+      "lng": -79.0868,
+      "location": "Pickering",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958764",
+      "source": "citynews",
+      "title": "Toronto police seek \u2018dangerous\u2019 wanted man after GPS ankle monitor allegedly tampered with",
+      "summary": "Toronto police are asking for the public&#8217;s help locating a man wanted in connection with an alleged breach of his release conditions after investigators discovered a damaged GPS ankle monitor in Scarborough. Officers were conducting an investigation into an alleged violation of a release order near Eglinton Avenue East and Midland Avenue on Saturday, Nov. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/09/toronto-man-wanted-gps-ankle-monitor-police/",
+      "ts": "2026-11-09T18:48:24+00:00",
+      "lat": 43.7254056,
+      "lng": -79.2973602,
+      "location": "Eglinton Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958668",
+      "source": "citynews",
+      "title": "72-year-old Whitby man accused of dealing cocaine, heroin, meth: Durham police",
+      "summary": "Durham Regional Police Service (DRPS) officers have arrested a 72-year-old Whitby man accused of dealing hard drugs like cocaine, heroin and methamphetamine. Earlier this month officers received a tip about a person that was potentially trafficking drugs in the Whitby area. On Nov. 4, a search warrant was executed at a residence in the Mary [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/09/whitby-drug-trafficking-investigation-arrest/",
+      "ts": "2026-11-09T16:53:07+00:00",
+      "lat": 43.8975,
+      "lng": -78.9428,
+      "location": "Whitby",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958636",
+      "source": "citynews",
+      "title": "3 youths, 14, charged in Milton arson that prompted evacuation of nearby condo",
+      "summary": "The Halton Regional Police Service (HRPS) said three 14-year-olds have been charged with arson following a fire at an abandoned building in Milton that prompted an evacuation at a nearby condo building. At approximately 5:30 p.m. on Sunday, Nov. 8, officers responded to reports of smoke and flames at a building located at 700 Main [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/09/milton-fire-arson-youths-charged-police/",
+      "ts": "2026-11-09T15:53:24+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958608",
+      "source": "citynews",
+      "title": "Firefighters probe possible fireworks link after Brampton garage blaze",
+      "summary": "A residential fire in Brampton that prompted the evacuation of a neighbouring home Sunday night may have been caused by fireworks materials found inside a garage, according to fire officials. Brampton Fire said crews were called to a fire at a residence in the Hurontario Street and Mayfield Road area at approximately 9:20 p.m. on [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/09/brampton-fire-garage-fireworks-police/",
+      "ts": "2026-11-09T15:16:42+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7414610",
+      "source": "cbc",
+      "title": "3 teens charged after fire at former Habitat for Humanity ReStore building in Milton: police",
+      "summary": "Following an investigation into a fire in Milton Sunday evening, three 14-year-olds have each been charged with one count of break and enter and one count of arson, police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/fire-milton-habitat-for-humanity-restore-building-9.7414610?cmp=rss",
+      "ts": "2026-11-09T11:37:35+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7412690",
       "source": "cbc",
@@ -15,30 +87,6 @@
       "lat": 43.6205,
       "lng": -79.5132,
       "location": "Etobicoke",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958349",
-      "source": "citynews",
-      "title": "Motorcyclist seriously injured in downtown crash",
-      "summary": "A motorcyclist suffered serious injuries following a collision in the Church-Wellesley neighbourhood on Sunday.",
-      "link": "https://toronto.citynews.ca/2026/11/08/motorcyclist-seriously-injured-in-downtown-crash/",
-      "ts": "2026-11-09T02:10:25+00:00",
-      "lat": 43.6532,
-      "lng": -79.3832,
-      "location": "Downtown",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958339",
-      "source": "citynews",
-      "title": "Woman previously arrested at anti-Israel protest arrested again during North York demonstration",
-      "summary": "A 40-year-old woman has been charged after an arrest was made during a demonstration in North York on Sunday.",
-      "link": "https://toronto.citynews.ca/2026/11/08/woman-arrested-during-north-york-demonstration/",
-      "ts": "2026-11-09T00:59:14+00:00",
-      "lat": 43.7615,
-      "lng": -79.4111,
-      "location": "North York",
       "approximate": true
     },
     {
@@ -66,42 +114,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958288",
-      "source": "citynews",
-      "title": "Brampton man charged in multiple street racing incidents across GTA",
-      "summary": "A 24-year-old Brampton man is facing more than half a dozen charges in connection with multiple street racing incidents across the GTA.",
-      "link": "https://toronto.citynews.ca/2026/11/08/brampton-man-charged-in-multiple-street-racing-incidents-across-gta/",
-      "ts": "2026-11-08T20:47:06+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958276",
-      "source": "citynews",
-      "title": "York University investigating cybersecurity incident, data theft that dates back almost 20 years",
-      "summary": "York University is investigating a cybersecurity incident resulting in the theft of personal data which was discovered last month.",
-      "link": "https://toronto.citynews.ca/2026/11/08/york-university-investigating-cybersecurity-incident-data-theft/",
-      "ts": "2026-11-08T20:02:16+00:00",
-      "lat": 43.7735,
-      "lng": -79.5019,
-      "location": "York University",
-      "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958249",
-      "source": "citynews",
-      "title": "\u2018Godzilla Minus Zero\u2019 stomps to a record-setting $31.6 debut, clobbering \u2018The Cat in the Hat\u2019",
-      "summary": "NEW YORK (AP) \u2014 \u201cGodzilla Minus Zero\u201d stomped into movie theaters with a chart-topping $31.6 million over the weekend, scoring a record debut for a foreign-language film at the North American box office.",
-      "link": "https://toronto.citynews.ca/2026/11/08/godzilla-minus-zero-stomps-to-a-record-setting-31-6-debut-clobbering-the-cat-in-the-hat/",
-      "ts": "2026-11-08T18:34:34+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7414261",
       "source": "cbc",
       "title": "Police identify 18-year-old victim of fatal Etobicoke shooting",
@@ -126,18 +138,6 @@
       "approximate": false
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958229",
-      "source": "citynews",
-      "title": "Man, 45, accused of breaking into multiple Brampton area vehicles",
-      "summary": "A rash of vehicle break-ins was recently reported in the city of Brampton and detectives believe they may have found the culprit. On Nov. 3, Peel Regional Police arrested 45-year-old Frank Medeiros of no fixed address in connection with a series of \u201cvehicle-related mischief incidents\u201d and thefts from motor vehicles, according to a press release [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/08/man-45-accused-of-breaking-into-multiple-brampton-area-vehicles/",
-      "ts": "2026-11-08T17:46:25+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7414072",
       "source": "cbc",
       "title": "Fire at Vaughan restaurant investigated as possible arson: York police",
@@ -159,66 +159,6 @@
       "lat": 43.8975,
       "lng": -78.9428,
       "location": "Whitby",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7413897",
-      "source": "cbc",
-      "title": "Person dead after shooting in Etobicoke: police",
-      "summary": "A person has died after a shooting in Etobicoke Saturday, according to Toronto police.",
-      "link": "https://www.cbc.ca/news/canada/toronto/person-dead-shooting-etobicoke-9.7413897?cmp=rss",
-      "ts": "2026-11-08T01:19:00+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7413789",
-      "source": "cbc",
-      "title": "A dip in gold prices brings out jewelry shoppers in Mississauga on Diwali weekend",
-      "summary": "As gold prices dip, some shoppers are taking advantage by buying jewelry during the South Asian festival of Diwali.",
-      "link": "https://www.cbc.ca/news/canada/toronto/a-dip-in-gold-prices-brings-out-jewelry-shoppers-in-mississauga-on-diwali-weekend-9.7413789?cmp=rss",
-      "ts": "2026-11-08T00:05:13+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7413808",
-      "source": "cbc",
-      "title": "Scarborough Health Network hosts breast screening awareness event for Black community",
-      "summary": "Dozens of Black women were screened for breast cancer Saturday at an awareness event hosted by the Scarborough Health Network.",
-      "link": "https://www.cbc.ca/news/canada/toronto/scarborough-breast-screening-awareness-event-9.7413808?cmp=rss",
-      "ts": "2026-11-07T22:42:45+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7412663",
-      "source": "cbc",
-      "title": "Hunter\u2019s brace powers AFC Toronto back to NSL final",
-      "summary": "Kaylee Hunter scored twice as AFC Toronto booked its place in the 2026 Northern Super League final with a commanding 4-0 victory over Ottawa Rapid FC in the second leg of their semifinal matchup at TD Place in Ottawa.",
-      "link": "https://www.cbc.ca/sports/soccer/nsl-playpffs-ottawa-rapid-afc-toronto-november-7-9.7412663?cmp=rss",
-      "ts": "2026-11-07T21:22:36+00:00",
-      "lat": 43.6452837,
-      "lng": -79.3952549,
-      "location": "TD Place",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7413737",
-      "source": "cbc",
-      "title": "Confirmed measles case in Durham region: unimmunized child with history of recent international travel",
-      "summary": "Durham region\u2019s health department is warning residents of a confirmed measles case in an unimmunized child with a history of recent international travel.",
-      "link": "https://www.cbc.ca/news/canada/toronto/confirmed-measles-case-durham-region-9.7413737?cmp=rss",
-      "ts": "2026-11-07T20:23:38+00:00",
-      "lat": 43.9,
-      "lng": -78.9,
-      "location": "Durham Region",
       "approximate": true
     },
     {
