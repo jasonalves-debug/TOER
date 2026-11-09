@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-09T02:29:04.862802+00:00",
+  "generated": "2026-11-09T10:13:58.833799+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7412690",
+      "source": "cbc",
+      "title": "Suspicious tree removal and permits linked to Toronto developer",
+      "summary": "A Toronto developer is facing new accusations of illegal tree removal at a residential property in Etobicoke. Four trees were recently cut down without permits at a property connected to Modcity. The company denies any wrongdoing.",
+      "link": "https://www.cbc.ca/news/canada/toronto/etobicoke-trees-forged-permits-modcity-9.7412690?cmp=rss",
+      "ts": "2026-11-09T09:00:00+00:00",
+      "lat": 43.6205,
+      "lng": -79.5132,
+      "location": "Etobicoke",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4958349",
       "source": "citynews",
@@ -68,7 +80,7 @@
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4958276",
       "source": "citynews",
-      "title": "York University investigating cybersecurity incident, data theft",
+      "title": "York University investigating cybersecurity incident, data theft that dates back almost 20 years",
       "summary": "York University is investigating a cybersecurity incident resulting in the theft of personal data which was discovered last month.",
       "link": "https://toronto.citynews.ca/2026/11/08/york-university-investigating-cybersecurity-incident-data-theft/",
       "ts": "2026-11-08T20:02:16+00:00",
@@ -135,18 +147,6 @@
       "lat": 43.6896,
       "lng": -79.4759,
       "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958140",
-      "source": "citynews",
-      "title": "Man stabbed outside downtown Toronto nightclub",
-      "summary": "Toronto police are investigating after a man was stabbed outside of a downtown nightclub early Sunday morning. Emergency crews were called to the area of Lake Shore Boulevard and Parliament Street at approximately 1:30 a.m. for reports of an assault. When officers arrived at the scene, they located a man in his 20s who had [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/08/man-stabbed-outside-downtown-toronto-nightclub/",
-      "ts": "2026-11-08T12:36:49+00:00",
-      "lat": 43.6443965,
-      "lng": -79.3760531,
-      "location": "Lake Shore Boulevard",
       "approximate": true
     },
     {
@@ -231,30 +231,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7413209",
-      "source": "cbc",
-      "title": "Hitachi Rail opens new Canadian headquarters in Scarborough",
-      "summary": "Hitachi Rail officially opened its new Canadian headquarters in Scarborough on Friday. The headquarters will be the base for more than 1,100 employees and 100 paid interns a year, it says.",
-      "link": "https://www.cbc.ca/news/canada/toronto/hitachi-rail-canadian-headquarters-scarborough-official-opening-9.7413209?cmp=rss",
-      "ts": "2026-11-07T00:52:56+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7412371",
-      "source": "cbc",
-      "title": "Man charged after woman fatally stabbed in North York, police say",
-      "summary": "A man has been arrested and charged after a woman was fatally stabbed in North York on Friday morning, Toronto police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/homicide-investigation-9.7412371?cmp=rss",
-      "ts": "2026-11-06T17:51:11+00:00",
-      "lat": 43.7615,
-      "lng": -79.4111,
-      "location": "North York",
       "approximate": true
     }
   ]

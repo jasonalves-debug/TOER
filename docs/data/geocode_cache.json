@@ -575,5 +575,10 @@
     "lat": 43.7206587,
     "lng": -79.6121422
   },
-  "st:glenholme ave|amherst ave|york": null
+  "st:glenholme ave|amherst ave|york": null,
+  "st:richmond st|john st|toronto": null,
+  "xx:sherbourne st|dundas st e": {
+    "lat": 43.6582824,
+    "lng": -79.3712612
+  }
 }
