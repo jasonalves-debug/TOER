@@ -565,5 +565,15 @@
   "st:weston rd|sheppard ave w|north york": {
     "lat": 43.7326488,
     "lng": -79.5381819
-  }
+  },
+  "st:yonge st|church st|toronto": {
+    "lat": 43.7741395,
+    "lng": -79.4145726
+  },
+  "st:albion rd|albion w 27 n ramp|etobicoke": null,
+  "xx:humberwood blvd|rexdale blvd": {
+    "lat": 43.7206587,
+    "lng": -79.6121422
+  },
+  "st:glenholme ave|amherst ave|york": null
 }

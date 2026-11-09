@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-08T22:54:22.766775+00:00",
+  "generated": "2026-11-09T02:29:04.862802+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958349",
+      "source": "citynews",
+      "title": "Motorcyclist seriously injured in downtown crash",
+      "summary": "A motorcyclist suffered serious injuries following a collision in the Church-Wellesley neighbourhood on Sunday.",
+      "link": "https://toronto.citynews.ca/2026/11/08/motorcyclist-seriously-injured-in-downtown-crash/",
+      "ts": "2026-11-09T02:10:25+00:00",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "location": "Downtown",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958339",
+      "source": "citynews",
+      "title": "Woman previously arrested at anti-Israel protest arrested again during North York demonstration",
+      "summary": "A 40-year-old woman has been charged after an arrest was made during a demonstration in North York on Sunday.",
+      "link": "https://toronto.citynews.ca/2026/11/08/woman-arrested-during-north-york-demonstration/",
+      "ts": "2026-11-09T00:59:14+00:00",
+      "lat": 43.7615,
+      "lng": -79.4111,
+      "location": "North York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7414461",
+      "source": "cbc",
+      "title": "Thousands gather for major Diwali celebration in Brampton",
+      "summary": "Thousands of people from across the GTA gathered in Brampton on Sunday for the city's annual Diwali Mela, marking the Hindu Festival for the fourth consecutive year.",
+      "link": "https://www.cbc.ca/news/canada/toronto/festival-of-diwali-mela-takes-place-in-brampton-for-fourth-year-9.7414461?cmp=rss",
+      "ts": "2026-11-08T23:54:41+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7414341",
       "source": "cbc",
