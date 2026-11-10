@@ -1,10 +1,94 @@
 {
-  "generated": "2026-11-09T20:50:43.714564+00:00",
+  "generated": "2026-11-10T03:18:12.122135+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959114",
+      "source": "citynews",
+      "title": "Male stabbed in Thorncliffe Park",
+      "summary": "A male has been rushed to hospital after being stabbed in Thorncliffe Park. Toronto police were called to Overlea Boulevard and Thorncliffe Park Drive just after 8:30 p.m. Officers found a male suffering from stab wounds outdoors in the area, police say. He was taken to hospital by emergency run with non-life-threatening injuries. No suspect [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/09/male-stabbed-in-thorncliffe-park/",
+      "ts": "2026-11-10T02:44:40+00:00",
+      "lat": 43.704553,
+      "lng": -79.3454074,
+      "location": "Thorncliffe Park",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959064",
+      "source": "citynews",
+      "title": "Petition calls for traffic lights to replace crosswalk in North York neighbourhood where child was struck",
+      "summary": "Nearly two weeks after an eight-year-old girl and her grandmother were struck by a vehicle in a North York neighbourhood, residents are bringing their concerns about the crosswalk where the collision happened to Toronto City Hall. Those in&#160;East Willowdale&#160;say the crosswalk is a safety hazard, telling CityNews drivers often blast through the pedestrian crossover even [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/09/petition-calls-for-traffic-lights-to-replace-crosswalk-in-north-york-neighbourhood-where-child-was-struck/",
+      "ts": "2026-11-10T02:17:56+00:00",
+      "lat": 43.6534,
+      "lng": -79.3841,
+      "location": "City Hall",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958978",
+      "source": "citynews",
+      "title": "Pedestrian struck by vehicle in Mississauga",
+      "summary": "A pedestrian has been taken to hospital after being struck by a vehicle in Mississauga. Peel police say the collision occurred just after 3:30 p.m. Monday in the area of Burnhamthorpe Road and Duke of York Boulevard. The vehicle struck the pedestrian and subsequently struck a pole, police say. The driver involved remained on the [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/09/pedestrian-struck-by-vehicle-in-mississauga-2/",
+      "ts": "2026-11-09T22:19:26+00:00",
+      "lat": 43.6461287,
+      "lng": -79.5604265,
+      "location": "Burnhamthorpe Road",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958949",
+      "source": "citynews",
+      "title": "Canada and China sign deal to deepen financial sector ties",
+      "summary": "VANCOUVER \u2014 Canada and China have struck an agreement to deepen collaboration across their financial systems as the two countries seek closer economic ties.",
+      "link": "https://toronto.citynews.ca/2026/11/09/canada-and-china-sign-deal-to-deepen-financial-sector-ties/",
+      "ts": "2026-11-09T21:17:02+00:00",
+      "lat": 43.651582,
+      "lng": -79.378626,
+      "location": "Canada & China",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958923",
+      "source": "citynews",
+      "title": "Stellantis signs deal with Roshel to sell Brampton assembly plant",
+      "summary": "Stellantis says it has officially signed an agreement with defence contractor Roshel to sell its idled Brampton assembly plant. Under the asset purchase agreement, Roshel will acquire the facility and associated equipment from the automaker for an undisclosed amount. The companies said in a joint news release they are also exploring future collaboration opportunities across [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/09/stellantis-brampton-plant-roshel/",
+      "ts": "2026-11-09T21:16:32+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4958912",
+      "source": "citynews",
+      "title": "Ajax swimming supervisor facing charges in alleged sexual assault of youth employee",
+      "summary": "An Ajax swimming supervisor has been charged after allegedly sexually assaulting a youth employee. Durham police say the investigation began after allegations were made against a 20-year-old male supervisor at Aqua-Tots in Ajax. It&#8217;s alleged the incident involved a 15-year-old female employee under his supervision. Investigators allege he used his position of authority to initate [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/09/ajax-swimming-supervisor-facing-charges-in-alleged-sexual-assault-of-youth-employee/",
+      "ts": "2026-11-09T21:13:11+00:00",
+      "lat": 43.8509,
+      "lng": -79.0204,
+      "location": "Ajax",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7415345",
+      "source": "cbc",
+      "title": "Roshel to buy Stellantis assembly plant in Brampton for undisclosed amount, automaker says",
+      "summary": "Canadian armoured vehicle maker Roshel Inc. will buy the Stellantis assembly plant in Brampton, Ont., the automaker announced Monday.",
+      "link": "https://www.cbc.ca/news/canada/toronto/stellantis-brampton-plant-9.7415345?cmp=rss",
+      "ts": "2026-11-09T21:11:14+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7415377",
       "source": "cbc",
@@ -15,54 +99,6 @@
       "lat": 43.8384,
       "lng": -79.0868,
       "location": "Pickering",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958764",
-      "source": "citynews",
-      "title": "Toronto police seek \u2018dangerous\u2019 wanted man after GPS ankle monitor allegedly tampered with",
-      "summary": "Toronto police are asking for the public&#8217;s help locating a man wanted in connection with an alleged breach of his release conditions after investigators discovered a damaged GPS ankle monitor in Scarborough. Officers were conducting an investigation into an alleged violation of a release order near Eglinton Avenue East and Midland Avenue on Saturday, Nov. [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/09/toronto-man-wanted-gps-ankle-monitor-police/",
-      "ts": "2026-11-09T18:48:24+00:00",
-      "lat": 43.7254056,
-      "lng": -79.2973602,
-      "location": "Eglinton Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958668",
-      "source": "citynews",
-      "title": "72-year-old Whitby man accused of dealing cocaine, heroin, meth: Durham police",
-      "summary": "Durham Regional Police Service (DRPS) officers have arrested a 72-year-old Whitby man accused of dealing hard drugs like cocaine, heroin and methamphetamine. Earlier this month officers received a tip about a person that was potentially trafficking drugs in the Whitby area. On Nov. 4, a search warrant was executed at a residence in the Mary [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/09/whitby-drug-trafficking-investigation-arrest/",
-      "ts": "2026-11-09T16:53:07+00:00",
-      "lat": 43.8975,
-      "lng": -78.9428,
-      "location": "Whitby",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958636",
-      "source": "citynews",
-      "title": "3 youths, 14, charged in Milton arson that prompted evacuation of nearby condo",
-      "summary": "The Halton Regional Police Service (HRPS) said three 14-year-olds have been charged with arson following a fire at an abandoned building in Milton that prompted an evacuation at a nearby condo building. At approximately 5:30 p.m. on Sunday, Nov. 8, officers responded to reports of smoke and flames at a building located at 700 Main [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/09/milton-fire-arson-youths-charged-police/",
-      "ts": "2026-11-09T15:53:24+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958608",
-      "source": "citynews",
-      "title": "Firefighters probe possible fireworks link after Brampton garage blaze",
-      "summary": "A residential fire in Brampton that prompted the evacuation of a neighbouring home Sunday night may have been caused by fireworks materials found inside a garage, according to fire officials. Brampton Fire said crews were called to a fire at a residence in the Hurontario Street and Mayfield Road area at approximately 9:20 p.m. on [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/09/brampton-fire-garage-fireworks-police/",
-      "ts": "2026-11-09T15:16:42+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
       "approximate": true
     },
     {
@@ -138,18 +174,6 @@
       "approximate": false
     },
     {
-      "id": "news_cbc_9.7414072",
-      "source": "cbc",
-      "title": "Fire at Vaughan restaurant investigated as possible arson: York police",
-      "summary": "York police are investigating a suspected case of arson after a fire at Shawarma Royale in Vaughan on Sunday morning.",
-      "link": "https://www.cbc.ca/news/canada/toronto/vaughan-fire-arson-york-police-9.7414072?cmp=rss",
-      "ts": "2026-11-08T13:43:36+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7412692",
       "source": "cbc",
       "title": "An Ontario nature sanctuary home to over 70 rare species will now be protected for generations to come",
@@ -159,18 +183,6 @@
       "lat": 43.8975,
       "lng": -78.9428,
       "location": "Whitby",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7412643",
-      "source": "cbc",
-      "title": "Problematic or protected? The debate over filming police in real time",
-      "summary": "Social media posts showing real-time positions of police officers in a standoff with an armed suspect at the University of Toronto's Mississauga campus on Monday night prompted a stern warning from police, but legal experts say the law isn't clear-cut on the issue.",
-      "link": "https://www.cbc.ca/news/canada/toronto/posting-police-positions-social-media-real-time-utm-9.7412643?cmp=rss",
-      "ts": "2026-11-07T09:00:00+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     }
   ]
