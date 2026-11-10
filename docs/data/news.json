@@ -1,15 +1,63 @@
 {
-  "generated": "2026-11-10T11:36:02.145533+00:00",
+  "generated": "2026-11-10T18:51:56.588087+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_cbc_9.7416427",
+      "source": "cbc",
+      "title": "Stellantis auto plant closure in Brampton a 'betrayal' to all Canadians, Carney says",
+      "summary": "Prime Minister Mark Carney said automaker Stellantis shuttering its plant in Brampton, Ont., is \"unacceptable\" and a betrayal to the country and all Canadians.",
+      "link": "https://www.cbc.ca/news/politics/stellantis-poilievre-joly-job-fire-9.7416427?cmp=rss",
+      "ts": "2026-11-10T17:02:56+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959429",
+      "source": "citynews",
+      "title": "Ontario appoints 8 regional chairs with \u2018strong mayor\u2019 powers",
+      "summary": "The Ontario government has appointed the heads of council for eight upper-tier municipalities, handing them enhanced governance powers as part of the province&#8217;s ongoing push to accelerate housing construction and infrastructure development. On Tuesday, the Ford government announced appointments for regional chair positions in Durham, Halton, Niagara, Peel, Waterloo and York regions, as well ",
+      "link": "https://toronto.citynews.ca/2026/11/10/ontario-government-appoints-8-regional-chairs/",
+      "ts": "2026-11-10T16:04:14+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959365",
+      "source": "citynews",
+      "title": "PWHL expansion clubs Hamilton, Detroit, Vegas and San Jose unveil team nicknames",
+      "summary": "The Professional Women&#8217;s Hockey League&#8217;s (PWHL) four new expansion teams finally have nicknames and logos to accompany them in preparing to make their on-ice debuts next month. It&#8217;s game on for the Detroit Clutch, San Jose Sea Lions, Vegas Vanguards and Hamilton Havoc. The four markets were selected this spring in expanding the PWHL from [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/10/pwhl-expansion-team-names-hamilton-las-vegas-detroit-san-jose/",
+      "ts": "2026-11-10T14:23:52+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959282",
+      "source": "citynews",
+      "title": "Pedestrian struck by vehicle in Brampton, critically injured",
+      "summary": "A man in his 30s is critically injured after he was struck by a vehicle in Brampton, police say. Emergency crews were called to the area of Bovaird Drive East and Bramalea Road around 1:30 a.m. on Tuesday. Peel paramedics said the man was taken to hospital in serious condition but police later said his [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/10/brampton-pedestrian-struck-bovaird-bramalea/",
+      "ts": "2026-11-10T12:19:48+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
       "id": "news_cbc_9.7416028",
       "source": "cbc",
-      "title": "Male dead in Rexdale shooting: police",
-      "summary": "A male is dead after a shooting in Rexdale early Tuesday, say police.",
+      "title": "1 dead in shooting in Rexdale: police",
+      "summary": "A male is dead after a shooting early Tuesday, according to police.",
       "link": "https://www.cbc.ca/news/canada/toronto/shooting-rexdale-9.7416028?cmp=rss",
       "ts": "2026-11-10T11:24:01+00:00",
       "lat": 43.7276,
@@ -22,7 +70,7 @@
       "source": "citynews",
       "title": "Male shot and killed near Rexdale community centre; homicide unit investigating",
       "summary": "A male is dead following an overnight shooting near Martin Grove Road and Finch Avenue West in Rexdale. Toronto police were called to the area of Elmbank Community Centre shortly after 1:10 a.m. on Tuesday following reports of a shooting. Toronto paramedics tell 680 NewsRadio they responded to the scene but did not transport the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/10/toronto-shooting-rexdale-male-dead-homicide/",
+      "link": "https://toronto.citynews.ca/2026/11/10/toronto-shooting-rexdale-male-dead-homicide-etobicoke/",
       "ts": "2026-11-10T10:49:24+00:00",
       "lat": 43.7574973,
       "lng": -79.6031631,
@@ -39,42 +87,6 @@
       "lat": 43.5183,
       "lng": -79.8774,
       "location": "Milton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959114",
-      "source": "citynews",
-      "title": "Male stabbed in Thorncliffe Park",
-      "summary": "A male has been rushed to hospital after being stabbed in Thorncliffe Park. Toronto police were called to Overlea Boulevard and Thorncliffe Park Drive just after 8:30 p.m. Officers found a male suffering from stab wounds outdoors in the area, police say. He was taken to hospital by emergency run with non-life-threatening injuries. No suspect [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/09/male-stabbed-in-thorncliffe-park/",
-      "ts": "2026-11-10T02:44:40+00:00",
-      "lat": 43.704553,
-      "lng": -79.3454074,
-      "location": "Thorncliffe Park",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959064",
-      "source": "citynews",
-      "title": "Petition calls for traffic lights to replace crosswalk in North York neighbourhood where child was struck",
-      "summary": "Nearly two weeks after an eight-year-old girl and her grandmother were struck by a vehicle in a North York neighbourhood, residents are bringing their concerns about the crosswalk where the collision happened to Toronto City Hall. Those in&#160;East Willowdale&#160;say the crosswalk is a safety hazard, telling CityNews drivers often blast through the pedestrian crossover even [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/09/petition-calls-for-traffic-lights-to-replace-crosswalk-in-north-york-neighbourhood-where-child-was-struck/",
-      "ts": "2026-11-10T02:17:56+00:00",
-      "lat": 43.6534,
-      "lng": -79.3841,
-      "location": "City Hall",
-      "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958978",
-      "source": "citynews",
-      "title": "Pedestrian struck by vehicle in Mississauga",
-      "summary": "A pedestrian has been taken to hospital after being struck by a vehicle in Mississauga. Peel police say the collision occurred just after 3:30 p.m. Monday in the area of Burnhamthorpe Road and Duke of York Boulevard. The vehicle struck the pedestrian and subsequently struck a pole, police say. The driver involved remained on the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/09/pedestrian-struck-by-vehicle-in-mississauga-2/",
-      "ts": "2026-11-09T22:19:26+00:00",
-      "lat": 43.6461287,
-      "lng": -79.5604265,
-      "location": "Burnhamthorpe Road",
       "approximate": true
     },
     {
@@ -126,18 +138,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7414461",
-      "source": "cbc",
-      "title": "Thousands gather for major Diwali celebration in Brampton",
-      "summary": "Thousands of people from across the GTA gathered in Brampton on Sunday for the city's annual Diwali Mela, marking the Hindu Festival for the fourth consecutive year.",
-      "link": "https://www.cbc.ca/news/canada/toronto/festival-of-diwali-mela-takes-place-in-brampton-for-fourth-year-9.7414461?cmp=rss",
-      "ts": "2026-11-08T23:54:41+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7414341",
       "source": "cbc",
       "title": "Workers rally against potential layoffs at Etobicoke nursing home",
@@ -159,30 +159,6 @@
       "lat": 43.653009,
       "lng": -79.5729924,
       "location": "Rathburn Road",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7414235",
-      "source": "cbc",
-      "title": "York University warns of personal data theft in cybersecurity incident",
-      "summary": "York University is warning the community of a cybersecurity incident that resulted in the theft of personal information, including personal contact details and student identification numbers.",
-      "link": "https://www.cbc.ca/news/canada/toronto/york-university-department-forms-cybersecurity-incident-9.7414235?cmp=rss",
-      "ts": "2026-11-08T17:50:29+00:00",
-      "lat": 43.7735,
-      "lng": -79.5019,
-      "location": "York University",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7412692",
-      "source": "cbc",
-      "title": "An Ontario nature sanctuary home to over 70 rare species will now be protected for generations to come",
-      "summary": "A nature sanctuary in Whitby, Ont., home to over 70 rare species, some of which are at-risk, is now part of the Ontario Nature reserve system after its acquisition of the forested area from its previous land trust owners last week.",
-      "link": "https://www.cbc.ca/news/canada/toronto/conservation-group-helps-to-secure-future-of-rare-old-growth-forest-on-lake-ontario-9.7412692?cmp=rss",
-      "ts": "2026-11-08T09:00:00+00:00",
-      "lat": 43.8975,
-      "lng": -78.9428,
-      "location": "Whitby",
       "approximate": true
     }
   ]
