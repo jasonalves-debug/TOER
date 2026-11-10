@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-10T03:18:12.122135+00:00",
+  "generated": "2026-11-10T11:36:02.145533+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7416028",
+      "source": "cbc",
+      "title": "Male dead in Rexdale shooting: police",
+      "summary": "A male is dead after a shooting in Rexdale early Tuesday, say police.",
+      "link": "https://www.cbc.ca/news/canada/toronto/shooting-rexdale-9.7416028?cmp=rss",
+      "ts": "2026-11-10T11:24:01+00:00",
+      "lat": 43.7276,
+      "lng": -79.5638,
+      "location": "Rexdale",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959249",
+      "source": "citynews",
+      "title": "Male shot and killed near Rexdale community centre; homicide unit investigating",
+      "summary": "A male is dead following an overnight shooting near Martin Grove Road and Finch Avenue West in Rexdale. Toronto police were called to the area of Elmbank Community Centre shortly after 1:10 a.m. on Tuesday following reports of a shooting. Toronto paramedics tell 680 NewsRadio they responded to the scene but did not transport the [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/10/toronto-shooting-rexdale-male-dead-homicide/",
+      "ts": "2026-11-10T10:49:24+00:00",
+      "lat": 43.7574973,
+      "lng": -79.6031631,
+      "location": "Martin Grove Road",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959245",
+      "source": "citynews",
+      "title": "Police say fire in Milton unrelated to Diwali celebrations",
+      "summary": "Several social media posts claimed celebratory Diwali fireworks caused a large fire in Milton on Sunday. Local authorities charged three teenagers with arson in relation to the fire, but Halton Regional Police say there is no evidence connecting the fire to Diwali fireworks. A video shared on social media this week shows a massive fire [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/10/milton-fire-three-youths-charged-diwali-claims/",
+      "ts": "2026-11-10T10:37:06+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4959114",
       "source": "citynews",
@@ -39,42 +75,6 @@
       "lat": 43.6461287,
       "lng": -79.5604265,
       "location": "Burnhamthorpe Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958949",
-      "source": "citynews",
-      "title": "Canada and China sign deal to deepen financial sector ties",
-      "summary": "VANCOUVER \u2014 Canada and China have struck an agreement to deepen collaboration across their financial systems as the two countries seek closer economic ties.",
-      "link": "https://toronto.citynews.ca/2026/11/09/canada-and-china-sign-deal-to-deepen-financial-sector-ties/",
-      "ts": "2026-11-09T21:17:02+00:00",
-      "lat": 43.651582,
-      "lng": -79.378626,
-      "location": "Canada & China",
-      "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958923",
-      "source": "citynews",
-      "title": "Stellantis signs deal with Roshel to sell Brampton assembly plant",
-      "summary": "Stellantis says it has officially signed an agreement with defence contractor Roshel to sell its idled Brampton assembly plant. Under the asset purchase agreement, Roshel will acquire the facility and associated equipment from the automaker for an undisclosed amount. The companies said in a joint news release they are also exploring future collaboration opportunities across [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/09/stellantis-brampton-plant-roshel/",
-      "ts": "2026-11-09T21:16:32+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4958912",
-      "source": "citynews",
-      "title": "Ajax swimming supervisor facing charges in alleged sexual assault of youth employee",
-      "summary": "An Ajax swimming supervisor has been charged after allegedly sexually assaulting a youth employee. Durham police say the investigation began after allegations were made against a 20-year-old male supervisor at Aqua-Tots in Ajax. It&#8217;s alleged the incident involved a 15-year-old female employee under his supervision. Investigators allege he used his position of authority to initate [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/09/ajax-swimming-supervisor-facing-charges-in-alleged-sexual-assault-of-youth-employee/",
-      "ts": "2026-11-09T21:13:11+00:00",
-      "lat": 43.8509,
-      "lng": -79.0204,
-      "location": "Ajax",
       "approximate": true
     },
     {
