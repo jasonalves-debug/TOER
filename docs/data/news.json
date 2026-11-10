@@ -1,15 +1,87 @@
 {
-  "generated": "2026-11-10T18:51:56.588087+00:00",
+  "generated": "2026-11-10T23:56:44.670606+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_cbc_9.7417341",
+      "source": "cbc",
+      "title": "1 dead after 3 vehicles collide on Highway 410 in Brampton, police say",
+      "summary": "A person has died after a collision involving three vehicles on Highway 410 in Brampton, Ontario Provincial Police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/fatal-collision-brampton-9.7417341?cmp=rss",
+      "ts": "2026-11-10T23:13:10+00:00",
+      "lat": 43.6911749,
+      "lng": -79.569902,
+      "location": "Highway 410",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7416983",
+      "source": "cbc",
+      "title": "Peel police unveil new Brampton division, first expansion since 1987",
+      "summary": "The new $118-million police facility in Brampton will have capacity for 500 officers and bring investigative teams together under one roof, as residents weigh in on its cost.",
+      "link": "https://www.cbc.ca/news/canada/toronto/peel-police-new-division-9.7416983?cmp=rss",
+      "ts": "2026-11-10T22:46:11+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959723",
+      "source": "citynews",
+      "title": "Man in hospital after being struck by vehicle in North York",
+      "summary": "A man was transported to a hospital Tuesday afternoon after being hit by a car in North York, police said. Emergency crews were called to Parkway Forest Drive and Sheppard Avenue East just after 4:30 p.m. for reports of a collision. Officers say man in a mobility scooter was hit by a vehicle and transported [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/10/man-in-hospital-after-being-struck-by-vehicle-in-north-york/",
+      "ts": "2026-11-10T22:34:47+00:00",
+      "lat": 43.7695135,
+      "lng": -79.3450219,
+      "location": "Parkway Forest Drive",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7417036",
+      "source": "cbc",
+      "title": "Stellantis plant sale: New employment program aims to help laid-off Brampton workers",
+      "summary": "With thousands of Brampton autoworkers facing an uncertain future, a new regional initiative is fast-tracking pathways into logistics and manufacturing across the Pearson Economic Zone.",
+      "link": "https://www.cbc.ca/news/canada/toronto/stellantis-sale-pearson-workforce-pilot-9.7417036?cmp=rss",
+      "ts": "2026-11-10T22:25:23+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959697",
+      "source": "citynews",
+      "title": "Wealth gap between Montreal and Toronto remains steady, report finds",
+      "summary": "MONTR\u00c9AL \u2014 A new report has found that Quebec\u2019s regions have closed the economic gap with Ontario, even as the wealth gap between Toronto and Montreal remains.",
+      "link": "https://toronto.citynews.ca/2026/11/10/wealth-gap-between-montreal-and-toronto-remains-steady-report-finds/",
+      "ts": "2026-11-10T21:43:50+00:00",
+      "lat": 43.7582923,
+      "lng": -79.5200594,
+      "location": "Montreal & Toronto",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959627",
+      "source": "citynews",
+      "title": "Fatal multi-vehicle crash closes northbound lanes of Hwy. 410 in Brampton",
+      "summary": "A multi-vehicle crash on Highway 410 in Brampton has claimed a life and resulted in the closure of all northbound lanes at Williams Parkway. The crash occurred just before 2 p.m. on Tuesday. Ontario Provincial Police (OPP) Sgt. Kerry Schmidt said three vehicles were involved. &#8220;One vehicle crossed into the northbound lanes, that was travelling [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/10/fatal-multi-vehicle-crash-closes-northbound-lanes-of-hwy-410-in-brampton/",
+      "ts": "2026-11-10T20:24:43+00:00",
+      "lat": 43.6911749,
+      "lng": -79.569902,
+      "location": "Highway 410",
+      "approximate": true
+    },
+    {
       "id": "news_cbc_9.7416427",
       "source": "cbc",
       "title": "Stellantis auto plant closure in Brampton a 'betrayal' to all Canadians, Carney says",
-      "summary": "Prime Minister Mark Carney said automaker Stellantis shuttering its plant in Brampton, Ont., is \"unacceptable\" and a betrayal to the country and all Canadians.",
+      "summary": "Prime Minister Mark Carney said automaker Stellantis shuttering its plant in Brampton, Ont., is \"unacceptable\" and a betrayal to the country.",
       "link": "https://www.cbc.ca/news/politics/stellantis-poilievre-joly-job-fire-9.7416427?cmp=rss",
       "ts": "2026-11-10T17:02:56+00:00",
       "lat": 43.7315,
@@ -18,75 +90,15 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959429",
-      "source": "citynews",
-      "title": "Ontario appoints 8 regional chairs with \u2018strong mayor\u2019 powers",
-      "summary": "The Ontario government has appointed the heads of council for eight upper-tier municipalities, handing them enhanced governance powers as part of the province&#8217;s ongoing push to accelerate housing construction and infrastructure development. On Tuesday, the Ford government announced appointments for regional chair positions in Durham, Halton, Niagara, Peel, Waterloo and York regions, as well ",
-      "link": "https://toronto.citynews.ca/2026/11/10/ontario-government-appoints-8-regional-chairs/",
-      "ts": "2026-11-10T16:04:14+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959365",
-      "source": "citynews",
-      "title": "PWHL expansion clubs Hamilton, Detroit, Vegas and San Jose unveil team nicknames",
-      "summary": "The Professional Women&#8217;s Hockey League&#8217;s (PWHL) four new expansion teams finally have nicknames and logos to accompany them in preparing to make their on-ice debuts next month. It&#8217;s game on for the Detroit Clutch, San Jose Sea Lions, Vegas Vanguards and Hamilton Havoc. The four markets were selected this spring in expanding the PWHL from [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/10/pwhl-expansion-team-names-hamilton-las-vegas-detroit-san-jose/",
-      "ts": "2026-11-10T14:23:52+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959282",
-      "source": "citynews",
-      "title": "Pedestrian struck by vehicle in Brampton, critically injured",
-      "summary": "A man in his 30s is critically injured after he was struck by a vehicle in Brampton, police say. Emergency crews were called to the area of Bovaird Drive East and Bramalea Road around 1:30 a.m. on Tuesday. Peel paramedics said the man was taken to hospital in serious condition but police later said his [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/10/brampton-pedestrian-struck-bovaird-bramalea/",
-      "ts": "2026-11-10T12:19:48+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7416028",
       "source": "cbc",
-      "title": "1 dead in shooting in Rexdale: police",
-      "summary": "A male is dead after a shooting early Tuesday, according to police.",
+      "title": "Police seek 2 suspects after 18-year-old fatally shot in Rexdale",
+      "summary": "Toronto police investigators are looking for two suspects after an 18-year-old was shot and killed in Rexdale early Tuesday.",
       "link": "https://www.cbc.ca/news/canada/toronto/shooting-rexdale-9.7416028?cmp=rss",
       "ts": "2026-11-10T11:24:01+00:00",
       "lat": 43.7276,
       "lng": -79.5638,
       "location": "Rexdale",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959249",
-      "source": "citynews",
-      "title": "Male shot and killed near Rexdale community centre; homicide unit investigating",
-      "summary": "A male is dead following an overnight shooting near Martin Grove Road and Finch Avenue West in Rexdale. Toronto police were called to the area of Elmbank Community Centre shortly after 1:10 a.m. on Tuesday following reports of a shooting. Toronto paramedics tell 680 NewsRadio they responded to the scene but did not transport the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/10/toronto-shooting-rexdale-male-dead-homicide-etobicoke/",
-      "ts": "2026-11-10T10:49:24+00:00",
-      "lat": 43.7574973,
-      "lng": -79.6031631,
-      "location": "Martin Grove Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959245",
-      "source": "citynews",
-      "title": "Police say fire in Milton unrelated to Diwali celebrations",
-      "summary": "Several social media posts claimed celebratory Diwali fireworks caused a large fire in Milton on Sunday. Local authorities charged three teenagers with arson in relation to the fire, but Halton Regional Police say there is no evidence connecting the fire to Diwali fireworks. A video shared on social media this week shows a massive fire [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/10/milton-fire-three-youths-charged-diwali-claims/",
-      "ts": "2026-11-10T10:37:06+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
       "approximate": true
     },
     {
@@ -102,30 +114,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7415377",
-      "source": "cbc",
-      "title": "Ajax, Pickering casino workers back to work after ratifying new collective agreement with employer",
-      "summary": "Hundreds of workers from Casino Ajax and Pickering Casino Resort who have been on strike since the end of July are back at work after ratifying a new collective agreement with Great Canadian Entertainment.",
-      "link": "https://www.cbc.ca/news/canada/toronto/ajax-pickering-casino-strike-ends-9.7415377?cmp=rss",
-      "ts": "2026-11-09T20:10:14+00:00",
-      "lat": 43.8384,
-      "lng": -79.0868,
-      "location": "Pickering",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7414610",
-      "source": "cbc",
-      "title": "3 teens charged after fire at former Habitat for Humanity ReStore building in Milton: police",
-      "summary": "Following an investigation into a fire in Milton Sunday evening, three 14-year-olds have each been charged with one count of break and enter and one count of arson, police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/fire-milton-habitat-for-humanity-restore-building-9.7414610?cmp=rss",
-      "ts": "2026-11-09T11:37:35+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7412690",
       "source": "cbc",
       "title": "Suspicious tree removal and permits linked to Toronto developer",
@@ -135,30 +123,6 @@
       "lat": 43.6205,
       "lng": -79.5132,
       "location": "Etobicoke",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7414341",
-      "source": "cbc",
-      "title": "Workers rally against potential layoffs at Etobicoke nursing home",
-      "summary": "A group of unionized long-term care workers rallied in Etobicoke Saturday to sound the alarm over potential layoffs and staffing shortages.",
-      "link": "https://www.cbc.ca/news/canada/toronto/workers-rally-potential-layoffs-etobicoke-long-term-care-home-9.7414341?cmp=rss",
-      "ts": "2026-11-08T21:11:01+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7414261",
-      "source": "cbc",
-      "title": "Police identify 18-year-old victim of fatal Etobicoke shooting",
-      "summary": "Toronto police have identified the victim of a homicide in Etobicoke on Saturday. Malik Abass, 18, of Mississauga, was shot in the area of Rathburn Road and The East Mall, the Toronto Police Service said in a news release Sunday.",
-      "link": "https://www.cbc.ca/news/canada/toronto/police-identify-victim-fatal-etobicoke-shooting-9.7414261?cmp=rss",
-      "ts": "2026-11-08T18:12:27+00:00",
-      "lat": 43.653009,
-      "lng": -79.5729924,
-      "location": "Rathburn Road",
       "approximate": true
     }
   ]
