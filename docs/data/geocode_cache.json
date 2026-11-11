@@ -608,5 +608,20 @@
   "st:pinnacle rd|mossgrove trl|north york": null,
   "st:bellevue ave|wales ave|toronto": null,
   "st:kingston rd|c n r|scarborough": null,
-  "fsa2:M4H": null
+  "fsa2:M4H": null,
+  "st:royal york rd|hornell st|etobicoke": null,
+  "st:wynford dr|gervais dr|north york": {
+    "lat": 43.7231302,
+    "lng": -79.3364676
+  },
+  "st:pembroke st|ln n dundas w pembroke|toronto": null,
+  "st:select ave|state crown blvd|scarborough": null,
+  "st:gervais dr|wynford dr|north york": {
+    "lat": 43.7233808,
+    "lng": -79.3366711
+  },
+  "st:fairbank ave|eglinton ave w|york": {
+    "lat": 43.6943876,
+    "lng": -79.4557439
+  }
 }
