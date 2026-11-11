@@ -1,14 +1,38 @@
 {
-  "generated": "2026-11-10T23:56:44.670606+00:00",
+  "generated": "2026-11-11T05:45:54.046528+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959792",
+      "source": "citynews",
+      "title": "Toronto businesses seek stability in mayor\u2019s second term",
+      "summary": "Amid the pedestrians and suitcases outside Union Station, Dana Duncanson sees a great future for downtown Toronto. \u201cYeah, Toronto is really going through this, great evolution,\u201d Duncanson says. As managing director of the Downtown West Business Improvement Area (BIA), Duncinson represents businesses located both north and south of Union Station. He says the area wants [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/10/toronto-businesses-looking-for-construction-coordination-predictable-event-funding-in-mayors-second-term/",
+      "ts": "2026-11-11T01:35:58+00:00",
+      "lat": 43.6453,
+      "lng": -79.3806,
+      "location": "Union Station",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4959772",
+      "source": "citynews",
+      "title": "2 men charged after allegedly stealing commercial coffee machines in Mississauga",
+      "summary": "Two men were arrested and charged in connection with the theft of nine commercial coffee machines valued at almost $86,000 in Mississauga, authorities say. According to Peel Regional Police (PRP), the two suspects allegedly stole nine high-end commercial coffee machines, from a Mississauga commercial building in July. Investigators say the stolen machines were listed for [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/10/2-men-charged-after-allegedly-stealing-commercial-coffee-machines-in-mississauga/",
+      "ts": "2026-11-11T00:17:45+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
       "id": "news_cbc_9.7417341",
       "source": "cbc",
-      "title": "1 dead after 3 vehicles collide on Highway 410 in Brampton, police say",
+      "title": "Male dead after 3 vehicles collide on Highway 410 in Brampton, police say",
       "summary": "A person has died after a collision involving three vehicles on Highway 410 in Brampton, Ontario Provincial Police say.",
       "link": "https://www.cbc.ca/news/canada/toronto/fatal-collision-brampton-9.7417341?cmp=rss",
       "ts": "2026-11-10T23:13:10+00:00",
@@ -64,18 +88,6 @@
       "lng": -79.5200594,
       "location": "Montreal & Toronto",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959627",
-      "source": "citynews",
-      "title": "Fatal multi-vehicle crash closes northbound lanes of Hwy. 410 in Brampton",
-      "summary": "A multi-vehicle crash on Highway 410 in Brampton has claimed a life and resulted in the closure of all northbound lanes at Williams Parkway. The crash occurred just before 2 p.m. on Tuesday. Ontario Provincial Police (OPP) Sgt. Kerry Schmidt said three vehicles were involved. &#8220;One vehicle crossed into the northbound lanes, that was travelling [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/10/fatal-multi-vehicle-crash-closes-northbound-lanes-of-hwy-410-in-brampton/",
-      "ts": "2026-11-10T20:24:43+00:00",
-      "lat": 43.6911749,
-      "lng": -79.569902,
-      "location": "Highway 410",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7416427",
