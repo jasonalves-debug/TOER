@@ -1,10 +1,34 @@
 {
-  "generated": "2026-11-11T05:45:54.046528+00:00",
+  "generated": "2026-11-11T13:48:08.180747+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7417134",
+      "source": "cbc",
+      "title": "Pickering Mayor Kevin Ashe considers using expanded powers for Durham budget as region's new chair",
+      "summary": "Pickering Mayor Kevin Ashe says he's considering using his expanded powers as new regional chair with the Regional Municipality of Durham during the budget process and to appoint committee leaders. He's among eight regional chairs appointed this week by Ontario.",
+      "link": "https://www.cbc.ca/news/canada/toronto/pickering-mayor-kevin-ashe-durham-regional-chair-9.7417134?cmp=rss",
+      "ts": "2026-11-11T11:00:00+00:00",
+      "lat": 43.8384,
+      "lng": -79.0868,
+      "location": "Pickering",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7416735",
+      "source": "cbc",
+      "title": "Stellantis auto plant sale draws optimism, hurt in Brampton, Ont., after 2,000 jobs lost",
+      "summary": "Workers and local politicians are expressing disappointment at Stellantis's decision to sell its Brampton, Ont., plant to armoured vehicle maker Roshel Inc., but some local businesses and experts say the new company could bring more jobs and foot traffic to the community.",
+      "link": "https://www.cbc.ca/news/canada/toronto/stellantis-sale-roshel-brampton-businesses-workers-react-9.7416735?cmp=rss",
+      "ts": "2026-11-11T10:00:00+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4959792",
       "source": "citynews",
@@ -16,18 +40,6 @@
       "lng": -79.3806,
       "location": "Union Station",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959772",
-      "source": "citynews",
-      "title": "2 men charged after allegedly stealing commercial coffee machines in Mississauga",
-      "summary": "Two men were arrested and charged in connection with the theft of nine commercial coffee machines valued at almost $86,000 in Mississauga, authorities say. According to Peel Regional Police (PRP), the two suspects allegedly stole nine high-end commercial coffee machines, from a Mississauga commercial building in July. Investigators say the stolen machines were listed for [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/10/2-men-charged-after-allegedly-stealing-commercial-coffee-machines-in-mississauga/",
-      "ts": "2026-11-11T00:17:45+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7417341",
@@ -54,18 +66,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959723",
-      "source": "citynews",
-      "title": "Man in hospital after being struck by vehicle in North York",
-      "summary": "A man was transported to a hospital Tuesday afternoon after being hit by a car in North York, police said. Emergency crews were called to Parkway Forest Drive and Sheppard Avenue East just after 4:30 p.m. for reports of a collision. Officers say man in a mobility scooter was hit by a vehicle and transported [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/10/man-in-hospital-after-being-struck-by-vehicle-in-north-york/",
-      "ts": "2026-11-10T22:34:47+00:00",
-      "lat": 43.7695135,
-      "lng": -79.3450219,
-      "location": "Parkway Forest Drive",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7417036",
       "source": "cbc",
       "title": "Stellantis plant sale: New employment program aims to help laid-off Brampton workers",
@@ -76,18 +76,6 @@
       "lng": -79.7624,
       "location": "Brampton",
       "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4959697",
-      "source": "citynews",
-      "title": "Wealth gap between Montreal and Toronto remains steady, report finds",
-      "summary": "MONTR\u00c9AL \u2014 A new report has found that Quebec\u2019s regions have closed the economic gap with Ontario, even as the wealth gap between Toronto and Montreal remains.",
-      "link": "https://toronto.citynews.ca/2026/11/10/wealth-gap-between-montreal-and-toronto-remains-steady-report-finds/",
-      "ts": "2026-11-10T21:43:50+00:00",
-      "lat": 43.7582923,
-      "lng": -79.5200594,
-      "location": "Montreal & Toronto",
-      "approximate": false
     },
     {
       "id": "news_cbc_9.7416427",
@@ -123,18 +111,6 @@
       "lat": 43.7315,
       "lng": -79.7624,
       "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7412690",
-      "source": "cbc",
-      "title": "Suspicious tree removal and permits linked to Toronto developer",
-      "summary": "A Toronto developer is facing new accusations of illegal tree removal at a residential property in Etobicoke. Four trees were recently cut down without permits at a property connected to Modcity. The company denies any wrongdoing.",
-      "link": "https://www.cbc.ca/news/canada/toronto/etobicoke-trees-forged-permits-modcity-9.7412690?cmp=rss",
-      "ts": "2026-11-09T09:00:00+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
       "approximate": true
     }
   ]
