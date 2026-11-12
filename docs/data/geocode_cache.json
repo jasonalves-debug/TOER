@@ -633,5 +633,12 @@
     "lat": 43.7075669,
     "lng": -79.3427576
   },
-  "st:church st|queen st e|toronto": null
+  "st:church st|queen st e|toronto": null,
+  "st:brian harrison way|borough dr|scarborough": null,
+  "st:gerrard st|sumach st|toronto": null,
+  "st:yonge st|irwin ave|toronto": null,
+  "st:king st|cowan ave|toronto": {
+    "lat": 43.6378456,
+    "lng": -79.4317313
+  }
 }
