@@ -632,5 +632,6 @@
   "st:overlea blvd|thorncliffe park dr|east york": {
     "lat": 43.7075669,
     "lng": -79.3427576
-  }
+  },
+  "st:church st|queen st e|toronto": null
 }

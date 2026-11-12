@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T02:16:49.768776+00:00",
+  "generated": "2026-11-12T10:06:34.089396+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
@@ -51,6 +51,18 @@
       "lat": 43.8274965,
       "lng": -79.1995698,
       "location": "Sewells Road",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4960406",
+      "source": "citynews",
+      "title": "Firefighters dig through rubble after NYC building collapse kills 2 and traps people in wreckage",
+      "summary": "NEW YORK (AP) \u2014 Firefighters dug through the rubble of a three-story building in Brooklyn after it collapsed at the edge of a construction site Wednesday afternoon, killing at least two people and trapping others beneath the wreckage.",
+      "link": "https://toronto.citynews.ca/2026/11/11/firefighters-dig-through-rubble-after-nyc-building-collapse-kills-2-and-traps-people-in-wreckage/",
+      "ts": "2026-11-11T22:00:12+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
       "approximate": true
     },
     {
@@ -207,18 +219,6 @@
       "lat": 43.6911749,
       "lng": -79.569902,
       "location": "Highway 410",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7416983",
-      "source": "cbc",
-      "title": "Peel police unveil new Brampton division, first expansion since 1987",
-      "summary": "The new $118-million police facility in Brampton will have capacity for 500 officers and bring investigative teams together under one roof, as residents weigh in on its cost.",
-      "link": "https://www.cbc.ca/news/canada/toronto/peel-police-new-division-9.7416983?cmp=rss",
-      "ts": "2026-11-10T22:46:11+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
       "approximate": true
     },
     {
