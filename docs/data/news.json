@@ -1,10 +1,70 @@
 {
-  "generated": "2026-11-12T18:21:15.392574+00:00",
+  "generated": "2026-11-12T23:47:02.445465+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4961218",
+      "source": "citynews",
+      "title": "Donald Trump Jr. exits advisory role at prediction market Kalshi",
+      "summary": "NEW YORK (AP) \u2014 Donald Trump Jr. is no longer a paid adviser for Kalshi, the prediction market company said Thursday.",
+      "link": "https://toronto.citynews.ca/2026/11/12/donald-trump-jr-exits-advisory-role-at-prediction-market-kalshi/",
+      "ts": "2026-11-12T22:08:04+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7419584",
+      "source": "cbc",
+      "title": "U of T rejects report saying school over-polices, under-protects Muslims, Arabs, Palestinians",
+      "summary": "The University of Toronto says it will not accept recommendations from a review that found the school has a \"general pattern of over-policing and under-protecting\" Muslims, Arabs and Palestinians.",
+      "link": "https://www.cbc.ca/news/canada/toronto/uoft-anti-muslim-arab-report-recommendations-rejection-9.7419584?cmp=rss",
+      "ts": "2026-11-12T21:27:04+00:00",
+      "lat": 43.6629,
+      "lng": -79.3957,
+      "location": "U Of T",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4960968",
+      "source": "citynews",
+      "title": "Friend of woman stabbed to death in North York left traumatized after witnessing violent murder",
+      "summary": "A friend and roommate of a woman who was stabbed to death says she not only witnessed the attack, but tried to help as she saw the horrific scene unfold in the parking lot of the North York apartment building they called home. Gregoria Alilio, 47, was killed in what police are investigating as a [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/12/friend-of-woman-stabbed-to-death-in-north-york-left-traumatized-after-witnessing-violent-murder/",
+      "ts": "2026-11-12T21:23:45+00:00",
+      "lat": 43.7615,
+      "lng": -79.4111,
+      "location": "North York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7419553",
+      "source": "cbc",
+      "title": "Industry minister 'fed up' after meeting with Stellantis, says automaker breached contract",
+      "summary": "Industry Minister M\u00e9lanie Joly says she is \"fed up\" with automaker Stellantis after meeting with company representatives on Thursday. The company this week announced its intention to sell its Brampton, Ont., plant to an armoured vehicle manufacturer.",
+      "link": "https://www.cbc.ca/news/politics/resolution-process-terminated-government-stellantis-brampton-plant-9.7419553?cmp=rss",
+      "ts": "2026-11-12T21:00:00+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7419502",
+      "source": "cbc",
+      "title": "Meet the 1st woman to run an ultra marathon in Antarctica",
+      "summary": "Oakville\u2019s Stephanie Case made history after completing a grueling 100-mile race across the frozen continent \u2014 pushing through sub-minus-20-degree temperatures, frozen gear, and more than 17 hours of continuous running.",
+      "link": "https://www.cbc.ca/player/play/9.7419502?cmp=rss",
+      "ts": "2026-11-12T19:37:48+00:00",
+      "lat": 43.4675,
+      "lng": -79.6877,
+      "location": "Oakville",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4961050",
       "source": "citynews",
@@ -28,66 +88,6 @@
       "lng": -79.3807,
       "location": "Eaton Centre",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960914",
-      "source": "citynews",
-      "title": "Toronto\u2019s Santa Claus Parade to travel down Yonge St. due to ongoing downtown construction",
-      "summary": "The Original Santa Claus Parade will travel down Yonge Street this year, for the first time in over a decade, to accommodate ongoing construction in the downtown core. The 122nd edition of the parade is being held on Sunday, Nov. 22, starting at 12:30 p.m. While the traditional starting point of Christie Pits will continue [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/toronto-santa-claus-parade-new-route/",
-      "ts": "2026-11-12T16:26:18+00:00",
-      "lat": 43.7510078,
-      "lng": -79.4080264,
-      "location": "Yonge St",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960894",
-      "source": "citynews",
-      "title": "UP Express, GO transit service adjustments happening this weekend",
-      "summary": "It will be another weekend of UP Express and GO Transit service adjustments as Metrolinx takes on some planned construction. Those heading to the airport will have to catch the UP Express from Union Station and service will be replaced by GO buses, running directly between the bus terminal and Pearson Airport Terminal 1. There [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/up-express-go-transit-service-adjustments-happening-this-weekend/",
-      "ts": "2026-11-12T16:20:36+00:00",
-      "lat": 43.6453,
-      "lng": -79.3806,
-      "location": "Union Station",
-      "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960344",
-      "source": "citynews",
-      "title": "Weekend events, transit and road closures: Nov. 15 to 17",
-      "summary": "It may only be November, but the Distillery District&#8217;s Winter Village will be in full swing starting this weekend and you can catch a glimpse of Santa at the Beaches Santa Claus Parade. Keep in mind, there will also be GO transit service adjustments this weekend and the UP Express service will be replaced by [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/weekend-events-transit-and-road-closures-nov-15-to-17/",
-      "ts": "2026-11-12T16:06:39+00:00",
-      "lat": 43.6708,
-      "lng": -79.2958,
-      "location": "The Beaches",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960871",
-      "source": "citynews",
-      "title": "Man who fled country after Mississauga double shooting arrested, police say",
-      "summary": "Peel Regional Police (PRP) said a 22-year-old man wanted Canada-wide in connection with a double shooting in Mississauga has been arrested after returning to the country and turning himself in. The shooting happened on Feb. 21 in the area of Eglinton Avenue East and Kennedy Road area around 9 p.m. When Toronto police arrived on [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/mississauga-double-shooting-canada-wide-suspect-charged/",
-      "ts": "2026-11-12T15:33:37+00:00",
-      "lat": 43.7254056,
-      "lng": -79.2973602,
-      "location": "Eglinton Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960800",
-      "source": "citynews",
-      "title": "Daylight theft at Etobicoke LCBO under police investigation",
-      "summary": "A brazen daytime theft at an LCBO store in Etobicoke is under active investigation by police, while the provincial liquor retailer says no employees or customers were hurt during the incident. Toronto police told CityNews they are aware of the theft, which occurred at the LCBO near Bloor Street West and Royal York Road at [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/lcbo-etobicoke-the-kingsway-theft-police/",
-      "ts": "2026-11-12T14:30:01+00:00",
-      "lat": 43.6732614,
-      "lng": -79.3691736,
-      "location": "Bloor Street",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7418902",
@@ -114,18 +114,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960778",
-      "source": "citynews",
-      "title": "$38M Lotto 6/49 Gold Ball jackpot won by ticket sold in Mississauga",
-      "summary": "A Lotto 6/49 player in Mississauga is waking up $38 million richer after matching the winning numbers for the Gold Ball jackpot in Wednesday night&#8217;s draw. The Ontario Lottery and Gaming Corporation (OLG) says the winning ticket for the $38 million Lotto 6/49 Gold Ball jackpot was purchased in Mississauga, making it one of the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/lotto-649-ticket-mississauga-gold-ball-jackpot-november/",
-      "ts": "2026-11-12T13:39:13+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7418759",
       "source": "cbc",
       "title": "House fire in Ajax 'appears suspicious': Durham police",
@@ -135,18 +123,6 @@
       "lat": 43.8509,
       "lng": -79.0204,
       "location": "Ajax",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960723",
-      "source": "citynews",
-      "title": "Pickup truck crashes into pole in Mississauga, driver critically injured",
-      "summary": "A driver is critically injured following a single-vehicle crash involving a pickup truck in Mississauga. Peel police and paramedics responded to the scene near Bloor Street and Cawthra Road just after 3:30 a.m. on Thursday. Police say the vehicle crashed into a traffic pole and the male driver was transported to hospital with life-threatening injuries. [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/mississauga-crash-bloor-cawthra/",
-      "ts": "2026-11-12T12:16:51+00:00",
-      "lat": 43.6732614,
-      "lng": -79.3691736,
-      "location": "Bloor Street",
       "approximate": true
     },
     {
@@ -165,7 +141,7 @@
       "id": "news_cbc_9.7418304",
       "source": "cbc",
       "title": "Man given life sentences for 2024 double murder in Oshawa",
-      "summary": "Mark Gordon was sentenced to two life sentences without the possibility of parole for 21 years in the shooting deaths of Robert Montgomery, 42, and Andrieana Montgomery, 42.",
+      "summary": "Mark Gordon was sentenced to two life sentences without the possibility of parole for 21 years in the shooting deaths of Patrick Montgomery, 42, and Andrieana Montgomery, 42.",
       "link": "https://www.cbc.ca/news/canada/toronto/man-life-sentence-oshawa-double-murder-24-9.7418304?cmp=rss",
       "ts": "2026-11-11T20:06:19+00:00",
       "lat": 43.8971,
@@ -186,30 +162,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7418049",
-      "source": "cbc",
-      "title": "SIU investigating after Peel police fire gun during traffic stop in Brampton, Ont.",
-      "summary": "A police officer conducted a traffic stop of a vehicle in the Kensington Road and Bramalea Road area at around 1:45 a.m. Wednesday, according to the SIU",
-      "link": "https://www.cbc.ca/news/canada/toronto/siu-investigate-peel-police-firearm-discharge-9.7418049?cmp=rss",
-      "ts": "2026-11-11T17:22:34+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7417238",
-      "source": "cbc",
-      "title": "Did Stellantis violate its deals with the feds? Funding contract provided exceptions around Brampton",
-      "summary": "On Tuesday, Prime Minister Mark Carney called Stellantis' now-confirmed plans to sell an automotive assembly plant in Brampton, Ont., \"a betrayal\" of the global automaker's \"obligations to Canada and by extension to all Canadians.\"",
-      "link": "https://www.cbc.ca/news/canada/windsor/stellantis-brampton-carney-federal-government-funding-deals-9.7417238?cmp=rss",
-      "ts": "2026-11-11T17:01:59+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7418052",
       "source": "cbc",
       "title": "2 Mississauga men charged for stealing 9 coffee machines valued at nearly $86K: police",
@@ -219,18 +171,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7417134",
-      "source": "cbc",
-      "title": "Pickering Mayor Kevin Ashe considers using expanded powers for Durham budget as region's new chair",
-      "summary": "Pickering Mayor Kevin Ashe says he's considering using his expanded powers as new regional chair with the Regional Municipality of Durham during the budget process and to appoint committee leaders. He's among eight regional chairs appointed this week by Ontario.",
-      "link": "https://www.cbc.ca/news/canada/toronto/pickering-mayor-kevin-ashe-durham-regional-chair-9.7417134?cmp=rss",
-      "ts": "2026-11-11T11:00:00+00:00",
-      "lat": 43.8384,
-      "lng": -79.0868,
-      "location": "Pickering",
       "approximate": true
     },
     {
