@@ -623,5 +623,14 @@
   "st:fairbank ave|eglinton ave w|york": {
     "lat": 43.6943876,
     "lng": -79.4557439
+  },
+  "xx:weston rd|oak st": {
+    "lat": 43.7080875,
+    "lng": -79.5325668
+  },
+  "st:laidlaw st|ln s joe shuster w machells|toronto": null,
+  "st:overlea blvd|thorncliffe park dr|east york": {
+    "lat": 43.7075669,
+    "lng": -79.3427576
   }
 }

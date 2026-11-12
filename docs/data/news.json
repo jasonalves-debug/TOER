@@ -1,10 +1,82 @@
 {
-  "generated": "2026-11-11T21:08:05.442008+00:00",
+  "generated": "2026-11-12T02:16:49.768776+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4960529",
+      "source": "citynews",
+      "title": "Woman struck by vehicle in Scarborough",
+      "summary": "Toronto police are investigating after a woman was struck by a vehicle in Scarborough. Officers were called to Bay Mills Boulevard and Birchmount Road around 7:30 p.m. for reports a pedestrian had been struck. The driver involved remained on the scene. A woman was taken to hospital with serious, non-life-threatening injuries. The southbound lanes of [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/11/woman-struck-by-vehicle-in-scarborough-2/",
+      "ts": "2026-11-12T01:53:48+00:00",
+      "lat": 43.7822246,
+      "lng": -79.3030547,
+      "location": "Bay Mills Boulevard",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4960530",
+      "source": "citynews",
+      "title": "Joly didn\u2019t meet with Roshel before deal signed with Stellantis: minister\u2019s office",
+      "summary": "Industry Minister M\u00e9lanie Joly's office is disputing media reports that characterized the federal government as having played an active role in negotiations that led to automaker Stellantis selling its Brampton, Ont. assembly plant to defence contractor Roshel.",
+      "link": "https://toronto.citynews.ca/2026/11/11/joly-didnt-meet-with-roshel-before-deal-signed-with-stellantis-ministers-office/",
+      "ts": "2026-11-12T01:38:37+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4960433",
+      "source": "citynews",
+      "title": "Crews respond to watermain break at mall that caused massive spill into Scarborough creek",
+      "summary": "Social media users first raised questions about an unknown substance pouring into Highland Creek in north Scarborough on Tuesday.",
+      "link": "https://toronto.citynews.ca/2026/11/11/highland-creek-water-spill-scarborough-toronto/",
+      "ts": "2026-11-12T00:30:33+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4960447",
+      "source": "citynews",
+      "title": "Man in his 80s suffers life-threatening injuries after being struck by vehicle in Scarborough",
+      "summary": "A man in his 80s has been taken to hospital after being struck by a vehicle in Scarborough. Toronto police were called to the area of Morningside and Old Finch avenues near Sewells Road just after 5 p.m. Wednesday. The pedestrian was taken to a trauma centre with life-threatening injuries. The driver involved remained at [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/11/man-in-his-80s-suffers-life-threatening-injuries-after-being-struck-by-vehicle-in-scarborough/",
+      "ts": "2026-11-11T23:02:01+00:00",
+      "lat": 43.8274965,
+      "lng": -79.1995698,
+      "location": "Sewells Road",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7418427",
+      "source": "cbc",
+      "title": "Police ID 1 of 2 suspects after fatal shooting in Rexdale",
+      "summary": "Suspect Joseph Kunene, 19, of Toronto is considered armed and dangerous, according to a police news release Wednesday.",
+      "link": "https://www.cbc.ca/news/canada/toronto/rexdale-shooting-first-suspect-identified-tps-9.7418427?cmp=rss",
+      "ts": "2026-11-11T21:49:56+00:00",
+      "lat": 43.7276,
+      "lng": -79.5638,
+      "location": "Rexdale",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4960366",
+      "source": "citynews",
+      "title": "Toronto police identify one of the suspects wanted in fatal shooting near Rexdale community centre",
+      "summary": "Toronto police have identified one of the suspects wanted in the fatal shooting of an 18-year-old man near a Rexdale community centre. Brandon Blake of Barrie was shot and killed outside of Elmbank Community Centre shortly after 1:10 a.m. on Nov. 10. It&#8217;s unclear at this point what led to the shooting or whether it [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/11/toronto-police-identify-one-of-the-suspects-wanted-in-fatal-shooting-near-rexdale-community-centre/",
+      "ts": "2026-11-11T21:11:32+00:00",
+      "lat": 43.7276,
+      "lng": -79.5638,
+      "location": "Rexdale",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7418304",
       "source": "cbc",
@@ -66,18 +138,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960205",
-      "source": "citynews",
-      "title": "Former NFL coach Rex Ryan turns himself in after alleged Nashville hit-and-run",
-      "summary": "NASHVILLE, Tenn. (AP) \u2014 Former NFL coach Rex Ryan turned himself in to Nashville police Wednesday on misdemeanor charges after he allegedly hit two pedestrians with his truck in a popular area downtown last week and then drove off after an argument, police said.",
-      "link": "https://toronto.citynews.ca/2026/11/11/rex-ryan-turns-himself-in-after-alleged-nashville-hit-and-run-injured-2-pedestrians-police-say/",
-      "ts": "2026-11-11T17:17:18+00:00",
-      "lat": 43.6532,
-      "lng": -79.3832,
-      "location": "Downtown",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7417238",
       "source": "cbc",
       "title": "Did Stellantis violate its deals with the feds? Funding contract provided exceptions around Brampton",
@@ -90,39 +150,15 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960175",
-      "source": "citynews",
-      "title": "Report: Blue Jays to meet with star free agent Tarik Skubal",
-      "summary": "The Toronto Blue Jays are going big-game hunting again. Star free agent Tarik Skubal will meet with the Blue Jays next week in California, Jon Heyman of the New York Post reported on Wednesday. Skubal will also meet with the New York Mets, Los Angeles Dodgers and San Diego Padres, per Heyman. Starting pitching has [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/11/tarik-skubal-blue-jays-free-agency-meeting/",
-      "ts": "2026-11-11T16:52:14+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7418052",
       "source": "cbc",
-      "title": "2 Mississauga men charged after allegedly stealing 9 coffee machines valued at nearly $86K: police",
+      "title": "2 Mississauga men charged for stealing 9 coffee machines valued at nearly $86K: police",
       "summary": "Two Mississauga men have been arrested and charged after allegedly stealing nine commercial coffee machines valued at nearly $86,000, Peel police say. Six of the machines have been recovered.",
       "link": "https://www.cbc.ca/news/canada/toronto/peel-police-coffee-thefts-9.7418052?cmp=rss",
       "ts": "2026-11-11T16:48:55+00:00",
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960060",
-      "source": "citynews",
-      "title": "\u2018No adults without children\u2019 sign taken down from Toronto park after viral debate",
-      "summary": "City of Toronto crews have removed at least one sign found in a local park that went viral online, prompting an extensive back-and-forth debate. A Reddit user posted a photo of a sign at Rita Cox Park, located near King Street West and Dufferin Street. The now-removed sign read: &#8220;No adults without children allowed in [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/11/toronto-park-sign-adults-without-children-removed-rita-cox-park/",
-      "ts": "2026-11-11T16:39:04+00:00",
-      "lat": 43.6401719,
-      "lng": -79.4255875,
-      "location": "Rita Cox Park",
       "approximate": true
     },
     {
@@ -195,18 +231,6 @@
       "lat": 43.7315,
       "lng": -79.7624,
       "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7416028",
-      "source": "cbc",
-      "title": "Police seek 2 suspects after 18-year-old fatally shot in Rexdale",
-      "summary": "Toronto police investigators are looking for two suspects after an 18-year-old was shot and killed in Rexdale early Tuesday.",
-      "link": "https://www.cbc.ca/news/canada/toronto/shooting-rexdale-9.7416028?cmp=rss",
-      "ts": "2026-11-10T11:24:01+00:00",
-      "lat": 43.7276,
-      "lng": -79.5638,
-      "location": "Rexdale",
       "approximate": true
     }
   ]
