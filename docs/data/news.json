@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-13T05:46:11.976419+00:00",
+  "generated": "2026-11-13T14:13:12.602519+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4961516",
+      "source": "citynews",
+      "title": "Delivery truck slams into Mississauga Boston Pizza at Square One; 1 in custody",
+      "summary": "A large delivery truck crashed into a Boston Pizza restaurant at Square One Shopping Centre in Mississauga overnight, causing extensive damage to the building. Peel Regional Police say the incident happened at around 3 a.m. on Nov. 13 at the popular shopping complex near Hurontario Street and Burnhamthorpe Road. Police confirmed one male was taken [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/13/boston-pizza-mississauga-square-one-truck-crash/",
+      "ts": "2026-11-13T13:33:40+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4961493",
+      "source": "citynews",
+      "title": "Man dead in Scarborough house fire",
+      "summary": "A man has died following a house fire in Scarborough, police say. Emergency responders were called to a home on Marlena Drive, near Lawrence Avenue East and Morningside Avenue, around 6:30 a.m. on Friday. Toronto Fire says crews located one person in the basement of the home with critical injuries. Paramedics transported the man to [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/13/scarborough-house-fire-marlena-drive/",
+      "ts": "2026-11-13T12:57:10+00:00",
+      "lat": 43.765374,
+      "lng": -79.1876301,
+      "location": "Marlena Drive",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7420019",
+      "source": "cbc",
+      "title": "U of T music community celebrates beloved professor Mary Morrison's 100th birthday",
+      "summary": "Hundreds came together to celebrate the 100th birthday of a beloved music professor at the University of Toronto this week, along with her decades-long career teaching and performing opera.",
+      "link": "https://www.cbc.ca/news/canada/toronto/u-of-t-professor-turns-100-mary-morrison-9.7420019?cmp=rss",
+      "ts": "2026-11-13T09:00:00+00:00",
+      "lat": 43.6629,
+      "lng": -79.3957,
+      "location": "U Of T",
+      "approximate": false
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4961287",
       "source": "citynews",
@@ -123,18 +159,6 @@
       "lat": 43.8509,
       "lng": -79.0204,
       "location": "Ajax",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7418304",
-      "source": "cbc",
-      "title": "Man given life sentences for 2024 double murder in Oshawa",
-      "summary": "Mark Gordon was sentenced to two life sentences without the possibility of parole for 21 years in the shooting deaths of Patrick Montgomery, 42, and Andrieana Montgomery, 42.",
-      "link": "https://www.cbc.ca/news/canada/toronto/man-life-sentence-oshawa-double-murder-24-9.7418304?cmp=rss",
-      "ts": "2026-11-11T20:06:19+00:00",
-      "lat": 43.8971,
-      "lng": -78.8658,
-      "location": "Oshawa",
       "approximate": true
     },
     {

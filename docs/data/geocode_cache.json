@@ -651,5 +651,15 @@
   "xx:lawrence ave e|brimley rd": {
     "lat": 43.7531752,
     "lng": -79.2550848
+  },
+  "st:marlena dr|danzig st|scarborough": null,
+  "xx:don mills rd|van horne ave": {
+    "lat": 43.7875362,
+    "lng": -79.352381
+  },
+  "st:midland ave|rural ave|scarborough": null,
+  "xx:adelaide st e|yonge st": {
+    "lat": 43.6506511,
+    "lng": -79.3770093
   }
 }
