@@ -1,10 +1,34 @@
 {
-  "generated": "2026-11-12T23:47:02.445465+00:00",
+  "generated": "2026-11-13T05:46:11.976419+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4961287",
+      "source": "citynews",
+      "title": "Youth sentenced to two years for two Toronto-area synagogue shootings, police say",
+      "summary": "The chief of police in a region north of Toronto says a youth has been sentenced after he pleaded guilty to shooting at two synagogues. Paulo Da Silva, chief of York regional police, says the youth was sentenced on Tuesday to two years in a custodial facility followed by one year of community supervision for [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/12/youth-sentenced-to-two-years-for-two-toronto-area-synagogue-shootings-police-say/",
+      "ts": "2026-11-13T00:23:45+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7419709",
+      "source": "cbc",
+      "title": "New Scotiabank Arena priority program puts members at the front of the line \u2014 at price tag of $2,500",
+      "summary": "Maple Leaf Sports & Entertainment has launched a new program that gives members first access to tickets for Scotiabank Arena shows at a cost of $2,500 a year, but the price tag is not appealing to everyone.",
+      "link": "https://www.cbc.ca/news/canada/toronto/scotiabank-arena-priority-membership-9.7419709?cmp=rss",
+      "ts": "2026-11-13T00:11:37+00:00",
+      "lat": 43.6441128,
+      "lng": -79.378701,
+      "location": "Leaf Sports & Entertainment",
+      "approximate": false
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4961218",
       "source": "citynews",
@@ -21,7 +45,7 @@
       "id": "news_cbc_9.7419584",
       "source": "cbc",
       "title": "U of T rejects report saying school over-polices, under-protects Muslims, Arabs, Palestinians",
-      "summary": "The University of Toronto says it will not accept recommendations from a review that found the school has a \"general pattern of over-policing and under-protecting\" Muslims, Arabs and Palestinians.",
+      "summary": "A review of the University of Toronto's policies and practices has found the school has a \"general pattern of over-policing and under-protecting\" Muslims, Arabs and Palestinians, with a report laying out dozens of recommendations related to academic freedom, on-campus security methods, institutional autonomy and other concerns.",
       "link": "https://www.cbc.ca/news/canada/toronto/uoft-anti-muslim-arab-report-recommendations-rejection-9.7419584?cmp=rss",
       "ts": "2026-11-12T21:27:04+00:00",
       "lat": 43.6629,
@@ -44,8 +68,8 @@
     {
       "id": "news_cbc_9.7419553",
       "source": "cbc",
-      "title": "Industry minister 'fed up' after meeting with Stellantis, says automaker breached contract",
-      "summary": "Industry Minister M\u00e9lanie Joly says she is \"fed up\" with automaker Stellantis after meeting with company representatives on Thursday. The company this week announced its intention to sell its Brampton, Ont., plant to an armoured vehicle manufacturer.",
+      "title": "Feds say Stellantis owes 'hundreds of millions' in subsidies, company offers $24M",
+      "summary": "Automaker Stellantis says it will pay back $24 million in federal subsidies after it announced plans to sell its Brampton, Ont. assembly plant \u2014 but Industry Minister M\u00e9lanie Joly says the company owes far more than what it is offering.",
       "link": "https://www.cbc.ca/news/politics/resolution-process-terminated-government-stellantis-brampton-plant-9.7419553?cmp=rss",
       "ts": "2026-11-12T21:00:00+00:00",
       "lat": 43.7315,
@@ -64,30 +88,6 @@
       "lng": -79.6877,
       "location": "Oakville",
       "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4961050",
-      "source": "citynews",
-      "title": "U of T rejects report, recommendations on anti-Muslim, anti-Arab discrimination",
-      "summary": "A review of the University of Toronto&#8217;s (U of T) policies and practices has found the school has a &#8220;general pattern of over-policing and under-protecting&#8221; Muslims, Arabs and Palestinians, with a report laying out dozens of recommendations related to academic freedom, on-campus security methods, institutional autonomy and other concerns. The university, however, says it cannot [&#",
-      "link": "https://toronto.citynews.ca/2026/11/12/university-of-toronto-report-recommendations-anti-muslim/",
-      "ts": "2026-11-12T18:18:13+00:00",
-      "lat": 43.6629,
-      "lng": -79.3957,
-      "location": "U Of T",
-      "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960925",
-      "source": "citynews",
-      "title": "Canada\u2019s tallest indoor Christmas tree to light up Toronto\u2019s Eaton Centre",
-      "summary": "The holiday season is set to officially arrive in downtown Toronto as CF Toronto Eaton Centre&#8217;s 10th Annual Tree Lighting Ceremony returns on Nov. 12, marking a milestone year for one of the city&#8217;s most recognizable holiday traditions. The celebration will see Canada&#8217;s tallest indoor holiday tree illuminated for the season inside CF Toronto Eaton [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/toronto-eaton-centre-christmas-tree-lighting-ceremony/",
-      "ts": "2026-11-12T16:26:47+00:00",
-      "lat": 43.6544,
-      "lng": -79.3807,
-      "location": "Eaton Centre",
-      "approximate": false
     },
     {
       "id": "news_cbc_9.7418902",
@@ -126,18 +126,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7418427",
-      "source": "cbc",
-      "title": "Police ID 1 of 2 suspects after fatal shooting in Rexdale",
-      "summary": "Suspect Joseph Kunene, 19, of Toronto is considered armed and dangerous, according to a police news release Wednesday.",
-      "link": "https://www.cbc.ca/news/canada/toronto/rexdale-shooting-first-suspect-identified-tps-9.7418427?cmp=rss",
-      "ts": "2026-11-11T21:49:56+00:00",
-      "lat": 43.7276,
-      "lng": -79.5638,
-      "location": "Rexdale",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7418304",
       "source": "cbc",
       "title": "Man given life sentences for 2024 double murder in Oshawa",
@@ -159,30 +147,6 @@
       "lat": 43.8971,
       "lng": -78.8658,
       "location": "Oshawa",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7418052",
-      "source": "cbc",
-      "title": "2 Mississauga men charged for stealing 9 coffee machines valued at nearly $86K: police",
-      "summary": "Two Mississauga men have been arrested and charged after allegedly stealing nine commercial coffee machines valued at nearly $86,000, Peel police say. Six of the machines have been recovered.",
-      "link": "https://www.cbc.ca/news/canada/toronto/peel-police-coffee-thefts-9.7418052?cmp=rss",
-      "ts": "2026-11-11T16:48:55+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7416735",
-      "source": "cbc",
-      "title": "Stellantis auto plant sale draws optimism, hurt in Brampton, Ont., after 2,000 jobs lost",
-      "summary": "Workers and local politicians are expressing disappointment at Stellantis's decision to sell its Brampton, Ont., plant to armoured vehicle maker Roshel Inc., but some local businesses and experts say the new company could bring more jobs and foot traffic to the community.",
-      "link": "https://www.cbc.ca/news/canada/toronto/stellantis-sale-roshel-brampton-businesses-workers-react-9.7416735?cmp=rss",
-      "ts": "2026-11-11T10:00:00+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
       "approximate": true
     }
   ]
