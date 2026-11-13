@@ -661,5 +661,11 @@
   "xx:adelaide st e|yonge st": {
     "lat": 43.6506511,
     "lng": -79.3770093
-  }
+  },
+  "st:kingston rd|payzac ave|scarborough": null,
+  "st:appleton ave|st clair ave w|york": null,
+  "fsa2:M5N": null,
+  "st:greencrest crct|holmfirth ter|scarborough": null,
+  "st:evans ave|kipling s evans w ramp|etobicoke": null,
+  "st:bethany leigh dr|silbury dr|scarborough": null
 }

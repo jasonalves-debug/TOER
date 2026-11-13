@@ -1,32 +1,128 @@
 {
-  "generated": "2026-11-13T14:13:12.602519+00:00",
+  "generated": "2026-11-13T20:55:28.874721+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4961516",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4961762",
       "source": "citynews",
-      "title": "Delivery truck slams into Mississauga Boston Pizza at Square One; 1 in custody",
-      "summary": "A large delivery truck crashed into a Boston Pizza restaurant at Square One Shopping Centre in Mississauga overnight, causing extensive damage to the building. Peel Regional Police say the incident happened at around 3 a.m. on Nov. 13 at the popular shopping complex near Hurontario Street and Burnhamthorpe Road. Police confirmed one male was taken [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/13/boston-pizza-mississauga-square-one-truck-crash/",
-      "ts": "2026-11-13T13:33:40+00:00",
+      "title": "2 suspects wanted after 2-vehicle collision at St. Clair West and Jane",
+      "summary": "Two people were injured in a collision at St. Clair West Avenue and Jane Street on Friday afternoon. Officers responded to the intersection around 1:15 p.m. for reports of a two-vehicle collision. Toronto police say two occupants from one of the vehicles fled the scene on foot. They are described as males wearing all black [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/13/2-suspects-wanted-after-2-vehicle-collision-at-st-clair-west-and-jane/",
+      "ts": "2026-11-13T20:09:07+00:00",
+      "lat": 43.667912,
+      "lng": -79.4872065,
+      "location": "Clair West Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4961580",
+      "source": "citynews",
+      "title": "Brampton family seeks community support to help get gene therapy for 2-year-old child with rare condition",
+      "summary": "A Brampton family is racing to raise millions of dollars for an American medical treatment that could help save their two-year-old child living with a rare genetic disorder after the province denied their out-of-country funding. Zoravar Singh has been diagnosed with a rare condition called AADC Deficiency. &#8220;His day starts with the medication and ends [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/13/brampton-child-rare-disorder-aadc-deficiency-treatment/",
+      "ts": "2026-11-13T19:50:36+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7421014",
+      "source": "cbc",
+      "title": "2 workers critically injured in collision on Pickering construction site: police",
+      "summary": "Two workers are critically injured after being struck by a driver on a construction site in Pickering, police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/pickering-construction-site-collision-9.7421014?cmp=rss",
+      "ts": "2026-11-13T18:51:15+00:00",
+      "lat": 43.8384,
+      "lng": -79.0868,
+      "location": "Pickering",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7420949",
+      "source": "cbc",
+      "title": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
+      "summary": "Hamilton steelmaker Stelco is recalling its 175 workers that had been laid off earlier this fall.",
+      "link": "https://www.cbc.ca/news/politics/stelco-recalling-175-laid-off-workers-9.7420949?cmp=rss",
+      "ts": "2026-11-13T18:13:30+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7420849",
+      "source": "cbc",
+      "title": "Feds, Ontario offering Stellantis 'aggressive package' to keep Brampton auto plant open",
+      "summary": "The federal and Ontario governments are mounting a last-ditch effort to save the Stellantis auto plant in Brampton by pitching the company possible survival \"scenarios\" and offering an \"aggressive package\" of support to make it happen.",
+      "link": "https://www.cbc.ca/news/politics/joly-fedeli-stellantis-brampton-plant-package-9.7420849?cmp=rss",
+      "ts": "2026-11-13T18:04:27+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4961699",
+      "source": "citynews",
+      "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
+      "summary": "HAMILTON \u2014 Stelco's American parent company has pledged to recall 175 temporarily laid-off steelworkers and repay their lost wages after weeks of federal pressure, including threats of legal action and the prospect of an investigation into anticompetitive conduct.",
+      "link": "https://toronto.citynews.ca/2026/11/13/stelco-to-recall-175-laid-off-workers-in-hamilton-ont-on-dec-1/",
+      "ts": "2026-11-13T17:48:45+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7420863",
+      "source": "cbc",
+      "title": "Coroner's inquest begins in case of Mississauga man shot by police in 2020",
+      "summary": "A coroner's inquest into the death of a man shot in the head by police in Mississauga, Ont., is underway on Friday. Jamal Francique, a 28-year-old Black man, was shot during an attempted arrest outside his home on Jan. 7, 2020, and died in hospital days later.",
+      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-coroners-inquest-start-9.7420863?cmp=rss",
+      "ts": "2026-11-13T17:43:13+00:00",
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4961493",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4961645",
       "source": "citynews",
-      "title": "Man dead in Scarborough house fire",
-      "summary": "A man has died following a house fire in Scarborough, police say. Emergency responders were called to a home on Marlena Drive, near Lawrence Avenue East and Morningside Avenue, around 6:30 a.m. on Friday. Toronto Fire says crews located one person in the basement of the home with critical injuries. Paramedics transported the man to [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/13/scarborough-house-fire-marlena-drive/",
-      "ts": "2026-11-13T12:57:10+00:00",
-      "lat": 43.765374,
-      "lng": -79.1876301,
-      "location": "Marlena Drive",
+      "title": "Ottawa, province hope \u2018aggressive package\u2019 can prevent Stellantis plant sale: Joly",
+      "summary": "TORONTO \u2014 A day after threatening to sue Stellantis to recoup federal cash given to the automaker, Industry Minister M\u00e9lanie Joly says she's still hopeful she can prevent the company from selling its Brampton, Ont., assembly plant to Roshel.",
+      "link": "https://toronto.citynews.ca/2026/11/13/ottawa-province-hope-aggressive-package-can-prevent-stellantis-plant-sale-joly/",
+      "ts": "2026-11-13T16:55:47+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7420533",
+      "source": "cbc",
+      "title": "Fatal fire at Scarborough home under investigation, chief says",
+      "summary": "The Office of the Fire Marshall has been notified, while Toronto's fire chief says it's too early to identify the cause of the fire.",
+      "link": "https://www.cbc.ca/news/canada/toronto/male-dead-house-fire-scarborough-9.7420533?cmp=rss",
+      "ts": "2026-11-13T14:52:42+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7420527",
+      "source": "cbc",
+      "title": "Construction underway on 2 bridges as part of Highway 413 project: Sarkaria",
+      "summary": "Construction is now underway on two new bridges to connect drivers to the upcoming Highway 413, a project that aims to reduce congestion in parts of the Greater Toronto Area, Transportation Minister Prabmeet Sarkaria said at a news conference in Brampton Friday.",
+      "link": "https://www.cbc.ca/news/canada/toronto/highway-413-highway-10-bovarid-drive-bridges-construction-9.7420527?cmp=rss",
+      "ts": "2026-11-13T14:45:03+00:00",
+      "lat": 43.7053276,
+      "lng": -79.5607237,
+      "location": "Highway 413",
       "approximate": true
     },
     {
@@ -42,18 +138,6 @@
       "approximate": false
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4961287",
-      "source": "citynews",
-      "title": "Youth sentenced to two years for two Toronto-area synagogue shootings, police say",
-      "summary": "The chief of police in a region north of Toronto says a youth has been sentenced after he pleaded guilty to shooting at two synagogues. Paulo Da Silva, chief of York regional police, says the youth was sentenced on Tuesday to two years in a custodial facility followed by one year of community supervision for [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/youth-sentenced-to-two-years-for-two-toronto-area-synagogue-shootings-police-say/",
-      "ts": "2026-11-13T00:23:45+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7419709",
       "source": "cbc",
       "title": "New Scotiabank Arena priority program puts members at the front of the line \u2014 at price tag of $2,500",
@@ -64,18 +148,6 @@
       "lng": -79.378701,
       "location": "Leaf Sports & Entertainment",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4961218",
-      "source": "citynews",
-      "title": "Donald Trump Jr. exits advisory role at prediction market Kalshi",
-      "summary": "NEW YORK (AP) \u2014 Donald Trump Jr. is no longer a paid adviser for Kalshi, the prediction market company said Thursday.",
-      "link": "https://toronto.citynews.ca/2026/11/12/donald-trump-jr-exits-advisory-role-at-prediction-market-kalshi/",
-      "ts": "2026-11-12T22:08:04+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7419584",
@@ -90,18 +162,6 @@
       "approximate": false
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4960968",
-      "source": "citynews",
-      "title": "Friend of woman stabbed to death in North York left traumatized after witnessing violent murder",
-      "summary": "A friend and roommate of a woman who was stabbed to death says she not only witnessed the attack, but tried to help as she saw the horrific scene unfold in the parking lot of the North York apartment building they called home. Gregoria Alilio, 47, was killed in what police are investigating as a [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/12/friend-of-woman-stabbed-to-death-in-north-york-left-traumatized-after-witnessing-violent-murder/",
-      "ts": "2026-11-12T21:23:45+00:00",
-      "lat": 43.7615,
-      "lng": -79.4111,
-      "location": "North York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7419553",
       "source": "cbc",
       "title": "Feds say Stellantis owes 'hundreds of millions' in subsidies, company offers $24M",
@@ -114,30 +174,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7419502",
-      "source": "cbc",
-      "title": "Meet the 1st woman to run an ultra marathon in Antarctica",
-      "summary": "Oakville\u2019s Stephanie Case made history after completing a grueling 100-mile race across the frozen continent \u2014 pushing through sub-minus-20-degree temperatures, frozen gear, and more than 17 hours of continuous running.",
-      "link": "https://www.cbc.ca/player/play/9.7419502?cmp=rss",
-      "ts": "2026-11-12T19:37:48+00:00",
-      "lat": 43.4675,
-      "lng": -79.6877,
-      "location": "Oakville",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7418902",
-      "source": "cbc",
-      "title": "Coroner's inquest to examine police-involved shooting death of Mississauga man",
-      "summary": "A coroner's inquest, initially set for Thursday, will begin on Friday to examine the circumstances surrounding the death of a man who was shot in the head by police west of Toronto nearly seven years ago.",
-      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-coroners-inquest-peel-police-9.7418902?cmp=rss",
-      "ts": "2026-11-12T14:22:36+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7418797",
       "source": "cbc",
       "title": "Carney aware of 'some aspects' of Stellantis auto plant sale, but says company still broke deal",
@@ -147,30 +183,6 @@
       "lat": 43.7315,
       "lng": -79.7624,
       "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7418759",
-      "source": "cbc",
-      "title": "House fire in Ajax 'appears suspicious': Durham police",
-      "summary": "A house fire in Ajax on Thursday morning is being looked at as a suspicious incident, according to Durham police.",
-      "link": "https://www.cbc.ca/news/canada/toronto/durham-police-ajax-house-fire-9.7418759?cmp=rss",
-      "ts": "2026-11-12T12:24:40+00:00",
-      "lat": 43.8509,
-      "lng": -79.0204,
-      "location": "Ajax",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7418141",
-      "source": "cbc",
-      "title": "Lawyer sues Durham police for $7.1M over alleged violent arrest at Oshawa courthouse",
-      "summary": "A criminal defence lawyer who alleges she was violently assaulted by Durham Regional Police officers inside an Oshawa courthouse has filed a $7.1-million lawsuit against the regional police service board and five officers.",
-      "link": "https://www.cbc.ca/news/canada/toronto/lawyer-sues-durham-police-over-alleged-violent-arrest-at-oshawa-courthouse-9.7418141?cmp=rss",
-      "ts": "2026-11-11T19:20:58+00:00",
-      "lat": 43.8971,
-      "lng": -78.8658,
-      "location": "Oshawa",
       "approximate": true
     }
   ]
