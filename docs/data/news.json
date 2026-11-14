@@ -1,10 +1,70 @@
 {
-  "generated": "2026-11-14T14:52:27.881172+00:00",
+  "generated": "2026-11-14T19:48:54.767578+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962413",
+      "source": "citynews",
+      "title": "Police seek suspects in violent early morning downtown assault",
+      "summary": "Toronto police are searching for an unknown number of suspects following a violent assault early Saturday morning.",
+      "link": "https://toronto.citynews.ca/2026/11/14/police-seek-suspects-in-violent-early-morning-downtown-assault/",
+      "ts": "2026-11-14T19:19:04+00:00",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "location": "Downtown",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7422291",
+      "source": "cbc",
+      "title": "Police name teen suspects wanted for Etobicoke homicide",
+      "summary": "Toronto police have named two teenaged suspects wanted in connection with a homicide in Etobicoke on Nov. 7.",
+      "link": "https://www.cbc.ca/news/canada/toronto/police-search-2-suspects-etobicoke-homicide-9.7422291?cmp=rss",
+      "ts": "2026-11-14T18:34:39+00:00",
+      "lat": 43.6205,
+      "lng": -79.5132,
+      "location": "Etobicoke",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7422200",
+      "source": "cbc",
+      "title": "3 kids, 2 adults in life-threatening condition after Burlington house fire: Halton police",
+      "summary": "Five people, including three children, are in life-threatening condition in hospital after a house fire in Burlington on Saturday morning, Halton police say.",
+      "link": "https://www.cbc.ca/news/canada/hamilton/burlington-house-fire-halton-police-9.7422200?cmp=rss",
+      "ts": "2026-11-14T15:32:22+00:00",
+      "lat": 43.3255,
+      "lng": -79.799,
+      "location": "Burlington",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962337",
+      "source": "citynews",
+      "title": "\u2018Tragic scene\u2019: 3 children among 5 people critically injured in Burlington fire",
+      "summary": "Five people, including three children, have suffered critical injuries following a fire in Burlington on Saturday morning.",
+      "link": "https://toronto.citynews.ca/2026/11/14/3-children-among-5-people-critically-injured-in-burlington-fire/",
+      "ts": "2026-11-14T14:52:24+00:00",
+      "lat": 43.3255,
+      "lng": -79.799,
+      "location": "Burlington",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7421992",
+      "source": "cbc",
+      "title": "Pearson airport increases staffing to support passengers after U.S. ground stop",
+      "summary": "",
+      "link": "https://www.cbc.ca/news/world/livestory/airport-delays-faa-grounds-all-flights-united-states-air-traffic-control-live-updates-9.7421992?cmp=rss",
+      "ts": "2026-11-14T13:22:18+00:00",
+      "lat": 43.6777,
+      "lng": -79.6248,
+      "location": "Pearson Airport",
+      "approximate": false
+    },
     {
       "id": "news_cbc_9.7422115",
       "source": "cbc",
@@ -27,18 +87,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962274",
-      "source": "citynews",
-      "title": "Lawyers unsure if extra funding can reduce massive caseload at Federal Court",
-      "summary": "OTTAWA \u2014 The recent federal budget included $58 million in additional funding court administration but the Federal Court still doesn't have a clear picture of how it can be used to reduce a massive caseload that has grown rapidly since 2020.",
-      "link": "https://toronto.citynews.ca/2026/11/14/lawyers-unsure-if-extra-funding-can-reduce-massive-caseload-at-federal-court/",
-      "ts": "2026-11-14T11:00:06+00:00",
-      "lat": 43.6507954,
-      "lng": -79.3879468,
-      "location": "Federal Court",
       "approximate": true
     },
     {
@@ -112,54 +160,6 @@
       "lng": -79.7624,
       "location": "Brampton",
       "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7420863",
-      "source": "cbc",
-      "title": "Coroner's inquest begins in case of Mississauga man shot by police in 2020",
-      "summary": "A coroner's inquest into the death of a man shot in the head by police in Mississauga, Ont., is underway on Friday. Jamal Francique, a 28-year-old Black man, was shot during an attempted arrest outside his home on Jan. 7, 2020, and died in hospital days later.",
-      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-coroners-inquest-start-9.7420863?cmp=rss",
-      "ts": "2026-11-13T17:43:13+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7420533",
-      "source": "cbc",
-      "title": "Fatal fire at Scarborough home under investigation, chief says",
-      "summary": "The Office of the Fire Marshall has been notified, while Toronto's fire chief says it's too early to identify the cause of the fire.",
-      "link": "https://www.cbc.ca/news/canada/toronto/male-dead-house-fire-scarborough-9.7420533?cmp=rss",
-      "ts": "2026-11-13T14:52:42+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7420527",
-      "source": "cbc",
-      "title": "Construction underway on 2 bridges as part of Highway 413 project: Sarkaria",
-      "summary": "Construction is now underway on two new bridges to connect drivers to the upcoming Highway 413, a project that aims to reduce congestion in parts of the Greater Toronto Area, Transportation Minister Prabmeet Sarkaria said at a news conference in Brampton Friday.",
-      "link": "https://www.cbc.ca/news/canada/toronto/highway-413-highway-10-bovarid-drive-bridges-construction-9.7420527?cmp=rss",
-      "ts": "2026-11-13T14:45:03+00:00",
-      "lat": 43.7053276,
-      "lng": -79.5607237,
-      "location": "Highway 413",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7420019",
-      "source": "cbc",
-      "title": "U of T music community celebrates beloved professor Mary Morrison's 100th birthday",
-      "summary": "Hundreds came together to celebrate the 100th birthday of a beloved music professor at the University of Toronto this week, along with her decades-long career teaching and performing opera.",
-      "link": "https://www.cbc.ca/news/canada/toronto/u-of-t-professor-turns-100-mary-morrison-9.7420019?cmp=rss",
-      "ts": "2026-11-13T09:00:00+00:00",
-      "lat": 43.6629,
-      "lng": -79.3957,
-      "location": "U Of T",
-      "approximate": false
     }
   ]
 }

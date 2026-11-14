@@ -676,5 +676,19 @@
   "xx:queen st e|jones ave": {
     "lat": 43.6631447,
     "lng": -79.3331083
-  }
+  },
+  "st:kitchener ave|caledonia rd|york": {
+    "lat": 43.6890778,
+    "lng": -79.460658
+  },
+  "st:gramercy sq|casemore rd|scarborough": null,
+  "st:grand marshall dr|sheppard ave e|scarborough": {
+    "lat": 43.8029022,
+    "lng": -79.1951527
+  },
+  "st:front st|farquhars lane|toronto": {
+    "lat": 43.6485681,
+    "lng": -79.3732218
+  },
+  "st:robina ave|jesmond ave|york": null
 }
