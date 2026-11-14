@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T01:21:05.809265+00:00",
+  "generated": "2026-11-14T07:54:17.994769+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
@@ -44,8 +44,8 @@
     {
       "id": "news_cbc_9.7421481",
       "source": "cbc",
-      "title": "Planes grounded across the U.S.: What you need to know if you're flying from a Toronto airport",
-      "summary": "A ground stop issued by the U.S. Federal Aviation Administration is impacting flights between Toronto Pearson Airport and the U.S., according to the airport.",
+      "title": "Flight delays may continue at Pearson Airport as U.S. ground stop lifted, NAV Canada says",
+      "summary": "Flights at Toronto Pearson International Airport may continue to be delayed on Friday night after an order that grounded all planes in the U.S. was lifted, NAV Canada says.",
       "link": "https://www.cbc.ca/news/canada/toronto/toronto-pearson-airport-faa-ground-stop-9.7421481?cmp=rss",
       "ts": "2026-11-13T22:08:10+00:00",
       "lat": 43.6777,
