@@ -1,10 +1,70 @@
 {
-  "generated": "2026-11-13T20:55:28.874721+00:00",
+  "generated": "2026-11-14T01:21:05.809265+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962077",
+      "source": "citynews",
+      "title": "E-scooter rider hit by car near Moss Park",
+      "summary": "Toronto police are investigating after a woman riding an e-scooter was hit by a car in the city\u2019s Moss Park neighbourhood on Friday. Emergency crews were called to the area of Sherbourne and Shuter Streets at approximately 6:40 p.m. for reports of a collision. Police said the woman riding the e-scooter was rushed to a [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/13/e-scooter-rider-hit-by-car-near-moss-park/",
+      "ts": "2026-11-14T00:23:43+00:00",
+      "lat": 43.6546438,
+      "lng": -79.3697278,
+      "location": "Moss Park",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962054",
+      "source": "citynews",
+      "title": "Woman arrested for allegedly making anti-transgender remarks, assaulting person walking dog",
+      "summary": "A Toronto woman is facing charges in what Toronto police describe as a suspected &#8220;hate-motivated assault&#8221; in the city&#8217;s west end earlier this week. Detectives said a person was walking their dog on Nov. 10, when they were approached by a suspect near Lansdowne Avenue and Dupont Street. &#8220;The accused made anti-transgender remarks before assaulting [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/13/woman-arrested-for-allegedly-making-anti-transgender-remarks-assaulting-person-walking-dog/",
+      "ts": "2026-11-13T23:59:13+00:00",
+      "lat": 43.6647601,
+      "lng": -79.4456714,
+      "location": "Lansdowne Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962027",
+      "source": "citynews",
+      "title": "Cabbagetown stabbing sends 1 to hospital with serious injuries, suspect at large",
+      "summary": "A man in his 30s was taken to hospital with serious, non life-threatening injuries following a stabbing in Cabbagetown on Friday evening. It happened at around 4:53 p.m. in the Sackville and Spruce streets area. Toronto police say two males become involved in a confrontation and one stabbed the other. The suspect fled on foot [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/13/cabbagetown-stabbing-sends-1-to-hospital-with-serious-injuries-suspect-at-large/",
+      "ts": "2026-11-13T23:33:24+00:00",
+      "lat": 43.6672,
+      "lng": -79.3667,
+      "location": "Cabbagetown",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7421481",
+      "source": "cbc",
+      "title": "Planes grounded across the U.S.: What you need to know if you're flying from a Toronto airport",
+      "summary": "A ground stop issued by the U.S. Federal Aviation Administration is impacting flights between Toronto Pearson Airport and the U.S., according to the airport.",
+      "link": "https://www.cbc.ca/news/canada/toronto/toronto-pearson-airport-faa-ground-stop-9.7421481?cmp=rss",
+      "ts": "2026-11-13T22:08:10+00:00",
+      "lat": 43.6777,
+      "lng": -79.6248,
+      "location": "Pearson Airport",
+      "approximate": false
+    },
+    {
+      "id": "news_cbc_9.7421122",
+      "source": "cbc",
+      "title": "Family, police believe missing Ontario teen is in Saskatchewan",
+      "summary": "On Friday, Saskatchewan RCMP shared a news release on behalf of Durham Regional Police asking for the public's help finding Cairo. The 14-year-old was last seen in Courtice, about an hour outside Toronto, on Sept. 20.",
+      "link": "https://www.cbc.ca/news/canada/saskatchewan/family-missing-durham-ontario-teen-in-saskatchewan-9.7421122?cmp=rss",
+      "ts": "2026-11-13T21:05:23+00:00",
+      "lat": 43.9,
+      "lng": -78.9,
+      "location": "Durham Region",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4961762",
       "source": "citynews",
@@ -66,18 +126,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4961699",
-      "source": "citynews",
-      "title": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
-      "summary": "HAMILTON \u2014 Stelco's American parent company has pledged to recall 175 temporarily laid-off steelworkers and repay their lost wages after weeks of federal pressure, including threats of legal action and the prospect of an investigation into anticompetitive conduct.",
-      "link": "https://toronto.citynews.ca/2026/11/13/stelco-to-recall-175-laid-off-workers-in-hamilton-ont-on-dec-1/",
-      "ts": "2026-11-13T17:48:45+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7420863",
       "source": "cbc",
       "title": "Coroner's inquest begins in case of Mississauga man shot by police in 2020",
@@ -87,18 +135,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4961645",
-      "source": "citynews",
-      "title": "Ottawa, province hope \u2018aggressive package\u2019 can prevent Stellantis plant sale: Joly",
-      "summary": "TORONTO \u2014 A day after threatening to sue Stellantis to recoup federal cash given to the automaker, Industry Minister M\u00e9lanie Joly says she's still hopeful she can prevent the company from selling its Brampton, Ont., assembly plant to Roshel.",
-      "link": "https://toronto.citynews.ca/2026/11/13/ottawa-province-hope-aggressive-package-can-prevent-stellantis-plant-sale-joly/",
-      "ts": "2026-11-13T16:55:47+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
       "approximate": true
     },
     {
@@ -148,42 +184,6 @@
       "lng": -79.378701,
       "location": "Leaf Sports & Entertainment",
       "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7419584",
-      "source": "cbc",
-      "title": "U of T rejects report saying school over-polices, under-protects Muslims, Arabs, Palestinians",
-      "summary": "A review of the University of Toronto's policies and practices has found the school has a \"general pattern of over-policing and under-protecting\" Muslims, Arabs and Palestinians, with a report laying out dozens of recommendations related to academic freedom, on-campus security methods, institutional autonomy and other concerns.",
-      "link": "https://www.cbc.ca/news/canada/toronto/uoft-anti-muslim-arab-report-recommendations-rejection-9.7419584?cmp=rss",
-      "ts": "2026-11-12T21:27:04+00:00",
-      "lat": 43.6629,
-      "lng": -79.3957,
-      "location": "U Of T",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7419553",
-      "source": "cbc",
-      "title": "Feds say Stellantis owes 'hundreds of millions' in subsidies, company offers $24M",
-      "summary": "Automaker Stellantis says it will pay back $24 million in federal subsidies after it announced plans to sell its Brampton, Ont. assembly plant \u2014 but Industry Minister M\u00e9lanie Joly says the company owes far more than what it is offering.",
-      "link": "https://www.cbc.ca/news/politics/resolution-process-terminated-government-stellantis-brampton-plant-9.7419553?cmp=rss",
-      "ts": "2026-11-12T21:00:00+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7418797",
-      "source": "cbc",
-      "title": "Carney aware of 'some aspects' of Stellantis auto plant sale, but says company still broke deal",
-      "summary": "Prime Minister Mark Carney says he had been informed of \"some aspects\" of Stellantis's plan to sell an idled Brampton, Ont., auto plant to Canadian armoured vehicle maker Roshel Inc., before the deal was announced.",
-      "link": "https://www.cbc.ca/news/politics/stellantis-carney-deal-plant-9.7418797?cmp=rss",
-      "ts": "2026-11-12T13:46:47+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
     }
   ]
 }
