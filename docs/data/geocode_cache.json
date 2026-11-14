@@ -690,5 +690,18 @@
     "lat": 43.6485681,
     "lng": -79.3732218
   },
-  "st:robina ave|jesmond ave|york": null
+  "st:robina ave|jesmond ave|york": null,
+  "st:king st|sackville st|toronto": null,
+  "st:dunn ave|dunn avenue parkette trl|toronto": null,
+  "xx:finch ave e|seneca hill dr": null,
+  "st:castlefield ave|rosewell ave|toronto": null,
+  "st:lawrence ave|marlee ave|north york": {
+    "lat": 43.7090852,
+    "lng": -79.4439415
+  },
+  "st:berry rd|stonegate rd|etobicoke": {
+    "lat": 43.6361278,
+    "lng": -79.4931674
+  },
+  "st:glen rd|summerhill ave|toronto": null
 }

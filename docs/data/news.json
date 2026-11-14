@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-14T19:48:54.767578+00:00",
+  "generated": "2026-11-14T23:45:06.283821+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962452",
+      "source": "citynews",
+      "title": "AFC Toronto captures their first Diana B. Matheson Cup",
+      "summary": "Olivia Chisholm\u2019s first half goal allowed AFC Toronto to capture their first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place. The 17-year-old scored what proved to be the winner, and her first professional goal, in the 39th minute.&#160; Sabrina D\u2019Angelo had a clean sheet holding off [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/14/afc-toronto-to-capture-their-first-diana-b-matheson-cup/",
+      "ts": "2026-11-14T21:35:45+00:00",
+      "lat": 43.6452837,
+      "lng": -79.3952549,
+      "location": "TD Place",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7421039",
+      "source": "cbc",
+      "title": "AFC Toronto beats Montreal Roses to win 1st NSL title",
+      "summary": "Olivia Chisholm's first-half goal allowed AFC Toronto to capture its first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place in Ottawa.",
+      "link": "https://www.cbc.ca/sports/soccer/nsl-final-montreal-roses-afc-toronto-9.7421039?cmp=rss",
+      "ts": "2026-11-14T21:09:30+00:00",
+      "lat": 43.6452837,
+      "lng": -79.3952549,
+      "location": "TD Place",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7422349",
+      "source": "cbc",
+      "title": "2 workers dead following collision at Pickering construction site: police",
+      "summary": "Two workers hae died after a collision on a construction site in Pickering on Friday, Durham police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/2-workers-dead-pickering-construction-site-collision-9.7422349?cmp=rss",
+      "ts": "2026-11-14T20:34:52+00:00",
+      "lat": 43.8384,
+      "lng": -79.0868,
+      "location": "Pickering",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4962413",
       "source": "citynews",
@@ -27,6 +63,18 @@
       "lat": 43.6205,
       "lng": -79.5132,
       "location": "Etobicoke",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962352",
+      "source": "citynews",
+      "title": "\u2018It\u2019s crazy\u2019: Travellers, airlines report busy day at airports after U.S. flight stop",
+      "summary": "TORONTO \u2014 Dale Flood had booked what he called a once-in-a-lifetime 50th birthday trip with his family to New York City to watch his beloved Buffalo Bills play on Sunday.",
+      "link": "https://toronto.citynews.ca/2026/11/14/busy-day-at-canadian-airports-as-airlines-scramble-to-recover-from-u-s-flight-stop/",
+      "ts": "2026-11-14T16:05:36+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
       "approximate": true
     },
     {
@@ -112,42 +160,6 @@
       "lng": -79.6248,
       "location": "Pearson Airport",
       "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7421122",
-      "source": "cbc",
-      "title": "Family, police believe missing Ontario teen is in Saskatchewan",
-      "summary": "On Friday, Saskatchewan RCMP shared a news release on behalf of Durham Regional Police asking for the public's help finding Cairo. The 14-year-old was last seen in Courtice, about an hour outside Toronto, on Sept. 20.",
-      "link": "https://www.cbc.ca/news/canada/saskatchewan/family-missing-durham-ontario-teen-in-saskatchewan-9.7421122?cmp=rss",
-      "ts": "2026-11-13T21:05:23+00:00",
-      "lat": 43.9,
-      "lng": -78.9,
-      "location": "Durham Region",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7421014",
-      "source": "cbc",
-      "title": "2 workers critically injured in collision on Pickering construction site: police",
-      "summary": "Two workers are critically injured after being struck by a driver on a construction site in Pickering, police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/pickering-construction-site-collision-9.7421014?cmp=rss",
-      "ts": "2026-11-13T18:51:15+00:00",
-      "lat": 43.8384,
-      "lng": -79.0868,
-      "location": "Pickering",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7420949",
-      "source": "cbc",
-      "title": "Stelco recalling 175 laid-off workers at Hamilton steel plant",
-      "summary": "Hamilton steelmaker Stelco is recalling its 175 workers that had been laid off earlier this fall.",
-      "link": "https://www.cbc.ca/news/politics/stelco-recalling-175-laid-off-workers-9.7420949?cmp=rss",
-      "ts": "2026-11-13T18:13:30+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7420849",
