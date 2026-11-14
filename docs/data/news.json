@@ -1,44 +1,56 @@
 {
-  "generated": "2026-11-14T07:54:17.994769+00:00",
+  "generated": "2026-11-14T14:52:27.881172+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962077",
-      "source": "citynews",
-      "title": "E-scooter rider hit by car near Moss Park",
-      "summary": "Toronto police are investigating after a woman riding an e-scooter was hit by a car in the city\u2019s Moss Park neighbourhood on Friday. Emergency crews were called to the area of Sherbourne and Shuter Streets at approximately 6:40 p.m. for reports of a collision. Police said the woman riding the e-scooter was rushed to a [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/13/e-scooter-rider-hit-by-car-near-moss-park/",
-      "ts": "2026-11-14T00:23:43+00:00",
-      "lat": 43.6546438,
-      "lng": -79.3697278,
-      "location": "Moss Park",
+      "id": "news_cbc_9.7422115",
+      "source": "cbc",
+      "title": "Peel police investigate homicide after man dies of stab wounds in Mississauga",
+      "summary": "A man is dead after a stabbing in Mississauga on Saturday morning, Peel police say. Details on potential suspects is not yet available as the homicide unit investigates the incident.",
+      "link": "https://www.cbc.ca/news/canada/toronto/mississauga-stabbing-peel-police-9.7422115?cmp=rss",
+      "ts": "2026-11-14T13:20:42+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962054",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962282",
       "source": "citynews",
-      "title": "Woman arrested for allegedly making anti-transgender remarks, assaulting person walking dog",
-      "summary": "A Toronto woman is facing charges in what Toronto police describe as a suspected &#8220;hate-motivated assault&#8221; in the city&#8217;s west end earlier this week. Detectives said a person was walking their dog on Nov. 10, when they were approached by a suspect near Lansdowne Avenue and Dupont Street. &#8220;The accused made anti-transgender remarks before assaulting [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/13/woman-arrested-for-allegedly-making-anti-transgender-remarks-assaulting-person-walking-dog/",
-      "ts": "2026-11-13T23:59:13+00:00",
-      "lat": 43.6647601,
-      "lng": -79.4456714,
-      "location": "Lansdowne Avenue",
+      "title": "Man dead in early morning stabbing in Mississauga",
+      "summary": "One man is dead following an early morning stabbing in Mississauga.",
+      "link": "https://toronto.citynews.ca/2026/11/14/man-dead-in-early-morning-stabbing-in-mississauga/",
+      "ts": "2026-11-14T11:54:18+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962027",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962274",
       "source": "citynews",
-      "title": "Cabbagetown stabbing sends 1 to hospital with serious injuries, suspect at large",
-      "summary": "A man in his 30s was taken to hospital with serious, non life-threatening injuries following a stabbing in Cabbagetown on Friday evening. It happened at around 4:53 p.m. in the Sackville and Spruce streets area. Toronto police say two males become involved in a confrontation and one stabbed the other. The suspect fled on foot [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/13/cabbagetown-stabbing-sends-1-to-hospital-with-serious-injuries-suspect-at-large/",
-      "ts": "2026-11-13T23:33:24+00:00",
-      "lat": 43.6672,
-      "lng": -79.3667,
-      "location": "Cabbagetown",
+      "title": "Lawyers unsure if extra funding can reduce massive caseload at Federal Court",
+      "summary": "OTTAWA \u2014 The recent federal budget included $58 million in additional funding court administration but the Federal Court still doesn't have a clear picture of how it can be used to reduce a massive caseload that has grown rapidly since 2020.",
+      "link": "https://toronto.citynews.ca/2026/11/14/lawyers-unsure-if-extra-funding-can-reduce-massive-caseload-at-federal-court/",
+      "ts": "2026-11-14T11:00:06+00:00",
+      "lat": 43.6507954,
+      "lng": -79.3879468,
+      "location": "Federal Court",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7421849",
+      "source": "cbc",
+      "title": "Ontario's Bill 140 raises concerns over landfill approvals, groundwater protection in Caledon, Ont.",
+      "summary": "Ontario's proposed Bill 140 would remove a municipal support requirement for certain large landfills, prompting concerns about groundwater and the time available for Caledon's incoming council to respond.",
+      "link": "https://www.cbc.ca/news/canada/caledon-bill-140-landfills-groundwater-9.7421849?cmp=rss",
+      "ts": "2026-11-14T09:00:00+00:00",
+      "lat": 43.8618,
+      "lng": -79.8613,
+      "location": "Caledon",
       "approximate": true
     },
     {
@@ -63,30 +75,6 @@
       "lat": 43.9,
       "lng": -78.9,
       "location": "Durham Region",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4961762",
-      "source": "citynews",
-      "title": "2 suspects wanted after 2-vehicle collision at St. Clair West and Jane",
-      "summary": "Two people were injured in a collision at St. Clair West Avenue and Jane Street on Friday afternoon. Officers responded to the intersection around 1:15 p.m. for reports of a two-vehicle collision. Toronto police say two occupants from one of the vehicles fled the scene on foot. They are described as males wearing all black [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/13/2-suspects-wanted-after-2-vehicle-collision-at-st-clair-west-and-jane/",
-      "ts": "2026-11-13T20:09:07+00:00",
-      "lat": 43.667912,
-      "lng": -79.4872065,
-      "location": "Clair West Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4961580",
-      "source": "citynews",
-      "title": "Brampton family seeks community support to help get gene therapy for 2-year-old child with rare condition",
-      "summary": "A Brampton family is racing to raise millions of dollars for an American medical treatment that could help save their two-year-old child living with a rare genetic disorder after the province denied their out-of-country funding. Zoravar Singh has been diagnosed with a rare condition called AADC Deficiency. &#8220;His day starts with the medication and ends [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/13/brampton-child-rare-disorder-aadc-deficiency-treatment/",
-      "ts": "2026-11-13T19:50:36+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
       "approximate": true
     },
     {
@@ -171,18 +159,6 @@
       "lat": 43.6629,
       "lng": -79.3957,
       "location": "U Of T",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7419709",
-      "source": "cbc",
-      "title": "New Scotiabank Arena priority program puts members at the front of the line \u2014 at price tag of $2,500",
-      "summary": "Maple Leaf Sports & Entertainment has launched a new program that gives members first access to tickets for Scotiabank Arena shows at a cost of $2,500 a year, but the price tag is not appealing to everyone.",
-      "link": "https://www.cbc.ca/news/canada/toronto/scotiabank-arena-priority-membership-9.7419709?cmp=rss",
-      "ts": "2026-11-13T00:11:37+00:00",
-      "lat": 43.6441128,
-      "lng": -79.378701,
-      "location": "Leaf Sports & Entertainment",
       "approximate": false
     }
   ]
