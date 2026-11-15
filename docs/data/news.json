@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-15T17:39:48.605977+00:00",
+  "generated": "2026-11-15T22:06:17.487207+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7422924",
+      "source": "cbc",
+      "title": "Thousands tackle 1,776 steps for annual charity CN Tower climb",
+      "summary": "Thousands of people took on the 1,776 steps to the top of Toronto\u2019s CN Tower for the annual United Way stair climb over the weekend. The event raised nearly $2 million to support community programs across the Greater Toronto Area, including food banks, housing and other essential services. CBC\u2019s Mercedes Gaztambide caught up with some of the climbers.",
+      "link": "https://www.cbc.ca/player/play/9.7422924?cmp=rss",
+      "ts": "2026-11-15T20:26:14+00:00",
+      "lat": 43.6426,
+      "lng": -79.3871,
+      "location": "Cn Tower",
+      "approximate": false
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4962603",
       "source": "citynews",

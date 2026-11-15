@@ -711,5 +711,17 @@
   "st:ellesmere rd|pollard dr|scarborough": null,
   "st:flemington rd|replin rd|north york": null,
   "st:cosburn ave|ln e donlands n cosburn|east york": null,
-  "st:gore vale ave|trinity bellwoods park trl|toronto": null
+  "st:gore vale ave|trinity bellwoods park trl|toronto": null,
+  "st:mabelle ave|cordova ave|etobicoke": {
+    "lat": 43.6474176,
+    "lng": -79.5260509
+  },
+  "st:steeles ave|gerry fitzgerald dr|north york": {
+    "lat": 43.7859891,
+    "lng": -79.4744958
+  },
+  "st:horner ave|judson st|etobicoke": {
+    "lat": 43.612333,
+    "lng": -79.5150113
+  }
 }
