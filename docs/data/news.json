@@ -1,20 +1,20 @@
 {
-  "generated": "2026-11-15T10:59:03.938484+00:00",
+  "generated": "2026-11-15T17:39:48.605977+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962525",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962603",
       "source": "citynews",
-      "title": "Bandits crash into convenience store moments after East York break-in: Toronto police",
-      "summary": "Toronto police are investigating a break-in that happened at a residential home in East York on Saturday evening. Authorities were called to the area of Broadview Avenue and O&#8217;Connor Drive just before 9 p.m.&#160; Police said two people were transported to a hospital with injuries from the scene of the break-in. Meanwhile, the suspects fled [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/14/bandits-crash-into-convenience-store-following-east-york-break-in/",
-      "ts": "2026-11-15T03:13:55+00:00",
-      "lat": 43.6859235,
-      "lng": -79.3563171,
-      "location": "Broadview Avenue",
+      "title": "A Georgia O\u2019Keeffe painting was buried in a New York apartment closet. It is going up for auction",
+      "summary": "NEW YORK (AP) \u2014 The painting was buried behind coats and boxes in the closet of a Manhattan apartment for decades.",
+      "link": "https://toronto.citynews.ca/2026/11/15/a-georgia-okeeffe-painting-was-buried-in-a-new-york-apartment-closet-it-is-going-up-for-auction/",
+      "ts": "2026-11-15T11:03:57+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
       "approximate": true
     },
     {
@@ -27,30 +27,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962495",
-      "source": "citynews",
-      "title": "Tractor truck rolls over during Scarborough collision",
-      "summary": "Toronto police are investigating a two-vehicle collision that happened in Scarborough late Saturday afternoon. Emergency crews were called to the area of Neilson Road and McLevin Avenue just after 5 p.m. for reports of a crash involving a tractor truck and another vehicle. Police said the truck rolled over during the collision. Both drivers remained [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/14/tractor-truck-rolls-over-during-scarborough-collision/",
-      "ts": "2026-11-15T00:14:15+00:00",
-      "lat": 43.8097854,
-      "lng": -79.2228454,
-      "location": "Neilson Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962452",
-      "source": "citynews",
-      "title": "AFC Toronto captures their first Diana B. Matheson Cup",
-      "summary": "Olivia Chisholm\u2019s first half goal allowed AFC Toronto to capture their first Diana B. Matheson Cup with a 1-0 victory over the Montreal Roses Saturday afternoon at TD Place. The 17-year-old scored what proved to be the winner, and her first professional goal, in the 39th minute.&#160; Sabrina D\u2019Angelo had a clean sheet holding off [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/14/afc-toronto-to-capture-their-first-diana-b-matheson-cup/",
-      "ts": "2026-11-14T21:35:45+00:00",
-      "lat": 43.6452837,
-      "lng": -79.3952549,
-      "location": "TD Place",
       "approximate": true
     },
     {
@@ -78,18 +54,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962413",
-      "source": "citynews",
-      "title": "Police seek suspects in violent early morning downtown assault",
-      "summary": "Toronto police are searching for an unknown number of suspects following a violent assault early Saturday morning.",
-      "link": "https://toronto.citynews.ca/2026/11/14/police-seek-suspects-in-violent-early-morning-downtown-assault/",
-      "ts": "2026-11-14T19:19:04+00:00",
-      "lat": 43.6532,
-      "lng": -79.3832,
-      "location": "Downtown",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7422291",
       "source": "cbc",
       "title": "Police name teen suspects wanted for Etobicoke homicide",
@@ -102,36 +66,12 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962352",
-      "source": "citynews",
-      "title": "\u2018It\u2019s crazy\u2019: Travellers, airlines report busy day at airports after U.S. flight stop",
-      "summary": "TORONTO \u2014 Dale Flood had booked what he called a once-in-a-lifetime 50th birthday trip with his family to New York City to watch his beloved Buffalo Bills play on Sunday.",
-      "link": "https://toronto.citynews.ca/2026/11/14/busy-day-at-canadian-airports-as-airlines-scramble-to-recover-from-u-s-flight-stop/",
-      "ts": "2026-11-14T16:05:36+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7422200",
       "source": "cbc",
       "title": "3 kids, 2 adults in life-threatening condition after Burlington house fire: Halton police",
       "summary": "Five people, including three children, are in life-threatening condition in hospital after a house fire in Burlington on Saturday morning, Halton police say.",
       "link": "https://www.cbc.ca/news/canada/hamilton/burlington-house-fire-halton-police-9.7422200?cmp=rss",
       "ts": "2026-11-14T15:32:22+00:00",
-      "lat": 43.3255,
-      "lng": -79.799,
-      "location": "Burlington",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962337",
-      "source": "citynews",
-      "title": "\u2018Tragic scene\u2019: 3 children among 5 people critically injured in Burlington fire",
-      "summary": "Five people, including three children, have suffered critical injuries following a fire in Burlington on Saturday morning.",
-      "link": "https://toronto.citynews.ca/2026/11/14/3-children-among-5-people-critically-injured-in-burlington-fire/",
-      "ts": "2026-11-14T14:52:24+00:00",
       "lat": 43.3255,
       "lng": -79.799,
       "location": "Burlington",
