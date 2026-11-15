@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-15T03:11:01.951919+00:00",
+  "generated": "2026-11-15T10:59:03.938484+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962525",
+      "source": "citynews",
+      "title": "Bandits crash into convenience store moments after East York break-in: Toronto police",
+      "summary": "Toronto police are investigating a break-in that happened at a residential home in East York on Saturday evening. Authorities were called to the area of Broadview Avenue and O&#8217;Connor Drive just before 9 p.m.&#160; Police said two people were transported to a hospital with injuries from the scene of the break-in. Meanwhile, the suspects fled [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/14/bandits-crash-into-convenience-store-following-east-york-break-in/",
+      "ts": "2026-11-15T03:13:55+00:00",
+      "lat": 43.6859235,
+      "lng": -79.3563171,
+      "location": "Broadview Avenue",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7422435",
       "source": "cbc",

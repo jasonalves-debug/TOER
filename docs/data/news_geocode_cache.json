@@ -407,5 +407,9 @@
   "NEILSON ROAD, TORONTO, ONTARIO, CANADA": {
     "lat": 43.8097854,
     "lng": -79.2228454
+  },
+  "BROADVIEW AVENUE, TORONTO, ONTARIO, CANADA": {
+    "lat": 43.6859235,
+    "lng": -79.3563171
   }
 }
