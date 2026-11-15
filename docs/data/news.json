@@ -1,10 +1,34 @@
 {
-  "generated": "2026-11-14T23:45:06.283821+00:00",
+  "generated": "2026-11-15T03:11:01.951919+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7422435",
+      "source": "cbc",
+      "title": "After 6 decades, the future of this Mississauga high school building is uncertain",
+      "summary": "Hundreds of alumnae and staff gathered on Saturday for a final mass to farewell their former Catholic high school building, which is facing an uncertain future. The Holy Name of Mary College School in Mississauga closed in June due to low enrolment. Its owners, the Felician Sisters of St. Francis, are deciding what to do with the 62 year-old building.",
+      "link": "https://www.cbc.ca/news/canada/toronto/after-6-decades-the-future-of-this-mississauga-high-school-building-is-uncertain-9.7422435?cmp=rss",
+      "ts": "2026-11-15T00:52:45+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962495",
+      "source": "citynews",
+      "title": "Tractor truck rolls over during Scarborough collision",
+      "summary": "Toronto police are investigating a two-vehicle collision that happened in Scarborough late Saturday afternoon. Emergency crews were called to the area of Neilson Road and McLevin Avenue just after 5 p.m. for reports of a crash involving a tractor truck and another vehicle. Police said the truck rolled over during the collision. Both drivers remained [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/14/tractor-truck-rolls-over-during-scarborough-collision/",
+      "ts": "2026-11-15T00:14:15+00:00",
+      "lat": 43.8097854,
+      "lng": -79.2228454,
+      "location": "Neilson Road",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4962452",
       "source": "citynews",
@@ -126,18 +150,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962282",
-      "source": "citynews",
-      "title": "Man dead in early morning stabbing in Mississauga",
-      "summary": "One man is dead following an early morning stabbing in Mississauga.",
-      "link": "https://toronto.citynews.ca/2026/11/14/man-dead-in-early-morning-stabbing-in-mississauga/",
-      "ts": "2026-11-14T11:54:18+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7421849",
       "source": "cbc",
       "title": "Ontario's Bill 140 raises concerns over landfill approvals, groundwater protection in Caledon, Ont.",
@@ -160,18 +172,6 @@
       "lng": -79.6248,
       "location": "Pearson Airport",
       "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7420849",
-      "source": "cbc",
-      "title": "Feds, Ontario offering Stellantis 'aggressive package' to keep Brampton auto plant open",
-      "summary": "The federal and Ontario governments are mounting a last-ditch effort to save the Stellantis auto plant in Brampton by pitching the company possible survival \"scenarios\" and offering an \"aggressive package\" of support to make it happen.",
-      "link": "https://www.cbc.ca/news/politics/joly-fedeli-stellantis-brampton-plant-package-9.7420849?cmp=rss",
-      "ts": "2026-11-13T18:04:27+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
     }
   ]
 }

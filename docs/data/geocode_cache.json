@@ -703,5 +703,8 @@
     "lat": 43.6361278,
     "lng": -79.4931674
   },
-  "st:glen rd|summerhill ave|toronto": null
+  "st:glen rd|summerhill ave|toronto": null,
+  "st:balfour ave|palmer st|toronto": null,
+  "st:etta wylie rd|elsinore path|etobicoke": null,
+  "xx:billy bishop way|transit rd": null
 }
