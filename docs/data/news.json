@@ -1,10 +1,58 @@
 {
-  "generated": "2026-11-15T22:06:17.487207+00:00",
+  "generated": "2026-11-16T02:11:00.539884+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962826",
+      "source": "citynews",
+      "title": "Pedestrian seriously injured after getting hit by a car in Mississauga",
+      "summary": "A pedestrian was rushed to a hospital after getting hit by a car in Mississauga on Sunday afternoon. According to Peel Regional Police, an adult male was struck by a vehicle near Dixie Road and Winding Trail at approximately 6 p.m. The driver of the car remained at the scene. Meanwhile, the pedestrian was transported [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/15/pedestrian-seriously-injured-after-getting-hit-by-a-car-in-mississauga/",
+      "ts": "2026-11-16T01:56:39+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962822",
+      "source": "citynews",
+      "title": "Police officer seriously injured in Whitby car crash",
+      "summary": "The Durham Regional Police Service (DRPS) is investigating after one of its officers was injured during a car crash in Whitby on Sunday evening. Footage from the scene shows multiple vehicles with extensive damage on Brock Street, near Highway 401. One person, identified as a DRPS officer, was transported to a Toronto hospital with serious [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/15/police-officer-seriously-injured-in-whitby-car-crash/",
+      "ts": "2026-11-16T01:47:22+00:00",
+      "lat": 43.6911749,
+      "lng": -79.569902,
+      "location": "Highway 401",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962816",
+      "source": "citynews",
+      "title": "Person injured in three-vehicle crash on Hwy. 401",
+      "summary": "One person was transported to a hospital following a three-vehicle collision on Highway 401 late Sunday evening. According to Toronto police, the crash happened before 7:30 p.m. Three westbound Collector lanes are closed at Keele Street for an investigation. One person was transported to a hospital with minor injuries. No other details were immediately available.",
+      "link": "https://toronto.citynews.ca/2026/11/15/person-injured-in-three-vehicle-crash-on-hwy-401/",
+      "ts": "2026-11-16T01:34:24+00:00",
+      "lat": 43.6911749,
+      "lng": -79.569902,
+      "location": "Highway 401",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4962784",
+      "source": "citynews",
+      "title": "Isaac, a cat missing since the Brooklyn building collapse, has been reunited with his young owner",
+      "summary": "NEW YORK (AP) \u2014 A cat missing since last week\u2019s deadly Brooklyn building collapse has been found alive and reunited with his young owner, New York City officials said Sunday.",
+      "link": "https://toronto.citynews.ca/2026/11/15/isaac-a-cat-missing-since-the-brooklyn-building-collapse-has-been-reunited-with-his-young-owner/",
+      "ts": "2026-11-15T23:25:49+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7422924",
       "source": "cbc",
@@ -16,18 +64,6 @@
       "lng": -79.3871,
       "location": "Cn Tower",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4962603",
-      "source": "citynews",
-      "title": "A Georgia O\u2019Keeffe painting was buried in a New York apartment closet. It is going up for auction",
-      "summary": "NEW YORK (AP) \u2014 The painting was buried behind coats and boxes in the closet of a Manhattan apartment for decades.",
-      "link": "https://toronto.citynews.ca/2026/11/15/a-georgia-okeeffe-painting-was-buried-in-a-new-york-apartment-closet-it-is-going-up-for-auction/",
-      "ts": "2026-11-15T11:03:57+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7422435",

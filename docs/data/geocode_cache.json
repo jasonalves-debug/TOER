@@ -723,5 +723,15 @@
   "st:horner ave|judson st|etobicoke": {
     "lat": 43.612333,
     "lng": -79.5150113
+  },
+  "st:garden ave|ln w sorauren s garden|toronto": null,
+  "xx:trethewey dr|black creek dr": {
+    "lat": 43.6955489,
+    "lng": -79.488089
+  },
+  "fsa2:M6S": null,
+  "st:eddystone ave|jane st|north york": {
+    "lat": 43.7492874,
+    "lng": -79.5158088
   }
 }
