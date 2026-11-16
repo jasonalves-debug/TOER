@@ -733,5 +733,11 @@
   "st:eddystone ave|jane st|north york": {
     "lat": 43.7492874,
     "lng": -79.5158088
-  }
+  },
+  "st:dufferin st|wallace ave|toronto": {
+    "lat": 43.6713649,
+    "lng": -79.4403948
+  },
+  "st:warden ave|cleanside rd|scarborough": null,
+  "st:marine parade dr|jean augustine park trl|etobicoke": null
 }
