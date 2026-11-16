@@ -739,5 +739,12 @@
     "lng": -79.4403948
   },
   "st:warden ave|cleanside rd|scarborough": null,
-  "st:marine parade dr|jean augustine park trl|etobicoke": null
+  "st:marine parade dr|jean augustine park trl|etobicoke": null,
+  "st:wesley st|portland st|etobicoke": {
+    "lat": 43.6197769,
+    "lng": -79.4967664
+  },
+  "st:alderbrook dr|danrose cres|north york": null,
+  "st:spadina rd|bloor st w|toronto": null,
+  "fsa2:M2P": null
 }
