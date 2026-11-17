@@ -1,20 +1,92 @@
 {
-  "generated": "2026-11-16T20:06:02.304865+00:00",
+  "generated": "2026-11-17T02:56:40.177927+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963366",
+      "id": "news_cbc_9.7424527",
+      "source": "cbc",
+      "title": "U of T's plan to address discrimination against Muslims, Arabs, Palestinians 'insufficient': prof",
+      "summary": "The University of Toronto's plans to address discrimination against Muslims, Arabs and Palestinians on its campuses are \"wholly insufficient,\" says the author of a report that found the school has a \"general pattern of over-policing and under-protecting\" these groups.",
+      "link": "https://www.cbc.ca/news/canada/toronto/university-of-toronto-anti-muslim-arab-palestinian-report-response-insufficient-9.7424527?cmp=rss",
+      "ts": "2026-11-17T01:45:21+00:00",
+      "lat": 43.6629,
+      "lng": -79.3957,
+      "location": "U Of T",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4963551",
       "source": "citynews",
-      "title": "2 people arrested in Scarborough gun investigation",
-      "summary": "Toronto police have arrested two people in connection with a firearm investigation in Scarborough. Detectives said the investigation kicked off on Nov. 11, in the area of Neilson and Ellesmere Roads. A search warrant was executed, and police recovered and seized one loaded firearm. As a result of the investigation, authorities arrested two 24 year [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/16/2-people-arrested-in-toronto-gun-investigation/",
-      "ts": "2026-11-16T19:29:12+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
+      "title": "Mayor Tedjo doubles down on 2-year property tax freeze at new Mississauga council\u2019s inaugural meeting",
+      "summary": "Alvin Tedjo toppled two political veterans in a hard-fought Mississauga mayoral election, and one of the key promises that helped propel him to victory was a two-year property tax freeze for all residents. At Mississauga&#8217;s inaugural council meeting on Monday night, Tedjo made it clear that he intends to keep that promise. &#8220;In my first [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/16/mayor-tedjo-doubles-down-on-2-year-property-tax-freeze-at-new-mississauga-councils-inaugural-meeting/",
+      "ts": "2026-11-17T00:50:51+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4963592",
+      "source": "citynews",
+      "title": "Toronto man, 47, accused of sexual assault with a weapon, choking and forcible confinement",
+      "summary": "Toronto police have made an arrest in connection with a violent sexual assault that allegedly took place in Scarborough over the summer. According to detectives, a suspect identified as 47-year-old Csaba Gaspar of Toronto, convinced a female victim to enter his car on August 17, 2026. He then drove to the area of Markham Road [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/16/toronto-man-47-accused-of-sexual-assault-with-a-weapon-choking-and-forcible-confinement/",
+      "ts": "2026-11-17T00:26:02+00:00",
+      "lat": 43.7460073,
+      "lng": -79.2200988,
+      "location": "Markham Road",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4963572",
+      "source": "citynews",
+      "title": "Trump appeals to state and federal courts to erase hush money conviction",
+      "summary": "NEW YORK (AP) \u2014 A federal appeals court is weighing whether it can \u2014 or should \u2014 intervene in President Donald Trump\u2019s hush money case now that a New York State appellate court has heard arguments in his quest to erase the historic conviction.",
+      "link": "https://toronto.citynews.ca/2026/11/16/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-conviction/",
+      "ts": "2026-11-16T23:30:40+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7424009",
+      "source": "cbc",
+      "title": "12 men charged in Peel auto theft bust after 96 vehicles recovered from shipping containers",
+      "summary": "Twelve men have been arrested after Peel Regional Police say they recovered 96 stolen vehicles, worth an estimated $4.5 million, from shipping containers destined for West Africa.",
+      "link": "https://www.cbc.ca/news/canada/toronto/peel-regional-police-auto-theft-bust-9.7424009?cmp=rss",
+      "ts": "2026-11-16T22:20:57+00:00",
+      "lat": 43.65,
+      "lng": -79.75,
+      "location": "Peel Region",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7424091",
+      "source": "cbc",
+      "title": "Oshawa\u2019s new mayor promises 'new era' at inauguration ceremony",
+      "summary": "Oshawa\u2019s new mayor Tito-Dante Marimpietri and the rest of city council were sworn in at a ceremony on Monday, held at Tribute Communities Centre, an arena owned by the city in the downtown core.",
+      "link": "https://www.cbc.ca/news/canada/toronto/oshawa-tito-dante-marimpietri-inauguration-9.7424091?cmp=rss",
+      "ts": "2026-11-16T21:35:27+00:00",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "location": "Downtown",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4963410",
+      "source": "citynews",
+      "title": "Pedestrian struck by vehicle in Richmond Hill",
+      "summary": "A pedestrian has been struck by a vehicle in Richmond Hill on Monday afternoon. York police say the collision occurred in the area of Bayview and 16th avenues just after 2:30 p.m. The severity of the pedestrian&#8217;s injuries are unknown at this point, but they were taken to hospital by trauma run. The driver involved [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/16/pedestrian-struck-by-vehicle-in-richmond-hill-2/",
+      "ts": "2026-11-16T20:20:22+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
       "approximate": true
     },
     {
@@ -33,24 +105,12 @@
       "id": "news_cbc_9.7423825",
       "source": "cbc",
       "title": "Inquest into death of Mississauga man shot by police in 2020 hears from Peel constable",
-      "summary": "An inquest into the death of Jamal Francique, who was shot by police in Mississauga, Ont., nearly seven years ago, is hearing Monday from a constable who arrived at the scene after the shooting.",
+      "summary": "A police constable told a coroner's inquest Monday he was concerned about the risk of an ambush as he approached a car that had crashed into a pillar after it was hit by police gunfire during a botched arrest in Mississauga, Ont., nearly seven years ago.",
       "link": "https://www.cbc.ca/news/canada/toronto/francique-inquest-hears-from-constable-9.7423825?cmp=rss",
       "ts": "2026-11-16T17:42:33+00:00",
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963230",
-      "source": "citynews",
-      "title": "3 people, including 1-year-old and 12-year-old, die of injuries suffered in Burlington fire",
-      "summary": "Three people, including two children, have died of their injuries suffered in a fire at a Burlington townhouse over the weekend. Fire crews were called to the home on Maple Crossing Boulevard just before 7 a.m. on Saturday. Police in Halton Region say two adults and three children &#8212; a 12-year-old and two others under [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/16/burlington-fatal-fire-maple-crossing/",
-      "ts": "2026-11-16T16:56:21+00:00",
-      "lat": 43.3255,
-      "lng": -79.799,
-      "location": "Burlington",
       "approximate": true
     },
     {
@@ -66,30 +126,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963172",
-      "source": "citynews",
-      "title": "12 suspects arrested, over 90 vehicles valued at $4.5 million recovered in Peel auto theft investigation",
-      "summary": "An extensive investigation into auto thefts has led to 12 arrests and the recovery of more than 90 stolen vehicles valued at over $4.5 million in Peel Region. Project Cadetta was launched in March 2026 in partnership with Canada Border Services Agency and focused on a Brampton warehouse that police say was used as a [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/16/12-suspects-arrested-over-90-vehicles-valued-at-4-5-million-recovered-in-peel-auto-theft-investigation/",
-      "ts": "2026-11-16T16:35:25+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963101",
-      "source": "citynews",
-      "title": "Woman, 67, dead in Oshawa house fire",
-      "summary": "The Ontario Fire Marshal&#8217;s office has been called in following a house fire in Oshawa that claimed the life of a 67-year-old woman. Firefighters with Oshawa Fire Services were called to the residence on Dorchester Drive, near Stevenson Road South and Highway 401, just before 9:30 a.m. on Sunday. According to the Durham Regional Police [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/16/oshawa-fatal-fire-dorchester-drive/",
-      "ts": "2026-11-16T15:07:12+00:00",
-      "lat": 43.6911749,
-      "lng": -79.569902,
-      "location": "Highway 401",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7423378",
       "source": "cbc",
       "title": "A Canada Post mail carrier's last day of home delivery in Toronto",
@@ -102,30 +138,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963091",
-      "source": "citynews",
-      "title": "Man sought after synagogue damaged in Richmond Hill; hate crime unit investigating",
-      "summary": "York Regional Police (YRP) are asking for the public&#8217;s help in identifying a suspect accused of damaging a synagogue in Richmond Hill last month. Investigators with the force&#8217;s Hate Crime Unit say the incident occurred on the evening of Oct. 22 at a synagogue in the area of Yonge Street and Stouffville Road. According to [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/16/richmond-hill-suspect-synagogue-damaged-hate-crime/",
-      "ts": "2026-11-16T14:49:30+00:00",
-      "lat": 43.7445449,
-      "lng": -79.4068969,
-      "location": "Yonge Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963027",
-      "source": "citynews",
-      "title": "\u2018Ridiculous\u2019: Toronto\u2019s Leaside Bridge still without safety barriers months after construction was to begin",
-      "summary": "Months after construction was supposed to start, safety barriers promised for Toronto&#8217;s Leaside Bridge have yet to be installed, and nearby residents are now expressing frustration. The renewed concerns follows the death of a 33-year-old man who fell from the bridge onto the Don Valley Parkway (DVP) on Oct. 24. The incident comes months after [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/16/toronto-leaside-bridge-safety-barriers-construction/",
-      "ts": "2026-11-16T14:37:27+00:00",
-      "lat": 43.7752845,
-      "lng": -79.3405349,
-      "location": "the Don Valley Parkway",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7423383",
       "source": "cbc",
       "title": "Woman, 67, dead after house fire in Oshawa: police",
@@ -135,66 +147,6 @@
       "lat": 43.7461197,
       "lng": -79.4423163,
       "location": "Dorchester Drive",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7423333",
-      "source": "cbc",
-      "title": "Milton, Ont., to replace Canada's longest-serving mayor",
-      "summary": "The town of Milton is set to swear in a new mayor for the first time since 1980. George Minakakis and eight regional and town councillors will take their oaths of office at the council's inaugural meeting Monday night.",
-      "link": "https://www.cbc.ca/news/canada/toronto/milton-first-new-mayor-46-years-9.7423333?cmp=rss",
-      "ts": "2026-11-16T14:12:12+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7422924",
-      "source": "cbc",
-      "title": "Thousands tackle 1,776 steps for annual charity CN Tower climb",
-      "summary": "Thousands of people took on the 1,776 steps to the top of Toronto\u2019s CN Tower for the annual United Way stair climb over the weekend. The event raised nearly $2 million to support community programs across the Greater Toronto Area, including food banks, housing and other essential services. CBC\u2019s Mercedes Gaztambide caught up with some of the climbers.",
-      "link": "https://www.cbc.ca/player/play/9.7422924?cmp=rss",
-      "ts": "2026-11-15T20:26:14+00:00",
-      "lat": 43.6426,
-      "lng": -79.3871,
-      "location": "Cn Tower",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7422435",
-      "source": "cbc",
-      "title": "After 6 decades, the future of this Mississauga high school building is uncertain",
-      "summary": "Hundreds of alumnae and staff gathered on Saturday for a final mass to farewell their former Catholic high school building, which is facing an uncertain future. The Holy Name of Mary College School in Mississauga closed in June due to low enrolment. Its owners, the Felician Sisters of St. Francis, are deciding what to do with the 62 year-old building.",
-      "link": "https://www.cbc.ca/news/canada/toronto/after-6-decades-the-future-of-this-mississauga-high-school-building-is-uncertain-9.7422435?cmp=rss",
-      "ts": "2026-11-15T00:52:45+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7422349",
-      "source": "cbc",
-      "title": "2 workers dead following collision at Pickering construction site: police",
-      "summary": "Two workers hae died after a collision on a construction site in Pickering on Friday, Durham police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/2-workers-dead-pickering-construction-site-collision-9.7422349?cmp=rss",
-      "ts": "2026-11-14T20:34:52+00:00",
-      "lat": 43.8384,
-      "lng": -79.0868,
-      "location": "Pickering",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7422291",
-      "source": "cbc",
-      "title": "Police name teen suspects wanted for Etobicoke homicide",
-      "summary": "Toronto police have named two teenaged suspects wanted in connection with a homicide in Etobicoke on Nov. 7.",
-      "link": "https://www.cbc.ca/news/canada/toronto/police-search-2-suspects-etobicoke-homicide-9.7422291?cmp=rss",
-      "ts": "2026-11-14T18:34:39+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
       "approximate": true
     }
   ]

@@ -746,5 +746,14 @@
   },
   "st:alderbrook dr|danrose cres|north york": null,
   "st:spadina rd|bloor st w|toronto": null,
-  "fsa2:M2P": null
+  "fsa2:M2P": null,
+  "st:timberbank blvd|gloxinia cres|scarborough": null,
+  "st:livingston rd|catalina dr|scarborough": null,
+  "st:jarvis st|sirman lane|toronto": null,
+  "st:brown's line|evans browns li ramp|etobicoke": null,
+  "st:roseheath ave|ln n murdock w aldridge|toronto": null,
+  "xx:parliament st|bloor st e": {
+    "lat": 43.6721513,
+    "lng": -79.3707719
+  }
 }
