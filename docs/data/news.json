@@ -1,21 +1,57 @@
 {
-  "generated": "2026-11-17T11:39:11.477003+00:00",
+  "generated": "2026-11-17T20:02:09.302764+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963131",
-      "source": "citynews",
-      "title": "More than half of Torontonians want Sankofa Square changed back to Yonge-Dundas Square: poll",
-      "summary": "More than half of Torontonians, precisely 54 per cent, say they want Sankofa Square changed back to Yonge-Dundas Square, while a quarter said the name does not matter to them, according to a new poll. The survey by Canada Pulse Insights for CityNews found another 11 per cent would keep Sankofa Square and 10 per [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/17/toronto-sankofa-square-yonge-dundas-square-name-poll/",
-      "ts": "2026-11-17T10:33:50+00:00",
-      "lat": 43.6560277,
-      "lng": -79.3801254,
-      "location": "Sankofa Square",
+      "id": "news_cbc_9.7425217",
+      "source": "cbc",
+      "title": "Inquest into death of Jamal Francique, who was shot by police in Mississauga in 2020 paused for a day",
+      "summary": "The coroner's inquest into the death of a Black man shot by police in Mississauga, Ont., nearly seven years ago is on hold for a day. The presiding officer says counsel are dealing with the proposed submission of new material not previously provided to the inquest.",
+      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-paused-9.7425217?cmp=rss",
+      "ts": "2026-11-17T17:27:59+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
       "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7425143",
+      "source": "cbc",
+      "title": "SIU investigating after Durham police involved in crash at Hwy 401 ramp",
+      "summary": "A 53-year-old woman has a serious, non-life threatening injury after a three-vehicle collision involving a police vehicle in Whitby on Sunday, the province's police watchdog says.",
+      "link": "https://www.cbc.ca/news/canada/toronto/siu-investigating-durham-police-involved-crash-whitby-9.7425143?cmp=rss",
+      "ts": "2026-11-17T16:57:21+00:00",
+      "lat": 43.6717629,
+      "lng": -79.5828456,
+      "location": "Hwy 401",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4963983",
+      "source": "citynews",
+      "title": "Driver wanted for hit-and-run involving pedestrians boarding streetcar at Dundas and Broadview: police",
+      "summary": "Toronto police are looking for a driver in connection with a hit-and-run in the city&#8217;s South Riverdale neighbourhood last month involving two pedestrians. Officers were called to the intersection of Dundas Street East and Broadview Avenue at 7 a.m. on Oct. 2 for a collision between a vehicle and pedestrians. Police say a blue Hyundai [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/17/pedestrians-struck-dundas-broadview-driver-sought/",
+      "ts": "2026-11-17T16:40:16+00:00",
+      "lat": 43.6565147,
+      "lng": -79.3810752,
+      "location": "Dundas Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4963947",
+      "source": "citynews",
+      "title": "Ontario\u2019s medical regulator pauses safer supply drug changes after legal challenge",
+      "summary": "Ontario\u2019s medical regulator is hitting pause on implementing a host of changes to the ways doctors prescribe safer supply drugs after it was served with a legal challenge. The College of Physicians and Surgeons of Ontario says it was served Friday with the legal action, which includes a motion for an injunction to prevent the [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/17/ontarios-medical-regulator-pauses-safer-supply-drug-changes-after-legal-challenge/",
+      "ts": "2026-11-17T15:24:18+00:00",
+      "lat": 43.6608395,
+      "lng": -79.3870381,
+      "location": "Physicians & Surgeons",
+      "approximate": false
     },
     {
       "id": "news_cbc_9.7424527",
@@ -28,42 +64,6 @@
       "lng": -79.3957,
       "location": "U Of T",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963551",
-      "source": "citynews",
-      "title": "Mayor Tedjo doubles down on 2-year property tax freeze at new Mississauga council\u2019s inaugural meeting",
-      "summary": "Alvin Tedjo toppled two political veterans in a hard-fought Mississauga mayoral election, and one of the key promises that helped propel him to victory was a two-year property tax freeze for all residents. At Mississauga&#8217;s inaugural council meeting on Monday night, Tedjo made it clear that he intends to keep that promise. &#8220;In my first [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/16/mayor-tedjo-doubles-down-on-2-year-property-tax-freeze-at-new-mississauga-councils-inaugural-meeting/",
-      "ts": "2026-11-17T00:50:51+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963592",
-      "source": "citynews",
-      "title": "Toronto man, 47, accused of sexual assault with a weapon, choking and forcible confinement",
-      "summary": "Toronto police have made an arrest in connection with a violent sexual assault that allegedly took place in Scarborough over the summer. According to detectives, a suspect identified as 47-year-old Csaba Gaspar of Toronto, convinced a female victim to enter his car on August 17, 2026. He then drove to the area of Markham Road [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/16/toronto-man-47-accused-of-sexual-assault-with-a-weapon-choking-and-forcible-confinement/",
-      "ts": "2026-11-17T00:26:02+00:00",
-      "lat": 43.7460073,
-      "lng": -79.2200988,
-      "location": "Markham Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963572",
-      "source": "citynews",
-      "title": "Trump appeals to state and federal courts to erase hush money conviction",
-      "summary": "NEW YORK (AP) \u2014 A federal appeals court is weighing whether it can \u2014 or should \u2014 intervene in President Donald Trump\u2019s hush money case now that a New York State appellate court has heard arguments in his quest to erase the historic conviction.",
-      "link": "https://toronto.citynews.ca/2026/11/16/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-conviction/",
-      "ts": "2026-11-16T23:30:40+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7424009",
@@ -111,30 +111,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7423480",
-      "source": "cbc",
-      "title": "1 man, 2 children dead in Burlington, Ont., house fire, Ontario Fire Marshal says",
-      "summary": "A man, a 12-year-old child and a one-year-old boy are dead following a house fire in Burlington, Ont., the Ontario Fire Marshal said Monday morning in a news briefing.",
-      "link": "https://www.cbc.ca/news/canada/hamilton/burlington-fire-update-9.7423480?cmp=rss",
-      "ts": "2026-11-16T16:36:31+00:00",
-      "lat": 43.3255,
-      "lng": -79.799,
-      "location": "Burlington",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7423383",
-      "source": "cbc",
-      "title": "Woman, 67, dead after house fire in Oshawa: police",
-      "summary": "A woman is dead after a house fire at Dorchester Drive Sunday evening, Durham police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/woman-dead-house-fire-oshawa-9.7423383?cmp=rss",
-      "ts": "2026-11-16T14:36:50+00:00",
-      "lat": 43.7461197,
-      "lng": -79.4423163,
-      "location": "Dorchester Drive",
       "approximate": true
     }
   ]

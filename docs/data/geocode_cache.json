@@ -759,5 +759,9 @@
   "xx:sheppard ave e|kingston rd": {
     "lat": 43.7993885,
     "lng": -79.1459075
-  }
+  },
+  "st:roncesvalles ave|harvard ave|toronto": null,
+  "xx:augusta ave|oxford st": null,
+  "st:bathurst st|browns lane|toronto": null,
+  "st:willcocks st|huron st|toronto": null
 }
