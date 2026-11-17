@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-17T02:56:40.177927+00:00",
+  "generated": "2026-11-17T11:39:11.477003+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4963131",
+      "source": "citynews",
+      "title": "More than half of Torontonians want Sankofa Square changed back to Yonge-Dundas Square: poll",
+      "summary": "More than half of Torontonians, precisely 54 per cent, say they want Sankofa Square changed back to Yonge-Dundas Square, while a quarter said the name does not matter to them, according to a new poll. The survey by Canada Pulse Insights for CityNews found another 11 per cent would keep Sankofa Square and 10 per [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/17/toronto-sankofa-square-yonge-dundas-square-name-poll/",
+      "ts": "2026-11-17T10:33:50+00:00",
+      "lat": 43.6560277,
+      "lng": -79.3801254,
+      "location": "Sankofa Square",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7424527",
       "source": "cbc",
@@ -78,18 +90,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963410",
-      "source": "citynews",
-      "title": "Pedestrian struck by vehicle in Richmond Hill",
-      "summary": "A pedestrian has been struck by a vehicle in Richmond Hill on Monday afternoon. York police say the collision occurred in the area of Bayview and 16th avenues just after 2:30 p.m. The severity of the pedestrian&#8217;s injuries are unknown at this point, but they were taken to hospital by trauma run. The driver involved [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/16/pedestrian-struck-by-vehicle-in-richmond-hill-2/",
-      "ts": "2026-11-16T20:20:22+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7423850",
       "source": "cbc",
       "title": "Same teen suspect wanted in connection with 2 fatal Etobicoke shootings: police",
@@ -123,18 +123,6 @@
       "lat": 43.3255,
       "lng": -79.799,
       "location": "Burlington",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7423378",
-      "source": "cbc",
-      "title": "A Canada Post mail carrier's last day of home delivery in Toronto",
-      "summary": "Friday was 60-year-old Anita McCulloch\u2019s last day of door-to-door delivery in Rexdale, her beloved northwest Toronto neighbourhood, filled with people she\u2019s grown to care for over the last 2 1/2 years.",
-      "link": "https://www.cbc.ca/news/canada/toronto/canada-post-carrier-s-last-day-toronto-9.7423378?cmp=rss",
-      "ts": "2026-11-16T15:06:11+00:00",
-      "lat": 43.7276,
-      "lng": -79.5638,
-      "location": "Rexdale",
       "approximate": true
     },
     {
