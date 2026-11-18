@@ -1,10 +1,94 @@
 {
-  "generated": "2026-11-17T20:02:09.302764+00:00",
+  "generated": "2026-11-18T02:26:36.412449+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7425350",
+      "source": "cbc",
+      "title": "'Bring it on,' Mississauga mayor says as real estate firms appeal city's data centre ban",
+      "summary": "Mississauga's new mayor says he's prepared to fight against U.S-based Prologis and Montcrest Asset Management, two companies that are challenging the city's decision to block a data centre project at the Ontario Land Tribunal.",
+      "link": "https://www.cbc.ca/news/canada/toronto/bring-it-on-mississauga-mayor-says-as-real-estate-firms-appeal-city-s-data-centre-ban-9.7425350?cmp=rss",
+      "ts": "2026-11-18T00:43:38+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964447",
+      "source": "citynews",
+      "title": "Suspect sought after girl, 13, sexually assaulted by man at Etobicoke park: Toronto police",
+      "summary": "Toronto police are trying to track down a suspect after they say a 13-year-old girl was sexually assaulted at a park in Etobicoke last Thursday. Investigators say the girl was approached by a man in the Martin Grove Road and Albion Road area at around noon on November 12, 2026. &#8220;The man escorted the victim [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/17/suspect-sought-after-girl-13-sexually-assaulted-by-man-at-etobicoke-park-toronto-police/",
+      "ts": "2026-11-18T00:32:30+00:00",
+      "lat": 43.7574973,
+      "lng": -79.6031631,
+      "location": "Martin Grove Road",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964410",
+      "source": "citynews",
+      "title": "Pedestrian taken to hospital with serious injuries after being struck by vehicle in Scarborough",
+      "summary": "Paramedics tell CityNews they&#8217;ve taken a man to a local trauma centre with serious, non life-threatening injuries after he was struck by a vehicle in Scarborough on Tuesday evening. It happened at Ellesmere Road and Mondeo Drive at around 5:39 p.m. Police say the driver remained at the scene. The westbound lanes are currently closed [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/17/pedestrian-taken-to-hospital-with-serious-injuries-after-being-struck-by-vehicle-in-scarborough/",
+      "ts": "2026-11-17T23:19:53+00:00",
+      "lat": 43.7784364,
+      "lng": -79.2224786,
+      "location": "Ellesmere Road",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964395",
+      "source": "citynews",
+      "title": "Cadet captain paralyzed from waist down after Hamilton attack",
+      "summary": "A cadet leader who underwent spinal surgery after a violent attack says he is currently paralyzed from the waist down and will require months of physical rehabilitation. Capt. Kenneth Kunkel provided an update on his situation last week in a statement shared online by a Hamilton member of Parliament. Kunkel says he is in continual [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/17/cadet-captain-paralyzed-from-waist-down-after-hamilton-attack/",
+      "ts": "2026-11-17T22:50:51+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964343",
+      "source": "citynews",
+      "title": "2 injured in collision between motorcycle and minivan in Mississauga",
+      "summary": "Two people have been taken to hospital after a collision between a motorcycle and a minivan in Mississauga Tuesday afternoon. Peel police say the crash occurred in the Dundas Street and Dunwin Road area around 3 p.m. The motorcyclist was taken to hospital in serious, life-threatening condition while the other person from the minivan suffered [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/17/2-injured-in-collision-between-motorcycle-and-minivan-in-mississauga/",
+      "ts": "2026-11-17T22:02:58+00:00",
+      "lat": 43.6565147,
+      "lng": -79.3810752,
+      "location": "Dundas Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964323",
+      "source": "citynews",
+      "title": "7 arrested after Vaughan raid nets guns, ammo, drugs",
+      "summary": "Toronto Police Service (TPS) officers have arrested seven people &#8212; four men and three women &#8212; after a firearms investigation culminated with a raid at a location in the Steeles Avenue West and Keele Street area last month. The investigation began on Saturday, October 17, leading to the execution of a search warrant. During that [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/17/7-arrested-after-vaughan-raid-nets-guns-ammo-drugs/",
+      "ts": "2026-11-17T21:55:09+00:00",
+      "lat": 43.7979806,
+      "lng": -79.4200297,
+      "location": "Steeles Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964345",
+      "source": "citynews",
+      "title": "Mississauga data centre moratorium challenged by U.S. real estate giant, Toronto firm",
+      "summary": "Mississauga's data centre moratorium is set to face a legal challenge, as a U.S. real estate giant and a Toronto asset manager move to overturn the pause at the Ontario Land Tribunal.",
+      "link": "https://toronto.citynews.ca/2026/11/17/mississauga-data-centre-moratorium-challenged-by-u-s-real-estate-giant-toronto-firm/",
+      "ts": "2026-11-17T21:54:53+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7425217",
       "source": "cbc",
@@ -30,30 +114,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963983",
-      "source": "citynews",
-      "title": "Driver wanted for hit-and-run involving pedestrians boarding streetcar at Dundas and Broadview: police",
-      "summary": "Toronto police are looking for a driver in connection with a hit-and-run in the city&#8217;s South Riverdale neighbourhood last month involving two pedestrians. Officers were called to the intersection of Dundas Street East and Broadview Avenue at 7 a.m. on Oct. 2 for a collision between a vehicle and pedestrians. Police say a blue Hyundai [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/17/pedestrians-struck-dundas-broadview-driver-sought/",
-      "ts": "2026-11-17T16:40:16+00:00",
-      "lat": 43.6565147,
-      "lng": -79.3810752,
-      "location": "Dundas Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4963947",
-      "source": "citynews",
-      "title": "Ontario\u2019s medical regulator pauses safer supply drug changes after legal challenge",
-      "summary": "Ontario\u2019s medical regulator is hitting pause on implementing a host of changes to the ways doctors prescribe safer supply drugs after it was served with a legal challenge. The College of Physicians and Surgeons of Ontario says it was served Friday with the legal action, which includes a motion for an injunction to prevent the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/17/ontarios-medical-regulator-pauses-safer-supply-drug-changes-after-legal-challenge/",
-      "ts": "2026-11-17T15:24:18+00:00",
-      "lat": 43.6608395,
-      "lng": -79.3870381,
-      "location": "Physicians & Surgeons",
-      "approximate": false
-    },
-    {
       "id": "news_cbc_9.7424527",
       "source": "cbc",
       "title": "U of T's plan to address discrimination against Muslims, Arabs, Palestinians 'insufficient': prof",
@@ -75,30 +135,6 @@
       "lat": 43.65,
       "lng": -79.75,
       "location": "Peel Region",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7424091",
-      "source": "cbc",
-      "title": "Oshawa\u2019s new mayor promises 'new era' at inauguration ceremony",
-      "summary": "Oshawa\u2019s new mayor Tito-Dante Marimpietri and the rest of city council were sworn in at a ceremony on Monday, held at Tribute Communities Centre, an arena owned by the city in the downtown core.",
-      "link": "https://www.cbc.ca/news/canada/toronto/oshawa-tito-dante-marimpietri-inauguration-9.7424091?cmp=rss",
-      "ts": "2026-11-16T21:35:27+00:00",
-      "lat": 43.6532,
-      "lng": -79.3832,
-      "location": "Downtown",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7423850",
-      "source": "cbc",
-      "title": "Same teen suspect wanted in connection with 2 fatal Etobicoke shootings: police",
-      "summary": "Toronto police say the same teen suspect is linked to two fatal Etobicoke shootings this month.",
-      "link": "https://www.cbc.ca/news/canada/toronto/same-teen-suspect-wanted-2-fatal-etobicoke-shootings-9.7423850?cmp=rss",
-      "ts": "2026-11-16T19:02:41+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
       "approximate": true
     },
     {
