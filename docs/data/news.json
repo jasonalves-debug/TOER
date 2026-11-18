@@ -1,10 +1,34 @@
 {
-  "generated": "2026-11-18T02:26:36.412449+00:00",
+  "generated": "2026-11-18T10:36:11.169708+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964642",
+      "source": "citynews",
+      "title": "Chow to lay out vision for new term as Toronto council holds first meeting",
+      "summary": "Mayor Olivia Chow is expected to lay out her vision for her second term as Toronto City Hall hosts its first meeting of the new council.&#160; Chow is set to address the council this afternoon for the first time since winning her re-election bid.&#160; Also at today&#8217;s meeting, the speaker&#8217;s chair is expected to be [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/18/olivia-chow-new-term-toronto-meeting/",
+      "ts": "2026-11-18T10:33:13+00:00",
+      "lat": 43.6534,
+      "lng": -79.3841,
+      "location": "City Hall",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964512",
+      "source": "citynews",
+      "title": "Raptors fall to Knicks 111-102 for fifth straight loss",
+      "summary": "Jalen Brunson drilled a three-pointer with 1:25 left to play as the New York Knicks escaped with a 111-102 win over the Toronto Raptors on Tuesday for the second game in a row. Brunson had a game-high 31 points, including eight in the fourth quarter, as New York (8-6) again erased a 13-point Raptors lead [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/17/raptors-fall-to-knicks-111-102-for-fifth-straight-loss/",
+      "ts": "2026-11-18T03:50:19+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7425350",
       "source": "cbc",
@@ -33,7 +57,7 @@
       "id": "news_citynews_https://toronto.citynews.ca/?p=4964410",
       "source": "citynews",
       "title": "Pedestrian taken to hospital with serious injuries after being struck by vehicle in Scarborough",
-      "summary": "Paramedics tell CityNews they&#8217;ve taken a man to a local trauma centre with serious, non life-threatening injuries after he was struck by a vehicle in Scarborough on Tuesday evening. It happened at Ellesmere Road and Mondeo Drive at around 5:39 p.m. Police say the driver remained at the scene. The westbound lanes are currently closed [&#8230;]",
+      "summary": "Paramedics tell CityNews they&#8217;ve taken a man to a local trauma centre with serious, non life-threatening injuries after he was struck by a vehicle in Scarborough on Tuesday evening. It happened at Ellesmere Road and Mondeo Drive at around 5:39 p.m. Police say the driver remained at the scene. The westbound lanes were closed at [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/17/pedestrian-taken-to-hospital-with-serious-injuries-after-being-struck-by-vehicle-in-scarborough/",
       "ts": "2026-11-17T23:19:53+00:00",
       "lat": 43.7784364,
@@ -75,18 +99,6 @@
       "lat": 43.7979806,
       "lng": -79.4200297,
       "location": "Steeles Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964345",
-      "source": "citynews",
-      "title": "Mississauga data centre moratorium challenged by U.S. real estate giant, Toronto firm",
-      "summary": "Mississauga's data centre moratorium is set to face a legal challenge, as a U.S. real estate giant and a Toronto asset manager move to overturn the pause at the Ontario Land Tribunal.",
-      "link": "https://toronto.citynews.ca/2026/11/17/mississauga-data-centre-moratorium-challenged-by-u-s-real-estate-giant-toronto-firm/",
-      "ts": "2026-11-17T21:54:53+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     },
     {
@@ -135,18 +147,6 @@
       "lat": 43.65,
       "lng": -79.75,
       "location": "Peel Region",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7423825",
-      "source": "cbc",
-      "title": "Inquest into death of Mississauga man shot by police in 2020 hears from Peel constable",
-      "summary": "A police constable told a coroner's inquest Monday he was concerned about the risk of an ambush as he approached a car that had crashed into a pillar after it was hit by police gunfire during a botched arrest in Mississauga, Ont., nearly seven years ago.",
-      "link": "https://www.cbc.ca/news/canada/toronto/francique-inquest-hears-from-constable-9.7423825?cmp=rss",
-      "ts": "2026-11-16T17:42:33+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     }
   ]
