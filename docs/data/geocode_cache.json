@@ -763,5 +763,19 @@
   "st:roncesvalles ave|harvard ave|toronto": null,
   "xx:augusta ave|oxford st": null,
   "st:bathurst st|browns lane|toronto": null,
-  "st:willcocks st|huron st|toronto": null
+  "st:willcocks st|huron st|toronto": null,
+  "st:fenmar dr|norelco dr|north york": null,
+  "xx:danielle moore crcl|lawrence ave e": null,
+  "st:weston rd|northland ave|york": null,
+  "st:wilby cres|hickory tree rd|york": null,
+  "st:bayview ave|stratford park trl|north york": null,
+  "xx:parkside dr|spring rd": {
+    "lat": 43.6410736,
+    "lng": -79.4548121
+  },
+  "st:holly st|ln s eglinton e holly|toronto": null,
+  "st:willowdale ave|sheppard ave e|north york": {
+    "lat": 43.7655645,
+    "lng": -79.3933912
+  }
 }

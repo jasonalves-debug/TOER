@@ -1,32 +1,80 @@
 {
-  "generated": "2026-11-18T10:36:11.169708+00:00",
+  "generated": "2026-11-18T19:06:32.121132+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964642",
+      "id": "news_cbc_9.7426833",
+      "source": "cbc",
+      "title": "Inquest into death of police-involved shooting of Jamal Francique shown videos",
+      "summary": "The inquest into the death of a Black man shot by police in Mississauga in early 2020 is watching videos showing the officers around his wrecked car after the shooting.",
+      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-videos-9.7426833?cmp=rss",
+      "ts": "2026-11-18T18:52:43+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964913",
       "source": "citynews",
-      "title": "Chow to lay out vision for new term as Toronto council holds first meeting",
-      "summary": "Mayor Olivia Chow is expected to lay out her vision for her second term as Toronto City Hall hosts its first meeting of the new council.&#160; Chow is set to address the council this afternoon for the first time since winning her re-election bid.&#160; Also at today&#8217;s meeting, the speaker&#8217;s chair is expected to be [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/18/olivia-chow-new-term-toronto-meeting/",
-      "ts": "2026-11-18T10:33:13+00:00",
+      "title": "Photos released of 3 suspects sought after TTC assault at Sheppard-Yonge station",
+      "summary": "Toronto police have released images of three suspects as they investigate an alleged assault with a weapon aboard a TTC subway train that left a victim injured earlier this week. Police say officers were called to Sheppard-Yonge TTC Station, near Sheppard Avenue East and Yonge Street, at about 4:10 p.m. on Monday, Nov. 16, for [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/18/toronto-ttc-assault-suspects-photos-sheppard-yonge-station/",
+      "ts": "2026-11-18T17:49:04+00:00",
+      "lat": 43.7615761,
+      "lng": -79.4109371,
+      "location": "Sheppard Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964891",
+      "source": "citynews",
+      "title": "13-year-old boy charged in daylight Scarborough home invasion",
+      "summary": "The Toronto Police Service (TPS) says a 13-year-old boy is in custody following an alleged armed home invasion where the accused threatened the homeowner with a knife and a noxious substance. Officers were notified of a break and enter in the Kingston Road and Danforth Road area just after 1:30 p.m. on Tuesday, Nov. 17. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/18/toronto-scarborough-home-invasion-13-year-old-charged/",
+      "ts": "2026-11-18T17:38:18+00:00",
+      "lat": 43.774544,
+      "lng": -79.1796982,
+      "location": "Kingston Road",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964713",
+      "source": "citynews",
+      "title": "\u2018Do not discount the Blue Jays\u2019: Toronto reportedly in the mix for prized free-agent Skubal as decision looms",
+      "summary": "The Toronto Blue Jays met with prized free-agent starting pitcher Tarik Skubal on Tuesday, according to ESPN&#8217;s Jeff Passan, as the ace reportedly gets closer to a decision on where he&#8217;ll sign. In addition to the Blue Jays, Passan said Skubal, one of baseball&#8217;s elite arms, had in-person meetings with the New York Mets on [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/18/tarik-skubal-toronto-blue-jays-free-agency-mlb/",
+      "ts": "2026-11-18T13:56:46+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7426171",
+      "source": "cbc",
+      "title": "From frontlines to city hall: Newly elected advocates determined to fix Toronto's housing, homelessness crisis",
+      "summary": "Toronto's newly elected city council includes well-known housing rights activists and advocates supporting the homeless population. They say they're bringing their lived experiences and expertise to the council table.",
+      "link": "https://www.cbc.ca/news/canada/toronto/housing-homelessness-toronto-city-council-advocates-9.7426171?cmp=rss",
+      "ts": "2026-11-18T12:29:12+00:00",
       "lat": 43.6534,
       "lng": -79.3841,
       "location": "City Hall",
       "approximate": false
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964512",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964684",
       "source": "citynews",
-      "title": "Raptors fall to Knicks 111-102 for fifth straight loss",
-      "summary": "Jalen Brunson drilled a three-pointer with 1:25 left to play as the New York Knicks escaped with a 111-102 win over the Toronto Raptors on Tuesday for the second game in a row. Brunson had a game-high 31 points, including eight in the fourth quarter, as New York (8-6) again erased a 13-point Raptors lead [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/17/raptors-fall-to-knicks-111-102-for-fifth-straight-loss/",
-      "ts": "2026-11-18T03:50:19+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
+      "title": "Can Canada remain an auto-building country?",
+      "summary": "The future of Canada&#8217;s auto-building sector remains the crux of concern, as the fallout of Stellantis&#8217; Brampton, Ont., plant sale to Canadian defence contractor, Roshel plays out on both economic and political fronts. Host Caryn Ceolin speaks to Dr. Peter Frise, emeritus professor of mechanical and automotive engineering at the University of Windsor, to discuss [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/18/stellantis-roshel-auto-industry-canada/",
+      "ts": "2026-11-18T12:25:08+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
       "approximate": true
     },
     {
@@ -39,66 +87,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964447",
-      "source": "citynews",
-      "title": "Suspect sought after girl, 13, sexually assaulted by man at Etobicoke park: Toronto police",
-      "summary": "Toronto police are trying to track down a suspect after they say a 13-year-old girl was sexually assaulted at a park in Etobicoke last Thursday. Investigators say the girl was approached by a man in the Martin Grove Road and Albion Road area at around noon on November 12, 2026. &#8220;The man escorted the victim [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/17/suspect-sought-after-girl-13-sexually-assaulted-by-man-at-etobicoke-park-toronto-police/",
-      "ts": "2026-11-18T00:32:30+00:00",
-      "lat": 43.7574973,
-      "lng": -79.6031631,
-      "location": "Martin Grove Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964410",
-      "source": "citynews",
-      "title": "Pedestrian taken to hospital with serious injuries after being struck by vehicle in Scarborough",
-      "summary": "Paramedics tell CityNews they&#8217;ve taken a man to a local trauma centre with serious, non life-threatening injuries after he was struck by a vehicle in Scarborough on Tuesday evening. It happened at Ellesmere Road and Mondeo Drive at around 5:39 p.m. Police say the driver remained at the scene. The westbound lanes were closed at [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/17/pedestrian-taken-to-hospital-with-serious-injuries-after-being-struck-by-vehicle-in-scarborough/",
-      "ts": "2026-11-17T23:19:53+00:00",
-      "lat": 43.7784364,
-      "lng": -79.2224786,
-      "location": "Ellesmere Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964395",
-      "source": "citynews",
-      "title": "Cadet captain paralyzed from waist down after Hamilton attack",
-      "summary": "A cadet leader who underwent spinal surgery after a violent attack says he is currently paralyzed from the waist down and will require months of physical rehabilitation. Capt. Kenneth Kunkel provided an update on his situation last week in a statement shared online by a Hamilton member of Parliament. Kunkel says he is in continual [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/17/cadet-captain-paralyzed-from-waist-down-after-hamilton-attack/",
-      "ts": "2026-11-17T22:50:51+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964343",
-      "source": "citynews",
-      "title": "2 injured in collision between motorcycle and minivan in Mississauga",
-      "summary": "Two people have been taken to hospital after a collision between a motorcycle and a minivan in Mississauga Tuesday afternoon. Peel police say the crash occurred in the Dundas Street and Dunwin Road area around 3 p.m. The motorcyclist was taken to hospital in serious, life-threatening condition while the other person from the minivan suffered [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/17/2-injured-in-collision-between-motorcycle-and-minivan-in-mississauga/",
-      "ts": "2026-11-17T22:02:58+00:00",
-      "lat": 43.6565147,
-      "lng": -79.3810752,
-      "location": "Dundas Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964323",
-      "source": "citynews",
-      "title": "7 arrested after Vaughan raid nets guns, ammo, drugs",
-      "summary": "Toronto Police Service (TPS) officers have arrested seven people &#8212; four men and three women &#8212; after a firearms investigation culminated with a raid at a location in the Steeles Avenue West and Keele Street area last month. The investigation began on Saturday, October 17, leading to the execution of a search warrant. During that [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/17/7-arrested-after-vaughan-raid-nets-guns-ammo-drugs/",
-      "ts": "2026-11-17T21:55:09+00:00",
-      "lat": 43.7979806,
-      "lng": -79.4200297,
-      "location": "Steeles Avenue",
       "approximate": true
     },
     {
@@ -123,30 +111,6 @@
       "lat": 43.6717629,
       "lng": -79.5828456,
       "location": "Hwy 401",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7424527",
-      "source": "cbc",
-      "title": "U of T's plan to address discrimination against Muslims, Arabs, Palestinians 'insufficient': prof",
-      "summary": "The University of Toronto's plans to address discrimination against Muslims, Arabs and Palestinians on its campuses are \"wholly insufficient,\" says the author of a report that found the school has a \"general pattern of over-policing and under-protecting\" these groups.",
-      "link": "https://www.cbc.ca/news/canada/toronto/university-of-toronto-anti-muslim-arab-palestinian-report-response-insufficient-9.7424527?cmp=rss",
-      "ts": "2026-11-17T01:45:21+00:00",
-      "lat": 43.6629,
-      "lng": -79.3957,
-      "location": "U Of T",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7424009",
-      "source": "cbc",
-      "title": "12 men charged in Peel auto theft bust after 96 vehicles recovered from shipping containers",
-      "summary": "Twelve men have been arrested after Peel Regional Police say they recovered 96 stolen vehicles, worth an estimated $4.5 million, from shipping containers destined for West Africa.",
-      "link": "https://www.cbc.ca/news/canada/toronto/peel-regional-police-auto-theft-bust-9.7424009?cmp=rss",
-      "ts": "2026-11-16T22:20:57+00:00",
-      "lat": 43.65,
-      "lng": -79.75,
-      "location": "Peel Region",
       "approximate": true
     }
   ]
