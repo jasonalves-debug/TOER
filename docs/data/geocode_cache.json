@@ -777,5 +777,26 @@
   "st:willowdale ave|sheppard ave e|north york": {
     "lat": 43.7655645,
     "lng": -79.3933912
+  },
+  "st:greenwood ave|strathmore blvd|toronto": null,
+  "xx:kipling ave|dixon rd": {
+    "lat": 43.6940721,
+    "lng": -79.5588752
+  },
+  "st:spadina ave|gardiner w spadina ramp|toronto": null,
+  "xx:yonge st|blythwood rd": {
+    "lat": 43.7166519,
+    "lng": -79.3999699
+  },
+  "st:kennedy rd|cornwallis dr|scarborough": null,
+  "st:silver reign dr|print dr|etobicoke": null,
+  "st:gordonridge pl|danforth rd|scarborough": {
+    "lat": 43.72734,
+    "lng": -79.2524465
+  },
+  "st:elm ridge dr|marwood rd|toronto": null,
+  "st:hillcrest ave|yonge st|north york": {
+    "lat": 43.768341,
+    "lng": -79.412807
   }
 }

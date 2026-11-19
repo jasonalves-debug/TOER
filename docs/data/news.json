@@ -1,14 +1,62 @@
 {
-  "generated": "2026-11-18T19:06:32.121132+00:00",
+  "generated": "2026-11-19T01:14:26.202586+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965258",
+      "source": "citynews",
+      "title": "Chinese national wanted for assault, making death threats outside Chinese Consulate",
+      "summary": "Toronto police say a 41-year-old Chinese national is wanted following an assault at a demonstration outside the Chinese Consulate in September. Investigators say just after 9:30 a.m. on September 22, a man approached some demonstrators outside the consulate on St. George Street just south of Bernard Avenue, allegedly causing damage to their signs and banners. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/18/chinese-national-wanted-for-assault-making-death-threats-outside-chinese-consulate/",
+      "ts": "2026-11-19T00:44:23+00:00",
+      "lat": 43.6527906,
+      "lng": -79.3715496,
+      "location": "George Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965223",
+      "source": "citynews",
+      "title": "Woman critically injured after being struck on portion of Line 5 LRT in Scarborough",
+      "summary": "A woman has suffered critical injuries after being struck on a portion of the Eglinton LRT line. Toronto police say they were called to the area of Victoria Park Avenue and Eglinton Avenue East just after 6 p.m. Wednesday for reports a light rapid transit vehicle had struck a pedestrian. Paramedics tell CityNews an adult [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/18/pedestrian-struck-on-portion-of-line-5-lrt-in-scarborough/",
+      "ts": "2026-11-18T23:57:24+00:00",
+      "lat": 43.7628478,
+      "lng": -79.3174466,
+      "location": "Victoria Park Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965115",
+      "source": "citynews",
+      "title": "Skydance to combine Warner Bros. TV Group and Paramount Television Studios",
+      "summary": "NEW YORK (AP) \u2014 Skydance will combine two of its key TV production units, Warner Bros. Television Group and Paramount Television Studios, bringing such shows as \"The Pitt,\u201d \u201cTed Lasso,\u201d \u201cReacher\u201d and \u201cLandman\u201d under the same roof.",
+      "link": "https://toronto.citynews.ca/2026/11/18/skydance-to-combine-warner-bros-tv-group-and-paramount-television-studios/",
+      "ts": "2026-11-18T21:20:52+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965063",
+      "source": "citynews",
+      "title": "Rob Manfred says MLB owners won\u2019t compromise on a salary cap, leaving sport headed to a lockout",
+      "summary": "NEW YORK (AP) \u2014 Major League Baseball Commissioner Rob Manfred said owners will not move off their demand for a salary cap, leaving the sport on track for a lockout starting Dec. 2 that could threaten the 2027 season.",
+      "link": "https://toronto.citynews.ca/2026/11/18/rob-manfred-says-mlb-owners-wont-compromise-on-a-salary-cap-leaving-sport-headed-to-a-lockout/",
+      "ts": "2026-11-18T20:37:28+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
       "id": "news_cbc_9.7426833",
       "source": "cbc",
-      "title": "Inquest into death of police-involved shooting of Jamal Francique shown videos",
+      "title": "Inquest into police-involved death of Jamal Francique shown videos from after shooting",
       "summary": "The inquest into the death of a Black man shot by police in Mississauga in early 2020 is watching videos showing the officers around his wrecked car after the shooting.",
       "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-videos-9.7426833?cmp=rss",
       "ts": "2026-11-18T18:52:43+00:00",
@@ -18,39 +66,15 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964913",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4964974",
       "source": "citynews",
-      "title": "Photos released of 3 suspects sought after TTC assault at Sheppard-Yonge station",
-      "summary": "Toronto police have released images of three suspects as they investigate an alleged assault with a weapon aboard a TTC subway train that left a victim injured earlier this week. Police say officers were called to Sheppard-Yonge TTC Station, near Sheppard Avenue East and Yonge Street, at about 4:10 p.m. on Monday, Nov. 16, for [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/18/toronto-ttc-assault-suspects-photos-sheppard-yonge-station/",
-      "ts": "2026-11-18T17:49:04+00:00",
-      "lat": 43.7615761,
-      "lng": -79.4109371,
-      "location": "Sheppard Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964891",
-      "source": "citynews",
-      "title": "13-year-old boy charged in daylight Scarborough home invasion",
-      "summary": "The Toronto Police Service (TPS) says a 13-year-old boy is in custody following an alleged armed home invasion where the accused threatened the homeowner with a knife and a noxious substance. Officers were notified of a break and enter in the Kingston Road and Danforth Road area just after 1:30 p.m. on Tuesday, Nov. 17. [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/18/toronto-scarborough-home-invasion-13-year-old-charged/",
-      "ts": "2026-11-18T17:38:18+00:00",
-      "lat": 43.774544,
-      "lng": -79.1796982,
-      "location": "Kingston Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964713",
-      "source": "citynews",
-      "title": "\u2018Do not discount the Blue Jays\u2019: Toronto reportedly in the mix for prized free-agent Skubal as decision looms",
-      "summary": "The Toronto Blue Jays met with prized free-agent starting pitcher Tarik Skubal on Tuesday, according to ESPN&#8217;s Jeff Passan, as the ace reportedly gets closer to a decision on where he&#8217;ll sign. In addition to the Blue Jays, Passan said Skubal, one of baseball&#8217;s elite arms, had in-person meetings with the New York Mets on [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/18/tarik-skubal-toronto-blue-jays-free-agency-mlb/",
-      "ts": "2026-11-18T13:56:46+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
+      "title": "Inquest into Jamal Francique\u2019s death shown videos from after shooting",
+      "summary": "A police officer who helped pull a critically injured Black man from a wrecked car after a police shooting nearly seven years ago faced questions Wednesday about the time it took to call for medical treatment. Const. Marc Charlebois, then a member of Peel regional police&#8217;s tactical unit, arrived at the Mississauga, Ont., townhouse complex [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/18/jamal-francique-toronto-inquest-videos/",
+      "ts": "2026-11-18T18:37:45+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
       "approximate": true
     },
     {
@@ -66,18 +90,6 @@
       "approximate": false
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964684",
-      "source": "citynews",
-      "title": "Can Canada remain an auto-building country?",
-      "summary": "The future of Canada&#8217;s auto-building sector remains the crux of concern, as the fallout of Stellantis&#8217; Brampton, Ont., plant sale to Canadian defence contractor, Roshel plays out on both economic and political fronts. Host Caryn Ceolin speaks to Dr. Peter Frise, emeritus professor of mechanical and automotive engineering at the University of Windsor, to discuss [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/18/stellantis-roshel-auto-industry-canada/",
-      "ts": "2026-11-18T12:25:08+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7425350",
       "source": "cbc",
       "title": "'Bring it on,' Mississauga mayor says as real estate firms appeal city's data centre ban",
@@ -87,30 +99,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7425217",
-      "source": "cbc",
-      "title": "Inquest into death of Jamal Francique, who was shot by police in Mississauga in 2020 paused for a day",
-      "summary": "The coroner's inquest into the death of a Black man shot by police in Mississauga, Ont., nearly seven years ago is on hold for a day. The presiding officer says counsel are dealing with the proposed submission of new material not previously provided to the inquest.",
-      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-paused-9.7425217?cmp=rss",
-      "ts": "2026-11-17T17:27:59+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7425143",
-      "source": "cbc",
-      "title": "SIU investigating after Durham police involved in crash at Hwy 401 ramp",
-      "summary": "A 53-year-old woman has a serious, non-life threatening injury after a three-vehicle collision involving a police vehicle in Whitby on Sunday, the province's police watchdog says.",
-      "link": "https://www.cbc.ca/news/canada/toronto/siu-investigating-durham-police-involved-crash-whitby-9.7425143?cmp=rss",
-      "ts": "2026-11-17T16:57:21+00:00",
-      "lat": 43.6717629,
-      "lng": -79.5828456,
-      "location": "Hwy 401",
       "approximate": true
     }
   ]
