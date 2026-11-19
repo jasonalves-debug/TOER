@@ -803,5 +803,13 @@
   "xx:christie st|bloor st w": {
     "lat": 43.6632497,
     "lng": -79.4192784
-  }
+  },
+  "st:leswyn rd|caledonia rd|north york": {
+    "lat": 43.7158924,
+    "lng": -79.4677699
+  },
+  "st:felbrigg ave|esgore dr|north york": null,
+  "st:bloor st|redrocket lane|toronto": null,
+  "xx:lawrence ave e|markham rd": null,
+  "st:lawrence ave|mildenhall rd|north york": null
 }
