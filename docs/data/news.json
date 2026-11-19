@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-19T01:14:26.202586+00:00",
+  "generated": "2026-11-19T08:53:25.204958+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965294",
+      "source": "citynews",
+      "title": "Anthropic to debut on Wall Street with a $1.5 trillion valuation in the biggest IPO of all time",
+      "summary": "OAKLAND, Calif. (AP) \u2014 Anthropic priced its initial public offering at $83 per share Wednesday, valuing the artificial intelligence giant at $1.5 trillion in the biggest Wall Street debut of all time.",
+      "link": "https://toronto.citynews.ca/2026/11/18/anthropic-to-debut-on-wall-street-with-a-1-5-trillion-valuation-in-the-biggest-ipo-of-all-time/",
+      "ts": "2026-11-19T02:24:20+00:00",
+      "lat": 43.6605833,
+      "lng": -79.383012,
+      "location": "Wall Street",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4965258",
       "source": "citynews",
@@ -15,18 +27,6 @@
       "lat": 43.6527906,
       "lng": -79.3715496,
       "location": "George Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965223",
-      "source": "citynews",
-      "title": "Woman critically injured after being struck on portion of Line 5 LRT in Scarborough",
-      "summary": "A woman has suffered critical injuries after being struck on a portion of the Eglinton LRT line. Toronto police say they were called to the area of Victoria Park Avenue and Eglinton Avenue East just after 6 p.m. Wednesday for reports a light rapid transit vehicle had struck a pedestrian. Paramedics tell CityNews an adult [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/18/pedestrian-struck-on-portion-of-line-5-lrt-in-scarborough/",
-      "ts": "2026-11-18T23:57:24+00:00",
-      "lat": 43.7628478,
-      "lng": -79.3174466,
-      "location": "Victoria Park Avenue",
       "approximate": true
     },
     {
@@ -60,18 +60,6 @@
       "summary": "The inquest into the death of a Black man shot by police in Mississauga in early 2020 is watching videos showing the officers around his wrecked car after the shooting.",
       "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-videos-9.7426833?cmp=rss",
       "ts": "2026-11-18T18:52:43+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4964974",
-      "source": "citynews",
-      "title": "Inquest into Jamal Francique\u2019s death shown videos from after shooting",
-      "summary": "A police officer who helped pull a critically injured Black man from a wrecked car after a police shooting nearly seven years ago faced questions Wednesday about the time it took to call for medical treatment. Const. Marc Charlebois, then a member of Peel regional police&#8217;s tactical unit, arrived at the Mississauga, Ont., townhouse complex [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/18/jamal-francique-toronto-inquest-videos/",
-      "ts": "2026-11-18T18:37:45+00:00",
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",

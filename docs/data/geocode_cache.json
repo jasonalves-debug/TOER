@@ -798,5 +798,10 @@
   "st:hillcrest ave|yonge st|north york": {
     "lat": 43.768341,
     "lng": -79.412807
+  },
+  "st:south station st|lawrence ave w|york": null,
+  "xx:christie st|bloor st w": {
+    "lat": 43.6632497,
+    "lng": -79.4192784
   }
 }
