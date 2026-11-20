@@ -1,14 +1,38 @@
 {
-  "generated": "2026-11-20T00:38:56.979931+00:00",
+  "generated": "2026-11-20T07:47:38.437607+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_cbc_9.7428916",
+      "source": "cbc",
+      "title": "Peel Region's new council chair on the 'tumultuous new world' of strong regional chairs",
+      "summary": "Peel Region's new provincially appointed council chair said he recognizes the \"tumultuous\" circumstances that led to his appointment, during his first message to council on inauguration day.",
+      "link": "https://www.cbc.ca/news/canada/toronto/peel-regional-council-inauguration-9.7428916?cmp=rss",
+      "ts": "2026-11-20T00:45:39+00:00",
+      "lat": 43.65,
+      "lng": -79.75,
+      "location": "Peel Region",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7429241",
+      "source": "cbc",
+      "title": "Man dead after being struck by vehicle in Mississauga, police say",
+      "summary": "A man is dead after being struck by a vehicle in Mississauga on Thursday evening, police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/fatal-pedestrian-collision-mississauga-9.7429241?cmp=rss",
+      "ts": "2026-11-20T00:44:44+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4966244",
       "source": "citynews",
-      "title": "Pedestrian struck and killed in Mississauga",
+      "title": "Man struck and killed in Mississauga",
       "summary": "A pedestrian has been struck and killed in Mississauga.",
       "link": "https://toronto.citynews.ca/2026/11/19/pedestrian-struck-and-killed-in-mississauga-3/",
       "ts": "2026-11-20T00:26:24+00:00",
@@ -32,7 +56,7 @@
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4965741",
       "source": "citynews",
-      "title": "New TTC Board chair named as Chow shuffles leadership roles at City Hall",
+      "title": "Mayor Chow turns down police board seat, names new TTC chair while shuffling leadership roles at City Hall",
       "summary": "City Council resumed Thursday after Mayor Olivia Chow and city councillors were sworn in on Wednesday and at the top of the agenda was naming members to various boards, committees, agencies and corporations. The Chairs and Vice-Chairs of Executive, Standing and Special Committees along with Community Councils were appointed by the mayor, while recommendations for [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/19/new-ttc-board-chair-named-leadership-shuffle-at-city-hall/",
       "ts": "2026-11-19T21:29:56+00:00",
@@ -78,18 +102,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965983",
-      "source": "citynews",
-      "title": "A cyberattack leaks thousands of Chase customer emails and some phone numbers",
-      "summary": "NEW YORK (AP) \u2014 Personal information belonging to thousands of JPMorgan Chase customers was leaked onto the internet Thursday after third-party vendors at the bank were targeted in a cyberattack. The leak is unrelated a bank outage earlier this week and the information involved did not include credit card or particularly sensitive personal information, the bank said.",
-      "link": "https://toronto.citynews.ca/2026/11/19/a-cyberattack-leaks-thousands-of-chase-customer-emails-and-some-phone-numbers/",
-      "ts": "2026-11-19T19:48:18+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7428587",
       "source": "cbc",
       "title": "NSL champions AFC Toronto celebrated at city hall",
@@ -102,36 +114,12 @@
       "approximate": false
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965948",
-      "source": "citynews",
-      "title": "Central Park\u2019s horse-drawn carriage drivers sue NYC over incoming ban",
-      "summary": "NEW YORK (AP) \u2014 Hold your horses: Central Park's horse-drawn carriage drivers sued New York City on Thursday to stop a new law that will ban the iconic tourist attraction, challenging Mayor Zohran Mamdani just minutes after he signed a bill to wind down the industry.",
-      "link": "https://toronto.citynews.ca/2026/11/19/central-parks-horse-drawn-carriage-drivers-sue-nyc-over-incoming-ban/",
-      "ts": "2026-11-19T18:54:28+00:00",
-      "lat": 43.6460475,
-      "lng": -79.5182504,
-      "location": "Central Park",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7428303",
       "source": "cbc",
       "title": "SIU charges Halton police officer after shooting of Burlington, Ont., man in motel parking lot",
       "summary": "A Halton police officer has been charged, according to the Ontario police watchdog, after shooting a 23-year-old man multiple times.",
       "link": "https://www.cbc.ca/news/canada/hamilton/siu-evan-zych-burlington-9.7428303?cmp=rss",
       "ts": "2026-11-19T17:31:49+00:00",
-      "lat": 43.3255,
-      "lng": -79.799,
-      "location": "Burlington",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7428132",
-      "source": "cbc",
-      "title": "Mother in Burlington, Ont., house fire over the weekend has died, family friend says",
-      "summary": "Talika 'Tilly' Stuart was one of five people rescued from a house fire on Saturday. Her husband and two of her children, 12 and 1, died as a result of their injuries. A five-year-old child was also injured.",
-      "link": "https://www.cbc.ca/news/canada/hamilton/talika-stuart-9.7428132?cmp=rss",
-      "ts": "2026-11-19T15:56:40+00:00",
       "lat": 43.3255,
       "lng": -79.799,
       "location": "Burlington",
@@ -160,6 +148,18 @@
       "lng": -79.3841,
       "location": "City Hall",
       "approximate": false
+    },
+    {
+      "id": "news_cbc_9.7425815",
+      "source": "cbc",
+      "title": "Peel police charge off-duty Sudbury police sergeant and 1 other following altercation in Mississauga",
+      "summary": "Peel Regional Police say they charged two Sudbury men after an altercation at a hotel in Mississauga on November 7. A spokesperson with Sudbury police confirms one of them is a sergeant with Greater Sudbury Police Service.",
+      "link": "https://www.cbc.ca/news/canada/sudbury/police-sergeant-off-duty-intimate-partner-9.7425815?cmp=rss",
+      "ts": "2026-11-18T00:08:57+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
     }
   ]
 }

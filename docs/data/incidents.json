@@ -1,11 +1,1353 @@
 {
-  "generated": "2026-11-20T00:38:43.567081+00:00",
+  "generated": "2026-11-20T07:47:32.774899+00:00",
   "source_status": {
     "police": "live",
     "fire": "live"
   },
   "retention_hours": 24,
   "incidents": [
+    {
+      "id": "tps_4e52835d5613",
+      "source": "police",
+      "lat": 43.65884959795334,
+      "lng": -79.3625011595878,
+      "type": "UNKTR",
+      "type_plain": "Unknown Trouble",
+      "severity": "low",
+      "division": "D51",
+      "location": " - ",
+      "ts": "2026-11-20T07:23:59+00:00",
+      "related": [],
+      "camera": {
+        "name": "Dundas St E & Parliament St",
+        "src": "city",
+        "distance_m": 294,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8213.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_93de3607b4a6",
+      "source": "police",
+      "lat": 43.69312480661036,
+      "lng": -79.34583172207559,
+      "type": "UNKTR",
+      "type_plain": "Unknown Trouble",
+      "severity": "low",
+      "division": "D55",
+      "location": "WARLAND AVE - WOLVERTON AVE",
+      "ts": "2026-11-20T07:23:02+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_9a9ec701cea9",
+      "source": "police",
+      "lat": 43.70773215526335,
+      "lng": -79.44971415593615,
+      "type": "DISPU",
+      "type_plain": "Dispute",
+      "severity": "low",
+      "division": "D13",
+      "location": "DANESBURY AVE - CAPITOL AVE",
+      "ts": "2026-11-20T07:20:30+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_e86098100052",
+      "source": "police",
+      "lat": 43.670755911455295,
+      "lng": -79.39304074611381,
+      "type": "DIS",
+      "type_plain": "Disturbance",
+      "severity": "medium",
+      "division": "1GRP",
+      "location": "HAZELTON AVE - AVENUE RD",
+      "ts": "2026-11-20T07:18:34+00:00",
+      "related": [
+        {
+          "id": "tps_44d82aae22b1",
+          "distance_m": 424,
+          "minutes_apart": 50
+        }
+      ],
+      "camera": {
+        "name": "Avenue Rd & Bloor St W",
+        "src": "city",
+        "distance_m": 264,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8045.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_f4dc74f96de9",
+      "source": "police",
+      "lat": 43.720780848086626,
+      "lng": -79.3325817281569,
+      "type": "IMPDR",
+      "type_plain": "Impaired Driver",
+      "severity": "low",
+      "division": "D33",
+      "location": "DON VALLEY PARKWAY S - EGLINTON AVE E",
+      "ts": "2026-11-20T07:15:49+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_7fd36bf2d83b",
+      "source": "police",
+      "lat": 43.63877549027512,
+      "lng": -79.44841411719405,
+      "type": "DIS",
+      "type_plain": "Disturbance",
+      "severity": "medium",
+      "division": "D11",
+      "location": "BEATY BOULEVARD PARKETTE TRL - SUNNYSIDE AVE",
+      "ts": "2026-11-20T07:13:05+00:00",
+      "related": [],
+      "camera": {
+        "name": "F G Gardiner Xy E & Parkside Dr",
+        "src": "city",
+        "distance_m": 133,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9210.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_b3f18aaaa6c4",
+      "source": "police",
+      "lat": 43.702736682449654,
+      "lng": -79.417401118307,
+      "type": "SEEAM",
+      "type_plain": "See Ambulance (medical assist request)",
+      "severity": "low",
+      "division": "D53",
+      "location": "LN S EGLINTON W RUSSELL HILL R - EGLINTON AVE W",
+      "ts": "2026-11-20T07:06:49+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_df0a87852976",
+      "source": "police",
+      "lat": 43.73087856940539,
+      "lng": -79.59939966806567,
+      "type": "MISEL",
+      "type_plain": "MISEL",
+      "severity": "low",
+      "division": "D23",
+      "location": "WESTMORE DR - 27 HWY N",
+      "ts": "2026-11-20T06:57:15+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_cbd39f3651b0",
+      "source": "police",
+      "lat": 43.644917790589446,
+      "lng": -79.42803672398645,
+      "type": "SEEFI",
+      "type_plain": "SEEFI",
+      "severity": "low",
+      "division": "D14",
+      "location": "ALMA AVE - LN 2 E DUFFERIN N PEEL",
+      "ts": "2026-11-20T06:55:44+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_77a7a8431ced",
+      "source": "police",
+      "lat": 43.695086175707665,
+      "lng": -79.47839057686741,
+      "type": "BREEN",
+      "type_plain": "BREEN",
+      "severity": "low",
+      "division": "D12",
+      "location": "KEELE ST - TRETHEWEY DR",
+      "ts": "2026-11-20T06:55:15+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_8f3324ac1b02",
+      "source": "police",
+      "lat": 43.766457589106004,
+      "lng": -79.38458141724921,
+      "type": "NOIPA",
+      "type_plain": "NOIPA",
+      "severity": "low",
+      "division": "D33",
+      "location": "SHEPPARD AVE E - BARBERRY PL",
+      "ts": "2026-11-20T06:49:34+00:00",
+      "related": [],
+      "camera": {
+        "name": "Sheppard Ave E & Bayview Ave",
+        "src": "city",
+        "distance_m": 252,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8102.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_0c1621227059",
+      "source": "police",
+      "lat": 43.64912538822902,
+      "lng": -79.39078633891941,
+      "type": "ARR",
+      "type_plain": "Arrest / Arrived at Scene",
+      "severity": "low",
+      "division": "D52",
+      "location": "JOHN ST - WIDMER ST",
+      "ts": "2026-11-20T06:47:25+00:00",
+      "related": [
+        {
+          "id": "tps_c9e0e4c00e9e",
+          "distance_m": 0,
+          "minutes_apart": 94
+        },
+        {
+          "id": "tps_8cef89a9c504",
+          "distance_m": 536,
+          "minutes_apart": 160
+        },
+        {
+          "id": "tps_6ff876d6cbbf",
+          "distance_m": 598,
+          "minutes_apart": 81
+        }
+      ]
+    },
+    {
+      "id": "tps_2fa80047aa8c",
+      "source": "police",
+      "lat": 43.66485150395524,
+      "lng": -79.3911355450142,
+      "type": "EXPJU",
+      "type_plain": "EXPJU",
+      "severity": "low",
+      "division": "D52",
+      "location": "QUEEN'S PARK CRES E - QUEEN'S PARK TRL",
+      "ts": "2026-11-20T06:41:12+00:00",
+      "related": [
+        {
+          "id": "tps_bc71e641ea97",
+          "distance_m": 479,
+          "minutes_apart": 136
+        }
+      ],
+      "camera": {
+        "name": "Queens Park Cres E & Wellesley St",
+        "src": "city",
+        "distance_m": 147,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8230.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_ff6926233cf2",
+      "source": "police",
+      "lat": 43.65709809878976,
+      "lng": -79.40449853419764,
+      "type": "ASSJU",
+      "type_plain": "Assault (Just Occurred)",
+      "severity": "high",
+      "division": "D14",
+      "location": "BELLEVUE AVE - BORDEN ST",
+      "ts": "2026-11-20T06:36:52+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_3df2e4403a03",
+      "source": "police",
+      "lat": 43.65144329676334,
+      "lng": -79.42554102481836,
+      "type": "DAM",
+      "type_plain": "Damage to Property",
+      "severity": "low",
+      "division": "D14",
+      "location": "CHURCHILL AVE - ST ANNES RD",
+      "ts": "2026-11-20T06:36:49+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_009886670bf1",
+      "source": "police",
+      "lat": 43.75072678045188,
+      "lng": -79.51602171295097,
+      "type": "SEEAM",
+      "type_plain": "See Ambulance (medical assist request)",
+      "severity": "low",
+      "division": "D31",
+      "location": "EDDYSTONE AVE - FIRGROVE CRES",
+      "ts": "2026-11-20T06:34:43+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_4cbccbad51c9",
+      "source": "police",
+      "lat": 43.76544169168032,
+      "lng": -79.1994609085625,
+      "type": "PERGU",
+      "type_plain": "Person Guarding / Person Gone",
+      "severity": "low",
+      "division": "D43",
+      "location": "OVERTURE RD - GALLOWAY RD",
+      "ts": "2026-11-20T06:33:57+00:00",
+      "related": [
+        {
+          "id": "tps_f7710d19b2d8",
+          "distance_m": 544,
+          "minutes_apart": 179
+        }
+      ]
+    },
+    {
+      "id": "tps_44d82aae22b1",
+      "source": "police",
+      "lat": 43.66925251064864,
+      "lng": -79.39788954279857,
+      "type": "DIS",
+      "type_plain": "Disturbance",
+      "severity": "medium",
+      "division": "D53",
+      "location": "BLOOR ST W - PRINCE ARTHUR AVE",
+      "ts": "2026-11-20T06:28:35+00:00",
+      "related": [
+        {
+          "id": "tps_e86098100052",
+          "distance_m": 424,
+          "minutes_apart": 50
+        },
+        {
+          "id": "tps_80754ba412ee",
+          "distance_m": 557,
+          "minutes_apart": 50
+        },
+        {
+          "id": "tps_08e1670f1f3b",
+          "distance_m": 557,
+          "minutes_apart": 136
+        }
+      ]
+    },
+    {
+      "id": "tps_0eaa54eab233",
+      "source": "police",
+      "lat": 43.770798620723674,
+      "lng": -79.30190217150499,
+      "type": "ASSJU",
+      "type_plain": "Assault (Just Occurred)",
+      "severity": "high",
+      "division": "D41",
+      "location": "WARDEN AVE - ",
+      "ts": "2026-11-20T06:28:27+00:00",
+      "related": [],
+      "camera": {
+        "name": "Warden Ave & 401 C W Warden Av Ramp",
+        "src": "city",
+        "distance_m": 225,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8158.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_e0543f9f46ac",
+      "source": "police",
+      "lat": 43.65342885586335,
+      "lng": -79.47479752270752,
+      "type": "BREEN",
+      "type_plain": "BREEN",
+      "severity": "low",
+      "division": "D11",
+      "location": "MARGDON RD - GLENDONWYNNE RD",
+      "ts": "2026-11-20T06:27:00+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_ae10762605c2",
+      "source": "police",
+      "lat": 43.74192217190387,
+      "lng": -79.57915607074585,
+      "type": "DISPU",
+      "type_plain": "Dispute",
+      "severity": "low",
+      "division": "D23",
+      "location": "AMARON AVE - CAFON CRT",
+      "ts": "2026-11-20T06:20:06+00:00",
+      "related": [
+        {
+          "id": "tps_848a642d2e47",
+          "distance_m": 280,
+          "minutes_apart": 110
+        }
+      ]
+    },
+    {
+      "id": "tps_61d1ebf47f3e",
+      "source": "police",
+      "lat": 43.68629891863374,
+      "lng": -79.4143717372061,
+      "type": "SEEAM",
+      "type_plain": "See Ambulance (medical assist request)",
+      "severity": "low",
+      "division": "D13",
+      "location": "ST CLAIR AVE W - HEATH ST W",
+      "ts": "2026-11-20T06:06:59+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_1a697e277d0b",
+      "source": "police",
+      "lat": 43.60001282704165,
+      "lng": -79.50862107267997,
+      "type": "ASSJU",
+      "type_plain": "Assault (Just Occurred)",
+      "severity": "high",
+      "division": "D22",
+      "location": "TENTH ST - LAKE SHORE BLVD W",
+      "ts": "2026-11-20T06:05:16+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_77e14a72e0ad",
+      "source": "police",
+      "lat": 43.66202540112916,
+      "lng": -79.38336204666331,
+      "type": "FIG",
+      "type_plain": "FIG",
+      "severity": "low",
+      "division": "D52",
+      "location": "COLLEGE ST - WOOD ST",
+      "ts": "2026-11-20T06:02:59+00:00",
+      "related": [
+        {
+          "id": "tps_dbfacd142646",
+          "distance_m": 323,
+          "minutes_apart": 135
+        },
+        {
+          "id": "tps_8beed58d0c2e",
+          "distance_m": 539,
+          "minutes_apart": 96
+        }
+      ],
+      "camera": {
+        "name": "Yonge St & College St / Carlton St",
+        "src": "city",
+        "distance_m": 67,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8036.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_c837ca69714d",
+      "source": "police",
+      "lat": 43.660294334912585,
+      "lng": -79.46237041887464,
+      "type": "PDACC",
+      "type_plain": "Property Damage Accident",
+      "severity": "low",
+      "division": "HP",
+      "location": "GLENLAKE AVE - HILLSVIEW AVE",
+      "ts": "2026-11-20T05:59:55+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_4d450abfa366",
+      "source": "police",
+      "lat": 43.81424766855185,
+      "lng": -79.23712997561856,
+      "type": "PIACC",
+      "type_plain": "Personal Injury Accident",
+      "severity": "low",
+      "division": "HP",
+      "location": "TAPSCOTT RD - FINCH AVE E",
+      "ts": "2026-11-20T05:50:22+00:00",
+      "related": [
+        {
+          "id": "tps_061cebde5cd1",
+          "distance_m": 0,
+          "minutes_apart": 58
+        }
+      ]
+    },
+    {
+      "id": "tps_80754ba412ee",
+      "source": "police",
+      "lat": 43.666659509809364,
+      "lng": -79.40380913861458,
+      "type": "SEEAM",
+      "type_plain": "See Ambulance (medical assist request)",
+      "severity": "low",
+      "division": "D53",
+      "location": "BLOOR ST W - ANNEX LANE",
+      "ts": "2026-11-20T05:38:43+00:00",
+      "related": [
+        {
+          "id": "tps_08e1670f1f3b",
+          "distance_m": 0,
+          "minutes_apart": 86
+        },
+        {
+          "id": "tps_44d82aae22b1",
+          "distance_m": 557,
+          "minutes_apart": 50
+        }
+      ],
+      "camera": {
+        "name": "Spadina Ave & Bloor St W",
+        "src": "city",
+        "distance_m": 17,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8046.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_01ca1bbccac2",
+      "source": "police",
+      "lat": 43.6619167049249,
+      "lng": -79.40786523468165,
+      "type": "PDACC",
+      "type_plain": "Property Damage Accident",
+      "severity": "low",
+      "division": "D14",
+      "location": "CROFT ST - LIPPINCOTT ST",
+      "ts": "2026-11-20T05:26:43+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_6ff876d6cbbf",
+      "source": "police",
+      "lat": 43.65448999359373,
+      "lng": -79.39032524083046,
+      "type": "THEAU",
+      "type_plain": "THEAU",
+      "severity": "low",
+      "division": "D52",
+      "location": "SIMCOE ST - ST PATRICK ST",
+      "ts": "2026-11-20T05:25:57+00:00",
+      "related": [
+        {
+          "id": "tps_c9e0e4c00e9e",
+          "distance_m": 598,
+          "minutes_apart": 12
+        },
+        {
+          "id": "tps_0c1621227059",
+          "distance_m": 598,
+          "minutes_apart": 81
+        }
+      ],
+      "camera": {
+        "name": "University Ave & Dundas St",
+        "src": "city",
+        "distance_m": 190,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8033.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_75bb54f4b028",
+      "source": "police",
+      "lat": 43.65182279092637,
+      "lng": -79.35528816298343,
+      "type": "ASSAM",
+      "type_plain": "ASSAM",
+      "severity": "low",
+      "division": "D51",
+      "location": "COOPERAGE ST - ROLLING MILLS RD",
+      "ts": "2026-11-20T05:19:01+00:00",
+      "related": [],
+      "camera": {
+        "name": "Cherry St & Mill St",
+        "src": "city",
+        "distance_m": 177,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8238.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_bcc14a86c094",
+      "source": "police",
+      "lat": 43.76852203547369,
+      "lng": -79.28532019114809,
+      "type": "UNKTR",
+      "type_plain": "Unknown Trouble",
+      "severity": "low",
+      "division": "D41",
+      "location": "KENNEDY RD - DUNDALK DR",
+      "ts": "2026-11-20T05:15:27+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_c9e0e4c00e9e",
+      "source": "police",
+      "lat": 43.64912538822902,
+      "lng": -79.39078633891941,
+      "type": "ASSJU",
+      "type_plain": "Assault (Just Occurred)",
+      "severity": "high",
+      "division": "D52",
+      "location": "JOHN ST - WIDMER ST",
+      "ts": "2026-11-20T05:13:38+00:00",
+      "related": [
+        {
+          "id": "tps_0c1621227059",
+          "distance_m": 0,
+          "minutes_apart": 94
+        },
+        {
+          "id": "tps_8cef89a9c504",
+          "distance_m": 536,
+          "minutes_apart": 67
+        },
+        {
+          "id": "tps_6ff876d6cbbf",
+          "distance_m": 598,
+          "minutes_apart": 12
+        }
+      ]
+    },
+    {
+      "id": "tps_12742ec21b92",
+      "source": "police",
+      "lat": 43.633383478469405,
+      "lng": -79.43456472181047,
+      "type": "PIACC",
+      "type_plain": "Personal Injury Accident",
+      "severity": "low",
+      "division": "HP",
+      "location": "LAKE SHORE BLVD W - JAMESON AVE",
+      "ts": "2026-11-20T05:13:23+00:00",
+      "related": [],
+      "camera": {
+        "name": "Lake Shore Blvd W & Jameson Ave",
+        "src": "city",
+        "distance_m": 13,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9335.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_5bfe43160125",
+      "source": "police",
+      "lat": 43.778126207740165,
+      "lng": -79.42297245398717,
+      "type": "PIACC",
+      "type_plain": "Personal Injury Accident",
+      "severity": "low",
+      "division": "HP",
+      "location": "HALCYON LANE - TALBOT RD",
+      "ts": "2026-11-20T05:12:27+00:00",
+      "related": [
+        {
+          "id": "tps_8cb74da3bb7e",
+          "distance_m": 0,
+          "minutes_apart": 26
+        }
+      ]
+    },
+    {
+      "id": "tps_f54a31ff1735",
+      "source": "police",
+      "lat": 43.743315789127315,
+      "lng": -79.21200698633479,
+      "type": "TRE",
+      "type_plain": "Trespassing",
+      "severity": "low",
+      "division": "D43",
+      "location": "CEDAR DR - KINGSTON RD",
+      "ts": "2026-11-20T05:11:02+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_1fe34b5b58c4",
+      "source": "police",
+      "lat": 43.71121827579163,
+      "lng": -79.41589851772824,
+      "type": "BREEN",
+      "type_plain": "BREEN",
+      "severity": "low",
+      "division": "D53",
+      "location": "AVENUE RD - MONA DR",
+      "ts": "2026-11-20T05:03:39+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_6182992c3ea4",
+      "source": "police",
+      "lat": 43.74775533968796,
+      "lng": -79.63245127960937,
+      "type": "DIS",
+      "type_plain": "Disturbance",
+      "severity": "medium",
+      "division": "D23",
+      "location": "CLAIREPORT CRES - ALBION RD",
+      "ts": "2026-11-20T05:01:22+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_5d09e551e5fc",
+      "source": "police",
+      "lat": 43.596958383355314,
+      "lng": -79.52647460628319,
+      "type": "FIR",
+      "type_plain": "Fire / Fire Report",
+      "severity": "low",
+      "division": "D22",
+      "location": "PHLOX AVE - TWENTY NINTH ST",
+      "ts": "2026-11-20T05:00:45+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_a09a208a463c",
+      "source": "police",
+      "lat": 43.694321299096075,
+      "lng": -79.41501662849883,
+      "type": "PIACC",
+      "type_plain": "Personal Injury Accident",
+      "severity": "low",
+      "division": "HP",
+      "location": "SPADINA RD - HAWARDEN CRES",
+      "ts": "2026-11-20T04:57:28+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_061cebde5cd1",
+      "source": "police",
+      "lat": 43.81424766855185,
+      "lng": -79.23712997561856,
+      "type": "PIACC",
+      "type_plain": "Personal Injury Accident",
+      "severity": "low",
+      "division": "D42",
+      "location": "TAPSCOTT RD - FINCH AVE E",
+      "ts": "2026-11-20T04:52:13+00:00",
+      "related": [
+        {
+          "id": "tps_4d450abfa366",
+          "distance_m": 0,
+          "minutes_apart": 58
+        }
+      ]
+    },
+    {
+      "id": "tps_ec34793347a3",
+      "source": "police",
+      "lat": 43.70103846459786,
+      "lng": -79.51938915173204,
+      "type": "THEPR",
+      "type_plain": "Theft (Priority)",
+      "severity": "medium",
+      "division": "D12",
+      "location": "LITTLE AVE - KING ST",
+      "ts": "2026-11-20T04:51:40+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_f28dc0cc942d",
+      "source": "police",
+      "lat": 43.64434248344611,
+      "lng": -79.36780265201877,
+      "type": "PIACC",
+      "type_plain": "Personal Injury Accident",
+      "severity": "low",
+      "division": "HP",
+      "location": "QUEENS QUAY E - RICHARDSON ST",
+      "ts": "2026-11-20T04:51:05+00:00",
+      "related": [
+        {
+          "id": "tps_08dfb3c7fa1e",
+          "distance_m": 524,
+          "minutes_apart": 43
+        }
+      ],
+      "camera": {
+        "name": "Lake Shore Blvd E & Lower Jarvis St",
+        "src": "city",
+        "distance_m": 218,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9302.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_c9ac7be8dfa0",
+      "source": "police",
+      "lat": 43.677570615508465,
+      "lng": -79.44511071729484,
+      "type": "DISPU",
+      "type_plain": "Dispute",
+      "severity": "low",
+      "division": "D13",
+      "location": "ST CLAIR GDNS - VIA ITALIA",
+      "ts": "2026-11-20T04:49:13+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_5705ff5dea32",
+      "source": "police",
+      "lat": 43.71997396953414,
+      "lng": -79.59680388908785,
+      "type": "DIS",
+      "type_plain": "Disturbance",
+      "severity": "medium",
+      "division": "D23",
+      "location": "REXDALE BLVD - WW E QUEEN'S PLATE S HARNESS",
+      "ts": "2026-11-20T04:47:56+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_fa7880e9e838",
+      "source": "police",
+      "lat": 43.80374724323929,
+      "lng": -79.28628061624687,
+      "type": "IMPDR",
+      "type_plain": "Impaired Driver",
+      "severity": "low",
+      "division": "D42",
+      "location": "FINCH AVE E - 3300 MIDLAND AVE",
+      "ts": "2026-11-20T04:47:22+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_8cb74da3bb7e",
+      "source": "police",
+      "lat": 43.778126207740165,
+      "lng": -79.42297245398717,
+      "type": "PIACC",
+      "type_plain": "Personal Injury Accident",
+      "severity": "low",
+      "division": "D32",
+      "location": "HALCYON LANE - TALBOT RD",
+      "ts": "2026-11-20T04:46:29+00:00",
+      "related": [
+        {
+          "id": "tps_5bfe43160125",
+          "distance_m": 0,
+          "minutes_apart": 26
+        }
+      ]
+    },
+    {
+      "id": "tps_6bc996e206ff",
+      "source": "police",
+      "lat": 43.736049081444676,
+      "lng": -79.25877802538855,
+      "type": "PERKN",
+      "type_plain": "PERKN",
+      "severity": "low",
+      "division": "D41",
+      "location": "MIDLAND AVE - EGLINTON AVE E",
+      "ts": "2026-11-20T04:46:23+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_ad73d3f99c5f",
+      "source": "police",
+      "lat": 43.74237018222058,
+      "lng": -79.22932547354156,
+      "type": "FTRPI",
+      "type_plain": "FTRPI",
+      "severity": "low",
+      "division": "D43",
+      "location": "CEDAR BRAE BLVD - PORCHESTER DR",
+      "ts": "2026-11-20T04:44:18+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_6963c0a6db1f",
+      "source": "police",
+      "lat": 43.65616289526663,
+      "lng": -79.37009915354126,
+      "type": "SEEAM",
+      "type_plain": "See Ambulance (medical assist request)",
+      "severity": "low",
+      "division": "D51",
+      "location": "LN N QUEEN E SHERBOURNE - SHUTER ST",
+      "ts": "2026-11-20T04:37:53+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_3b3d248a56ec",
+      "source": "police",
+      "lat": 43.771695191471466,
+      "lng": -79.41459646439912,
+      "type": "ASS",
+      "type_plain": "Assault",
+      "severity": "high",
+      "division": "D32",
+      "location": "CANTERBURY PL - BEECROFT RD",
+      "ts": "2026-11-20T04:36:11+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_c2a6ef2997db",
+      "source": "police",
+      "lat": 43.789068398307805,
+      "lng": -79.44651912294871,
+      "type": "IMPDR",
+      "type_plain": "Impaired Driver",
+      "severity": "low",
+      "division": "D32",
+      "location": "DEWLANE DR - CARPENTER RD",
+      "ts": "2026-11-20T04:32:58+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_5fba9314f836",
+      "source": "police",
+      "lat": 43.694432367818926,
+      "lng": -79.44971288736171,
+      "type": "UNKTR",
+      "type_plain": "Unknown Trouble",
+      "severity": "low",
+      "division": "D13",
+      "location": "NORTHCLIFFE BLVD - ",
+      "ts": "2026-11-20T04:31:57+00:00",
+      "related": [],
+      "camera": {
+        "name": "Eglinton Ave W & Dufferin St",
+        "src": "city",
+        "distance_m": 159,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8070.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_848a642d2e47",
+      "source": "police",
+      "lat": 43.74325917379369,
+      "lng": -79.58210637015169,
+      "type": "DAMPR",
+      "type_plain": "Damage to Property (Priority)",
+      "severity": "low",
+      "division": "D23",
+      "location": "KIPLING AVE - FINCH AVE W",
+      "ts": "2026-11-20T04:30:13+00:00",
+      "related": [
+        {
+          "id": "tps_ae10762605c2",
+          "distance_m": 280,
+          "minutes_apart": 110
+        }
+      ]
+    },
+    {
+      "id": "tps_249b52b8717c",
+      "source": "police",
+      "lat": 43.69729606471763,
+      "lng": -79.44278558784455,
+      "type": "DIS",
+      "type_plain": "Disturbance",
+      "severity": "medium",
+      "division": "D13",
+      "location": "ALAMEDA AVE - OAKWOOD AVE",
+      "ts": "2026-11-20T04:30:06+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_70e1a720d701",
+      "source": "police",
+      "lat": 43.65728261360197,
+      "lng": -79.45269971576553,
+      "type": "DIS",
+      "type_plain": "Disturbance",
+      "severity": "medium",
+      "division": "D11",
+      "location": "BLOOR ST W - EDNA AVE",
+      "ts": "2026-11-20T04:29:44+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_96b18afed28d",
+      "source": "police",
+      "lat": 43.64317288227655,
+      "lng": -79.37791754527557,
+      "type": "SEEAM",
+      "type_plain": "See Ambulance (medical assist request)",
+      "severity": "low",
+      "division": "D52",
+      "location": "GARDINER XWY W - METROLINX",
+      "ts": "2026-11-20T04:27:19+00:00",
+      "related": [],
+      "camera": {
+        "name": "F G Gardiner Xy W & Bay St",
+        "src": "city",
+        "distance_m": 19,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9304.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_8beed58d0c2e",
+      "source": "police",
+      "lat": 43.657398096501886,
+      "lng": -79.38135844644687,
+      "type": "ASS",
+      "type_plain": "Assault",
+      "severity": "high",
+      "division": "D52",
+      "location": "YONGE ST - BAY ST",
+      "ts": "2026-11-20T04:26:38+00:00",
+      "related": [
+        {
+          "id": "tps_dbfacd142646",
+          "distance_m": 523,
+          "minutes_apart": 38
+        },
+        {
+          "id": "tps_77e14a72e0ad",
+          "distance_m": 539,
+          "minutes_apart": 96
+        }
+      ],
+      "camera": {
+        "name": "Yonge St & Dundas St",
+        "src": "city",
+        "distance_m": 131,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8032.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_bc71e641ea97",
+      "source": "police",
+      "lat": 43.6677816070383,
+      "lng": -79.38677054766374,
+      "type": "DIS",
+      "type_plain": "Disturbance",
+      "severity": "medium",
+      "division": "D52",
+      "location": "ST MARY ST - ST NICHOLAS ST",
+      "ts": "2026-11-20T04:25:10+00:00",
+      "related": [
+        {
+          "id": "tps_d8091bda5d09",
+          "distance_m": 464,
+          "minutes_apart": 9
+        },
+        {
+          "id": "tps_2fa80047aa8c",
+          "distance_m": 479,
+          "minutes_apart": 136
+        }
+      ],
+      "camera": {
+        "name": "Yonge St & Bloor St",
+        "src": "city",
+        "distance_m": 282,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8042.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_d8091bda5d09",
+      "source": "police",
+      "lat": 43.67192891190004,
+      "lng": -79.38745604948559,
+      "type": "SEEAM",
+      "type_plain": "See Ambulance (medical assist request)",
+      "severity": "low",
+      "division": "D53",
+      "location": "YONGE ST - LN W YONGE S YORKVILLE",
+      "ts": "2026-11-20T04:15:55+00:00",
+      "related": [
+        {
+          "id": "tps_bc71e641ea97",
+          "distance_m": 464,
+          "minutes_apart": 9
+        }
+      ],
+      "camera": {
+        "name": "Yonge St & Bloor St",
+        "src": "city",
+        "distance_m": 191,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8042.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_08e1670f1f3b",
+      "source": "police",
+      "lat": 43.666659509809364,
+      "lng": -79.40380913861458,
+      "type": "LOSEL",
+      "type_plain": "Lost/Found Property or Person",
+      "severity": "low",
+      "division": "D53",
+      "location": "BLOOR ST W - ANNEX LANE",
+      "ts": "2026-11-20T04:12:47+00:00",
+      "related": [
+        {
+          "id": "tps_80754ba412ee",
+          "distance_m": 0,
+          "minutes_apart": 86
+        },
+        {
+          "id": "tps_44d82aae22b1",
+          "distance_m": 557,
+          "minutes_apart": 136
+        }
+      ],
+      "camera": {
+        "name": "Spadina Ave & Bloor St W",
+        "src": "city",
+        "distance_m": 17,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8046.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_08dfb3c7fa1e",
+      "source": "police",
+      "lat": 43.64904428814788,
+      "lng": -79.3672909533599,
+      "type": "EXPJU",
+      "type_plain": "EXPJU",
+      "severity": "low",
+      "division": "D51",
+      "location": "LOWER SHERBOURNE ST - THE ESPLANADE",
+      "ts": "2026-11-20T04:08:31+00:00",
+      "related": [
+        {
+          "id": "tps_f28dc0cc942d",
+          "distance_m": 524,
+          "minutes_apart": 43
+        }
+      ]
+    },
+    {
+      "id": "tps_8cef89a9c504",
+      "source": "police",
+      "lat": 43.64853398763761,
+      "lng": -79.39739873491318,
+      "type": "THEAU",
+      "type_plain": "THEAU",
+      "severity": "low",
+      "division": "D14",
+      "location": "CAMERON ST - MC DOUGALL LANE",
+      "ts": "2026-11-20T04:06:58+00:00",
+      "related": [
+        {
+          "id": "tps_c9e0e4c00e9e",
+          "distance_m": 536,
+          "minutes_apart": 67
+        },
+        {
+          "id": "tps_0c1621227059",
+          "distance_m": 536,
+          "minutes_apart": 160
+        }
+      ],
+      "camera": {
+        "name": "Spadina Ave & Queen St W",
+        "src": "city",
+        "distance_m": 104,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8146.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_ae6bf9371060",
+      "source": "police",
+      "lat": 43.68693829028428,
+      "lng": -79.48941558558496,
+      "type": "SEEAM",
+      "type_plain": "See Ambulance (medical assist request)",
+      "severity": "low",
+      "division": "D12",
+      "location": "METROLINX / C P R - LN E WESTON S EGLINTON",
+      "ts": "2026-11-20T04:06:04+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_dc98f94569d9",
+      "source": "police",
+      "lat": 43.732153613996545,
+      "lng": -79.34566010975117,
+      "type": "PERKN",
+      "type_plain": "PERKN",
+      "severity": "low",
+      "division": "D33",
+      "location": "SOUTHILL DR - OVERLAND DR",
+      "ts": "2026-11-20T03:52:00+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_d309ab164a78",
+      "source": "police",
+      "lat": 43.784115543979595,
+      "lng": -79.29716278892326,
+      "type": "SEEAM",
+      "type_plain": "See Ambulance (medical assist request)",
+      "severity": "low",
+      "division": "D42",
+      "location": " - ",
+      "ts": "2026-11-20T03:48:36+00:00",
+      "related": []
+    },
+    {
+      "id": "tps_dbfacd142646",
+      "source": "police",
+      "lat": 43.661875500979264,
+      "lng": -79.37935794927299,
+      "type": "UNKTR",
+      "type_plain": "Unknown Trouble",
+      "severity": "low",
+      "division": "D51",
+      "location": " - ",
+      "ts": "2026-11-20T03:48:28+00:00",
+      "related": [
+        {
+          "id": "tps_77e14a72e0ad",
+          "distance_m": 323,
+          "minutes_apart": 135
+        },
+        {
+          "id": "tps_8beed58d0c2e",
+          "distance_m": 523,
+          "minutes_apart": 38
+        }
+      ],
+      "camera": {
+        "name": "Carlton St & Church St",
+        "src": "city",
+        "distance_m": 16,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8035.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_7b1cad7268ef",
+      "source": "police",
+      "lat": 43.646681487965736,
+      "lng": -79.40654123115154,
+      "type": "DIS",
+      "type_plain": "Disturbance",
+      "severity": "medium",
+      "division": "D14",
+      "location": "QUEEN ST W - TECUMSETH ST",
+      "ts": "2026-11-20T03:48:10+00:00",
+      "related": [],
+      "camera": {
+        "name": "Bathurst St & Queen St W",
+        "src": "city",
+        "distance_m": 208,
+        "views": [
+          [
+            "Live",
+            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8145.jpg"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tps_f7710d19b2d8",
+      "source": "police",
+      "lat": 43.76198029309802,
+      "lng": -79.19466730421296,
+      "type": "PIACC",
+      "type_plain": "Personal Injury Accident",
+      "severity": "low",
+      "division": "HP",
+      "location": "KINGSTON RD - GALLOWAY RD",
+      "ts": "2026-11-20T03:35:09+00:00",
+      "related": [
+        {
+          "id": "tps_4cbccbad51c9",
+          "distance_m": 544,
+          "minutes_apart": 179
+        }
+      ]
+    },
+    {
+      "id": "tps_8febabf5bd67",
+      "source": "police",
+      "lat": 43.749275168176,
+      "lng": -79.59225056687322,
+      "type": "UNKTR",
+      "type_plain": "Unknown Trouble",
+      "severity": "low",
+      "division": "D23",
+      "location": "BLACKBUSH DR - ",
+      "ts": "2026-11-20T03:32:36+00:00",
+      "related": []
+    },
     {
       "id": "tfs_F26185086",
       "source": "fire",
@@ -3197,13 +4539,7 @@
       "division": "D11",
       "location": "BLOOR ST W - EDNA AVE",
       "ts": "2026-11-19T08:33:23+00:00",
-      "related": [
-        {
-          "id": "tps_5a3fc84de2e6",
-          "distance_m": 0,
-          "minutes_apart": 82
-        }
-      ]
+      "related": []
     },
     {
       "id": "tps_6882f452542e",
@@ -3372,13 +4708,7 @@
       "division": "D55",
       "location": "SIBLEY AVE - LN E SIBLEY S DENTONIA PARK",
       "ts": "2026-11-19T08:04:56+00:00",
-      "related": [
-        {
-          "id": "tps_85ce8e2e47d0",
-          "distance_m": 528,
-          "minutes_apart": 117
-        }
-      ]
+      "related": []
     },
     {
       "id": "tps_e61fe3a2300c",
@@ -3391,18 +4721,7 @@
       "division": "D51",
       "location": "MAITLAND ST - WELLESLEY ST E",
       "ts": "2026-11-19T08:02:39+00:00",
-      "related": [
-        {
-          "id": "tps_96e36fb6bc39",
-          "distance_m": 202,
-          "minutes_apart": 98
-        },
-        {
-          "id": "tps_d1fc451774fe",
-          "distance_m": 291,
-          "minutes_apart": 19
-        }
-      ]
+      "related": []
     },
     {
       "id": "tps_8180c2acc6c5",
@@ -3415,13 +4734,7 @@
       "division": "D14",
       "location": "BATHURST ST - TECUMSETH ST",
       "ts": "2026-11-19T08:01:06+00:00",
-      "related": [
-        {
-          "id": "tps_c8c98d0d42d4",
-          "distance_m": 374,
-          "minutes_apart": 42
-        }
-      ],
+      "related": [],
       "camera": {
         "name": "King St W & Bathurst St",
         "src": "city",
@@ -3481,1007 +4794,26 @@
           ]
         ]
       }
-    },
-    {
-      "id": "tps_d1fc451774fe",
-      "source": "police",
-      "lat": 43.66736870647241,
-      "lng": -79.38162554982559,
-      "type": "TRE",
-      "type_plain": "Trespassing",
-      "severity": "low",
-      "division": "D51",
-      "location": "CHURCH ST - JARVIS ST",
-      "ts": "2026-11-19T07:43:28+00:00",
-      "related": [
-        {
-          "id": "tps_e61fe3a2300c",
-          "distance_m": 291,
-          "minutes_apart": 19
-        },
-        {
-          "id": "tps_96e36fb6bc39",
-          "distance_m": 475,
-          "minutes_apart": 79
-        }
-      ]
-    },
-    {
-      "id": "tps_206ab4c42620",
-      "source": "police",
-      "lat": 43.67967207174266,
-      "lng": -79.34514690414035,
-      "type": "DIS",
-      "type_plain": "Disturbance",
-      "severity": "medium",
-      "division": "D55",
-      "location": "LIPTON AVE - GERTRUDE PL",
-      "ts": "2026-11-19T07:35:31+00:00",
-      "related": [],
-      "camera": {
-        "name": "Danforth Ave & Pape Ave",
-        "src": "city",
-        "distance_m": 78,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8183.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_3d3a11300197",
-      "source": "police",
-      "lat": 43.725094674516015,
-      "lng": -79.4021953350534,
-      "type": "DIS",
-      "type_plain": "Disturbance",
-      "severity": "medium",
-      "division": "D32",
-      "location": "LAWRENCE AVE E - YONGE ST",
-      "ts": "2026-11-19T07:30:54+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_8656bc594e86",
-      "source": "police",
-      "lat": 43.68389280353182,
-      "lng": -79.48312939383187,
-      "type": "BREJU",
-      "type_plain": "BREJU",
-      "severity": "low",
-      "division": "D12",
-      "location": "WESTON RD - CLIFF ST",
-      "ts": "2026-11-19T07:24:51+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_89e754c1e66c",
-      "source": "police",
-      "lat": 43.6387094894521,
-      "lng": -79.44620901792912,
-      "type": "THEJU",
-      "type_plain": "Theft (Just Occurred)",
-      "severity": "medium",
-      "division": "D11",
-      "location": "TRILLER AVE - BEATY BOULEVARD PARKETTE TRL",
-      "ts": "2026-11-19T07:23:20+00:00",
-      "related": [
-        {
-          "id": "tps_7f2256d1bc96",
-          "distance_m": 0,
-          "minutes_apart": 20
-        }
-      ],
-      "camera": {
-        "name": "The Queensway & King St W / Roncesvalles Ave",
-        "src": "city",
-        "distance_m": 18,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8025.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_c98f91ff83e4",
-      "source": "police",
-      "lat": 43.666659509809364,
-      "lng": -79.40380913861458,
-      "type": "LOSEL",
-      "type_plain": "Lost/Found Property or Person",
-      "severity": "low",
-      "division": "D53",
-      "location": "BLOOR ST W - ANNEX LANE",
-      "ts": "2026-11-19T07:23:04+00:00",
-      "related": [],
-      "camera": {
-        "name": "Spadina Ave & Bloor St W",
-        "src": "city",
-        "distance_m": 17,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8046.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_a76c4c4a8d29",
-      "source": "police",
-      "lat": 43.649399232263626,
-      "lng": -79.5196375948457,
-      "type": "NOIPA",
-      "type_plain": "NOIPA",
-      "severity": "low",
-      "division": "D22",
-      "location": "LYNNGROVE AVE - TOM RILEY PARK TRL",
-      "ts": "2026-11-19T07:20:08+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_c8c98d0d42d4",
-      "source": "police",
-      "lat": 43.644440783567624,
-      "lng": -79.40006913330886,
-      "type": "DIS",
-      "type_plain": "Disturbance",
-      "severity": "medium",
-      "division": "D14",
-      "location": "KING ST W - PORTLAND ST",
-      "ts": "2026-11-19T07:19:19+00:00",
-      "related": [
-        {
-          "id": "tps_8180c2acc6c5",
-          "distance_m": 374,
-          "minutes_apart": 42
-        }
-      ],
-      "camera": {
-        "name": "King St W & Bathurst St",
-        "src": "city",
-        "distance_m": 229,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8135.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_5a3fc84de2e6",
-      "source": "police",
-      "lat": 43.65728261360197,
-      "lng": -79.45269971576553,
-      "type": "DIS",
-      "type_plain": "Disturbance",
-      "severity": "medium",
-      "division": "D11",
-      "location": "BLOOR ST W - EDNA AVE",
-      "ts": "2026-11-19T07:10:54+00:00",
-      "related": [
-        {
-          "id": "tps_bc48e4f5c50e",
-          "distance_m": 0,
-          "minutes_apart": 82
-        }
-      ]
-    },
-    {
-      "id": "tps_fe544f92ba9b",
-      "source": "police",
-      "lat": 43.74414518291392,
-      "lng": -79.40671388896679,
-      "type": "DAMJU",
-      "type_plain": "DAMJU",
-      "severity": "low",
-      "division": "D32",
-      "location": "WILSON AVE - WILLIAM CARSON CRES",
-      "ts": "2026-11-19T07:07:11+00:00",
-      "related": [],
-      "camera": {
-        "name": "Yonge St & York Mills Rd / Wilson Ave",
-        "src": "city",
-        "distance_m": 28,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8154.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_7f2256d1bc96",
-      "source": "police",
-      "lat": 43.6387094894521,
-      "lng": -79.44620901792912,
-      "type": "DIS",
-      "type_plain": "Disturbance",
-      "severity": "medium",
-      "division": "D11",
-      "location": "KING ST W - THE QUEENSWAY",
-      "ts": "2026-11-19T07:03:18+00:00",
-      "related": [
-        {
-          "id": "tps_89e754c1e66c",
-          "distance_m": 0,
-          "minutes_apart": 20
-        }
-      ],
-      "camera": {
-        "name": "The Queensway & King St W / Roncesvalles Ave",
-        "src": "city",
-        "distance_m": 18,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8025.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_13e7371cd009",
-      "source": "police",
-      "lat": 43.74298135956635,
-      "lng": -79.45253268733454,
-      "type": "PIACC",
-      "type_plain": "Personal Injury Accident",
-      "severity": "low",
-      "division": "D32",
-      "location": "CLANTON PARK RD - WILSON HEIGHTS BLVD",
-      "ts": "2026-11-19T07:01:39+00:00",
-      "related": [
-        {
-          "id": "tps_288510a4f11e",
-          "distance_m": 0,
-          "minutes_apart": 80
-        }
-      ]
-    },
-    {
-      "id": "tps_d8e9989f9a31",
-      "source": "police",
-      "lat": 43.68629891863374,
-      "lng": -79.4143717372061,
-      "type": "SEEAM",
-      "type_plain": "See Ambulance (medical assist request)",
-      "severity": "low",
-      "division": "D13",
-      "location": "ST CLAIR AVE W - HEATH ST W",
-      "ts": "2026-11-19T06:39:58+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_96e36fb6bc39",
-      "source": "police",
-      "lat": 43.66649560559932,
-      "lng": -79.375842053157,
-      "type": "ASS",
-      "type_plain": "Assault",
-      "severity": "high",
-      "division": "D51",
-      "location": "WELLESLEY ST E - LOURDES LANE",
-      "ts": "2026-11-19T06:24:09+00:00",
-      "related": [
-        {
-          "id": "tps_e61fe3a2300c",
-          "distance_m": 202,
-          "minutes_apart": 98
-        },
-        {
-          "id": "tps_d1fc451774fe",
-          "distance_m": 475,
-          "minutes_apart": 79
-        }
-      ]
-    },
-    {
-      "id": "tps_08db49b50de9",
-      "source": "police",
-      "lat": 43.761515587776984,
-      "lng": -79.41092000144481,
-      "type": "DAMPR",
-      "type_plain": "Damage to Property (Priority)",
-      "severity": "low",
-      "division": "D32",
-      "location": "BOGERT AVE - SHEPPARD AVE W",
-      "ts": "2026-11-19T06:14:03+00:00",
-      "related": [],
-      "camera": {
-        "name": "Sheppard Ave & Yonge St",
-        "src": "city",
-        "distance_m": 27,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8104.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_85ce8e2e47d0",
-      "source": "police",
-      "lat": 43.69325072300121,
-      "lng": -79.28724016333666,
-      "type": "THEVE",
-      "type_plain": "Theft of Vehicle",
-      "severity": "medium",
-      "division": "D41",
-      "location": "VICTORIA PARK AVE - MACEY AVE",
-      "ts": "2026-11-19T06:08:22+00:00",
-      "related": [
-        {
-          "id": "tps_26d440a2d88e",
-          "distance_m": 528,
-          "minutes_apart": 117
-        }
-      ]
-    },
-    {
-      "id": "tps_e1389398ef7e",
-      "source": "police",
-      "lat": 43.696131834431135,
-      "lng": -79.39614105852245,
-      "type": "DIS",
-      "type_plain": "Disturbance",
-      "severity": "medium",
-      "division": "D53",
-      "location": "MERTON ST - BALLIOL ST",
-      "ts": "2026-11-19T06:08:11+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_5b6292ff1920",
-      "source": "police",
-      "lat": 43.65943439853815,
-      "lng": -79.3660048573904,
-      "type": "HAZ",
-      "type_plain": "Hazard",
-      "severity": "low",
-      "division": "D51",
-      "location": "PARLIAMENT ST - DUNDAS ST E",
-      "ts": "2026-11-19T06:03:47+00:00",
-      "related": [],
-      "camera": {
-        "name": "Dundas St E & Parliament St",
-        "src": "city",
-        "distance_m": 13,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8212.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_0cbdc92ab47e",
-      "source": "police",
-      "lat": 43.73253206172791,
-      "lng": -79.43112720315992,
-      "type": "PRO",
-      "type_plain": "PRO",
-      "severity": "low",
-      "division": "D32",
-      "location": "SUNSHINE ST - BATHURST ST",
-      "ts": "2026-11-19T06:03:42+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_9e1c6cd0cf93",
-      "source": "police",
-      "lat": 43.723641857415366,
-      "lng": -79.30161716468926,
-      "type": "THEJU",
-      "type_plain": "Theft (Just Occurred)",
-      "severity": "medium",
-      "division": "D41",
-      "location": "VICTORIA PARK AVE - EGLINTON AVE E",
-      "ts": "2026-11-19T05:58:32+00:00",
-      "related": [],
-      "camera": {
-        "name": "Eglinton Ave E & Victoria Park Ave",
-        "src": "city",
-        "distance_m": 115,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8057.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_6a7171bea0de",
-      "source": "police",
-      "lat": 43.7684035984007,
-      "lng": -79.18621380674915,
-      "type": "ASS",
-      "type_plain": "Assault",
-      "severity": "high",
-      "division": "D43",
-      "location": "MORNINGSIDE AVE - COLLINSGROVE RD",
-      "ts": "2026-11-19T05:57:22+00:00",
-      "related": [],
-      "camera": {
-        "name": "Kingston Rd & Lawrence Ave E",
-        "src": "city",
-        "distance_m": 244,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8156.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_bd31a1e94244",
-      "source": "police",
-      "lat": 43.79217608506183,
-      "lng": -79.29748559779472,
-      "type": "BREEN",
-      "type_plain": "BREEN",
-      "severity": "low",
-      "division": "D42",
-      "location": "HARFLEUR RD - COLINAYRE CRES",
-      "ts": "2026-11-19T05:53:22+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_09d59eb57abd",
-      "source": "police",
-      "lat": 43.69729606471763,
-      "lng": -79.44278558784455,
-      "type": "DIS",
-      "type_plain": "Disturbance",
-      "severity": "medium",
-      "division": "D13",
-      "location": "MARLEE AVE - TIMES RD",
-      "ts": "2026-11-19T05:53:21+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_d91ff8a99292",
-      "source": "police",
-      "lat": 43.68400239601657,
-      "lng": -79.51147868425664,
-      "type": "PDACC",
-      "type_plain": "Property Damage Accident",
-      "severity": "low",
-      "division": "HP",
-      "location": "EGLINTON AVE W - SCARLETT RD",
-      "ts": "2026-11-19T05:52:10+00:00",
-      "related": [],
-      "camera": {
-        "name": "Eglinton Ave W & Scarlett Rd",
-        "src": "city",
-        "distance_m": 38,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8226.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_f41e5c5e4181",
-      "source": "police",
-      "lat": 43.61015060503421,
-      "lng": -79.55690958640538,
-      "type": "ARR",
-      "type_plain": "Arrest / Arrived at Scene",
-      "severity": "low",
-      "division": "D22",
-      "location": "SHERWAY DR - HEPC",
-      "ts": "2026-11-19T05:51:21+00:00",
-      "related": [
-        {
-          "id": "tps_249cffe8bbfc",
-          "distance_m": 277,
-          "minutes_apart": 50
-        }
-      ]
-    },
-    {
-      "id": "tps_b1e75dd893cb",
-      "source": "police",
-      "lat": 43.6925447705882,
-      "lng": -79.44893919165818,
-      "type": "BREEN",
-      "type_plain": "BREEN",
-      "severity": "low",
-      "division": "D13",
-      "location": "KEYWEST AVE - HUNTER AVE",
-      "ts": "2026-11-19T05:50:32+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_5a0696cc9c1c",
-      "source": "police",
-      "lat": 43.77003316235188,
-      "lng": -79.26129213872775,
-      "type": "DIS",
-      "type_plain": "Disturbance",
-      "severity": "medium",
-      "division": "D41",
-      "location": "BERNADINE ST - ELLESMERE RD",
-      "ts": "2026-11-19T05:44:23+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_cff265d751d2",
-      "source": "police",
-      "lat": 43.71775494643955,
-      "lng": -79.48653804131834,
-      "type": "ASSJU",
-      "type_plain": "Assault (Just Occurred)",
-      "severity": "high",
-      "division": "D12",
-      "location": "BANNERMAN ST - BLUE SPRINGS RD",
-      "ts": "2026-11-19T05:42:37+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_288510a4f11e",
-      "source": "police",
-      "lat": 43.74298135956635,
-      "lng": -79.45253268733454,
-      "type": "PIACC",
-      "type_plain": "Personal Injury Accident",
-      "severity": "low",
-      "division": "HP",
-      "location": "CLANTON PARK RD - WILSON HEIGHTS BLVD",
-      "ts": "2026-11-19T05:41:24+00:00",
-      "related": [
-        {
-          "id": "tps_13e7371cd009",
-          "distance_m": 0,
-          "minutes_apart": 80
-        }
-      ]
-    },
-    {
-      "id": "tps_56abbdc97c6d",
-      "source": "police",
-      "lat": 43.77158723571469,
-      "lng": -79.28594229118167,
-      "type": "UNKTR",
-      "type_plain": "Unknown Trouble",
-      "severity": "low",
-      "division": "D33",
-      "location": "101 DUNDALK DR - 101 DUNDALK DR",
-      "ts": "2026-11-19T05:37:07+00:00",
-      "related": [],
-      "camera": {
-        "name": "Kennedy Rd & 401 C E Kennedy Rd Ramp / William Kitchen Rd",
-        "src": "city",
-        "distance_m": 277,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8079.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_9d6c4dfce9ab",
-      "source": "police",
-      "lat": 43.72271264643955,
-      "lng": -79.50754224475276,
-      "type": "PIACC",
-      "type_plain": "Personal Injury Accident",
-      "severity": "low",
-      "division": "HP",
-      "location": "BLACK CREEK - WILLIAM CRAGG DR",
-      "ts": "2026-11-19T05:30:20+00:00",
-      "related": [],
-      "camera": {
-        "name": "Wilson Ave & Jane St",
-        "src": "city",
-        "distance_m": 243,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8149.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_1dd3e311be8b",
-      "source": "police",
-      "lat": 43.641588980667045,
-      "lng": -79.38366404144458,
-      "type": "SEEAM",
-      "type_plain": "See Ambulance (medical assist request)",
-      "severity": "low",
-      "division": "D52",
-      "location": "LAKESHORE W GARDINER - GRAND TRUNK CRES",
-      "ts": "2026-11-19T05:29:29+00:00",
-      "related": [],
-      "camera": {
-        "name": "Lower Simcoe St & Bremner Blvd",
-        "src": "city",
-        "distance_m": 77,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8002.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_f9bec6c32444",
-      "source": "police",
-      "lat": 43.633383478469405,
-      "lng": -79.43456472181047,
-      "type": "PDACC",
-      "type_plain": "Property Damage Accident",
-      "severity": "low",
-      "division": "D14",
-      "location": "JAMESON AVE - LAKE SHORE BLVD W",
-      "ts": "2026-11-19T05:24:50+00:00",
-      "related": [
-        {
-          "id": "tps_8e6c265a419b",
-          "distance_m": 0,
-          "minutes_apart": 20
-        }
-      ],
-      "camera": {
-        "name": "Lake Shore Blvd W & Jameson Ave",
-        "src": "city",
-        "distance_m": 13,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9335.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_dc9b20bd8723",
-      "source": "police",
-      "lat": 43.79561409572072,
-      "lng": -79.31155299187007,
-      "type": "IMPDR",
-      "type_plain": "Impaired Driver",
-      "severity": "low",
-      "division": "D42",
-      "location": "BRIDLETOWNE CRCL - BRIDLETOWNE CRCL",
-      "ts": "2026-11-19T05:06:40+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_48348fa1b32b",
-      "source": "police",
-      "lat": 43.65225369135736,
-      "lng": -79.37636914805827,
-      "type": "DIS",
-      "type_plain": "Disturbance",
-      "severity": "medium",
-      "division": "D51",
-      "location": "VICTORIA ST - SPICE MILL LANE",
-      "ts": "2026-11-19T05:05:09+00:00",
-      "related": [],
-      "camera": {
-        "name": "Richmond St E & Church St",
-        "src": "city",
-        "distance_m": 88,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8017.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_8e6c265a419b",
-      "source": "police",
-      "lat": 43.633383478469405,
-      "lng": -79.43456472181047,
-      "type": "PIACC",
-      "type_plain": "Personal Injury Accident",
-      "severity": "low",
-      "division": "HP",
-      "location": " - ",
-      "ts": "2026-11-19T05:04:34+00:00",
-      "related": [
-        {
-          "id": "tps_f9bec6c32444",
-          "distance_m": 0,
-          "minutes_apart": 20
-        }
-      ],
-      "camera": {
-        "name": "Lake Shore Blvd W & Jameson Ave",
-        "src": "city",
-        "distance_m": 13,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc9335.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_975a269e722f",
-      "source": "police",
-      "lat": 43.65757183550228,
-      "lng": -79.4652298180643,
-      "type": "UNKTR",
-      "type_plain": "Unknown Trouble",
-      "severity": "low",
-      "division": "D11",
-      "location": "BLOOR ST W - GLENLAKE AVE",
-      "ts": "2026-11-19T05:03:37+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_249cffe8bbfc",
-      "source": "police",
-      "lat": 43.60949000499694,
-      "lng": -79.56023319267328,
-      "type": "SEEAM",
-      "type_plain": "See Ambulance (medical assist request)",
-      "severity": "low",
-      "division": "D22",
-      "location": "THE WEST MALL - ",
-      "ts": "2026-11-19T05:01:43+00:00",
-      "related": [
-        {
-          "id": "tps_f41e5c5e4181",
-          "distance_m": 277,
-          "minutes_apart": 50
-        }
-      ]
-    },
-    {
-      "id": "tps_e8fbdcda82c8",
-      "source": "police",
-      "lat": 43.71600617058235,
-      "lng": -79.30497175704816,
-      "type": "STA",
-      "type_plain": "STA",
-      "severity": "low",
-      "division": "D55",
-      "location": "O'CONNOR DR - ",
-      "ts": "2026-11-19T04:55:18+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_b0a643d2250a",
-      "source": "police",
-      "lat": 43.65521640563446,
-      "lng": -79.4370618209781,
-      "type": "ARR",
-      "type_plain": "Arrest / Arrived at Scene",
-      "severity": "low",
-      "division": "D11",
-      "location": "DUFFERIN GROVE PARK TRL - DUFFERIN GROVE PARK TRL",
-      "ts": "2026-11-19T04:53:56+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_cfc3714d152c",
-      "source": "police",
-      "lat": 43.69159787708836,
-      "lng": -79.49188477772663,
-      "type": "SOUGU",
-      "type_plain": "Sound of Gunshots",
-      "severity": "critical",
-      "division": "D12",
-      "location": "TODD BAYLIS BLVD - BERTAL RD",
-      "ts": "2026-11-19T04:50:36+00:00",
-      "related": []
-    },
-    {
-      "id": "tfs_F26184504",
-      "source": "fire",
-      "lat": 43.768341,
-      "lng": -79.412807,
-      "type": "Alarm Single Source",
-      "type_plain": "Alarm Single Source",
-      "severity": "medium",
-      "division": "114",
-      "location": "North York - HILLCREST AVE & YONGE ST",
-      "approximate": false,
-      "units": "A114, P114",
-      "ts": "2026-11-19T01:03:34+00:00",
-      "related": []
-    },
-    {
-      "id": "tfs_F26184499",
-      "source": "fire",
-      "lat": 43.72734,
-      "lng": -79.2524465,
-      "type": "Alarm Single Source",
-      "type_plain": "Alarm Single Source",
-      "severity": "medium",
-      "division": "221",
-      "location": "Scarborough - GORDONRIDGE PL & DANFORTH RD",
-      "approximate": false,
-      "units": "A221, P221",
-      "ts": "2026-11-19T00:56:26+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_5c7a4ba8ebd4",
-      "source": "police",
-      "lat": 43.649318288421924,
-      "lng": -79.39364443739493,
-      "type": "THEJU",
-      "type_plain": "Theft (Just Occurred)",
-      "severity": "medium",
-      "division": "D52",
-      "location": "PETER ST - SPADINA AVE",
-      "ts": "2026-11-19T00:56:25+00:00",
-      "related": [
-        {
-          "id": "tps_3cb0934d7df5",
-          "distance_m": 0,
-          "minutes_apart": 16
-        }
-      ],
-      "camera": {
-        "name": "Spadina Ave & Queen St W",
-        "src": "city",
-        "distance_m": 211,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8146.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_1e32fa567450",
-      "source": "police",
-      "lat": 43.73209495001528,
-      "lng": -79.4589183467043,
-      "type": "ASSJU",
-      "type_plain": "Assault (Just Occurred)",
-      "severity": "high",
-      "division": "D32",
-      "location": "WILSON AVE - DUFFERIN ST",
-      "ts": "2026-11-19T00:55:44+00:00",
-      "related": [],
-      "camera": {
-        "name": "Wilson Ave & Dufferin St",
-        "src": "city",
-        "distance_m": 18,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8150.jpg"
-          ]
-        ]
-      }
-    },
-    {
-      "id": "tps_20e7be0090b1",
-      "source": "police",
-      "lat": 43.68112061081836,
-      "lng": -79.42888982427476,
-      "type": "PERKN",
-      "type_plain": "PERKN",
-      "severity": "low",
-      "division": "D13",
-      "location": "CHARLEY ROACH LANE - HUMEWOOD GDNS",
-      "ts": "2026-11-19T00:54:39+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_f81dc3beaeeb",
-      "source": "police",
-      "lat": 43.69574617614326,
-      "lng": -79.52202196500025,
-      "type": "ASSJU",
-      "type_plain": "Assault (Just Occurred)",
-      "severity": "high",
-      "division": "D23",
-      "location": "FREEMONT AVE - ",
-      "ts": "2026-11-19T00:54:26+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_52633611b3c1",
-      "source": "police",
-      "lat": 43.750851584279204,
-      "lng": -79.54211369717221,
-      "type": "ARR",
-      "type_plain": "Arrest / Arrived at Scene",
-      "severity": "low",
-      "division": "D31",
-      "location": "WESTON RD - LINDYLOU PARK TRL",
-      "ts": "2026-11-19T00:54:07+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_a140499acd05",
-      "source": "police",
-      "lat": 43.73087856940539,
-      "lng": -79.59939966806567,
-      "type": "ASSJU",
-      "type_plain": "Assault (Just Occurred)",
-      "severity": "high",
-      "division": "D23",
-      "location": "WESTMORE DR - 27 HWY N",
-      "ts": "2026-11-19T00:42:19+00:00",
-      "related": []
-    },
-    {
-      "id": "tps_3cb0934d7df5",
-      "source": "police",
-      "lat": 43.649318288421924,
-      "lng": -79.39364443739493,
-      "type": "THEJU",
-      "type_plain": "Theft (Just Occurred)",
-      "severity": "medium",
-      "division": "D52",
-      "location": "PETER ST - SPADINA AVE",
-      "ts": "2026-11-19T00:40:49+00:00",
-      "related": [
-        {
-          "id": "tps_5c7a4ba8ebd4",
-          "distance_m": 0,
-          "minutes_apart": 16
-        }
-      ],
-      "camera": {
-        "name": "Spadina Ave & Queen St W",
-        "src": "city",
-        "distance_m": 211,
-        "views": [
-          [
-            "Live",
-            "https://opendata.toronto.ca/transportation/tmc/rescucameraimages/CameraImages/loc8146.jpg"
-          ]
-        ]
-      }
     }
   ],
   "anomalies": [],
   "area_summary": {
     "areas": 95,
-    "assigned": 219,
+    "assigned": 238,
     "by_fsa": {
       "M5A": {
-        "n": 9,
+        "n": 11,
         "sev": {
           "critical": 0,
           "high": 0,
           "medium": 2,
-          "low": 7
+          "low": 9
         },
         "src": {
-          "fire": 1,
-          "police": 8
+          "police": 10,
+          "fire": 1
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
           0,
           0,
           0,
@@ -4494,10 +4826,17 @@
           0,
           0,
           0,
+          2,
+          0,
+          0,
           1,
           1,
           0,
+          0,
+          0,
           1,
+          1,
+          0,
           1
         ],
         "worst": [
@@ -4506,44 +4845,463 @@
           -1,
           -1,
           -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           0,
           0,
           -1,
+          -1,
+          -1,
+          1,
           -1,
           -1,
           0,
           1,
           -1,
+          -1,
+          -1,
           0,
-          1
+          0,
+          -1,
+          0
         ],
         "pct_busier": 98,
         "latest": [
-          "tfs_F26185086",
-          "tps_6e0242dd5c02",
-          "tps_cac9a6e45329"
+          "tps_4e52835d5613",
+          "tps_75bb54f4b028",
+          "tps_6963c0a6db1f"
         ]
       },
-      "M1K": {
+      "M4J": {
+        "n": 4,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 4
+        },
+        "src": {
+          "police": 4
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0
+        ],
+        "pct_busier": 73,
+        "latest": [
+          "tps_93de3607b4a6",
+          "tps_89a1955f4a8e",
+          "tps_cfa54771501a"
+        ]
+      },
+      "M6B": {
+        "n": 3,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 3
+        },
+        "src": {
+          "police": 3
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0
+        ],
+        "pct_busier": 61,
+        "latest": [
+          "tps_9a9ec701cea9",
+          "tps_51e21adb5dc6",
+          "tps_3fe876a9130a"
+        ]
+      },
+      "M5S": {
+        "n": 6,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 2,
+          "low": 4
+        },
+        "src": {
+          "police": 6
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          2,
+          1
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          1,
+          1
+        ],
+        "pct_busier": 91,
+        "latest": [
+          "tps_e86098100052",
+          "tps_2fa80047aa8c",
+          "tps_44d82aae22b1"
+        ]
+      },
+      "M3C": {
+        "n": 3,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 3
+        },
+        "src": {
+          "police": 3
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0
+        ],
+        "pct_busier": 61,
+        "latest": [
+          "tps_f4dc74f96de9",
+          "tps_dc98f94569d9",
+          "tps_fcb8f36d25e6"
+        ]
+      },
+      "M6R": {
         "n": 5,
         "sev": {
           "critical": 0,
-          "high": 1,
-          "medium": 3,
-          "low": 1
+          "high": 0,
+          "medium": 2,
+          "low": 3
         },
         "src": {
-          "fire": 2,
+          "police": 5
+        },
+        "hours": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "worst": [
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          1
+        ],
+        "pct_busier": 82,
+        "latest": [
+          "tps_7fd36bf2d83b",
+          "tps_70e1a720d701",
+          "tps_ffba7000577f"
+        ]
+      },
+      "M5N": {
+        "n": 3,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 3
+        },
+        "src": {
           "police": 3
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          0
+        ],
+        "pct_busier": 61,
+        "latest": [
+          "tps_b3f18aaaa6c4",
+          "tps_1fe34b5b58c4",
+          "tps_e4def54ce5ac"
+        ]
+      },
+      "M9V": {
+        "n": 9,
+        "sev": {
+          "critical": 0,
+          "high": 1,
+          "medium": 0,
+          "low": 8
+        },
+        "src": {
+          "police": 9
         },
         "hours": [
           1,
@@ -4554,6 +5312,11 @@
           0,
           0,
           0,
+          2,
+          2,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -4561,50 +5324,115 @@
           0,
           0,
           1,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
           0,
-          0,
-          2
+          1,
+          1
         ],
         "worst": [
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           2,
           -1,
           -1,
-          1
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          0,
+          0
         ],
-        "pct_busier": 86,
+        "pct_busier": 97,
         "latest": [
-          "tfs_F26185078",
-          "tps_1071de23c345",
-          "tps_8cbbe3b75bc8"
+          "tps_df0a87852976",
+          "tps_ae10762605c2",
+          "tps_848a642d2e47"
         ]
       },
-      "M1G": {
+      "M6K": {
+        "n": 3,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 3
+        },
+        "src": {
+          "police": 3
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          0
+        ],
+        "pct_busier": 61,
+        "latest": [
+          "tps_cbd39f3651b0",
+          "tps_12742ec21b92",
+          "tps_a76cac96a33e"
+        ]
+      },
+      "M6M": {
         "n": 3,
         "sev": {
           "critical": 0,
@@ -4613,77 +5441,6 @@
           "low": 2
         },
         "src": {
-          "police": 2,
-          "fire": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          0
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_d0053fe3987d",
-          "tfs_F26185039",
-          "tps_59442299ccf5"
-        ]
-      },
-      "M5P": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 3
-        },
-        "src": {
           "police": 3
         },
         "hours": [
@@ -4693,10 +5450,6 @@
           0,
           0,
           0,
-          1,
-          0,
-          0,
-          0,
           0,
           0,
           0,
@@ -4704,6 +5457,80 @@
           0,
           0,
           0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0
+        ],
+        "pct_busier": 61,
+        "latest": [
+          "tps_77a7a8431ced",
+          "tps_ae6bf9371060",
+          "tps_5ed5e93c8e3b"
+        ]
+      },
+      "M2K": {
+        "n": 4,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 4
+        },
+        "src": {
+          "police": 4
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
           0,
           0,
           0,
@@ -4719,10 +5546,6 @@
           -1,
           -1,
           -1,
-          0,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -4730,6 +5553,10 @@
           -1,
           -1,
           -1,
+          -1,
+          0,
+          -1,
+          0,
           -1,
           -1,
           -1,
@@ -4738,20 +5565,369 @@
           -1,
           0
         ],
-        "pct_busier": 61,
+        "pct_busier": 73,
         "latest": [
-          "tps_d0e896a67fdb",
-          "tps_d18193408923",
-          "tps_d8e9989f9a31"
+          "tps_8f3324ac1b02",
+          "tps_9a1fd47560b1",
+          "tps_6553c1531bca"
         ]
       },
-      "M6N": {
+      "M5T": {
+        "n": 14,
+        "sev": {
+          "critical": 0,
+          "high": 2,
+          "medium": 4,
+          "low": 8
+        },
+        "src": {
+          "police": 14
+        },
+        "hours": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          1,
+          2,
+          1,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2,
+          2,
+          0
+        ],
+        "worst": [
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          1,
+          -1,
+          -1,
+          -1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          -1,
+          -1,
+          -1,
+          0,
+          2,
+          2,
+          -1
+        ],
+        "pct_busier": 99,
+        "latest": [
+          "tps_0c1621227059",
+          "tps_ff6926233cf2",
+          "tps_6ff876d6cbbf"
+        ]
+      },
+      "M6J": {
+        "n": 5,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 2,
+          "low": 3
+        },
+        "src": {
+          "police": 5
+        },
+        "hours": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "worst": [
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          0,
+          -1
+        ],
+        "pct_busier": 82,
+        "latest": [
+          "tps_3df2e4403a03",
+          "tps_7b1cad7268ef",
+          "tps_9d51f4c7de69"
+        ]
+      },
+      "M3N": {
+        "n": 2,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 2
+        },
+        "src": {
+          "police": 2
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1
+        ],
+        "pct_busier": 46,
+        "latest": [
+          "tps_009886670bf1",
+          "tps_49bc4a36a089"
+        ]
+      },
+      "M1E": {
+        "n": 6,
+        "sev": {
+          "critical": 0,
+          "high": 1,
+          "medium": 2,
+          "low": 3
+        },
+        "src": {
+          "police": 6
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          2,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          1,
+          0,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          0,
+          -1
+        ],
+        "pct_busier": 91,
+        "latest": [
+          "tps_4cbccbad51c9",
+          "tps_f7710d19b2d8",
+          "tps_aeab468e27ca"
+        ]
+      },
+      "M1T": {
         "n": 4,
         "sev": {
           "critical": 0,
           "high": 1,
+          "medium": 1,
+          "low": 2
+        },
+        "src": {
+          "police": 4
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          2,
+          -1
+        ],
+        "pct_busier": 73,
+        "latest": [
+          "tps_0eaa54eab233",
+          "tps_d309ab164a78",
+          "tps_c5d2b2edf4c4"
+        ]
+      },
+      "M6S": {
+        "n": 4,
+        "sev": {
+          "critical": 0,
+          "high": 2,
           "medium": 0,
-          "low": 3
+          "low": 2
         },
         "src": {
           "police": 4
@@ -4779,8 +5955,8 @@
           0,
           0,
           0,
-          0,
-          1
+          1,
+          0
         ],
         "worst": [
           -1,
@@ -4790,44 +5966,43 @@
           -1,
           -1,
           -1,
+          2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          2,
           0,
           -1,
           -1,
           -1,
           -1,
           -1,
+          -1,
+          -1,
           0,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          2
+          -1
         ],
-        "pct_busier": 80,
+        "pct_busier": 73,
         "latest": [
-          "tps_0f6c1267a4b0",
-          "tps_6fa5c939462a",
-          "tps_f83375dd5edb"
+          "tps_e0543f9f46ac",
+          "tps_64779774b0a2",
+          "tps_96711866f864"
         ]
       },
-      "M5T": {
-        "n": 11,
+      "M5P": {
+        "n": 4,
         "sev": {
           "critical": 0,
           "high": 0,
-          "medium": 6,
-          "low": 5
+          "medium": 0,
+          "low": 4
         },
         "src": {
-          "police": 11
+          "police": 4
         },
         "hours": [
-          2,
           0,
           0,
           0,
@@ -4841,26 +6016,19 @@
           0,
           0,
           0,
-          1,
-          1,
           0,
           0,
           0,
           1,
+          0,
+          0,
+          0,
+          0,
           1,
           1,
-          2,
-          1
+          0
         ],
         "worst": [
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
           -1,
           -1,
           -1,
@@ -4868,21 +6036,1419 @@
           -1,
           -1,
           0,
-          1,
           -1,
           -1,
           -1,
-          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1
+        ],
+        "pct_busier": 73,
+        "latest": [
+          "tps_61d1ebf47f3e",
+          "tps_a09a208a463c",
+          "tps_d0e896a67fdb"
+        ]
+      },
+      "M8V": {
+        "n": 1,
+        "sev": {
+          "critical": 0,
+          "high": 1,
+          "medium": 0,
+          "low": 0
+        },
+        "src": {
+          "police": 1
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           1,
           0
         ],
-        "pct_busier": 99,
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          2,
+          -1
+        ],
+        "pct_busier": 18,
         "latest": [
-          "tps_6d4acdd3784b",
-          "tps_ae8358a40f51",
-          "tps_d44c3412f4da"
+          "tps_1a697e277d0b"
+        ]
+      },
+      "M4Y": {
+        "n": 8,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 2,
+          "low": 6
+        },
+        "src": {
+          "police": 8
+        },
+        "hours": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          1,
+          0
+        ],
+        "worst": [
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          0,
+          -1
+        ],
+        "pct_busier": 96,
+        "latest": [
+          "tps_77e14a72e0ad",
+          "tps_bc71e641ea97",
+          "tps_dbfacd142646"
+        ]
+      },
+      "M6P": {
+        "n": 2,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 2
+        },
+        "src": {
+          "police": 2
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1
+        ],
+        "pct_busier": 46,
+        "latest": [
+          "tps_c837ca69714d",
+          "tps_ca212285c215"
+        ]
+      },
+      "M1X": {
+        "n": 2,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 2
+        },
+        "src": {
+          "police": 2
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1
+        ],
+        "pct_busier": 46,
+        "latest": [
+          "tps_4d450abfa366",
+          "tps_061cebde5cd1"
+        ]
+      },
+      "M1P": {
+        "n": 2,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 2
+        },
+        "src": {
+          "police": 2
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1
+        ],
+        "pct_busier": 46,
+        "latest": [
+          "tps_bcc14a86c094",
+          "tps_c60076920ce6"
+        ]
+      },
+      "M2R": {
+        "n": 7,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 2,
+          "low": 5
+        },
+        "src": {
+          "police": 7
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          0,
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        "pct_busier": 94,
+        "latest": [
+          "tps_5bfe43160125",
+          "tps_8cb74da3bb7e",
+          "tps_c2a6ef2997db"
+        ]
+      },
+      "M1J": {
+        "n": 4,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 1,
+          "low": 3
+        },
+        "src": {
+          "police": 4
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        "pct_busier": 73,
+        "latest": [
+          "tps_f54a31ff1735",
+          "tps_ad73d3f99c5f",
+          "tps_996bc8f3f428"
+        ]
+      },
+      "M8W": {
+        "n": 1,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 1
+        },
+        "src": {
+          "police": 1
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1
+        ],
+        "pct_busier": 18,
+        "latest": [
+          "tps_5d09e551e5fc"
+        ]
+      },
+      "M9N": {
+        "n": 5,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 2,
+          "low": 3
+        },
+        "src": {
+          "police": 5
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1
+        ],
+        "pct_busier": 82,
+        "latest": [
+          "tps_ec34793347a3",
+          "tps_76838364015a",
+          "tps_5106fc83d979"
+        ]
+      },
+      "M5E": {
+        "n": 5,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 5
+        },
+        "src": {
+          "police": 5
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        "pct_busier": 82,
+        "latest": [
+          "tps_f28dc0cc942d",
+          "tps_96b18afed28d",
+          "tps_08dfb3c7fa1e"
+        ]
+      },
+      "M6E": {
+        "n": 2,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 2
+        },
+        "src": {
+          "police": 2
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          -1
+        ],
+        "pct_busier": 46,
+        "latest": [
+          "tps_c9ac7be8dfa0",
+          "tps_5fba9314f836"
+        ]
+      },
+      "M9W": {
+        "n": 5,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 2,
+          "low": 3
+        },
+        "src": {
+          "police": 5
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          0,
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1
+        ],
+        "pct_busier": 82,
+        "latest": [
+          "tps_5705ff5dea32",
+          "tps_f701e8f4bfa7",
+          "tps_b69e07fee1f5"
+        ]
+      },
+      "M1S": {
+        "n": 2,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 2
+        },
+        "src": {
+          "police": 2
+        },
+        "hours": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "worst": [
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1
+        ],
+        "pct_busier": 46,
+        "latest": [
+          "tps_fa7880e9e838",
+          "tps_05274b29a4fc"
+        ]
+      },
+      "M1K": {
+        "n": 5,
+        "sev": {
+          "critical": 0,
+          "high": 1,
+          "medium": 2,
+          "low": 2
+        },
+        "src": {
+          "police": 4,
+          "fire": 1
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          2,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1
+        ],
+        "pct_busier": 82,
+        "latest": [
+          "tps_6bc996e206ff",
+          "tfs_F26185078",
+          "tps_1071de23c345"
+        ]
+      },
+      "M2N": {
+        "n": 1,
+        "sev": {
+          "critical": 0,
+          "high": 1,
+          "medium": 0,
+          "low": 0
+        },
+        "src": {
+          "police": 1
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          2,
+          -1,
+          -1,
+          -1
+        ],
+        "pct_busier": 18,
+        "latest": [
+          "tps_3b3d248a56ec"
+        ]
+      },
+      "M6C": {
+        "n": 2,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 1,
+          "low": 1
+        },
+        "src": {
+          "police": 2
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          -1,
+          -1
+        ],
+        "pct_busier": 46,
+        "latest": [
+          "tps_249b52b8717c",
+          "tps_4deff3e901eb"
+        ]
+      },
+      "M5G": {
+        "n": 7,
+        "sev": {
+          "critical": 0,
+          "high": 1,
+          "medium": 2,
+          "low": 4
+        },
+        "src": {
+          "police": 7
+        },
+        "hours": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "worst": [
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          2,
+          -1,
+          -1,
+          -1
+        ],
+        "pct_busier": 94,
+        "latest": [
+          "tps_8beed58d0c2e",
+          "tps_c47d1f71e25d",
+          "tps_e12fefe93617"
+        ]
+      },
+      "M4W": {
+        "n": 4,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 1,
+          "low": 3
+        },
+        "src": {
+          "police": 4
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1,
+          0,
+          -1,
+          -1,
+          -1
+        ],
+        "pct_busier": 73,
+        "latest": [
+          "tps_d8091bda5d09",
+          "tps_1242398c60df",
+          "tps_2968c8400812"
+        ]
+      },
+      "M1G": {
+        "n": 3,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 1,
+          "low": 2
+        },
+        "src": {
+          "police": 2,
+          "fire": 1
+        },
+        "hours": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "worst": [
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ],
+        "pct_busier": 61,
+        "latest": [
+          "tps_d0053fe3987d",
+          "tfs_F26185039",
+          "tps_59442299ccf5"
+        ]
+      },
+      "M6N": {
+        "n": 4,
+        "sev": {
+          "critical": 0,
+          "high": 1,
+          "medium": 0,
+          "low": 3
+        },
+        "src": {
+          "police": 4
+        },
+        "hours": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "worst": [
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          0,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ],
+        "pct_busier": 73,
+        "latest": [
+          "tps_0f6c1267a4b0",
+          "tps_6fa5c939462a",
+          "tps_f83375dd5edb"
         ]
       },
       "M4L": {
@@ -4913,14 +7479,14 @@
           0,
           0,
           0,
+          1,
           0,
           0,
           0,
           0,
           0,
           0,
-          0,
-          1
+          0
         ],
         "worst": [
           -1,
@@ -4939,178 +7505,32 @@
           -1,
           -1,
           -1,
+          0,
           -1,
           -1,
           -1,
           -1,
           -1,
           -1,
-          -1,
-          0
+          -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_9896d504c60b"
         ]
       },
-      "M6P": {
-        "n": 2,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 2
-        },
-        "src": {
-          "police": 2
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0
-        ],
-        "pct_busier": 44,
-        "latest": [
-          "tps_ca212285c215",
-          "tps_975a269e722f"
-        ]
-      },
-      "M4W": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 2
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          1
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          0
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_1242398c60df",
-          "tps_2968c8400812",
-          "tps_484f7b6061bb"
-        ]
-      },
       "M5C": {
-        "n": 6,
+        "n": 5,
         "sev": {
           "critical": 0,
           "high": 0,
-          "medium": 3,
+          "medium": 2,
           "low": 3
         },
         "src": {
-          "police": 6
+          "police": 5
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
           0,
           0,
           0,
@@ -5127,20 +7547,20 @@
           0,
           2,
           0,
-          1
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
         "worst": [
           -1,
           -1,
           -1,
           -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -5153,9 +7573,16 @@
           -1,
           0,
           -1,
-          1
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
         ],
-        "pct_busier": 93,
+        "pct_busier": 82,
         "latest": [
           "tps_2f1dc90600eb",
           "tps_4a45dc70aed3",
@@ -5181,13 +7608,6 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
           0,
           0,
@@ -5197,7 +7617,14 @@
           0,
           1,
           0,
-          1
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
         "worst": [
           -1,
@@ -5207,13 +7634,6 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
           -1,
           -1,
@@ -5223,223 +7643,20 @@
           -1,
           0,
           -1,
-          1
+          1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
         ],
         "pct_busier": 61,
         "latest": [
           "tps_706ad712f128",
           "tps_483b1869558e",
           "tps_90deb1710c3b"
-        ]
-      },
-      "M2K": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 3
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          1
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          0
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_9a1fd47560b1",
-          "tps_6553c1531bca",
-          "tps_90f32f1a6db9"
-        ]
-      },
-      "M1E": {
-        "n": 5,
-        "sev": {
-          "critical": 0,
-          "high": 2,
-          "medium": 2,
-          "low": 1
-        },
-        "src": {
-          "police": 5
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          0,
-          1,
-          1
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          2,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          2,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          1,
-          0
-        ],
-        "pct_busier": 86,
-        "latest": [
-          "tps_aeab468e27ca",
-          "tps_f795a37213c1",
-          "tps_9bda97a8352a"
-        ]
-      },
-      "M9W": {
-        "n": 4,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 3
-        },
-        "src": {
-          "police": 4
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          1,
-          1
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          0,
-          1
-        ],
-        "pct_busier": 80,
-        "latest": [
-          "tps_f701e8f4bfa7",
-          "tps_b69e07fee1f5",
-          "tps_44a50bf446d4"
         ]
       },
       "M6A": {
@@ -5460,13 +7677,6 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
           1,
           0,
@@ -5477,17 +7687,17 @@
           0,
           0,
           0,
+          2,
           0,
-          2
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -5503,153 +7713,21 @@
           -1,
           -1,
           -1,
+          0,
           -1,
-          0
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
         ],
-        "pct_busier": 86,
+        "pct_busier": 82,
         "latest": [
           "tps_a859108a4ff7",
           "tps_f7e6291030ab",
           "tps_8e96bba4b716"
-        ]
-      },
-      "M5G": {
-        "n": 6,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 2,
-          "low": 4
-        },
-        "src": {
-          "police": 6
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          1,
-          2,
-          0,
-          1
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          0,
-          -1,
-          1
-        ],
-        "pct_busier": 93,
-        "latest": [
-          "tps_c47d1f71e25d",
-          "tps_e12fefe93617",
-          "tps_2d1a75f96787"
-        ]
-      },
-      "M1J": {
-        "n": 2,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 1
-        },
-        "src": {
-          "police": 2
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1
-        ],
-        "pct_busier": 44,
-        "latest": [
-          "tps_996bc8f3f428",
-          "tps_63c8b321cfbe"
         ]
       },
       "M9C": {
@@ -5678,15 +7756,15 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
           2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0
         ],
         "worst": [
@@ -5704,15 +7782,15 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
           1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
         "pct_busier": 61,
@@ -5723,28 +7801,21 @@
         ]
       },
       "M3L": {
-        "n": 3,
+        "n": 2,
         "sev": {
           "critical": 0,
           "high": 2,
           "medium": 0,
-          "low": 1
+          "low": 0
         },
         "src": {
-          "police": 3
+          "police": 2
         },
         "hours": [
           0,
           0,
           0,
           0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           0,
           0,
           0,
@@ -5757,6 +7828,13 @@
           0,
           0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0
         ],
         "worst": [
@@ -5764,13 +7842,6 @@
           -1,
           -1,
           -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -5783,16 +7854,22 @@
           -1,
           -1,
           2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 61,
+        "pct_busier": 46,
         "latest": [
           "tps_3d9032595908",
-          "tps_145ac975a434",
-          "tps_9d6c4dfce9ab"
+          "tps_145ac975a434"
         ]
       },
-      "M5E": {
+      "M8X": {
         "n": 2,
         "sev": {
           "critical": 0,
@@ -5811,6 +7888,7 @@
           0,
           0,
           0,
+          1,
           0,
           0,
           0,
@@ -5818,6 +7896,7 @@
           0,
           0,
           0,
+          1,
           0,
           0,
           0,
@@ -5825,8 +7904,6 @@
           0,
           0,
           0,
-          0,
-          2,
           0
         ],
         "worst": [
@@ -5837,14 +7914,7 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
+          0,
           -1,
           -1,
           -1,
@@ -5853,152 +7923,19 @@
           -1,
           -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 44,
-        "latest": [
-          "tps_fbb903448356",
-          "tps_5360a2dfe88b"
-        ]
-      },
-      "M8X": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 3
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1
-        ],
-        "pct_busier": 61,
+        "pct_busier": 46,
         "latest": [
           "tps_392ef46315e7",
-          "tps_da7c3f22539d",
-          "tps_a76c4c4a8d29"
-        ]
-      },
-      "M1T": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 2
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_c5d2b2edf4c4",
-          "tps_b3e0b7e40c7a",
-          "tps_bd31a1e94244"
+          "tps_da7c3f22539d"
         ]
       },
       "M1H": {
@@ -6019,6 +7956,7 @@
           0,
           0,
           0,
+          1,
           0,
           0,
           0,
@@ -6035,7 +7973,6 @@
           0,
           0,
           0,
-          1,
           0
         ],
         "worst": [
@@ -6045,14 +7982,6 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
           -1,
           -1,
@@ -6061,10 +7990,18 @@
           -1,
           -1,
           -1,
+          -1,
           2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 44,
+        "pct_busier": 46,
         "latest": [
           "tps_855d1f3cc290",
           "tps_64e4160312a4"
@@ -6089,13 +8026,6 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
           0,
           0,
@@ -6105,16 +8035,16 @@
           1,
           0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -6131,6 +8061,13 @@
           2,
           -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
         "pct_busier": 61,
@@ -6141,21 +8078,32 @@
         ]
       },
       "M1W": {
-        "n": 2,
+        "n": 1,
         "sev": {
           "critical": 0,
           "high": 0,
           "medium": 1,
-          "low": 1
+          "low": 0
         },
         "src": {
-          "police": 2
+          "police": 1
         },
         "hours": [
           0,
           0,
           0,
           0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           1,
           0,
           0,
@@ -6164,17 +8112,6 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
           0
         ],
         "worst": [
@@ -6182,13 +8119,6 @@
           -1,
           -1,
           -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -6201,24 +8131,30 @@
           -1,
           -1,
           1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 44,
+        "pct_busier": 18,
         "latest": [
-          "tps_9960f311ab3d",
-          "tps_dc9b20bd8723"
+          "tps_9960f311ab3d"
         ]
       },
       "M1L": {
-        "n": 2,
+        "n": 1,
         "sev": {
           "critical": 0,
           "high": 0,
-          "medium": 1,
+          "medium": 0,
           "low": 1
         },
         "src": {
-          "police": 2
+          "police": 1
         },
         "hours": [
           0,
@@ -6226,6 +8162,16 @@
           0,
           0,
           0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           1,
           0,
           0,
@@ -6234,16 +8180,6 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
           0
         ],
         "worst": [
@@ -6252,13 +8188,6 @@
           -1,
           -1,
           -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -6270,12 +8199,18 @@
           -1,
           -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 44,
+        "pct_busier": 18,
         "latest": [
-          "tps_5b5a7346ef8a",
-          "tps_85ce8e2e47d0"
+          "tps_5b5a7346ef8a"
         ]
       },
       "M9L": {
@@ -6305,14 +8240,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0
         ],
         "worst": [
@@ -6331,17 +8266,17 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_77841c4005c0"
         ]
@@ -6358,13 +8293,6 @@
           "police": 2
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
           0,
           0,
@@ -6381,16 +8309,16 @@
           0,
           0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           1,
           -1,
           -1,
@@ -6407,24 +8335,31 @@
           -1,
           -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 44,
+        "pct_busier": 46,
         "latest": [
           "tps_fe6ea65bd50c",
           "tps_26d440a2d88e"
         ]
       },
       "M4A": {
-        "n": 2,
+        "n": 1,
         "sev": {
           "critical": 0,
           "high": 0,
-          "medium": 1,
+          "medium": 0,
           "low": 1
         },
         "src": {
-          "police": 2
+          "police": 1
         },
         "hours": [
           0,
@@ -6432,6 +8367,15 @@
           0,
           0,
           0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           1,
           0,
           0,
@@ -6441,15 +8385,6 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
           0
         ],
         "worst": [
@@ -6458,14 +8393,6 @@
           -1,
           -1,
           -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -6476,12 +8403,19 @@
           -1,
           -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 44,
+        "pct_busier": 18,
         "latest": [
-          "tps_b0a2d1448612",
-          "tps_9e1c6cd0cf93"
+          "tps_b0a2d1448612"
         ]
       },
       "M2M": {
@@ -6510,14 +8444,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0
         ],
@@ -6536,18 +8470,18 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_67ec336430bf"
         ]
@@ -6572,13 +8506,6 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
           0,
           0,
@@ -6586,6 +8513,13 @@
           0,
           0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0
         ],
@@ -6598,13 +8532,6 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
           -1,
           -1,
@@ -6612,34 +8539,34 @@
           -1,
           -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1
         ],
-        "pct_busier": 44,
+        "pct_busier": 46,
         "latest": [
           "tps_44bbe54cb011",
           "tps_3f7d25ce9556"
         ]
       },
       "M4X": {
-        "n": 4,
+        "n": 3,
         "sev": {
           "critical": 0,
-          "high": 1,
+          "high": 0,
           "medium": 0,
           "low": 3
         },
         "src": {
-          "police": 4
+          "police": 3
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
           1,
           0,
           0,
@@ -6655,17 +8582,17 @@
           0,
           1,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          2,
-          -1,
           0,
           -1,
           -1,
@@ -6681,84 +8608,21 @@
           -1,
           0,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1
         ],
-        "pct_busier": 80,
+        "pct_busier": 61,
         "latest": [
           "tps_11f152b9acd0",
           "tps_9ec7a9df7acb",
           "tps_f39ded2825e4"
-        ]
-      },
-      "M4Y": {
-        "n": 6,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 5
-        },
-        "src": {
-          "police": 6
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          2,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          0,
-          0,
-          -1,
-          -1
-        ],
-        "pct_busier": 93,
-        "latest": [
-          "tps_a141df2240a7",
-          "tps_5f5148f878a9",
-          "tps_7599afeda665"
         ]
       },
       "M2J": {
@@ -6787,14 +8651,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0
         ],
@@ -6813,160 +8677,20 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_e52f763e25e3"
-        ]
-      },
-      "M6S": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 2,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          2,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          2,
-          0,
-          -1,
-          -1
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_64779774b0a2",
-          "tps_96711866f864",
-          "tps_019e2d567cc5"
-        ]
-      },
-      "M9N": {
-        "n": 5,
-        "sev": {
-          "critical": 0,
-          "high": 1,
-          "medium": 1,
-          "low": 3
-        },
-        "src": {
-          "police": 5
-        },
-        "hours": [
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0
-        ],
-        "worst": [
-          2,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1
-        ],
-        "pct_busier": 86,
-        "latest": [
-          "tps_76838364015a",
-          "tps_5106fc83d979",
-          "tps_62582b531f47"
         ]
       },
       "M1B": {
@@ -6981,13 +8705,6 @@
           "police": 4
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
           0,
           0,
@@ -7001,19 +8718,19 @@
           0,
           0,
           0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
           -1,
           -1,
@@ -7021,7 +8738,6 @@
           -1,
           -1,
           0,
-          -1,
           -1,
           -1,
           -1,
@@ -7030,9 +8746,17 @@
           -1,
           1,
           -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 80,
+        "pct_busier": 73,
         "latest": [
           "tps_712a69e01e5a",
           "tps_84e0223cfe73",
@@ -7052,15 +8776,7 @@
           "fire": 1
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
-          0,
           0,
           0,
           0,
@@ -7072,21 +8788,21 @@
           0,
           0,
           0,
-          3,
+          1,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           1,
-          -1,
           -1,
           -1,
           -1,
@@ -7099,24 +8815,32 @@
           -1,
           -1,
           2,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1
         ],
-        "pct_busier": 93,
+        "pct_busier": 91,
         "latest": [
           "tps_55d999bbaf03",
           "tps_913e0547df55",
           "tps_c8c2a35e3185"
         ]
       },
-      "M5N": {
+      "M4S": {
         "n": 1,
         "sev": {
           "critical": 0,
           "high": 0,
-          "medium": 0,
-          "low": 1
+          "medium": 1,
+          "low": 0
         },
         "src": {
           "police": 1
@@ -7135,14 +8859,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
@@ -7161,6 +8885,7 @@
           -1,
           -1,
           -1,
+          1,
           -1,
           -1,
           -1,
@@ -7168,104 +8893,27 @@
           -1,
           -1,
           -1,
-          0,
           -1,
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
-          "tps_e4def54ce5ac"
-        ]
-      },
-      "M4S": {
-        "n": 2,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 2,
-          "low": 0
-        },
-        "src": {
-          "police": 2
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 44,
-        "latest": [
-          "tps_7646acb75f55",
-          "tps_e1389398ef7e"
+          "tps_7646acb75f55"
         ]
       },
       "M3H": {
-        "n": 5,
+        "n": 3,
         "sev": {
           "critical": 0,
           "high": 0,
           "medium": 0,
-          "low": 5
+          "low": 3
         },
         "src": {
-          "police": 5
+          "police": 3
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
           1,
           0,
           0,
@@ -7280,18 +8928,18 @@
           0,
           0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          0,
           0,
           -1,
           -1,
@@ -7306,11 +8954,18 @@
           -1,
           -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1
         ],
-        "pct_busier": 86,
+        "pct_busier": 61,
         "latest": [
           "tps_58a0fc194777",
           "tps_2450f8641e83",
@@ -7342,14 +8997,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
@@ -7368,19 +9023,19 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_228b6b6a7035"
         ]
@@ -7409,14 +9064,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -7435,20 +9090,20 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_5c3ba60c57c4"
         ]
@@ -7472,32 +9127,25 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
           0,
           0,
           0,
           0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -7514,295 +9162,22 @@
           -1,
           -1,
           -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 44,
+        "pct_busier": 46,
         "latest": [
           "tps_2b9334be6443",
           "tps_49dce2c0ada9"
         ]
       },
       "M5V": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 2
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_20bca24d6f6d",
-          "tps_c8c98d0d42d4",
-          "tps_1dd3e311be8b"
-        ]
-      },
-      "M9V": {
-        "n": 6,
-        "sev": {
-          "critical": 0,
-          "high": 2,
-          "medium": 0,
-          "low": 4
-        },
-        "src": {
-          "police": 6
-        },
-        "hours": [
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          2,
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          2,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          2,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 93,
-        "latest": [
-          "tps_a7ea2a89e57a",
-          "tps_b5ed94df03fd",
-          "tps_51ea67f849f0"
-        ]
-      },
-      "M2R": {
-        "n": 4,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 2,
-          "low": 2
-        },
-        "src": {
-          "police": 4
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          2,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          0,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 80,
-        "latest": [
-          "tps_3917f1db9cfa",
-          "tps_943bd373ae05",
-          "tps_38334ae9d813"
-        ]
-      },
-      "M6J": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 2
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_9d51f4c7de69",
-          "tps_086a3a6e2f47",
-          "tps_8180c2acc6c5"
-        ]
-      },
-      "M4G": {
         "n": 1,
         "sev": {
           "critical": 0,
@@ -7826,11 +9201,11 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -7852,6 +9227,67 @@
           -1,
           -1,
           -1,
+          0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1
+        ],
+        "pct_busier": 18,
+        "latest": [
+          "tps_20bca24d6f6d"
+        ]
+      },
+      "M4G": {
+        "n": 1,
+        "sev": {
+          "critical": 0,
+          "high": 0,
+          "medium": 0,
+          "low": 1
+        },
+        "src": {
+          "police": 1
+        },
+        "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "worst": [
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -7863,9 +9299,16 @@
           -1,
           -1,
           -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_1a541aaf1e8b"
         ]
@@ -7891,14 +9334,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -7917,14 +9360,14 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           2,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -7933,287 +9376,9 @@
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_ad9e00f873d4"
-        ]
-      },
-      "M6M": {
-        "n": 3,
-        "sev": {
-          "critical": 1,
-          "high": 0,
-          "medium": 1,
-          "low": 1
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          3,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_5ed5e93c8e3b",
-          "tps_8656bc594e86",
-          "tps_cfc3714d152c"
-        ]
-      },
-      "M4J": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 3
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_89a1955f4a8e",
-          "tps_cfa54771501a",
-          "tps_2ab3a93e5614"
-        ]
-      },
-      "M3C": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_fcb8f36d25e6"
-        ]
-      },
-      "M6K": {
-        "n": 5,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 2,
-          "low": 3
-        },
-        "src": {
-          "police": 5
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          2,
-          0,
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 86,
-        "latest": [
-          "tps_a76cac96a33e",
-          "tps_89e754c1e66c",
-          "tps_7f2256d1bc96"
         ]
       },
       "M3B": {
@@ -8236,14 +9401,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -8262,14 +9427,14 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -8279,90 +9444,21 @@
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_ec79c03e1cb9"
         ]
       },
       "M9M": {
-        "n": 2,
+        "n": 1,
         "sev": {
           "critical": 0,
           "high": 0,
           "medium": 0,
-          "low": 2
-        },
-        "src": {
-          "police": 2
-        },
-        "hours": [
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 44,
-        "latest": [
-          "tps_f26535073801",
-          "tps_52633611b3c1"
-        ]
-      },
-      "M2P": {
-        "n": 2,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
           "low": 1
         },
         "src": {
-          "police": 2
+          "police": 1
         },
         "hours": [
           0,
@@ -8371,16 +9467,16 @@
           0,
           0,
           0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           0,
           0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -8397,6 +9493,8 @@
           -1,
           -1,
           -1,
+          -1,
+          -1,
           0,
           -1,
           -1,
@@ -8406,8 +9504,6 @@
           -1,
           -1,
           -1,
-          1,
-          -1,
           -1,
           -1,
           -1,
@@ -8416,40 +9512,39 @@
           -1,
           -1
         ],
-        "pct_busier": 44,
+        "pct_busier": 18,
         "latest": [
-          "tps_a8a2bff4448d",
-          "tps_fe544f92ba9b"
+          "tps_f26535073801"
         ]
       },
-      "M1P": {
-        "n": 3,
+      "M2P": {
+        "n": 1,
         "sev": {
           "critical": 0,
           "high": 0,
           "medium": 1,
-          "low": 2
+          "low": 0
         },
         "src": {
-          "police": 3
+          "police": 1
         },
         "hours": [
           0,
           0,
           0,
           0,
-          1,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
           0,
           0,
           0,
           0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -8464,7 +9559,10 @@
           -1,
           -1,
           -1,
-          0,
+          -1,
+          -1,
+          -1,
+          -1,
           1,
           -1,
           -1,
@@ -8475,9 +9573,6 @@
           -1,
           -1,
           -1,
-          0,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -8485,11 +9580,9 @@
           -1,
           -1
         ],
-        "pct_busier": 61,
+        "pct_busier": 18,
         "latest": [
-          "tps_c60076920ce6",
-          "tps_5a0696cc9c1c",
-          "tps_56abbdc97c6d"
+          "tps_a8a2bff4448d"
         ]
       },
       "M4M": {
@@ -8511,14 +9604,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -8537,14 +9630,14 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -8555,7 +9648,7 @@
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_e72e0e70f9d9"
         ]
@@ -8579,14 +9672,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -8605,14 +9698,14 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -8623,7 +9716,7 @@
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_70ac7c372867"
         ]
@@ -8647,14 +9740,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -8673,14 +9766,14 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -8691,7 +9784,7 @@
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_9e2794d2a716"
         ]
@@ -8715,14 +9808,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -8741,14 +9834,14 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -8759,93 +9852,30 @@
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_a1d40883dce2"
         ]
       },
-      "M6R": {
-        "n": 4,
+      "M3K": {
+        "n": 1,
         "sev": {
           "critical": 0,
           "high": 0,
-          "medium": 1,
-          "low": 3
-        },
-        "src": {
-          "police": 4
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 80,
-        "latest": [
-          "tps_ffba7000577f",
-          "tps_6137513c2c8f",
-          "tps_bc48e4f5c50e"
-        ]
-      },
-      "M3K": {
-        "n": 2,
-        "sev": {
-          "critical": 0,
-          "high": 1,
           "medium": 0,
           "low": 1
         },
         "src": {
-          "police": 2
+          "police": 1
         },
         "hours": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           1,
           0,
           0,
@@ -8854,13 +9884,6 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
           0,
           0,
           0,
@@ -8872,13 +9895,6 @@
           0
         ],
         "worst": [
-          2,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           -1,
           -1,
           -1,
@@ -8895,12 +9911,18 @@
           -1,
           -1,
           -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1
         ],
-        "pct_busier": 44,
+        "pct_busier": 18,
         "latest": [
-          "tps_6a6b6f9fe727",
-          "tps_1e32fa567450"
+          "tps_6a6b6f9fe727"
         ]
       },
       "M4V": {
@@ -8922,14 +9944,14 @@
           0,
           0,
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -8948,14 +9970,14 @@
           -1,
           -1,
           -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -8966,216 +9988,9 @@
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_770b0f7eb3ff"
-        ]
-      },
-      "M6B": {
-        "n": 2,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 2
-        },
-        "src": {
-          "police": 2
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 44,
-        "latest": [
-          "tps_51e21adb5dc6",
-          "tps_3fe876a9130a"
-        ]
-      },
-      "M3N": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_49bc4a36a089"
-        ]
-      },
-      "M6C": {
-        "n": 3,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 2
-        },
-        "src": {
-          "police": 3
-        },
-        "hours": [
-          1,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 61,
-        "latest": [
-          "tps_4deff3e901eb",
-          "tps_09d59eb57abd",
-          "tps_20e7be0090b1"
         ]
       },
       "M9R": {
@@ -9190,15 +10005,15 @@
           "police": 1
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -9216,15 +10031,15 @@
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -9241,30 +10056,23 @@
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_0e7def6e7162"
         ]
       },
       "M4K": {
-        "n": 3,
+        "n": 2,
         "sev": {
           "critical": 0,
           "high": 0,
-          "medium": 1,
+          "medium": 0,
           "low": 2
         },
         "src": {
-          "police": 3
+          "police": 2
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
           2,
           0,
           0,
@@ -9281,17 +10089,24 @@
           0,
           0,
           0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -9309,11 +10124,10 @@
           -1,
           -1
         ],
-        "pct_busier": 61,
+        "pct_busier": 46,
         "latest": [
           "tps_ea0624a3058f",
-          "tps_6882f452542e",
-          "tps_206ab4c42620"
+          "tps_6882f452542e"
         ]
       },
       "M9B": {
@@ -9328,14 +10142,14 @@
           "police": 1
         },
         "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
           1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0,
@@ -9354,14 +10168,14 @@
           0
         ],
         "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
           0,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
+          -1,
           -1,
           -1,
           -1,
@@ -9379,759 +10193,9 @@
           -1,
           -1
         ],
-        "pct_busier": 14,
+        "pct_busier": 18,
         "latest": [
           "tps_ef1ccbcf52a4"
-        ]
-      },
-      "M1S": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_05274b29a4fc"
-        ]
-      },
-      "M4R": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 0
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_3d3a11300197"
-        ]
-      },
-      "M5S": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_c98f91ff83e4"
-        ]
-      },
-      "M2N": {
-        "n": 2,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 1,
-          "low": 1
-        },
-        "src": {
-          "police": 1,
-          "fire": 1
-        },
-        "hours": [
-          1,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 44,
-        "latest": [
-          "tps_08db49b50de9",
-          "tfs_F26184504"
-        ]
-      },
-      "M5M": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_0cbdc92ab47e"
-        ]
-      },
-      "M9P": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_d91ff8a99292"
-        ]
-      },
-      "M8W": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_f41e5c5e4181"
-        ]
-      },
-      "M6E": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_b1e75dd893cb"
-        ]
-      },
-      "M6L": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 1,
-          "medium": 0,
-          "low": 0
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          2,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_cff265d751d2"
-        ]
-      },
-      "M4B": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_e8fbdcda82c8"
-        ]
-      },
-      "M6H": {
-        "n": 1,
-        "sev": {
-          "critical": 0,
-          "high": 0,
-          "medium": 0,
-          "low": 1
-        },
-        "src": {
-          "police": 1
-        },
-        "hours": [
-          0,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "worst": [
-          -1,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1,
-          -1
-        ],
-        "pct_busier": 14,
-        "latest": [
-          "tps_b0a643d2250a"
         ]
       }
     }
