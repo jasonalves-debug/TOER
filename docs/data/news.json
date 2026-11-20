@@ -1,20 +1,116 @@
 {
-  "generated": "2026-11-19T18:04:25.067169+00:00",
+  "generated": "2026-11-20T00:38:56.979931+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965821",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966244",
       "source": "citynews",
-      "title": "Canada-wide warrants issued for 2 suspects in Mississauga teen\u2019s death in Etobicoke",
-      "summary": "Toronto police a search for two suspects wanted in connection with the fatal shooting of an 18-year-old Mississauga man earlier this month is ongoing, and both accused are now the subjects of Canada-wide warrants. Investigators announced Thursday that Armani Callender, 19, of Toronto, and Cameron Marlor, 17, of Toronto, are wanted in the Nov. 7 [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/19/etobicoke-homicide-malik-abass-two-suspects-wanted-canada-wide/",
-      "ts": "2026-11-19T17:45:46+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
+      "title": "Pedestrian struck and killed in Mississauga",
+      "summary": "A pedestrian has been struck and killed in Mississauga.",
+      "link": "https://toronto.citynews.ca/2026/11/19/pedestrian-struck-and-killed-in-mississauga-3/",
+      "ts": "2026-11-20T00:26:24+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7427512",
+      "source": "cbc",
+      "title": "Vehicle ticketed in Toronto minutes after rush hour sign change \u2014 and driver is not happy",
+      "summary": "A Toronto resident is speaking out after he received a $120 parking ticket in Parkdale minutes after crews took down old traffic signs and put up new ones that changed the no-stopping times on a stretch of Queen Street W. Police say they will request tickets issued during the sign change be cancelled.",
+      "link": "https://www.cbc.ca/news/canada/toronto/parking-ticket-dispute-parkdale-9.7427512?cmp=rss",
+      "ts": "2026-11-19T22:03:33+00:00",
+      "lat": 43.7748001,
+      "lng": -79.5182714,
+      "location": "Queen Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965741",
+      "source": "citynews",
+      "title": "New TTC Board chair named as Chow shuffles leadership roles at City Hall",
+      "summary": "City Council resumed Thursday after Mayor Olivia Chow and city councillors were sworn in on Wednesday and at the top of the agenda was naming members to various boards, committees, agencies and corporations. The Chairs and Vice-Chairs of Executive, Standing and Special Committees along with Community Councils were appointed by the mayor, while recommendations for [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/19/new-ttc-board-chair-named-leadership-shuffle-at-city-hall/",
+      "ts": "2026-11-19T21:29:56+00:00",
+      "lat": 43.6534,
+      "lng": -79.3841,
+      "location": "City Hall",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966069",
+      "source": "citynews",
+      "title": "College of physicians not investigating MP over MAID comments",
+      "summary": "OTTAWA \u2014 The College of Physicians and Surgeons of Ontario says it's not investigating a member of Parliament who received a complaint over comments he made about medical assistance in dying.",
+      "link": "https://toronto.citynews.ca/2026/11/19/college-of-physicians-not-investigating-mp-over-maid-comments/",
+      "ts": "2026-11-19T21:07:48+00:00",
+      "lat": 43.6608395,
+      "lng": -79.3870381,
+      "location": "Physicians & Surgeons",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966033",
+      "source": "citynews",
+      "title": "Mayor Chow turns down police board seat, shakes up city hall leadership with new councillors for committees",
+      "summary": "Mayor Olivia Chow shuffled her leadership team at city hall on Thursday, tapping a former Liberal MP to head up the housing committee and her Scarborough deputy as transit chair.",
+      "link": "https://toronto.citynews.ca/2026/11/19/mayor-chow-turns-down-police-board-seat/",
+      "ts": "2026-11-19T20:49:19+00:00",
+      "lat": 43.6534,
+      "lng": -79.3841,
+      "location": "City Hall",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965982",
+      "source": "citynews",
+      "title": "Police release images of SUV involved in hit-and-run near Mt. Pleasant and Jarvis",
+      "summary": "Toronto Police have released images of an SUV that allegedly ran over a pedestrian and fled the scene on Nov. 3 in the area of Mt. Pleasant Road and Jarvis Street. The pedestrian had already been knocked down by a 2013 Hyundai going north on Mt. Pleasant while he was standing in the roadway when [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/19/police-release-images-of-suv-involved-in-hit-and-run-near-mt-pleasant-and-jarvis/",
+      "ts": "2026-11-19T20:37:16+00:00",
+      "lat": 43.6845322,
+      "lng": -79.3836728,
+      "location": "Pleasant Road",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965983",
+      "source": "citynews",
+      "title": "A cyberattack leaks thousands of Chase customer emails and some phone numbers",
+      "summary": "NEW YORK (AP) \u2014 Personal information belonging to thousands of JPMorgan Chase customers was leaked onto the internet Thursday after third-party vendors at the bank were targeted in a cyberattack. The leak is unrelated a bank outage earlier this week and the information involved did not include credit card or particularly sensitive personal information, the bank said.",
+      "link": "https://toronto.citynews.ca/2026/11/19/a-cyberattack-leaks-thousands-of-chase-customer-emails-and-some-phone-numbers/",
+      "ts": "2026-11-19T19:48:18+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7428587",
+      "source": "cbc",
+      "title": "NSL champions AFC Toronto celebrated at city hall",
+      "summary": "Toronto Mayor Olivia Chow proclaimed November 19 as 'AFC Toronto Day' in celebration of the club's Northern Super League championship title. CBC News' Dana Roberts was there and spoke with players and fans.",
+      "link": "https://www.cbc.ca/player/play/9.7428587?cmp=rss",
+      "ts": "2026-11-19T19:25:47+00:00",
+      "lat": 43.6534,
+      "lng": -79.3841,
+      "location": "City Hall",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965948",
+      "source": "citynews",
+      "title": "Central Park\u2019s horse-drawn carriage drivers sue NYC over incoming ban",
+      "summary": "NEW YORK (AP) \u2014 Hold your horses: Central Park's horse-drawn carriage drivers sued New York City on Thursday to stop a new law that will ban the iconic tourist attraction, challenging Mayor Zohran Mamdani just minutes after he signed a bill to wind down the industry.",
+      "link": "https://toronto.citynews.ca/2026/11/19/central-parks-horse-drawn-carriage-drivers-sue-nyc-over-incoming-ban/",
+      "ts": "2026-11-19T18:54:28+00:00",
+      "lat": 43.6460475,
+      "lng": -79.5182504,
+      "location": "Central Park",
       "approximate": true
     },
     {
@@ -24,66 +120,6 @@
       "summary": "A Halton police officer has been charged, according to the Ontario police watchdog, after shooting a 23-year-old man multiple times.",
       "link": "https://www.cbc.ca/news/canada/hamilton/siu-evan-zych-burlington-9.7428303?cmp=rss",
       "ts": "2026-11-19T17:31:49+00:00",
-      "lat": 43.3255,
-      "lng": -79.799,
-      "location": "Burlington",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965734",
-      "source": "citynews",
-      "title": "SIU charge Halton police officer after shooting man, 23, during Burlington traffic stop",
-      "summary": "A Halton Regional Police officer is facing several charges after shooting a 23-year-old man during a traffic stop in Burlington earlier this year. The Special Investigations Unit (SIU) said in a release on Thursday that Director Joseph Martino had reasonable grounds to believe the officer allegedly committed criminal offences in relation to the shooting. According [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/19/halton-police-officer-charged-burlington-siu/",
-      "ts": "2026-11-19T17:25:08+00:00",
-      "lat": 43.3255,
-      "lng": -79.799,
-      "location": "Burlington",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965809",
-      "source": "citynews",
-      "title": "Man charged after allegedly using long-term care resident\u2019s identity to open bank account in Oshawa",
-      "summary": "A 65-year-old man is facing multiple fraud-related charges after Durham police say he tried to open a bank account using the identity of an elderly resident living in a long-term care home. According to Durham Regional Police, officers were called to a TD Bank branch on Ritson Road North in Oshawa on Wednesday, Nov. 18, [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/19/oshawa-man-charged-long-term-care-resident-bank-account/",
-      "ts": "2026-11-19T17:11:31+00:00",
-      "lat": 43.8971,
-      "lng": -78.8658,
-      "location": "Oshawa",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965781",
-      "source": "citynews",
-      "title": "1 injured in Oshawa stabbing, police say",
-      "summary": "One person is injured following a stabbing in Oshawa, police say. Durham police and paramedics were called to the area of Celina Street and Bruce Street, near King Street East and Simcoe Road South, around 11 a.m. on Thursday. Officers located one person in the area and paramedics are treating them at the scene. Police [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/19/oshawa-stabbing-durham-region/",
-      "ts": "2026-11-19T16:59:18+00:00",
-      "lat": 43.8971,
-      "lng": -78.8658,
-      "location": "Oshawa",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965718",
-      "source": "citynews",
-      "title": "4 charged, 2 wanted in alleged thefts and trafficking of highway tractors, trailers in the GTA: York police",
-      "summary": "Four people have been charged, and two are wanted, after an investigation in the alleged theft and trafficking of highway tractors, trailers and other heavy equipment in the Greater Toronto Area (GTA). York Regional Police (YRP) say the investigation, called Project Nashville, began in August 2026 by the Auto Cargo Theft Unit to look into [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/19/4-charged-2-wanted-in-alleged-thefts-trafficking-of-highway-tractors-trailers-gta/",
-      "ts": "2026-11-19T16:58:36+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965735",
-      "source": "citynews",
-      "title": "Fourth member of Burlington family dies following townhouse fire; 1 child remains in hospital",
-      "summary": "A fourth member of a Burlington family has died following a devastating townhouse fire that critically injured five people last weekend. In a statement released Thursday, Burlington Mayor Marianne Meed Ward said the tragedy has now claimed the lives of four family members, including two parents and two children. &#8220;Our community has been deeply shaken [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/19/burlington-fire-townhouse-family-members-dead/",
-      "ts": "2026-11-19T16:32:34+00:00",
       "lat": 43.3255,
       "lng": -79.799,
       "location": "Burlington",
@@ -114,16 +150,16 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7426833",
+      "id": "news_cbc_9.7427743",
       "source": "cbc",
-      "title": "Inquest into police-involved death of Jamal Francique shown videos from after shooting",
-      "summary": "The inquest into the death of a Black man shot by police in Mississauga in early 2020 is watching videos showing the officers around his wrecked car after the shooting.",
-      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-videos-9.7426833?cmp=rss",
-      "ts": "2026-11-18T18:52:43+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
+      "title": "Chow turns down police board seat, selects new committee heads at city hall",
+      "summary": "Mayor Olivia Chow again turned down a post on the Toronto police board Thursday. She also opted to shake up high-profile committee roles, charging newly elected and veteran allies with key positions.",
+      "link": "https://www.cbc.ca/news/canada/toronto/oliva-chow-city-hall-leadership-police-board-9.7427743?cmp=rss",
+      "ts": "2026-11-19T12:20:49+00:00",
+      "lat": 43.6534,
+      "lng": -79.3841,
+      "location": "City Hall",
+      "approximate": false
     }
   ]
 }
