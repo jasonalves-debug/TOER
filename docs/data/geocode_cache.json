@@ -829,5 +829,16 @@
     "lat": 43.6640348,
     "lng": -79.3584684
   },
-  "st:kipling ave|hayhurst rd|etobicoke": null
+  "st:kipling ave|hayhurst rd|etobicoke": null,
+  "xx:morningside ave|pixley cres": null,
+  "st:attwell dr|carlingview dr|etobicoke": null,
+  "st:north queen st|kipling ave|etobicoke": {
+    "lat": 43.6248712,
+    "lng": -79.5282469
+  },
+  "st:chartwell rd|the queensway|etobicoke": {
+    "lat": 43.6262001,
+    "lng": -79.5111765
+  },
+  "fsa2:L4X": null
 }

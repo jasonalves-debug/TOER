@@ -1,10 +1,106 @@
 {
-  "generated": "2026-11-20T07:47:38.437607+00:00",
+  "generated": "2026-11-20T16:49:11.706299+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966560",
+      "source": "citynews",
+      "title": "Joly, Stellantis officials set for latest showdown on Friday",
+      "summary": "Industry Minister M\u00e9lanie Joly is set to meet with representatives of Stellantis, the Ontario government and Unifor again today behind closed doors. The sit-down comes as Joly says the automaker can either keep its Brampton, Ont. plant open rather than selling it to defence contractor Roshel, or face a multimillion-dollar lawsuit from the federal government. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/20/stellantis-ontario-joly-unifor-latest/",
+      "ts": "2026-11-20T16:01:58+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966554",
+      "source": "citynews",
+      "title": "Ford Super Duty pickup trucks begin rolling out after retool at Oakville, Ont., plant",
+      "summary": "The plant is reopened and trucks are already rolling out. Now, Ford Motor Co. hopes its Oakville, Ont., assembly complex can help it drive growth and demonstrate the automaker&#8217;s commitment to Canadian manufacturing for the long haul. Friday marks the official relaunch of the site following a major transformation to prepare for production of the [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/20/ford-oakville-production-ontario/",
+      "ts": "2026-11-20T16:00:14+00:00",
+      "lat": 43.4675,
+      "lng": -79.6877,
+      "location": "Oakville",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966515",
+      "source": "citynews",
+      "title": "2 Clarington men arrested for alleged theft from Ajax construction site",
+      "summary": "Durham Regional Police have arrested two men from Clarington in connection with a theft at an Ajax construction site that occurred on Nov. 12. Police were called to the site in the area of Harwood Avenue South and Clements Road West and launched an investigation. Investigators executed a search warrant on Thursday at a residence [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/20/2-clarington-men-arrested-for-alleged-theft-from-ajax-construction-site/",
+      "ts": "2026-11-20T15:22:52+00:00",
+      "lat": 43.667912,
+      "lng": -79.4872065,
+      "location": "Harwood Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966508",
+      "source": "citynews",
+      "title": "Teen charged after vehicle explosion at Ajax GO Station parking garage",
+      "summary": "A 17-year-old Oshawa male is facing several charges after a vehicle exploded and caught fire at the Ajax GO Station parking garage late Thursday night. Durham Regional Police say officers were called to assist first responders at the GO station, located at 100 Westney Rd. S., at approximately 11:20 p.m. on Thursday, Nov. 19. When [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/20/ajax-go-station-teen-charged-arson-vehicle-explosion/",
+      "ts": "2026-11-20T14:53:30+00:00",
+      "lat": 43.8509,
+      "lng": -79.0204,
+      "location": "Ajax",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966494",
+      "source": "citynews",
+      "title": "Streetcar diverting, traffic down to one lane for major infrastructure work on King Street West until winter 2027",
+      "summary": "King Street West will be undergoing major infrastructure work over the next year, causing interruptions for drivers and TTC riders. Starting Monday and continuing through until winter 2027, the TTC and the City of Toronto will be replacing aging watermain infrastructure and renewing streetcar tracks. The construction will start between Dufferin Street and Close Avenue [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/20/streetcar-diverting-traffic-down-to-one-lane-for-major-infrastructure-work-on-king-street-west-until-winter-2027/",
+      "ts": "2026-11-20T14:44:09+00:00",
+      "lat": 43.7072157,
+      "lng": -79.5104764,
+      "location": "King Street",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7429581",
+      "source": "cbc",
+      "title": "60-year-old driver charged after crash that killed pedestrian in August: Durham police",
+      "summary": "On Aug. 18, officers responded after a man on rollerblades was struck by a transport truck driven by a 60-year-old man in Ajax, Ont., Durham police said. Three months later, the driver has been charged with careless driving causing death.",
+      "link": "https://www.cbc.ca/news/canada/toronto/durham-police-driver-charged-9.7429581?cmp=rss",
+      "ts": "2026-11-20T14:02:49+00:00",
+      "lat": 43.8509,
+      "lng": -79.0204,
+      "location": "Ajax",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966470",
+      "source": "citynews",
+      "title": "Transport truck driver charged in collision that killed man rollerblading in Ajax",
+      "summary": "The Durham Regional Police Service (DRPS) have charged a 60-year-old man after a pedestrian who was rollerblading was struck and killed in a collision in Ajax over the summer. Officers were called to the area of Salem Road and Chambers Drive at approximately 8:40 p.m. on Sunday, Aug. 18, following reports that a pedestrian had [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/20/ajax-man-dead-rollerblades-truck-driver-charged/",
+      "ts": "2026-11-20T13:34:57+00:00",
+      "lat": 43.8509,
+      "lng": -79.0204,
+      "location": "Ajax",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7429494",
+      "source": "cbc",
+      "title": "Fuel truck crash, fire closes Highway 401 eastbound near Trenton",
+      "summary": "Ontario Provincial Police say a fuel truck crashed and caught fire near Highway 401's Wooler Road interchange Friday morning. There were closures on the 401 and County Road 40 until around 9:30 a.m.",
+      "link": "https://www.cbc.ca/news/canada/ottawa/trenton-brighton-highway-401-crash-fire-9.7429494?cmp=rss",
+      "ts": "2026-11-20T12:34:51+00:00",
+      "lat": 43.6911749,
+      "lng": -79.569902,
+      "location": "Highway 401",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7428916",
       "source": "cbc",
@@ -30,18 +126,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966244",
-      "source": "citynews",
-      "title": "Man struck and killed in Mississauga",
-      "summary": "A pedestrian has been struck and killed in Mississauga.",
-      "link": "https://toronto.citynews.ca/2026/11/19/pedestrian-struck-and-killed-in-mississauga-3/",
-      "ts": "2026-11-20T00:26:24+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7427512",
       "source": "cbc",
       "title": "Vehicle ticketed in Toronto minutes after rush hour sign change \u2014 and driver is not happy",
@@ -54,66 +138,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965741",
-      "source": "citynews",
-      "title": "Mayor Chow turns down police board seat, names new TTC chair while shuffling leadership roles at City Hall",
-      "summary": "City Council resumed Thursday after Mayor Olivia Chow and city councillors were sworn in on Wednesday and at the top of the agenda was naming members to various boards, committees, agencies and corporations. The Chairs and Vice-Chairs of Executive, Standing and Special Committees along with Community Councils were appointed by the mayor, while recommendations for [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/19/new-ttc-board-chair-named-leadership-shuffle-at-city-hall/",
-      "ts": "2026-11-19T21:29:56+00:00",
-      "lat": 43.6534,
-      "lng": -79.3841,
-      "location": "City Hall",
-      "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966069",
-      "source": "citynews",
-      "title": "College of physicians not investigating MP over MAID comments",
-      "summary": "OTTAWA \u2014 The College of Physicians and Surgeons of Ontario says it's not investigating a member of Parliament who received a complaint over comments he made about medical assistance in dying.",
-      "link": "https://toronto.citynews.ca/2026/11/19/college-of-physicians-not-investigating-mp-over-maid-comments/",
-      "ts": "2026-11-19T21:07:48+00:00",
-      "lat": 43.6608395,
-      "lng": -79.3870381,
-      "location": "Physicians & Surgeons",
-      "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966033",
-      "source": "citynews",
-      "title": "Mayor Chow turns down police board seat, shakes up city hall leadership with new councillors for committees",
-      "summary": "Mayor Olivia Chow shuffled her leadership team at city hall on Thursday, tapping a former Liberal MP to head up the housing committee and her Scarborough deputy as transit chair.",
-      "link": "https://toronto.citynews.ca/2026/11/19/mayor-chow-turns-down-police-board-seat/",
-      "ts": "2026-11-19T20:49:19+00:00",
-      "lat": 43.6534,
-      "lng": -79.3841,
-      "location": "City Hall",
-      "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965982",
-      "source": "citynews",
-      "title": "Police release images of SUV involved in hit-and-run near Mt. Pleasant and Jarvis",
-      "summary": "Toronto Police have released images of an SUV that allegedly ran over a pedestrian and fled the scene on Nov. 3 in the area of Mt. Pleasant Road and Jarvis Street. The pedestrian had already been knocked down by a 2013 Hyundai going north on Mt. Pleasant while he was standing in the roadway when [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/19/police-release-images-of-suv-involved-in-hit-and-run-near-mt-pleasant-and-jarvis/",
-      "ts": "2026-11-19T20:37:16+00:00",
-      "lat": 43.6845322,
-      "lng": -79.3836728,
-      "location": "Pleasant Road",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7428587",
-      "source": "cbc",
-      "title": "NSL champions AFC Toronto celebrated at city hall",
-      "summary": "Toronto Mayor Olivia Chow proclaimed November 19 as 'AFC Toronto Day' in celebration of the club's Northern Super League championship title. CBC News' Dana Roberts was there and spoke with players and fans.",
-      "link": "https://www.cbc.ca/player/play/9.7428587?cmp=rss",
-      "ts": "2026-11-19T19:25:47+00:00",
-      "lat": 43.6534,
-      "lng": -79.3841,
-      "location": "City Hall",
-      "approximate": false
-    },
-    {
       "id": "news_cbc_9.7428303",
       "source": "cbc",
       "title": "SIU charges Halton police officer after shooting of Burlington, Ont., man in motel parking lot",
@@ -123,18 +147,6 @@
       "lat": 43.3255,
       "lng": -79.799,
       "location": "Burlington",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7427992",
-      "source": "cbc",
-      "title": "This Etobicoke mall was transformed into the set of Netflix's latest game show",
-      "summary": "When Charles Wachter was tasked with finding a \u201cfantasy mall\u201d for Netflix\u2019s new reality competition show, Win the Mall, he turned to his hometown shopping centre: Sherway Gardens in Etobicoke. But the showrunner says transforming the retail mecca into a game show set was a logistical challenge.",
-      "link": "https://www.cbc.ca/news/canada/toronto/netflix-win-the-mall-game-show-toronto-sherway-gardens-9.7427992?cmp=rss",
-      "ts": "2026-11-19T15:18:25+00:00",
-      "lat": 43.6118845,
-      "lng": -79.557785,
-      "location": "Sherway Gardens",
       "approximate": true
     },
     {
