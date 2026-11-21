@@ -860,5 +860,10 @@
   },
   "st:tarsus cres|canmore blvd|scarborough": null,
   "xx:pitt ave|st bedes rd": null,
-  "st:kingston rd|fred johnson park trl|scarborough": null
+  "st:kingston rd|fred johnson park trl|scarborough": null,
+  "st:de grassi st|dundas st e|toronto": null,
+  "st:burnhamthorpe rd|old burnhamthorpe rd|etobicoke": {
+    "lat": 43.6443579,
+    "lng": -79.5797977
+  }
 }

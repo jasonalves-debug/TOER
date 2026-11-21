@@ -1,10 +1,70 @@
 {
-  "generated": "2026-11-21T19:40:23.255513+00:00",
+  "generated": "2026-11-21T23:56:51.604279+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967201",
+      "source": "citynews",
+      "title": "Male struck by vehicle in Scarborough, critically injured",
+      "summary": "A male is in the hospital with life-threatening injuries after he was struck by a vehicle in Scarborough. Toronto police were called to Finch Avenue East and McCowan Road just after 6 p.m. for reports of a pedestrian struck. Officers say the injuries are life-threatening, and the vehicle involved in the collision remained on scene. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/21/male-struck-by-vehicle-in-scarborough-critically-injured/",
+      "ts": "2026-11-21T23:53:40+00:00",
+      "lat": 43.7797735,
+      "lng": -79.4155289,
+      "location": "Finch Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967193",
+      "source": "citynews",
+      "title": "Suspect sought after two teens sexually assaulted by man in East York: Toronto police",
+      "summary": "Toronto police are looking for a 27-year-old man who they say allegedly sexually assaulted two teens at a business near the Danforth Village neighbourhood. Investigators say the two teens were approached by a man in the Danforth Avenue and Main Street area on November 18, 2026. &#8220;The suspect sexually assaulted the two youth victims,&#8221; police [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/21/suspect-sought-after-two-teens-sexually-assaulted-by-man-near-danforth-village-toronto-police/",
+      "ts": "2026-11-21T23:32:21+00:00",
+      "lat": 43.6947213,
+      "lng": -79.2717902,
+      "location": "Danforth Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967158",
+      "source": "citynews",
+      "title": "2 pedestrians struck by vehicle in North York: police",
+      "summary": "Two pedestrians are in hospital after they were struck by a vehicle in North York. Toronto police were called to Keele Street and Downsview Park Boulevard just before 3 p.m. for reports of a collision. Paramedics say a man and woman were hit by a vehicle and transported to a hospital with minor injuries. Meanwhile, [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/21/2-pedestrians-struck-by-vehicle-in-north-york-police/",
+      "ts": "2026-11-21T20:52:09+00:00",
+      "lat": 43.6969271,
+      "lng": -79.4753749,
+      "location": "Keele Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967140",
+      "source": "citynews",
+      "title": "Vigil planned for victims of deadly Burlington house fire",
+      "summary": "A Burlington family is preparing to lay four loved ones to rest after their lives were abruptly taken during a devastating fire earlier this month. The tragedy, which claimed the lives of two parents and two children, is still being investigated as officials work to determine the cause of the fire that ripped through the [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/21/vigil-planned-for-victims-of-deadly-burlington-house-fire/",
+      "ts": "2026-11-21T20:39:03+00:00",
+      "lat": 43.3255,
+      "lng": -79.799,
+      "location": "Burlington",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7431053",
+      "source": "cbc",
+      "title": "'We deserve answers,' says laid-off Stellantis worker | Hanomansing Live",
+      "summary": "The federal and Ontario governments met with Stellantis executives Friday in a last-ditch effort to save the Brampton, Ont., auto plant. Samantha Lafave, who was laid off by Stellantis in 2023, says she and her husband, who was also laid off, are 'tired of holding our breath,' though she remains optimistic something positive will come out of the meeting.",
+      "link": "https://www.cbc.ca/player/play/9.7431053?cmp=rss",
+      "ts": "2026-11-21T19:28:31+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4967099",
       "source": "citynews",
@@ -66,18 +126,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967006",
-      "source": "citynews",
-      "title": "Staples Canada says customer information accessed in data breach",
-      "summary": "RICHMOND HILL \u2014 Staples Canada says hackers accessed customer information in a cyberattack this month.",
-      "link": "https://toronto.citynews.ca/2026/11/21/staples-canada-says-customer-information-accessed-in-data-breach/",
-      "ts": "2026-11-21T05:05:48+00:00",
-      "lat": 43.8828,
-      "lng": -79.4403,
-      "location": "Richmond Hill",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7430142",
       "source": "cbc",
       "title": "Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source",
@@ -102,18 +150,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7429637",
-      "source": "cbc",
-      "title": "Nikhil Gupta sentenced to over 19 years in prison for plot to kill U.S.-Canadian activist",
-      "summary": "An Indian man was sentenced to more than 19 years in prison in a federal court in New York on Friday after admitting guilt in a plot to kill dual U.S.-Canadian citizen Gurpatwant Pannun.",
-      "link": "https://www.cbc.ca/news/world/ny-gupta-sentencing-pannun-plot-us-canada-9.7429637?cmp=rss",
-      "ts": "2026-11-20T17:55:07+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7429968",
       "source": "cbc",
       "title": "Ford Motor Co. officially producing Super Duty trucks at Oakville, Ont., assembly plant after retool",
@@ -123,18 +159,6 @@
       "lat": 43.4675,
       "lng": -79.6877,
       "location": "Oakville",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7429581",
-      "source": "cbc",
-      "title": "60-year-old driver charged after crash that killed pedestrian in August: Durham police",
-      "summary": "On Aug. 18, officers responded after a man on rollerblades was struck by a transport truck driven by a 60-year-old man in Ajax, Ont., Durham police said. Three months later, the driver has been charged with careless driving causing death.",
-      "link": "https://www.cbc.ca/news/canada/toronto/durham-police-driver-charged-9.7429581?cmp=rss",
-      "ts": "2026-11-20T14:02:49+00:00",
-      "lat": 43.8509,
-      "lng": -79.0204,
-      "location": "Ajax",
       "approximate": true
     }
   ]
