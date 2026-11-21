@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T22:59:52.569306+00:00",
+  "generated": "2026-11-21T03:54:20.676078+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
@@ -20,8 +20,8 @@
     {
       "id": "news_cbc_9.7430142",
       "source": "cbc",
-      "title": "Ontario Premier Ford says automaker Stellantis owes feds $873M",
-      "summary": "Ontario Premier Doug Ford says Stellantis owes the federal government \"roughly\" $873 million, as Ottawa and the province look for a way to reopen the automaker's Brampton plant.",
+      "title": "Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source",
+      "summary": "The projected amount of money Stellantis would owe Ottawa should the sale of its Brampton, Ont., auto plant proceeds is $831 million, a senior federal source tells CBC News.",
       "link": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
       "ts": "2026-11-20T19:09:55+00:00",
       "lat": 43.7315,
@@ -33,7 +33,7 @@
       "id": "news_citynews_https://toronto.citynews.ca/?p=4966685",
       "source": "citynews",
       "title": "Police didn\u2019t consider key factors in Francique arrest plan, inquest hears",
-      "summary": "A coroner&#8217;s inquest into the fatal shooting of a Black man by a police officer is hearing that police did not anticipate several factors, including the man&#8217;s previous victimization. Peel regional police Det. Jason Sweeting said the arrest plan for Jamal Francique did not account for the speed at which he would walk from his [&#8230;]",
+      "summary": "Police did not anticipate several factors in planning out the arrest of a Black man who was then fatally shot during the operation, a coroner&#8217;s inquest heard Friday. Peel regional police Det. Jason Sweeting, a supervisory officer in the investigation, testified that the arrest plan for Jamal Francique did not account for how quickly the [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/20/police-didnt-consider-key-factors-in-francique-arrest-plan-inquest-hears/",
       "ts": "2026-11-20T18:59:58+00:00",
       "lat": 43.65,
@@ -48,18 +48,6 @@
       "summary": "Police are warning the public after a coyote attacked a child in a northeast Toronto park this week.",
       "link": "https://www.cbc.ca/news/canada/toronto/edward-gardens-coyote-attack-child-toronto-police-9.7430082?cmp=rss",
       "ts": "2026-11-20T18:22:38+00:00",
-      "lat": 43.7314095,
-      "lng": -79.3582053,
-      "location": "Edwards Gardens",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966617",
-      "source": "citynews",
-      "title": "Child attacked by coyote in Edwards Gardens: Toronto police",
-      "summary": "Toronto Police have issued a public safety alert after a child was attacked by a coyote in a park in the area of Lawrence Avenue East and The Bridle Path on Thursday. The attack took place just after 11:30 a.m. in Edwards Gardens. The child was dragged some distance before bystanders were able to scare [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/20/child-attacked-by-coyote-in-edward-gardens-toronto-police/",
-      "ts": "2026-11-20T18:10:53+00:00",
       "lat": 43.7314095,
       "lng": -79.3582053,
       "location": "Edwards Gardens",
@@ -90,18 +78,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966557",
-      "source": "citynews",
-      "title": "\u2018Grand Theft Auto VI\u2019 sets record with $3.79B in first-day retail sales, Rockstar Games reports",
-      "summary": "NEW YORK (AP) \u2014 Sales of \u201cGrand Theft Auto VI\u201d generated a record with $3.79 billion in first-day retail sales, maker Rockstar Games said Friday, underscoring the enormous demand for the first new installment in the blockbuster series in 13 years.",
-      "link": "https://toronto.citynews.ca/2026/11/20/sales-of-grand-theft-auto-vi-skyrocket-as-the-series-makes-its-return-after-13-year-absence/",
-      "ts": "2026-11-20T16:04:51+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7429581",
       "source": "cbc",
       "title": "60-year-old driver charged after crash that killed pedestrian in August: Durham police",
@@ -123,30 +99,6 @@
       "lat": 43.6911749,
       "lng": -79.569902,
       "location": "Highway 401",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7428916",
-      "source": "cbc",
-      "title": "Peel Region's new council chair on the 'tumultuous new world' of strong regional chairs",
-      "summary": "Peel Region's new provincially appointed council chair said he recognizes the \"tumultuous\" circumstances that led to his appointment, during his first message to council on inauguration day.",
-      "link": "https://www.cbc.ca/news/canada/toronto/peel-regional-council-inauguration-9.7428916?cmp=rss",
-      "ts": "2026-11-20T00:45:39+00:00",
-      "lat": 43.65,
-      "lng": -79.75,
-      "location": "Peel Region",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7429241",
-      "source": "cbc",
-      "title": "Man dead after being struck by vehicle in Mississauga, police say",
-      "summary": "A man is dead after being struck by a vehicle in Mississauga on Thursday evening, police say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/fatal-pedestrian-collision-mississauga-9.7429241?cmp=rss",
-      "ts": "2026-11-20T00:44:44+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     },
     {
