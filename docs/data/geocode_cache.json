@@ -849,5 +849,13 @@
   "xx:brimley rd|comrie ter": null,
   "xx:deauville lane|grenoble dr": null,
   "st:elsinore path|etta wylie rd|etobicoke": null,
-  "xx:spadina ave|nassau st": null
+  "xx:spadina ave|nassau st": null,
+  "st:wellesley st|church st|toronto": {
+    "lat": 43.6707536,
+    "lng": -79.3831279
+  },
+  "xx:black creek dr|weston rd": {
+    "lat": 43.683562,
+    "lng": -79.4810411
+  }
 }

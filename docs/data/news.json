@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T03:54:20.676078+00:00",
+  "generated": "2026-11-21T12:17:40.074948+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
@@ -87,30 +87,6 @@
       "lat": 43.8509,
       "lng": -79.0204,
       "location": "Ajax",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7429494",
-      "source": "cbc",
-      "title": "Fuel truck crash, fire closes Highway 401 eastbound near Trenton",
-      "summary": "Ontario Provincial Police say a fuel truck crashed and caught fire near Highway 401's Wooler Road interchange Friday morning. There were closures on the 401 and County Road 40 until around 9:30 a.m.",
-      "link": "https://www.cbc.ca/news/canada/ottawa/trenton-brighton-highway-401-crash-fire-9.7429494?cmp=rss",
-      "ts": "2026-11-20T12:34:51+00:00",
-      "lat": 43.6911749,
-      "lng": -79.569902,
-      "location": "Highway 401",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7427512",
-      "source": "cbc",
-      "title": "Vehicle ticketed in Toronto minutes after rush hour sign change \u2014 and driver is not happy",
-      "summary": "A Toronto resident is speaking out after he received a $120 parking ticket in Parkdale minutes after crews took down old traffic signs and put up new ones that changed the no-stopping times on a stretch of Queen Street W. Police say they will request tickets issued during the sign change be cancelled.",
-      "link": "https://www.cbc.ca/news/canada/toronto/parking-ticket-dispute-parkdale-9.7427512?cmp=rss",
-      "ts": "2026-11-19T22:03:33+00:00",
-      "lat": 43.7748001,
-      "lng": -79.5182714,
-      "location": "Queen Street",
       "approximate": true
     }
   ]
