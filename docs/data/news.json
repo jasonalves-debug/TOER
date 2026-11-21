@@ -1,44 +1,92 @@
 {
-  "generated": "2026-11-21T12:17:40.074948+00:00",
+  "generated": "2026-11-21T19:40:23.255513+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966794",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967099",
       "source": "citynews",
-      "title": "Man seriously injured in East York hit-and-run",
-      "summary": "A man has suffered serious injures in a hit-and-run in East York Friday afternoon. Toronto police were called to Mortimer and Durant avenues just after 3 p.m. for reports of a collision. A 40-year-old man was struck by a vehicle and the driver involved did not remain at the scene, according to police. The man [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/20/man-injured-in-east-york-hit-and-run/",
-      "ts": "2026-11-20T21:06:28+00:00",
+      "title": "Whitby pedestrian, 35, in critical condition after getting hit by car",
+      "summary": "A man is in hospital with life-threatening injuries after getting hit by a car in Whitby later Friday evening. Emergency crews were called to the area of Mary Street West and Centre Street North at approximately 10:30 p.m. for reports of a pedestrian who was struck by a vehicle. Investigators said a 35-year-old man was [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/21/whitby-pedestrian-35-in-critical-condition-after-getting-hit-by-car/",
+      "ts": "2026-11-21T16:09:49+00:00",
+      "lat": 43.665003,
+      "lng": -79.384707,
+      "location": "Street West & Centre Street",
+      "approximate": false
+    },
+    {
+      "id": "news_cbc_9.7431258",
+      "source": "cbc",
+      "title": "Mississauga rock band Billy Talent recognized for support of mental health charity",
+      "summary": "Mississauga's punk rock band Billy Talent received an award from the Mississauga Arts Council this week, acknowledging the band's work outside of music. They have supported mental health charity Make Music Matter for 15 years, which uses songwriting as a therapeutic tool to help empower and heal. CBC Peel host Nav Nanwa has the story.",
+      "link": "https://www.cbc.ca/player/play/9.7431258?cmp=rss",
+      "ts": "2026-11-21T15:20:20+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967081",
+      "source": "citynews",
+      "title": "Two more suspects charged in Scarborough murder investigation",
+      "summary": "One of Canada\u2019s most wanted fugitives has been arrested in connection with a months-long murder investigation. Toronto police said 25-year-old Devondre Hall was taken into custody on Friday and charged with first-degree murder in connection with the violent death of 32-year-old Marcus Charles. Charles was found dead inside a burning vehicle at approximately 11:30 p.m. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/21/two-more-suspects-charged-in-markham-murder-investigation/",
+      "ts": "2026-11-21T15:20:10+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967064",
+      "source": "citynews",
+      "title": "Driver arrested after vehicle flips into ravine north of The Junction",
+      "summary": "Toronto police arrested a driver after a single-vehicle crash north of The Junction early Saturday morning. Officers were called to the area of Weston Road and Black Creek Drive at approximately 7 a.m. for reports of a car crash. Investigators told CityNews the vehicle flipped into a ravine and was unoccupied when officers arrived at [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/21/driver-arrested-after-vehicle-flips-into-ravine-north-of-the-junction/",
+      "ts": "2026-11-21T14:22:59+00:00",
+      "lat": 43.7123014,
+      "lng": -79.535719,
+      "location": "Weston Road",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967054",
+      "source": "citynews",
+      "title": "Toronto man, 56, charged in East York break-in",
+      "summary": "A Toronto man was arrested Friday in connection with a break-in that occurred in East York earlier this month, according to police. Investigators were called to the area of Pape and Cosburn Avenues at approximately 2:45 a.m. on Nov. 11, for reports of a man who broke into a local business. Police said the suspect [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/21/toronto-man-56-charged-in-east-york-break-in/",
+      "ts": "2026-11-21T13:52:48+00:00",
       "lat": 43.6913,
       "lng": -79.3287,
       "location": "East York",
       "approximate": true
     },
     {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967006",
+      "source": "citynews",
+      "title": "Staples Canada says customer information accessed in data breach",
+      "summary": "RICHMOND HILL \u2014 Staples Canada says hackers accessed customer information in a cyberattack this month.",
+      "link": "https://toronto.citynews.ca/2026/11/21/staples-canada-says-customer-information-accessed-in-data-breach/",
+      "ts": "2026-11-21T05:05:48+00:00",
+      "lat": 43.8828,
+      "lng": -79.4403,
+      "location": "Richmond Hill",
+      "approximate": true
+    },
+    {
       "id": "news_cbc_9.7430142",
       "source": "cbc",
       "title": "Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source",
-      "summary": "The projected amount of money Stellantis would owe Ottawa should the sale of its Brampton, Ont., auto plant proceeds is $831 million, a senior federal source tells CBC News.",
+      "summary": "The projected amount of money Stellantis would owe Ottawa should the sale of its Brampton, Ont., auto plant proceed is $831 million, a senior federal source tells CBC News.",
       "link": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
       "ts": "2026-11-20T19:09:55+00:00",
       "lat": 43.7315,
       "lng": -79.7624,
       "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966685",
-      "source": "citynews",
-      "title": "Police didn\u2019t consider key factors in Francique arrest plan, inquest hears",
-      "summary": "Police did not anticipate several factors in planning out the arrest of a Black man who was then fatally shot during the operation, a coroner&#8217;s inquest heard Friday. Peel regional police Det. Jason Sweeting, a supervisory officer in the investigation, testified that the arrest plan for Jamal Francique did not account for how quickly the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/20/police-didnt-consider-key-factors-in-francique-arrest-plan-inquest-hears/",
-      "ts": "2026-11-20T18:59:58+00:00",
-      "lat": 43.65,
-      "lng": -79.75,
-      "location": "Peel Region",
       "approximate": true
     },
     {
