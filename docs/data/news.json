@@ -1,15 +1,39 @@
 {
-  "generated": "2026-11-22T14:49:07.276066+00:00",
+  "generated": "2026-11-22T20:57:26.119767+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967346",
+      "source": "citynews",
+      "title": "Man stabbed near Kensington Market",
+      "summary": "Toronto police are investigating after a man was stabbed in Kensington Market early Sunday morning. Emergency crews were called to the area of Augusta Avenue and College Street just before 7:45 a.m. for reports of a stabbing. When officers arrived at the scene, they located one man with stab wounds. He was transported to a [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/22/man-stabbed-near-kensington-market/",
+      "ts": "2026-11-22T18:54:38+00:00",
+      "lat": 43.6500579,
+      "lng": -79.4004369,
+      "location": "Augusta Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7431950",
+      "source": "cbc",
+      "title": "Man, 61, dies after being struck by vehicle in Scarborough: police",
+      "summary": "A 61-year-old man has died after he was struck by a vehicle in Scarborough Saturday, Toronto police say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/pedestrian-dead-collision-scarborough-9.7431950?cmp=rss",
+      "ts": "2026-11-22T18:45:16+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
       "id": "news_cbc_9.7431726",
       "source": "cbc",
-      "title": "2 dead, 1 injured after shooting in Scarborough: Toronto police",
-      "summary": "Toronto police are investigating a homicide after two people died and one sustained injuries following a shooting in Scarborough in the early hours of Sunday.",
+      "title": "2 teens dead, 1 injured after shooting at Scarborough gas station: Toronto police",
+      "summary": "Toronto police are investigating a homicide after two 16-year-old boys died and another sustained serious injuries following a shooting in Scarborough in the early hours of Sunday.",
       "link": "https://www.cbc.ca/news/canada/toronto/toronto-police-scarborough-shooting-fatal-9.7431726?cmp=rss",
       "ts": "2026-11-22T13:20:06+00:00",
       "lat": 43.7731,
@@ -20,8 +44,8 @@
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4967256",
       "source": "citynews",
-      "title": "2 men killed, 1 injured in Scarborough triple shooting",
-      "summary": "Toronto police are investigating a triple shooting that happened overnight in Scarborough. Emergency crews were called to the area of Ellesmere and Brimley Roads just after 12:30 a.m. on Sunday for reports of three men who were shot. All three victims were rushed to a hospital and two were pronounced dead. One victim sustained serious, [&#8230;]",
+      "title": "2 teens killed, 1 injured in Scarborough triple shooting",
+      "summary": "Toronto police are investigating a triple shooting that happened overnight in Scarborough. Emergency crews were called to a Petro Canada gas station in the area of Ellesmere and Brimley Roads just after 12:30 a.m. on Sunday for reports of three males who were shot. When officers arrived at the scene, they found three teens suffering [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/22/2-men-killed-1-injured-in-scarborough-triple-shooting/",
       "ts": "2026-11-22T12:15:16+00:00",
       "lat": 43.7731,
@@ -56,49 +80,13 @@
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4967201",
       "source": "citynews",
-      "title": "Male struck by vehicle in Scarborough, critically injured",
-      "summary": "A male is in the hospital with life-threatening injuries after he was struck by a vehicle in Scarborough. Toronto police were called to Finch Avenue East and McCowan Road just after 6 p.m. for reports of a pedestrian struck. Officers say the injuries are life-threatening, and the vehicle involved in the collision remained on scene. [&#8230;]",
+      "title": "Pedestrian dies in hospital after getting hit by a car",
+      "summary": "A man has died in hospital after getting hit by a car in Scarborough on Saturday evening. Emergency crews were called to Finch Avenue East and McCowan Road just after 6 p.m. for reports of a pedestrian struck. Police said a 60-year-old woman was operating a grey Toyota C-HR southbound on McCowan Road and was [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/21/male-struck-by-vehicle-in-scarborough-critically-injured/",
       "ts": "2026-11-21T23:53:40+00:00",
       "lat": 43.7797735,
       "lng": -79.4155289,
       "location": "Finch Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967193",
-      "source": "citynews",
-      "title": "Suspect sought after two teens sexually assaulted by man in East York: Toronto police",
-      "summary": "Toronto police are looking for a 27-year-old man who they say allegedly sexually assaulted two teens at a business near the Danforth Village neighbourhood. Investigators say the two teens were approached by a man in the Danforth Avenue and Main Street area on November 18, 2026. &#8220;The suspect sexually assaulted the two youth victims,&#8221; police [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/21/suspect-sought-after-two-teens-sexually-assaulted-by-man-near-danforth-village-toronto-police/",
-      "ts": "2026-11-21T23:32:21+00:00",
-      "lat": 43.6947213,
-      "lng": -79.2717902,
-      "location": "Danforth Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967158",
-      "source": "citynews",
-      "title": "2 pedestrians struck by vehicle in North York: police",
-      "summary": "Two pedestrians are in hospital after they were struck by a vehicle in North York. Toronto police were called to Keele Street and Downsview Park Boulevard just before 3 p.m. for reports of a collision. Paramedics say a man and woman were hit by a vehicle and transported to a hospital with minor injuries. Meanwhile, [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/21/2-pedestrians-struck-by-vehicle-in-north-york-police/",
-      "ts": "2026-11-21T20:52:09+00:00",
-      "lat": 43.6969271,
-      "lng": -79.4753749,
-      "location": "Keele Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967140",
-      "source": "citynews",
-      "title": "Vigil planned for victims of deadly Burlington house fire",
-      "summary": "A Burlington family is preparing to lay four loved ones to rest after their lives were abruptly taken during a devastating fire earlier this month. The tragedy, which claimed the lives of two parents and two children, is still being investigated as officials work to determine the cause of the fire that ripped through the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/21/vigil-planned-for-victims-of-deadly-burlington-house-fire/",
-      "ts": "2026-11-21T20:39:03+00:00",
-      "lat": 43.3255,
-      "lng": -79.799,
-      "location": "Burlington",
       "approximate": true
     },
     {

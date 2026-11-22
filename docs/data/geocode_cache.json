@@ -882,5 +882,22 @@
     "lng": -79.2156941
   },
   "st:rossander crt|hague park trl|scarborough": null,
-  "xx:avenue rd|farnham ave": null
+  "xx:avenue rd|farnham ave": null,
+  "st:bellamy rd|cedar brae blvd|scarborough": {
+    "lat": 43.7518128,
+    "lng": -79.2334226
+  },
+  "st:glen everest rd|rosetta mcclain gardens trl|scarborough": null,
+  "st:glencairn ave|bathurst st|north york": {
+    "lat": 43.7125181,
+    "lng": -79.4282864
+  },
+  "st:yonge st|queen st w|toronto": {
+    "lat": 43.6537645,
+    "lng": -79.3840848
+  },
+  "st:folcroft ave|cliffside dr|scarborough": {
+    "lat": 43.7012324,
+    "lng": -79.252138
+  }
 }
