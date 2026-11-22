@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-22T06:20:31.091561+00:00",
+  "generated": "2026-11-22T14:49:07.276066+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7431726",
+      "source": "cbc",
+      "title": "2 dead, 1 injured after shooting in Scarborough: Toronto police",
+      "summary": "Toronto police are investigating a homicide after two people died and one sustained injuries following a shooting in Scarborough in the early hours of Sunday.",
+      "link": "https://www.cbc.ca/news/canada/toronto/toronto-police-scarborough-shooting-fatal-9.7431726?cmp=rss",
+      "ts": "2026-11-22T13:20:06+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967256",
+      "source": "citynews",
+      "title": "2 men killed, 1 injured in Scarborough triple shooting",
+      "summary": "Toronto police are investigating a triple shooting that happened overnight in Scarborough. Emergency crews were called to the area of Ellesmere and Brimley Roads just after 12:30 a.m. on Sunday for reports of three men who were shot. All three victims were rushed to a hospital and two were pronounced dead. One victim sustained serious, [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/22/2-men-killed-1-injured-in-scarborough-triple-shooting/",
+      "ts": "2026-11-22T12:15:16+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7431444",
+      "source": "cbc",
+      "title": "Black creatives at Brampton conference vow to transform future of arts industry",
+      "summary": "A group of Black creatives met in Brampton over the weekend to re-envision how they can strengthen the arts sector for Black artists.",
+      "link": "https://www.cbc.ca/news/canada/toronto/black-creatives-at-brampton-conference-vow-to-transform-future-of-arts-industry-9.7431444?cmp=rss",
+      "ts": "2026-11-22T09:00:00+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4967217",
       "source": "citynews",
@@ -78,18 +114,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967099",
-      "source": "citynews",
-      "title": "Whitby pedestrian, 35, in critical condition after getting hit by car",
-      "summary": "A man is in hospital with life-threatening injuries after getting hit by a car in Whitby later Friday evening. Emergency crews were called to the area of Mary Street West and Centre Street North at approximately 10:30 p.m. for reports of a pedestrian who was struck by a vehicle. Investigators said a 35-year-old man was [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/21/whitby-pedestrian-35-in-critical-condition-after-getting-hit-by-car/",
-      "ts": "2026-11-21T16:09:49+00:00",
-      "lat": 43.665003,
-      "lng": -79.384707,
-      "location": "Street West & Centre Street",
-      "approximate": false
-    },
-    {
       "id": "news_cbc_9.7431258",
       "source": "cbc",
       "title": "Mississauga rock band Billy Talent recognized for support of mental health charity",
@@ -102,18 +126,6 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7430142",
-      "source": "cbc",
-      "title": "Stellantis would owe feds $831M if sale of Brampton, Ont., plant proceeds: source",
-      "summary": "The projected amount of money Stellantis would owe Ottawa should the sale of its Brampton, Ont., auto plant proceed is $831 million, a senior federal source tells CBC News.",
-      "link": "https://www.cbc.ca/news/politics/joly-ford-stellantis-brampton-unifor-meeting-9.7430142?cmp=rss",
-      "ts": "2026-11-20T19:09:55+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7430082",
       "source": "cbc",
       "title": "Child attacked by coyote at Edwards Gardens in Toronto, police say",
@@ -123,18 +135,6 @@
       "lat": 43.7314095,
       "lng": -79.3582053,
       "location": "Edwards Gardens",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7429968",
-      "source": "cbc",
-      "title": "Ford Motor Co. officially producing Super Duty trucks at Oakville, Ont., assembly plant after retool",
-      "summary": "Ford Motor Co. is betting its Oakville, Ont., assembly complex can help the company drive growth and demonstrate the automaker's commitment to Canadian manufacturing for the long haul.",
-      "link": "https://www.cbc.ca/news/canada/toronto/ford-super-duty-trucks-oakville-assembly-plant-9.7429968?cmp=rss",
-      "ts": "2026-11-20T17:12:22+00:00",
-      "lat": 43.4675,
-      "lng": -79.6877,
-      "location": "Oakville",
       "approximate": true
     }
   ]

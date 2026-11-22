@@ -876,5 +876,11 @@
     "lat": 43.7914548,
     "lng": -79.4185827
   },
-  "st:forest manor rd|george henry blvd|north york": null
+  "st:forest manor rd|george henry blvd|north york": null,
+  "st:eglinton ave|cedar dr|scarborough": {
+    "lat": 43.7442566,
+    "lng": -79.2156941
+  },
+  "st:rossander crt|hague park trl|scarborough": null,
+  "xx:avenue rd|farnham ave": null
 }
