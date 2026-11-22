@@ -1,10 +1,22 @@
 {
-  "generated": "2026-11-21T23:56:51.604279+00:00",
+  "generated": "2026-11-22T06:20:31.091561+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967217",
+      "source": "citynews",
+      "title": "Stabbing in downtown Toronto leaves woman with serious injuries",
+      "summary": "A woman was rushed to the hospital Saturday night following a stabbing in downtown Toronto. Toronto police responded to the incident at Adelaide Street West and Spadina Avenue 8:40 p.m., for reports of a female stabbed. Officers say they located a female who had been stabbed and was rushed to hospital Paramedics say the woman [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/21/stabbing-in-downtown-toronto-leaves-woman-with-serious-injuries/",
+      "ts": "2026-11-22T02:33:53+00:00",
+      "lat": 43.6443432,
+      "lng": -79.4190046,
+      "location": "Street West & Spadina Avenue",
+      "approximate": false
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4967201",
       "source": "citynews",
@@ -87,42 +99,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967081",
-      "source": "citynews",
-      "title": "Two more suspects charged in Scarborough murder investigation",
-      "summary": "One of Canada\u2019s most wanted fugitives has been arrested in connection with a months-long murder investigation. Toronto police said 25-year-old Devondre Hall was taken into custody on Friday and charged with first-degree murder in connection with the violent death of 32-year-old Marcus Charles. Charles was found dead inside a burning vehicle at approximately 11:30 p.m. [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/21/two-more-suspects-charged-in-markham-murder-investigation/",
-      "ts": "2026-11-21T15:20:10+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967064",
-      "source": "citynews",
-      "title": "Driver arrested after vehicle flips into ravine north of The Junction",
-      "summary": "Toronto police arrested a driver after a single-vehicle crash north of The Junction early Saturday morning. Officers were called to the area of Weston Road and Black Creek Drive at approximately 7 a.m. for reports of a car crash. Investigators told CityNews the vehicle flipped into a ravine and was unoccupied when officers arrived at [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/21/driver-arrested-after-vehicle-flips-into-ravine-north-of-the-junction/",
-      "ts": "2026-11-21T14:22:59+00:00",
-      "lat": 43.7123014,
-      "lng": -79.535719,
-      "location": "Weston Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967054",
-      "source": "citynews",
-      "title": "Toronto man, 56, charged in East York break-in",
-      "summary": "A Toronto man was arrested Friday in connection with a break-in that occurred in East York earlier this month, according to police. Investigators were called to the area of Pape and Cosburn Avenues at approximately 2:45 a.m. on Nov. 11, for reports of a man who broke into a local business. Police said the suspect [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/21/toronto-man-56-charged-in-east-york-break-in/",
-      "ts": "2026-11-21T13:52:48+00:00",
-      "lat": 43.6913,
-      "lng": -79.3287,
-      "location": "East York",
       "approximate": true
     },
     {

@@ -865,5 +865,16 @@
   "st:burnhamthorpe rd|old burnhamthorpe rd|etobicoke": {
     "lat": 43.6443579,
     "lng": -79.5797977
-  }
+  },
+  "st:bethridge rd|kipling ave|etobicoke": {
+    "lat": 43.7092811,
+    "lng": -79.5656858
+  },
+  "st:holmesdale rd|dhir mews|york": null,
+  "st:thorburn ave|dufferin st|toronto": null,
+  "st:yonge st|homewood ave|north york": {
+    "lat": 43.7914548,
+    "lng": -79.4185827
+  },
+  "st:forest manor rd|george henry blvd|north york": null
 }
