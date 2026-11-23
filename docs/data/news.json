@@ -1,20 +1,104 @@
 {
-  "generated": "2026-11-23T09:49:53.241397+00:00",
+  "generated": "2026-11-23T21:56:35.898368+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967444",
+      "id": "news_cbc_9.7433083",
+      "source": "cbc",
+      "title": "City of Mississauga to implement hiring restrictions effective immediately",
+      "summary": "One week into the term of Mississauga's new mayor and hiring restrictions are going into effect at the city. It comes after staff were directed by Mayor Alvin Tedjo to freeze property taxes for the 2027 and 2028 budgets.",
+      "link": "https://www.cbc.ca/news/canada/toronto/city-of-mississauga-restricting-hiring-until-march-2027-9.7433083?cmp=rss",
+      "ts": "2026-11-23T21:34:58+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967873",
       "source": "citynews",
-      "title": "Male injured in downtown Toronto collision",
-      "summary": "Toronto police say one male has been injured in a downtown Toronto collision Sunday night. Officers responded to reports of a collision on College and Bay Streets just before 10 p.m. When they arrived on scene, they found a vehicle that struck a traffic light and a male who was injured. Paramedics say the male [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/22/male-injured-in-downtown-toronto-collision/",
-      "ts": "2026-11-23T03:44:59+00:00",
-      "lat": 43.6532,
-      "lng": -79.3832,
-      "location": "Downtown Toronto",
+      "title": "Motorcyclist seriously injured after being hit by vehicle in Scarborough",
+      "summary": "Toronto police say a male motorcyclist has been injured in a Scarborough collision Monday afternoon. Emergency crews were called to Birchmount Road and Bonis Avenue just before 3:15 p.m. for reports of a crash. When they arrived on scene, police found a male motorcyclist who they say was injured after being struck by a vehicle. [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/23/motorcyclist-seriously-injured-after-being-hit-by-vehicle-in-scarborough/",
+      "ts": "2026-11-23T21:20:31+00:00",
+      "lat": 43.775647,
+      "lng": -79.2956472,
+      "location": "Birchmount Road",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7432944",
+      "source": "cbc",
+      "title": "Peel, Halton police launch annual Miracle on Main Street campaign ahead of holiday season",
+      "summary": "Police in Peel and Halton regions launched their annual Miracle on Main Street campaign Monday, which seeks to provide toy, gift card and essential item donations for families in need.",
+      "link": "https://www.cbc.ca/news/canada/toronto/police-launch-miracle-on-main-street-campaign-9.7432944?cmp=rss",
+      "ts": "2026-11-23T20:32:31+00:00",
+      "lat": 43.6890408,
+      "lng": -79.3016211,
+      "location": "Main Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967763",
+      "source": "citynews",
+      "title": "Youth advocate says lack of jobs fueling \u2018epidemic of youth violence\u2019 in Toronto",
+      "summary": "Two 16-year-old boys were gunned down in Scarborough on Sunday and tragically became Toronto&#8217;s 35th and 36th homicide victims this year, adding to an alarming trend of rising crime and violence among the city&#8217;s youth. The deaths come on the heels of two other separate shootings in Etobicoke that claimed the lives of two 18-year-olds [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/23/toronto-youth-crime-violence/",
+      "ts": "2026-11-23T20:15:37+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7432526",
+      "source": "cbc",
+      "title": "Construction begins in Toronto's west end as city prepares for months-long disruption",
+      "summary": "Work has officially begun to replace and improve infrastructure on sections of King Street W. in downtown Toronto. The work is scheduled to continue for around 10 months, ending in fall of 2027.",
+      "link": "https://www.cbc.ca/news/canada/toronto/construction-begins-ttc-king-street-9.7432526?cmp=rss",
+      "ts": "2026-11-23T17:26:50+00:00",
+      "lat": 43.7072157,
+      "lng": -79.5104764,
+      "location": "King Street",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7432479",
+      "source": "cbc",
+      "title": "Toronto's top bureaucrat leaving city hall, Chow uses 'strong mayor' powers to appoint interim replacement",
+      "summary": "Toronto Mayor Olivia Chow has signed off on an overhaul of some of Toronto\u2019s top bureaucratic roles, including city manager, as part of a restructuring of the city's internal operations.",
+      "link": "https://www.cbc.ca/news/canada/toronto/toronto-city-manager-leaving-role-9.7432479?cmp=rss",
+      "ts": "2026-11-23T15:30:35+00:00",
+      "lat": 43.6534,
+      "lng": -79.3841,
+      "location": "City Hall",
+      "approximate": false
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967662",
+      "source": "citynews",
+      "title": "Children\u2019s Place, Gymboree liquidating Canadian stores, seeking buyer",
+      "summary": "TORONTO \u2014 The Children's Place and Gymboree are liquidating all of their Canadian stores while the brands' parent company hunts for a buyer.",
+      "link": "https://toronto.citynews.ca/2026/11/23/childrens-place-gymboree-liquidating-canadian-stores-seeking-buyer/",
+      "ts": "2026-11-23T15:06:57+00:00",
+      "lat": 43.7777806,
+      "lng": -79.3451606,
+      "location": "The Children's Place",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967628",
+      "source": "citynews",
+      "title": "D1 soccer midfielder from Milton navigates injury challenges",
+      "summary": "After tearing her ACL in June of last year, Kayla Viteritti made a full recovery and began an exciting journey in the United States to continue her soccer career this fall. But an unfortunate set of circumstances has Kayla back on the sidelines with the goal of returning to competition in 2027. Do you know [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/23/d1-soccer-midfielder-from-milton-navigates-injury-challenges/",
+      "ts": "2026-11-23T14:57:50+00:00",
+      "lat": 43.5183,
+      "lng": -79.8774,
+      "location": "Milton",
       "approximate": true
     },
     {
@@ -30,16 +114,16 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967423",
-      "source": "citynews",
-      "title": "3 injured in Yonge and Lawrence stabbing, 1 male in custody",
-      "summary": "Toronto police are investigating after a male was stabbed in the Yonge and Lawrence neighbourhood Sunday evening. Emergency crews were called to the area of Yonge Street and Lawrence Avenue West just after 7:30 p.m. for reports of a stabbing. When officers arrived at the scene, they located one male with stab wounds. He was [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/22/male-injured-in-midtown-stabbing-1-male-in-custody/",
-      "ts": "2026-11-23T01:13:57+00:00",
-      "lat": 43.706892,
-      "lng": -79.3992228,
-      "location": "Yonge & Lawrence",
-      "approximate": false
+      "id": "news_cbc_9.7432057",
+      "source": "cbc",
+      "title": "Brampton hackathon asks students to use AI to fix local businesses' issues",
+      "summary": "The Brampton Venture Zone held its first student hackathon over the weekend. It's the first part of a program that will see students get the opportunity to work with businesses, helping companies use artificial intelligence to solve common problems.",
+      "link": "https://www.cbc.ca/news/canada/toronto/brampton-venture-zone-matching-students-with-businesses-for-ai-adoption-9.7432057?cmp=rss",
+      "ts": "2026-11-23T00:38:58+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
     },
     {
       "id": "news_cbc_9.7432088",
@@ -51,30 +135,6 @@
       "lat": 43.6532,
       "lng": -79.3832,
       "location": "Downtown Toronto",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967364",
-      "source": "citynews",
-      "title": "Analysis: The collapse of UN climate talks, over fossil fuels, was years in the making",
-      "summary": "NEW YORK (AP) \u2014 Going into this year\u2019s U.N. climate talks in Turkey, expectations were notably low. But the outcome on Sunday was even worse than expected \u2014 a failure to reach an overall agreement on fighting climate change at a time of frequent extreme weather events fueled by rising temperatures.",
-      "link": "https://toronto.citynews.ca/2026/11/22/the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making/",
-      "ts": "2026-11-22T20:13:52+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967346",
-      "source": "citynews",
-      "title": "Man stabbed near Kensington Market",
-      "summary": "Toronto police are investigating after a man was stabbed in Kensington Market early Sunday morning. Emergency crews were called to the area of Augusta Avenue and College Street just before 7:45 a.m. for reports of a stabbing. When officers arrived at the scene, they located one man with stab wounds. He was transported to a [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/22/man-stabbed-near-kensington-market/",
-      "ts": "2026-11-22T18:54:38+00:00",
-      "lat": 43.6500579,
-      "lng": -79.4004369,
-      "location": "Augusta Avenue",
       "approximate": true
     },
     {
@@ -102,18 +162,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967256",
-      "source": "citynews",
-      "title": "Police identify teen victims in Scarborough triple shooting",
-      "summary": "Toronto police have identified two teen victims of a triple shooting that happened overnight in Scarborough. Emergency crews were called to a Petro Canada gas station in the area of Ellesmere and Brimley Roads just after 12:30 a.m. on Sunday for reports of three males who were shot. When officers arrived at the scene, they [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/22/2-men-killed-1-injured-in-scarborough-triple-shooting/",
-      "ts": "2026-11-22T12:15:16+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7431444",
       "source": "cbc",
       "title": "Black creatives at Brampton conference vow to transform future of arts industry",
@@ -126,27 +174,15 @@
       "approximate": true
     },
     {
-      "id": "news_cbc_9.7431053",
+      "id": "news_cbc_9.7430058",
       "source": "cbc",
-      "title": "'We deserve answers,' says laid-off Stellantis worker | Hanomansing Live",
-      "summary": "The federal and Ontario governments met with Stellantis executives Friday in a last-ditch effort to save the Brampton, Ont., auto plant. Samantha Lafave, who was laid off by Stellantis in 2023, says she and her husband, who was also laid off, are 'tired of holding our breath,' though she remains optimistic something positive will come out of the meeting.",
-      "link": "https://www.cbc.ca/player/play/9.7431053?cmp=rss",
-      "ts": "2026-11-21T19:28:31+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7431258",
-      "source": "cbc",
-      "title": "Mississauga rock band Billy Talent recognized for support of mental health charity",
-      "summary": "Mississauga's punk rock band Billy Talent received an award from the Mississauga Arts Council this week, acknowledging the band's work outside of music. They have supported mental health charity Make Music Matter for 15 years, which uses songwriting as a therapeutic tool to help empower and heal. CBC Peel host Nav Nanwa has the story.",
-      "link": "https://www.cbc.ca/player/play/9.7431258?cmp=rss",
-      "ts": "2026-11-21T15:20:20+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
+      "title": "In clay, these artists model the pain and beauty of diaspora",
+      "summary": "The Gardiner Museum\u2019s After the Island asks four Caribbean Canadian artists what it means to have roots in two lands. The exhibition \u2014 featuring ceramics and more \u2014 includes the work of PJ Anderson, Manuel Mathieu, Sharon Norwood and Eddy Firmin.",
+      "link": "https://www.cbc.ca/arts/in-clay-these-artists-model-the-pain-and-beauty-of-diaspora-9.7430058?cmp=rss",
+      "ts": "2026-11-20T18:58:30+00:00",
+      "lat": 43.6436497,
+      "lng": -79.377751,
+      "location": "The Gardiner",
       "approximate": true
     }
   ]
