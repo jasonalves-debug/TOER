@@ -1,21 +1,45 @@
 {
-  "generated": "2026-11-23T01:31:59.992031+00:00",
+  "generated": "2026-11-23T09:49:53.241397+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967444",
+      "source": "citynews",
+      "title": "Male injured in downtown Toronto collision",
+      "summary": "Toronto police say one male has been injured in a downtown Toronto collision Sunday night. Officers responded to reports of a collision on College and Bay Streets just before 10 p.m. When they arrived on scene, they found a vehicle that struck a traffic light and a male who was injured. Paramedics say the male [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/22/male-injured-in-downtown-toronto-collision/",
+      "ts": "2026-11-23T03:44:59+00:00",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "location": "Downtown Toronto",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7432165",
+      "source": "cbc",
+      "title": "Toronto police arrest man wanted for Etobicoke homicide",
+      "summary": "Toronto police say they have arrested a man in connection with a fatal Etobicoke shooting this month.",
+      "link": "https://www.cbc.ca/news/canada/toronto/police-arrest-man-etobicoke-homicide-9.7432165?cmp=rss",
+      "ts": "2026-11-23T03:09:15+00:00",
+      "lat": 43.6205,
+      "lng": -79.5132,
+      "location": "Etobicoke",
+      "approximate": true
+    },
+    {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4967423",
       "source": "citynews",
-      "title": "Male injured in midtown stabbing, 1 male in custody",
-      "summary": "Toronto police are investigating after a male was stabbed in the Yonge-Eglinton neighbourhood Sunday evening. Emergency crews were called to the area of Yonge Street and Eglinton Avenue West just after 7:30 p.m. for reports of a stabbing. When officers arrived at the scene, they located one male with stab wounds. He was transported to [&#8230;]",
+      "title": "3 injured in Yonge and Lawrence stabbing, 1 male in custody",
+      "summary": "Toronto police are investigating after a male was stabbed in the Yonge and Lawrence neighbourhood Sunday evening. Emergency crews were called to the area of Yonge Street and Lawrence Avenue West just after 7:30 p.m. for reports of a stabbing. When officers arrived at the scene, they located one male with stab wounds. He was [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/22/male-injured-in-midtown-stabbing-1-male-in-custody/",
       "ts": "2026-11-23T01:13:57+00:00",
-      "lat": 43.7445449,
-      "lng": -79.4068969,
-      "location": "Yonge Street",
-      "approximate": true
+      "lat": 43.706892,
+      "lng": -79.3992228,
+      "location": "Yonge & Lawrence",
+      "approximate": false
     },
     {
       "id": "news_cbc_9.7432088",
@@ -123,18 +147,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7430082",
-      "source": "cbc",
-      "title": "Child attacked by coyote at Edwards Gardens in Toronto, police say",
-      "summary": "Police are warning the public after a coyote attacked a child in a northeast Toronto park this week.",
-      "link": "https://www.cbc.ca/news/canada/toronto/edward-gardens-coyote-attack-child-toronto-police-9.7430082?cmp=rss",
-      "ts": "2026-11-20T18:22:38+00:00",
-      "lat": 43.7314095,
-      "lng": -79.3582053,
-      "location": "Edwards Gardens",
       "approximate": true
     }
   ]
