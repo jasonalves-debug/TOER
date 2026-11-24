@@ -1,10 +1,94 @@
 {
-  "generated": "2026-11-23T21:56:35.898368+00:00",
+  "generated": "2026-11-24T05:49:52.093636+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4968070",
+      "source": "citynews",
+      "title": "McKenna helps Maple Leafs beat Islanders to end winless streak",
+      "summary": "The Toronto Maple Leafs spotted the New York Islanders a 2-0 lead on Monday and it appeared as if the Canadian visitors were on their way to a 10th straight loss. But Dakota Joshua, Chris Tanev, Gavin McKenna and Easton Cowan with an empty-netter, scored four unanswered goals for the Leafs, who beat the Islanders [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/23/mckenna-helps-maple-leafs-beat-islanders-to-end-winless-streak/",
+      "ts": "2026-11-24T04:17:56+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4968041",
+      "source": "citynews",
+      "title": "Police wouldn\u2019t have arrested Francique if he stayed home, detective tells inquest",
+      "summary": "A coroner&#8217;s inquest into the death of a Black man who was shot by police in Mississauga, Ont., heard Monday that officers did not necessarily plan to arrest him that night nearly seven years ago. Peel regional police Det. Mani Sharifi said that changed when officers surveilling Jamal Francique saw him breaching his bail conditions [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/23/police-wouldnt-have-arrested-francique-if-he-stayed-home-detective-tells-inquest/",
+      "ts": "2026-11-24T03:03:43+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4968033",
+      "source": "citynews",
+      "title": "2 injured in Mississauga crash involving Peel police cruiser",
+      "summary": "A Peel Regional Police Service cruiser was involved in a two-vehicle collision in Mississauga Monday evening. The crash happened around 7:40 p.m. on Dixie Road south of Rathburn Road. Police say two people were transported to hospital with non-life threatening injuries. It is not yet clear whether any officers were transported to the hospital. Investigators [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/23/2-injured-in-mississauga-crash-involving-peel-police-cruiser/",
+      "ts": "2026-11-24T02:18:19+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4968012",
+      "source": "citynews",
+      "title": "Steven Del Duca uses \u2018strong mayor\u2019 powers to replace York Region top civil servant",
+      "summary": "York Region\u2019s chief administrative officer is departing from her position, according to freshly appointed York Region Chair Steven Del Duca. Less than two weeks after being appointed regional chair by the Ford government, Del Duca has invoked his &#8220;strong mayor&#8221; powers to replace CAO Erin Mahoney. However, Del Duca tells CityNews the departure was reached [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/23/steven-del-duca-uses-strong-mayor-powers-to-replace-york-region-top-civil-servant/",
+      "ts": "2026-11-24T00:47:21+00:00",
+      "lat": 43.6896,
+      "lng": -79.4759,
+      "location": "York",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967963",
+      "source": "citynews",
+      "title": "Mississauga family spent just over $1,000 to power home and two electric cars in 2025",
+      "summary": "MISSISSAUGA, Ont. \u2014 With heating costs expected to peak during Canada\u2019s coldest months, one Mississauga family says it managed to cover its home and transportation energy costs for approximately $1,100 in 2025. Harminder Dhillon and Jyoti Grewal have gone to considerable lengths to reduce their reliance on conventional energy sources. They have installed rooftop solar [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/23/mississauga-family-says-it-spent-just-over-1000-to-power-home-and-two-electric-cars-in-2025/",
+      "ts": "2026-11-23T23:10:29+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7433312",
+      "source": "cbc",
+      "title": "Brampton mayor sees 'crack of cautious optimism' as Stellantis weighs plant sale",
+      "summary": "Stellantis officials met with federal, provincial and union representatives last week who touted major movements in discussions. Could a change in emissions standards be the key to reopening the plant? Brampton Mayor Patrick Brown joins Power & Politics to discuss the latest.",
+      "link": "https://www.cbc.ca/player/play/9.7433312?cmp=rss",
+      "ts": "2026-11-23T23:06:38+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7433197",
+      "source": "cbc",
+      "title": "Police wouldn't have arrested Francique if he stayed home, detective tells inquest",
+      "summary": "A coroner's inquest into the death of a Black man who was shot by police in Mississauga, Ont., heard Monday that officers did not necessarily plan to arrest him that night nearly seven years ago.",
+      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-no-plans-to-arrest-9.7433197?cmp=rss",
+      "ts": "2026-11-23T21:53:58+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7433083",
       "source": "cbc",
@@ -42,18 +126,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967763",
-      "source": "citynews",
-      "title": "Youth advocate says lack of jobs fueling \u2018epidemic of youth violence\u2019 in Toronto",
-      "summary": "Two 16-year-old boys were gunned down in Scarborough on Sunday and tragically became Toronto&#8217;s 35th and 36th homicide victims this year, adding to an alarming trend of rising crime and violence among the city&#8217;s youth. The deaths come on the heels of two other separate shootings in Etobicoke that claimed the lives of two 18-year-olds [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/23/toronto-youth-crime-violence/",
-      "ts": "2026-11-23T20:15:37+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7432526",
       "source": "cbc",
       "title": "Construction begins in Toronto's west end as city prepares for months-long disruption",
@@ -76,30 +148,6 @@
       "lng": -79.3841,
       "location": "City Hall",
       "approximate": false
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967662",
-      "source": "citynews",
-      "title": "Children\u2019s Place, Gymboree liquidating Canadian stores, seeking buyer",
-      "summary": "TORONTO \u2014 The Children's Place and Gymboree are liquidating all of their Canadian stores while the brands' parent company hunts for a buyer.",
-      "link": "https://toronto.citynews.ca/2026/11/23/childrens-place-gymboree-liquidating-canadian-stores-seeking-buyer/",
-      "ts": "2026-11-23T15:06:57+00:00",
-      "lat": 43.7777806,
-      "lng": -79.3451606,
-      "location": "The Children's Place",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4967628",
-      "source": "citynews",
-      "title": "D1 soccer midfielder from Milton navigates injury challenges",
-      "summary": "After tearing her ACL in June of last year, Kayla Viteritti made a full recovery and began an exciting journey in the United States to continue her soccer career this fall. But an unfortunate set of circumstances has Kayla back on the sidelines with the goal of returning to competition in 2027. Do you know [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/23/d1-soccer-midfielder-from-milton-navigates-injury-challenges/",
-      "ts": "2026-11-23T14:57:50+00:00",
-      "lat": 43.5183,
-      "lng": -79.8774,
-      "location": "Milton",
-      "approximate": true
     },
     {
       "id": "news_cbc_9.7432165",
