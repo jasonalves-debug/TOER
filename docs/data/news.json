@@ -1,10 +1,34 @@
 {
-  "generated": "2026-11-25T01:27:00.700541+00:00",
+  "generated": "2026-11-25T10:21:01.803692+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7434575",
+      "source": "cbc",
+      "title": "Port Credit\u2019s waterfront mega-development reaches new milestone",
+      "summary": "Construction on a new neighbourhood in Mississauga\u2019s waterfront \u2014 decades in the making \u2014 is about a third done, with no completion date set yet. CBC\u2019s Jayden Dill breaks down the transformation of the land, and the developer's plans for the future.",
+      "link": "https://www.cbc.ca/player/play/9.7434575?cmp=rss",
+      "ts": "2026-11-25T09:00:00+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4968724",
+      "source": "citynews",
+      "title": "Female pedestrian stuck by vehicle in Scarborough",
+      "summary": "A female pedestrian has been taken to hospital after being struck by a vehicle in Scarborough. Toronto police were called to Birchmount Road and Sheppard Avenue East just after 5:30 p.m. for reports of a pedestrian struck. The female was rushed to hospital with life-threatening injuries. The driver involved remained on the scene. Roads in [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/24/female-pedestrian-stuck-by-vehicle-in-scarborough/",
+      "ts": "2026-11-25T01:35:42+00:00",
+      "lat": 43.775647,
+      "lng": -79.2956472,
+      "location": "Birchmount Road",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4968553",
       "source": "citynews",
@@ -68,7 +92,7 @@
     {
       "id": "news_cbc_9.7434350",
       "source": "cbc",
-      "title": "Officer who shot Jamal Francique offers condolences to family, coroner's inquest hears",
+      "title": "Constable who shot Jamal Francique says he acted out of 'fight-or-flight' instinct",
       "summary": "A police officer who shot a Black man in the head during an attempted arrest in Mississauga, Ont., nearly seven years ago offered condolences to the man's grieving family Tuesday as he began testifying at a coroner's inquest.",
       "link": "https://www.cbc.ca/news/canada/toronto/officer-condolences-jamal-francique-inquest-9.7434350?cmp=rss",
       "ts": "2026-11-24T19:00:59+00:00",
@@ -111,30 +135,6 @@
       "lat": 43.6896,
       "lng": -79.4759,
       "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968335",
-      "source": "citynews",
-      "title": "Singer offers tearful apology for O Canada flub at Leafs-Islanders game in New York",
-      "summary": "A singer and former Broadway actress issued an emotional apology to Canadians after fumbling the lyrics to O Canada ahead of Monday night's matchup between the Toronto Maple Leafs and New York Islanders.",
-      "link": "https://toronto.citynews.ca/2026/11/24/singer-offers-tearful-apology-for-o-canada-flub-at-leafs-islanders-game-in-new-york/",
-      "ts": "2026-11-24T15:25:33+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968277",
-      "source": "citynews",
-      "title": "Oshawa man and woman charged in alleged real estate scam",
-      "summary": "Two people were arrested and charged last week in connection with a real estate fraud investigation in Durham region. Durham police&#8217;s Central East Criminal Investigation Branch launched the investigation in August after it was alleged that a man and woman had fraudulently obtained $70,000 from the victim. Police said the suspects lured the victim into [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/24/oshawa-man-and-woman-charged-in-alleged-real-estate-scam/",
-      "ts": "2026-11-24T14:57:30+00:00",
-      "lat": 43.8971,
-      "lng": -78.8658,
-      "location": "Oshawa",
       "approximate": true
     },
     {
@@ -184,18 +184,6 @@
       "lng": -79.6441,
       "location": "Mississauga",
       "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7432479",
-      "source": "cbc",
-      "title": "Toronto's top bureaucrat leaving city hall, Chow uses 'strong mayor' powers to appoint interim replacement",
-      "summary": "Toronto Mayor Olivia Chow has signed off on an overhaul of some of Toronto\u2019s top bureaucratic roles, including city manager, as part of a restructuring of the city's internal operations.",
-      "link": "https://www.cbc.ca/news/canada/toronto/toronto-city-manager-leaving-role-9.7432479?cmp=rss",
-      "ts": "2026-11-23T15:30:35+00:00",
-      "lat": 43.6534,
-      "lng": -79.3841,
-      "location": "City Hall",
-      "approximate": false
     }
   ]
 }

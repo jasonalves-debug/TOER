@@ -924,5 +924,10 @@
     "lng": -79.4530606
   },
   "st:kenneth ave|kenneth park trl|north york": null,
-  "st:plumrose blvd|asterfield dr|scarborough": null
+  "st:plumrose blvd|asterfield dr|scarborough": null,
+  "st:jameson ave|king st w|toronto": {
+    "lat": 43.6371185,
+    "lng": -79.4362027
+  },
+  "st:avenue rd|robertson davies park trl|toronto": null
 }
