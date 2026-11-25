@@ -1,10 +1,58 @@
 {
-  "generated": "2026-11-25T10:21:01.803692+00:00",
+  "generated": "2026-11-25T20:04:10.085739+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_cbc_9.7435451",
+      "source": "cbc",
+      "title": "Cyclist dead after being struck, trapped under school bus in downtown Toronto",
+      "summary": "A man has died after being hit by a bus and getting trapped underneath it in downtown Toronto early Wednesday, first responders say.",
+      "link": "https://www.cbc.ca/news/canada/toronto/school-bus-struck-cyclist-trapped-toronto-9.7435451?cmp=rss",
+      "ts": "2026-11-25T15:43:26+00:00",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "location": "Downtown Toronto",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4968997",
+      "source": "citynews",
+      "title": "Brampton man, 29, charged in extortion investigation",
+      "summary": "Peel Regional Police have made an arrest in connection with an extortion investigation. According to detectives, a victim \u2013 whose identity is being withheld \u2013 began receiving demands for money in April, under threats of violence towards their family, home, business and personal property. Then, on Sept. 5, emergency crews were called to the scene [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/25/brampton-man-29-charged-in-extortion-investigation/",
+      "ts": "2026-11-25T15:24:53+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4968987",
+      "source": "citynews",
+      "title": "Cyclist dead after being struck by school bus in downtown Toronto",
+      "summary": "A man has died after being struck by a school bus in downtown Toronto on Wednesday morning. Emergency crews responded to the intersection of University Avenue and Dundas Street around 9:30 a.m. for a collision between a mini school bus and a cyclist. Duty Inspector Dan Pravica said as per preliminary information, the school bus [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/25/1-dead-collision-school-bus-downtown-toronto/",
+      "ts": "2026-11-25T15:21:22+00:00",
+      "lat": 43.6551576,
+      "lng": -79.3883003,
+      "location": "University Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4968990",
+      "source": "citynews",
+      "title": "Joly \u2018convinced\u2019 Ottawa can find a path forward with Stellantis as talks continue",
+      "summary": "TORONTO \u2014 Industry Minister M\u00e9lanie Joly says she's \"convinced\" the federal government and Stellantis can find a path forward amid fallout from the automaker's deal to sell its Brampton, Ont., assembly plant to defence contractor Roshel.",
+      "link": "https://toronto.citynews.ca/2026/11/25/a-lot-of-noise-joly-meets-with-stellantis-leadership-again-says-talks-continuing/",
+      "ts": "2026-11-25T14:56:09+00:00",
+      "lat": 43.7315,
+      "lng": -79.7624,
+      "location": "Brampton",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7434575",
       "source": "cbc",
@@ -15,30 +63,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968724",
-      "source": "citynews",
-      "title": "Female pedestrian stuck by vehicle in Scarborough",
-      "summary": "A female pedestrian has been taken to hospital after being struck by a vehicle in Scarborough. Toronto police were called to Birchmount Road and Sheppard Avenue East just after 5:30 p.m. for reports of a pedestrian struck. The female was rushed to hospital with life-threatening injuries. The driver involved remained on the scene. Roads in [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/24/female-pedestrian-stuck-by-vehicle-in-scarborough/",
-      "ts": "2026-11-25T01:35:42+00:00",
-      "lat": 43.775647,
-      "lng": -79.2956472,
-      "location": "Birchmount Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968553",
-      "source": "citynews",
-      "title": "Man, 79, dies of his injuries after being struck by vehicle in East York earlier this month",
-      "summary": "A 79-year-old man has died of his injuries after being struck by a vehicle in East York earlier this month. Toronto police say officers were called to the area of Coxwell Avenue and O\u2019Connor Drive at around 1 a.m. on Nov. 5 following reports of a pedestrian being hit by a vehicle. The pedestrian was [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/24/man-dies-of-his-injuries-after-being-struck-by-vehicle-in-east-york-earlier-this-month/",
-      "ts": "2026-11-24T21:26:35+00:00",
-      "lat": 43.6881897,
-      "lng": -79.3255994,
-      "location": "Coxwell Avenue",
       "approximate": true
     },
     {
@@ -54,42 +78,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968451",
-      "source": "citynews",
-      "title": "Tenants seek accountability after years of complaints, repairs at 500 Dawes Road",
-      "summary": "The tenants of what has become one of Toronto&#8217;s most notorious rental addresses are demanding accountability about what they feel were delayed or insufficient responses to numerous complaints regarding safety concerns and other deficiencies in the building over several years. Toronto ACORN and the Dawes ACORN Tenants\u2019 Association are calling for an independent investigation by [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/24/tenants-seek-accountability-after-years-of-complaints-repairs-at-500-dawes-road/",
-      "ts": "2026-11-24T20:52:23+00:00",
-      "lat": 43.6959529,
-      "lng": -79.2974195,
-      "location": "Dawes Road",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968529",
-      "source": "citynews",
-      "title": "Stellantis sues Unifor, alleges \u2018obstruction\u2019 of environmental work at Brampton plant",
-      "summary": "TORONTO \u2014 The ongoing dispute over the sale of Stellantis' Brampton, Ont. assembly plant is heading to court, as the automaker has filed a lawsuit alleging Unifor is impeding an environmental assessment necessary to the transaction.",
-      "link": "https://toronto.citynews.ca/2026/11/24/stellantis-sues-unifor-alleges-obstruction-of-environmental-work-at-brampton-plant/",
-      "ts": "2026-11-24T20:30:46+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968477",
-      "source": "citynews",
-      "title": "Constable who shot Jamal Francique offers condolences to family at inquest",
-      "summary": "A police officer who shot a Black man in the head during an attempted arrest in Mississauga, Ont., nearly seven years ago offered condolences to the man&#8217;s grieving family today as he began testifying at a coroner&#8217;s inquest. Peel regional police Const. Milan Ivkovic told the inquest into the death of Jamal Francique that if [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/24/jamal-francique-inquest-latest/",
-      "ts": "2026-11-24T19:11:39+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7434350",
       "source": "cbc",
       "title": "Constable who shot Jamal Francique says he acted out of 'fight-or-flight' instinct",
@@ -99,30 +87,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968412",
-      "source": "citynews",
-      "title": "91-year-old man charged with sex assault of 2 vulnerable women in Burlington",
-      "summary": "Halton Regional Police have arrested a 91-year-old man in connection with a sexual assault investigation in Burlington. Police say they began investigation in mid-November when the man was seen allegedly sexually assaulting a vulnerable adult female. Investigators found that the suspect had allegedly committed five sexual assaults involving two vulnerable women in Burlington between July [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/24/91-year-old-man-charged-with-sex-assault-of-2-vulnerable-women-in-burlington/",
-      "ts": "2026-11-24T17:50:27+00:00",
-      "lat": 43.3255,
-      "lng": -79.799,
-      "location": "Burlington",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968320",
-      "source": "citynews",
-      "title": "Man, 35, arrested in Brampton shooting facing multiple charges",
-      "summary": "Police in Peel Region arrested a man earlier this month who is believed to be responsible for a shooting in Brampton. According to investigators, a person was walking in the area of Stokes Road and Vivians Crescent on Oct. 3, when a suspect \u2013 identified as 35-year-old Kyle Abel of Caledon \u2013 allegedly shot the [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/24/man-35-arrested-in-brampton-shooting-facing-multiple-charges/",
-      "ts": "2026-11-24T15:47:05+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
       "approximate": true
     },
     {
@@ -147,42 +111,6 @@
       "lat": 43.5183,
       "lng": -79.8774,
       "location": "Milton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7433059",
-      "source": "cbc",
-      "title": "Aspen Air service gets you between Niagara and Toronto in 11 minutes. It's now 5 days a week",
-      "summary": "Aspen Air has added two more flight days to its weeks-old route connecting Niagara and Toronto. The airline, based in Kitchener-Waterloo, launched the 11-minute flights from Niagara District Airport airport in Niagara-on-the-Lake to Toronto's Billy Bishop Airport at the beginning of November. Airport and airline executives say strong early demand prompted the company to add Tuesday and Thursday fl",
-      "link": "https://www.cbc.ca/news/canada/hamilton/aspen-air-niagara-toronto-9.7433059?cmp=rss",
-      "ts": "2026-11-24T09:00:00+00:00",
-      "lat": 43.6434725,
-      "lng": -79.4082506,
-      "location": "Niagara & Toronto",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7433197",
-      "source": "cbc",
-      "title": "Police wouldn't have arrested Francique if he stayed home, detective tells inquest",
-      "summary": "A coroner's inquest into the death of a Black man who was shot by police in Mississauga, Ont., heard Monday that officers did not necessarily plan to arrest him that night nearly seven years ago.",
-      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-no-plans-to-arrest-9.7433197?cmp=rss",
-      "ts": "2026-11-23T21:53:58+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7433083",
-      "source": "cbc",
-      "title": "City of Mississauga to implement hiring restrictions effective immediately",
-      "summary": "One week into the term of Mississauga's new mayor and hiring restrictions are going into effect at the city. It comes after staff were directed by Mayor Alvin Tedjo to freeze property taxes for the 2027 and 2028 budgets.",
-      "link": "https://www.cbc.ca/news/canada/toronto/city-of-mississauga-restricting-hiring-until-march-2027-9.7433083?cmp=rss",
-      "ts": "2026-11-23T21:34:58+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     }
   ]
