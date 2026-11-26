@@ -1,20 +1,80 @@
 {
-  "generated": "2026-11-26T12:02:10.725406+00:00",
+  "generated": "2026-11-26T21:34:55.569269+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966647",
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4969816",
       "source": "citynews",
-      "title": "Elizabeth Bain\u2019s disappearance and Robert Baltovich\u2019s wrongful conviction: The timeline",
-      "summary": "June 19, 1990 Twenty-two-year-old Elizabeth Bain leaves home to check a schedule at the U. of T.\u2019s Scarborough campus. When she doesn\u2019t return, her worried mother calls police. June 22-24, 1990 Fears grow after the missing woman\u2019s car is discovered at&#160;an auto body shop not far from her home. A large bloodstain is ominously found&#160;in [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/elizabeth-bains-disappearance-and-robert-baltovichs-wrongful-conviction-the-timeline/",
-      "ts": "2026-11-26T11:01:16+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
+      "title": "Mother of Jamal Francique tells inquest anti-Black racism played role in son\u2019s death",
+      "summary": "The mother of a man who was fatally shot by police during an attempted arrest in Mississauga, Ont., nearly seven years ago told a coroner&#8217;s inquest Thursday she believes anti-Black racism played a role in her son&#8217;s death. Jamal Francique&#8217;s mother, Ann-Marie White, said she believes Peel Regional Police saw her son for the colour [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/mother-of-jamal-francique-tells-inquest-anti-black-racism-played-role-in-sons-death/",
+      "ts": "2026-11-26T19:04:35+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7437268",
+      "source": "cbc",
+      "title": "Anti-Black racism may have played a role in Jamal Francique's death, mother tells inquest",
+      "summary": "The mother of a man who was fatally shot by police during an attempted arrest in Mississauga, Ont., told a coroner's inquest today she believes anti-Black racism played a role in her son's death.",
+      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-coroners-inquest-mother-racism-9.7437268?cmp=rss",
+      "ts": "2026-11-26T17:33:38+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7437171",
+      "source": "cbc",
+      "title": "2 arrested after investigation into series of home invasions across GTA: Peel police",
+      "summary": "Two people have been charged as the result of an investigation into an alleged spree of home invasions, Peel Regional Police announced Thursday. Multiple charges related to the robberies, as well as illegal firearms, drugs and possession of child sexual abuse material have been laid, and police expect more arrests to come.",
+      "link": "https://www.cbc.ca/news/canada/toronto/home-invasion-investigation-charges-laid-9.7437171?cmp=rss",
+      "ts": "2026-11-26T17:07:59+00:00",
+      "lat": 43.65,
+      "lng": -79.75,
+      "location": "Peel Region",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4969709",
+      "source": "citynews",
+      "title": "51 new affordable, supportive housing units opened in Etobicoke",
+      "summary": "A new affordable and supportive housing project was opened in the Rexdale area of Etobicoke Thursday, providing 51 units of permanent housing and on-site supports for people experiencing or at risk of homelessness.&#160; Wardlaw Residence is a joint initiative between municipal and federal governments, with the City of Toronto providing $10 million in capital funding [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/51-new-affordable-supportive-housing-units-opened-in-etobicoke/",
+      "ts": "2026-11-26T16:47:51+00:00",
+      "lat": 43.6205,
+      "lng": -79.5132,
+      "location": "Etobicoke",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4969380",
+      "source": "citynews",
+      "title": "Toronto weekend events, transit and road closures: Nov. 27 to 29",
+      "summary": "Get a jump on some holiday shopping at the One of a Kind show starting this weekend and do some skating under the glittering lights at Nathan Phillips Square. Keep in mind, there are some subway and GO transit service adjustments this weekend. Here is what is happening in Toronto. Cavalcade of Lights Skate under [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/toronto-events-weekend-cavalcade-of-lights/",
+      "ts": "2026-11-26T16:23:46+00:00",
+      "lat": 43.6527083,
+      "lng": -79.3838423,
+      "location": "Nathan Phillips Square",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4969713",
+      "source": "citynews",
+      "title": "Peel police arrest 2 people after multiple home invasions across GTA",
+      "summary": "Peel Regional Police investigators say they have arrested and charged two people after a series of home invasions targeting luxury cars across the Greater Toronto Area. Investigators say they believe five home invasions between May 29 and June 2 were carried out by the same group of three to four suspects. They allege the suspects [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/project-twilight-peel-police-arrests/",
+      "ts": "2026-11-26T16:01:24+00:00",
+      "lat": 43.65,
+      "lng": -79.75,
+      "location": "Peel Region",
       "approximate": true
     },
     {
@@ -23,7 +83,19 @@
       "title": "A look back at the Elizabeth Bain case ahead of Dateline Canada\u2019s explosive uncovering of new evidence",
       "summary": "Who killed Elizabeth Bain? It\u2019s a question that\u2019s haunted her loved ones and perplexed authorities for more than 25 years after the 22-year-old University of Toronto student vanished near the school&#8217;s Scarborough campus on June 19, 1990, and was never seen again. Her former boyfriend, Robert Baltovich, was initially convicted of second-degree murder in her [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/26/a-look-back-at-the-elizabeth-bain-case-ahead-of-dateline-canadas-explosive-uncovering-of-new-evidence/",
-      "ts": "2026-11-26T11:01:12+00:00",
+      "ts": "2026-11-26T11:00:00+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966647",
+      "source": "citynews",
+      "title": "Elizabeth Bain\u2019s disappearance and Robert Baltovich\u2019s wrongful conviction: The timeline",
+      "summary": "June 19, 1990 Twenty-two-year-old Elizabeth Bain leaves home to check a schedule at the U. of T.\u2019s Scarborough campus. When she doesn\u2019t return, her worried mother calls police. June 22-24, 1990 Fears grow after the missing woman\u2019s car is discovered at&#160;an auto body shop not far from her home. A large bloodstain is ominously found&#160;in [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/elizabeth-bains-disappearance-and-robert-baltovichs-wrongful-conviction-the-timeline/",
+      "ts": "2026-11-26T11:00:00+00:00",
       "lat": 43.7731,
       "lng": -79.2578,
       "location": "Scarborough",
@@ -35,34 +107,10 @@
       "title": "Dateline Canada exclusive to reveal new information possibly linking Paul Bernardo to Elizabeth Bain",
       "summary": "Despite denying any involvement, notorious Canadian sex killer and &#8216;Scarborough Rapist&#8217; Paul Bernardo has long been considered a potential person of interest in the disappearance and presumed murder of Elizabeth Bain. Now, 36 years after Bain vanished, a Dateline Canada exclusive is set to reveal startling new information possibly linking Bernardo to the case. The [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/26/dateline-canada-exclusive-to-reveal-new-information-possibly-linking-paul-bernardo-to-elizabeth-bain/",
-      "ts": "2026-11-26T11:01:05+00:00",
+      "ts": "2026-11-26T11:00:00+00:00",
       "lat": 43.7731,
       "lng": -79.2578,
       "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7436473",
-      "source": "cbc",
-      "title": "How Toronto's new revenue ideas could hit your wallet",
-      "summary": "The spectre of a difficult budget is looming at Toronto city hall. As CBC\u2019s Isaac Callan explains, city staff are suggesting new ways to raise cash.",
-      "link": "https://www.cbc.ca/player/play/9.7436473?cmp=rss",
-      "ts": "2026-11-25T23:45:01+00:00",
-      "lat": 43.6534,
-      "lng": -79.3841,
-      "location": "City Hall",
-      "approximate": false
-    },
-    {
-      "id": "news_cbc_9.7436046",
-      "source": "cbc",
-      "title": "Mississauga council adjusting committee structure for new term",
-      "summary": "Mississauga councillors have voted to make multiple adjustments to the committee structure, which the mayor says is part of an effort to modernize how council functions.",
-      "link": "https://www.cbc.ca/news/canada/toronto/mississauga-mayor-alvin-tejdo-adjusting-council-committee-structure-9.7436046?cmp=rss",
-      "ts": "2026-11-25T23:00:05+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     },
     {
@@ -75,30 +123,6 @@
       "lat": 43.589,
       "lng": -79.6441,
       "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4969302",
-      "source": "citynews",
-      "title": "Macy\u2019s announces Thanksgiving Day Parade postponed to Saturday due to expected bad weather",
-      "summary": "NEW YORK (AP) \u2014 Macy\u2019s announces Thanksgiving Day Parade postponed to Saturday due to expected bad weather.",
-      "link": "https://toronto.citynews.ca/2026/11/25/macys-announces-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather/",
-      "ts": "2026-11-25T21:10:33+00:00",
-      "lat": 43.6896,
-      "lng": -79.4759,
-      "location": "York",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7435451",
-      "source": "cbc",
-      "title": "18-year-old cyclist dead after being struck, trapped under school bus in downtown Toronto",
-      "summary": "A man, 18, has died after being hit by a school bus and getting trapped underneath it in downtown Toronto early Wednesday, first responders say.",
-      "link": "https://www.cbc.ca/news/canada/toronto/school-bus-struck-cyclist-trapped-toronto-9.7435451?cmp=rss",
-      "ts": "2026-11-25T15:43:26+00:00",
-      "lat": 43.6532,
-      "lng": -79.3832,
-      "location": "Downtown Toronto",
       "approximate": true
     }
   ]

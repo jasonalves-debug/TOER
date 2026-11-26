@@ -941,5 +941,11 @@
     "lng": -79.4076515
   },
   "st:princes blvd|newfoundland rd|toronto": null,
-  "st:bastedo ave|stacy st|toronto": null
+  "st:bastedo ave|stacy st|toronto": null,
+  "st:oakwood ave|clovelly ave|york": null,
+  "st:rowntree rd|humber river recreational trl|etobicoke": null,
+  "st:bloor st|yonge st|toronto": {
+    "lat": 43.6703553,
+    "lng": -79.3869414
+  }
 }
