@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-26T02:51:59.565494+00:00",
+  "generated": "2026-11-26T12:02:10.725406+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966647",
+      "source": "citynews",
+      "title": "Elizabeth Bain\u2019s disappearance and Robert Baltovich\u2019s wrongful conviction: The timeline",
+      "summary": "June 19, 1990 Twenty-two-year-old Elizabeth Bain leaves home to check a schedule at the U. of T.\u2019s Scarborough campus. When she doesn\u2019t return, her worried mother calls police. June 22-24, 1990 Fears grow after the missing woman\u2019s car is discovered at&#160;an auto body shop not far from her home. A large bloodstain is ominously found&#160;in [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/elizabeth-bains-disappearance-and-robert-baltovichs-wrongful-conviction-the-timeline/",
+      "ts": "2026-11-26T11:01:16+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4965158",
+      "source": "citynews",
+      "title": "A look back at the Elizabeth Bain case ahead of Dateline Canada\u2019s explosive uncovering of new evidence",
+      "summary": "Who killed Elizabeth Bain? It\u2019s a question that\u2019s haunted her loved ones and perplexed authorities for more than 25 years after the 22-year-old University of Toronto student vanished near the school&#8217;s Scarborough campus on June 19, 1990, and was never seen again. Her former boyfriend, Robert Baltovich, was initially convicted of second-degree murder in her [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/a-look-back-at-the-elizabeth-bain-case-ahead-of-dateline-canadas-explosive-uncovering-of-new-evidence/",
+      "ts": "2026-11-26T11:01:12+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4966668",
+      "source": "citynews",
+      "title": "Dateline Canada exclusive to reveal new information possibly linking Paul Bernardo to Elizabeth Bain",
+      "summary": "Despite denying any involvement, notorious Canadian sex killer and &#8216;Scarborough Rapist&#8217; Paul Bernardo has long been considered a potential person of interest in the disappearance and presumed murder of Elizabeth Bain. Now, 36 years after Bain vanished, a Dateline Canada exclusive is set to reveal startling new information possibly linking Bernardo to the case. The [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/dateline-canada-exclusive-to-reveal-new-information-possibly-linking-paul-bernardo-to-elizabeth-bain/",
+      "ts": "2026-11-26T11:01:05+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
     {
       "id": "news_cbc_9.7436473",
       "source": "cbc",
@@ -63,66 +99,6 @@
       "lat": 43.6532,
       "lng": -79.3832,
       "location": "Downtown Toronto",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968997",
-      "source": "citynews",
-      "title": "Brampton man, 29, charged in extortion investigation",
-      "summary": "Peel Regional Police have made an arrest in connection with an extortion investigation. According to detectives, a victim \u2013 whose identity is being withheld \u2013 began receiving demands for money in April, under threats of violence towards their family, home, business and personal property. Then, on Sept. 5, emergency crews were called to the scene [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/25/brampton-man-29-charged-in-extortion-investigation/",
-      "ts": "2026-11-25T15:24:53+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968987",
-      "source": "citynews",
-      "title": "Cyclist, 18, dead after being struck by school bus in downtown Toronto",
-      "summary": "An 18-year-old male cyclist has died after he was struck by a school bus in downtown Toronto on Wednesday morning. Emergency crews responded to the intersection of University Avenue and Dundas Street around 9:30 a.m. for a collision between a mini school bus and a cyclist. In a release, police said a 70-year-old man was [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/25/1-dead-collision-school-bus-downtown-toronto/",
-      "ts": "2026-11-25T15:21:22+00:00",
-      "lat": 43.6551576,
-      "lng": -79.3883003,
-      "location": "University Avenue",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4968990",
-      "source": "citynews",
-      "title": "Joly \u2018convinced\u2019 Ottawa can find a path forward with Stellantis as talks continue",
-      "summary": "TORONTO \u2014 Industry Minister M\u00e9lanie Joly says she's \"convinced\" the federal government and Stellantis can find a path forward amid fallout from the automaker's deal to sell its Brampton, Ont., assembly plant to defence contractor Roshel.",
-      "link": "https://toronto.citynews.ca/2026/11/25/a-lot-of-noise-joly-meets-with-stellantis-leadership-again-says-talks-continuing/",
-      "ts": "2026-11-25T14:56:09+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7434575",
-      "source": "cbc",
-      "title": "Port Credit\u2019s waterfront mega-development reaches new milestone",
-      "summary": "Construction on a new neighbourhood in Mississauga\u2019s waterfront \u2014 decades in the making \u2014 is about a third done, with no completion date set yet. CBC\u2019s Jayden Dill breaks down the transformation of the land, and the developer's plans for the future.",
-      "link": "https://www.cbc.ca/player/play/9.7434575?cmp=rss",
-      "ts": "2026-11-25T09:00:00+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7434527",
-      "source": "cbc",
-      "title": "Stellantis taking Unifor to court over alleged obstruction of environmental assessment",
-      "summary": "The ongoing dispute over the sale of Stellantis's Brampton, Ont., assembly plant is heading to court, as the automaker has filed a lawsuit alleging Unifor is impeding an environmental assessment necessary to the transaction.",
-      "link": "https://www.cbc.ca/news/canada/toronto/stellantis-sues-unifor-brampton-assembly-plant-9.7434527?cmp=rss",
-      "ts": "2026-11-24T21:03:27+00:00",
-      "lat": 43.7315,
-      "lng": -79.7624,
-      "location": "Brampton",
       "approximate": true
     }
   ]
