@@ -1,15 +1,87 @@
 {
-  "generated": "2026-11-27T03:48:13.329803+00:00",
+  "generated": "2026-11-27T13:35:52.143307+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
     {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4970108",
+      "source": "citynews",
+      "title": "Park Lawn Road westbound Gardiner on-ramp reopens two months early",
+      "summary": "The Park Lawn Road westbound on-ramp to the Gardiner Expressway reopened at 6 a.m. on Friday after critical bridge replacement work was completed two months early, according to a City of Toronto news release. The work, which began in August, was part of the Gardiner Expressway Strategic Rehabilitation Plan and involved the replacement of the [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/27/park-lawn-road-westbound-gardiner-on-ramp-reopens-two-months-early/",
+      "ts": "2026-11-27T11:45:43+00:00",
+      "lat": 43.6436497,
+      "lng": -79.377751,
+      "location": "the Gardiner Expressway",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7438378",
+      "source": "cbc",
+      "title": "Man dead after stabbing on TTC bus in Scarborough",
+      "summary": "Toronto police are investigating a homicide after a man died following a stabbing on a TTC bus in Scarborough on Thursday evening.",
+      "link": "https://www.cbc.ca/news/canada/toronto/fatal-stabbing-scarborough-ttc-bus-9.7438378?cmp=rss",
+      "ts": "2026-11-27T11:33:12+00:00",
+      "lat": 43.7731,
+      "lng": -79.2578,
+      "location": "Scarborough",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4970091",
+      "source": "citynews",
+      "title": "Hwy 401 WB ramp to Hwy 410 NB in Mississauga closed due transport truck in ditch",
+      "summary": "Ontario Provincial Police say the Highway 401 westbound ramp to Highway 410 northbound in Mississauga is closed due to a transport truck in a ditch. The driver suffered minor injuries. The ramp will be closed for an extended period of time for cleanup and removal of the truck. Drivers are advised to use alternate routes.",
+      "link": "https://toronto.citynews.ca/2026/11/27/transport-truck-in-ditch-hwy-401-wb-ramp-to-hwy-410-nb-in-mississauga/",
+      "ts": "2026-11-27T10:17:22+00:00",
+      "lat": 43.6717629,
+      "lng": -79.5828456,
+      "location": "Hwy 401",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7438239",
+      "source": "cbc",
+      "title": "The crisis at the corner of Queen & Bathurst",
+      "summary": "Queen and Bathurst feels like ground zero for the city's drug and homelessness crisis. Outreach workers and businesses say it's escalated since the corner's supervised consumption site closed. In this episode of This is Toronto, CBC's Haydn Watters shadows a team responding to overdoses and trying to ease the pain.",
+      "link": "https://www.cbc.ca/player/play/9.7438239?cmp=rss",
+      "ts": "2026-11-27T09:00:00+00:00",
+      "lat": 43.642472,
+      "lng": -79.4022342,
+      "location": "Queen & Bathurst Queen",
+      "approximate": false
+    },
+    {
+      "id": "news_cbc_9.7437817",
+      "source": "cbc",
+      "title": "How Hurontario LRT construction is hurting local businesses",
+      "summary": "Construction on the Hurontario LRT has been going on now for more than six years. With a completion date still unknown, CBC\u2019s Nav Nanwa visited local businesses in the Cooksville neighbourhood of Mississauga to find out how they\u2019re coping.",
+      "link": "https://www.cbc.ca/player/play/9.7437817?cmp=rss",
+      "ts": "2026-11-27T09:00:00+00:00",
+      "lat": 43.589,
+      "lng": -79.6441,
+      "location": "Mississauga",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4970028",
+      "source": "citynews",
+      "title": "Woman, 65, dies after crashing vehicle into pole in Scarborough",
+      "summary": "Toronto police say a 65-year-old woman has died after she crashed her vehicle into a pole in Scarborough on Thursday night. It happened in the Progress Avenue and Kennedy Road area at around 9:49 p.m. Police say it appears the vehicle drifted across all lanes and then struck a pole. She was the lone occupant [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/27/woman-dies-after-crashing-vehicle-into-pole-in-scarborough/",
+      "ts": "2026-11-27T05:11:02+00:00",
+      "lat": 43.7784892,
+      "lng": -79.2587059,
+      "location": "Progress Avenue",
+      "approximate": true
+    },
+    {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4970008",
       "source": "citynews",
-      "title": "Police responding to reports of stabbing on TTC bus in Scarborough, victim critical",
-      "summary": "Toronto police say they are responding to reports of a person stabbed on a TTC bus in Scarborough. In a social media post, police said it happened just after 10:04 p.m. in the Eglinton Avenue East and Falmouth Avenue area. The suspect fled on foot. Police say Toronto paramedics are rushing the victim to hospital [&#8230;]",
+      "title": "Male victim dies after stabbing on TTC bus in Scarborough",
+      "summary": "Toronto police say a person who was stabbed on a TTC bus in Scarborough on Thursday night has died. In a social media post, police said it happened just after 10:04 p.m. in the Eglinton Avenue East and Falmouth Avenue area. The suspect fled on foot. No description is currently available. Police have only revealed [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/26/police-responding-to-reports-of-stabbing-on-ttc-bus-in-scarborough-victim-critical/",
       "ts": "2026-11-27T03:44:56+00:00",
       "lat": 43.7254056,
@@ -78,42 +150,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4969926",
-      "source": "citynews",
-      "title": "2 injured in midtown jewellery store robbery",
-      "summary": "Paramedics tell CityNews they&#8217;ve transported two adults to hospital after a jewellery store robbery in midtown on Thursday evening. In an X post, Toronto Police Service (TPS) said a vehicle crashed into the store in the Yonge Street and Briar Hill Avenue area at around 4:34 p.m. Once inside the store, suspects stole merchandise before [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/2-injured-in-midtown-jewellery-store-robbery/",
-      "ts": "2026-11-26T22:55:20+00:00",
-      "lat": 43.7445449,
-      "lng": -79.4068969,
-      "location": "Yonge Street",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4969911",
-      "source": "citynews",
-      "title": "Second suspect arrested in shooting death of 31-year-old Toronto woman",
-      "summary": "A second suspect has been arrested in connection to the shooting death of a 31-year-old woman in Moss Park earlier this year. Investigators were called to a building on Jarvis Street, near Dundas Street East, at approximately 9:30 a.m. on June 20 for reports of a shooting.&#160; Police say an adult woman was located [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/second-suspect-arrested-in-shooting-death-of-31-year-old-toronto-woman/",
-      "ts": "2026-11-26T22:35:37+00:00",
-      "lat": 43.6546438,
-      "lng": -79.3697278,
-      "location": "Moss Park",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4969816",
-      "source": "citynews",
-      "title": "Mother of Jamal Francique tells inquest anti-Black racism played role in son\u2019s death",
-      "summary": "The mother of a man who was fatally shot by police during an attempted arrest in Mississauga, Ont., nearly seven years ago told a coroner&#8217;s inquest Thursday she believes anti-Black racism played a role in her son&#8217;s death. Jamal Francique&#8217;s mother, Ann-Marie White, said she believes Peel Regional Police saw her son for the colour [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/mother-of-jamal-francique-tells-inquest-anti-black-racism-played-role-in-sons-death/",
-      "ts": "2026-11-26T19:04:35+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7437268",
       "source": "cbc",
       "title": "Anti-Black racism may have played a role in Jamal Francique's death, mother tells inquest",
@@ -135,42 +171,6 @@
       "lat": 43.65,
       "lng": -79.75,
       "location": "Peel Region",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4969709",
-      "source": "citynews",
-      "title": "51 new affordable, supportive housing units opened in Etobicoke",
-      "summary": "A new affordable and supportive housing project was opened in the Rexdale area of Etobicoke Thursday, providing 51 units of permanent housing and on-site supports for people experiencing or at risk of homelessness.&#160; Wardlaw Residence is a joint initiative between municipal and federal governments, with the City of Toronto providing $10 million in capital funding [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/51-new-affordable-supportive-housing-units-opened-in-etobicoke/",
-      "ts": "2026-11-26T16:47:51+00:00",
-      "lat": 43.6205,
-      "lng": -79.5132,
-      "location": "Etobicoke",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4969380",
-      "source": "citynews",
-      "title": "Toronto weekend events, transit and road closures: Nov. 27 to 29",
-      "summary": "Get a jump on some holiday shopping at the One of a Kind show starting this weekend and do some skating under the glittering lights at Nathan Phillips Square. Keep in mind, there are some subway and GO transit service adjustments this weekend. Here is what is happening in Toronto. Cavalcade of Lights Skate under [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/toronto-events-weekend-cavalcade-of-lights/",
-      "ts": "2026-11-26T16:23:46+00:00",
-      "lat": 43.6527083,
-      "lng": -79.3838423,
-      "location": "Nathan Phillips Square",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7435686",
-      "source": "cbc",
-      "title": "Community outrage sparks judicial review of Mississauga cannabis store licence",
-      "summary": "The City of Mississauga is seeking a judicial review of the province's decision to grant a retail licence to a cannabis store in Meadowvale Village, following backlash from residents who say they weren't consulted about it.",
-      "link": "https://www.cbc.ca/news/canada/toronto/mississauga-cannabis-shop-9.7435686?cmp=rss",
-      "ts": "2026-11-25T22:22:21+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     }
   ]

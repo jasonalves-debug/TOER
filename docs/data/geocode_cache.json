@@ -958,5 +958,8 @@
   "xx:evans ave|kipling ave": {
     "lat": 43.6162973,
     "lng": -79.5246709
-  }
+  },
+  "xx:edenbridge dr|elstree rd": null,
+  "st:bayview ave|clearcrest ave|north york": null,
+  "st:harlandale ave|harlandale parkette trl|north york": null
 }
