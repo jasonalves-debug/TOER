@@ -1,10 +1,106 @@
 {
-  "generated": "2026-11-26T21:34:55.569269+00:00",
+  "generated": "2026-11-27T03:48:13.329803+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4970008",
+      "source": "citynews",
+      "title": "Police responding to reports of stabbing on TTC bus in Scarborough, victim critical",
+      "summary": "Toronto police say they are responding to reports of a person stabbed on a TTC bus in Scarborough. In a social media post, police said it happened just after 10:04 p.m. in the Eglinton Avenue East and Falmouth Avenue area. The suspect fled on foot. Police say Toronto paramedics are rushing the victim to hospital [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/police-responding-to-reports-of-stabbing-on-ttc-bus-in-scarborough-victim-critical/",
+      "ts": "2026-11-27T03:44:56+00:00",
+      "lat": 43.7254056,
+      "lng": -79.2973602,
+      "location": "Eglinton Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4967923",
+      "source": "citynews",
+      "title": "Was Paul Bernardo involved in the disappearance of Elizabeth Bain? Dateline Canada digs into new evidence",
+      "summary": "EDITOR&#8217;S NOTE: This article contains details concerning violent sexual crimes and murder. Paul Bernardo\u2019s ex-girlfriend introduced him to Elizabeth Bain and an eyewitness later described an attack along Highway 401 in Scarborough on the night she vanished involving a woman and man matching the descriptions of Bain and Bernardo in a vehicle believed to be [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/paul-bernardo-elizabeth-bain-dateline-canada-evidence/",
+      "ts": "2026-11-27T02:59:42+00:00",
+      "lat": 43.6911749,
+      "lng": -79.569902,
+      "location": "Highway 401",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4969990",
+      "source": "citynews",
+      "title": "Suspect sought after woman, 77, assaulted, robbed of cash she just withdrew from Oshawa bank",
+      "summary": "Durham Regional Police officers are trying to track down a suspect after a 77-year-old woman was assaulted and robbed of cash in Oshawa on Thursday morning. Officers were called to the King Street East and Mary Street North area at around 9:50 a.m. &#8220;The victim, a 77-year-old female, had recently departed a local bank when [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/suspect-sought-after-woman-77-assaulted-robbed-of-cash-she-just-withdrew-from-oshawa-bank/",
+      "ts": "2026-11-27T02:17:16+00:00",
+      "lat": 43.7072157,
+      "lng": -79.5104764,
+      "location": "King Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4969977",
+      "source": "citynews",
+      "title": "Break-in suspects crashed stolen SUV into Whitby game store: police",
+      "summary": "Durham Regional Police investigators say suspects in a Whitby break-and-enter used a stolen SUV to crash their way into a game store. Officers responded to a break-and-enter call at We Got Gamez, located at 1910 Dundas Street East, on Thursday morning at around 2:55 a.m. &#8220;A black SUV was driven through the storefront of the [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/break-in-suspects-crashed-stolen-suv-into-whitby-game-store-police/",
+      "ts": "2026-11-27T01:36:14+00:00",
+      "lat": 43.6565147,
+      "lng": -79.3810752,
+      "location": "Dundas Street",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7438052",
+      "source": "cbc",
+      "title": "2nd suspect arrested in shooting death of woman downtown in June, police say",
+      "summary": "Toronto police say they have arrested a second suspect in the shooting death of a woman downtown in June.",
+      "link": "https://www.cbc.ca/news/canada/toronto/second-suspect-shooting-death-woman-downtown-toronto-9.7438052?cmp=rss",
+      "ts": "2026-11-26T23:37:13+00:00",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "location": "Downtown",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4969931",
+      "source": "citynews",
+      "title": "Moss Park crash sends male motorcyclist to hospital",
+      "summary": "A male motorcyclist has been taken to hospital with serious injuries after a crash involving a car in Moss Park on Thursday evening. It happened at Parliament and Shuter streets at around 5:17 p.m. The motorcyclist has serious injuries, police said. Parliament was closed between Queen Street East and Shuter for several hours, but has [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/moss-park-crash-sends-male-motorcyclist-to-hospital/",
+      "ts": "2026-11-26T23:21:06+00:00",
+      "lat": 43.6546438,
+      "lng": -79.3697278,
+      "location": "Moss Park",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4969926",
+      "source": "citynews",
+      "title": "2 injured in midtown jewellery store robbery",
+      "summary": "Paramedics tell CityNews they&#8217;ve transported two adults to hospital after a jewellery store robbery in midtown on Thursday evening. In an X post, Toronto Police Service (TPS) said a vehicle crashed into the store in the Yonge Street and Briar Hill Avenue area at around 4:34 p.m. Once inside the store, suspects stole merchandise before [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/2-injured-in-midtown-jewellery-store-robbery/",
+      "ts": "2026-11-26T22:55:20+00:00",
+      "lat": 43.7445449,
+      "lng": -79.4068969,
+      "location": "Yonge Street",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4969911",
+      "source": "citynews",
+      "title": "Second suspect arrested in shooting death of 31-year-old Toronto woman",
+      "summary": "A second suspect has been arrested in connection to the shooting death of a 31-year-old woman in Moss Park earlier this year. Investigators were called to a building on Jarvis Street, near Dundas Street East, at approximately 9:30 a.m. on June 20 for reports of a shooting.&#160; Police say an adult woman was located [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/26/second-suspect-arrested-in-shooting-death-of-31-year-old-toronto-woman/",
+      "ts": "2026-11-26T22:35:37+00:00",
+      "lat": 43.6546438,
+      "lng": -79.3697278,
+      "location": "Moss Park",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4969816",
       "source": "citynews",
@@ -63,54 +159,6 @@
       "lat": 43.6527083,
       "lng": -79.3838423,
       "location": "Nathan Phillips Square",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4969713",
-      "source": "citynews",
-      "title": "Peel police arrest 2 people after multiple home invasions across GTA",
-      "summary": "Peel Regional Police investigators say they have arrested and charged two people after a series of home invasions targeting luxury cars across the Greater Toronto Area. Investigators say they believe five home invasions between May 29 and June 2 were carried out by the same group of three to four suspects. They allege the suspects [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/project-twilight-peel-police-arrests/",
-      "ts": "2026-11-26T16:01:24+00:00",
-      "lat": 43.65,
-      "lng": -79.75,
-      "location": "Peel Region",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4965158",
-      "source": "citynews",
-      "title": "A look back at the Elizabeth Bain case ahead of Dateline Canada\u2019s explosive uncovering of new evidence",
-      "summary": "Who killed Elizabeth Bain? It\u2019s a question that\u2019s haunted her loved ones and perplexed authorities for more than 25 years after the 22-year-old University of Toronto student vanished near the school&#8217;s Scarborough campus on June 19, 1990, and was never seen again. Her former boyfriend, Robert Baltovich, was initially convicted of second-degree murder in her [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/a-look-back-at-the-elizabeth-bain-case-ahead-of-dateline-canadas-explosive-uncovering-of-new-evidence/",
-      "ts": "2026-11-26T11:00:00+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966647",
-      "source": "citynews",
-      "title": "Elizabeth Bain\u2019s disappearance and Robert Baltovich\u2019s wrongful conviction: The timeline",
-      "summary": "June 19, 1990 Twenty-two-year-old Elizabeth Bain leaves home to check a schedule at the U. of T.\u2019s Scarborough campus. When she doesn\u2019t return, her worried mother calls police. June 22-24, 1990 Fears grow after the missing woman\u2019s car is discovered at&#160;an auto body shop not far from her home. A large bloodstain is ominously found&#160;in [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/elizabeth-bains-disappearance-and-robert-baltovichs-wrongful-conviction-the-timeline/",
-      "ts": "2026-11-26T11:00:00+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
-      "approximate": true
-    },
-    {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4966668",
-      "source": "citynews",
-      "title": "Dateline Canada exclusive to reveal new information possibly linking Paul Bernardo to Elizabeth Bain",
-      "summary": "Despite denying any involvement, notorious Canadian sex killer and &#8216;Scarborough Rapist&#8217; Paul Bernardo has long been considered a potential person of interest in the disappearance and presumed murder of Elizabeth Bain. Now, 36 years after Bain vanished, a Dateline Canada exclusive is set to reveal startling new information possibly linking Bernardo to the case. The [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/26/dateline-canada-exclusive-to-reveal-new-information-possibly-linking-paul-bernardo-to-elizabeth-bain/",
-      "ts": "2026-11-26T11:00:00+00:00",
-      "lat": 43.7731,
-      "lng": -79.2578,
-      "location": "Scarborough",
       "approximate": true
     },
     {
