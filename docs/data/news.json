@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-27T22:21:30.456565+00:00",
+  "generated": "2026-11-28T04:07:49.005163+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4970543",
+      "source": "citynews",
+      "title": "2 children among 4 injured in serious Mississauga car crash",
+      "summary": "Four people were rushed to a hospital on Friday evening after a serious car crash in Mississauga, according to police. Emergency crews were called to the area of Eglinton Avenue and Confederation Parkway just before 8 p.m. Police said two vehicles were involved and three people were transported to a local trauma centre with serious [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/27/2-children-among-4-injured-in-serious-mississauga-car-crash/",
+      "ts": "2026-11-28T03:10:01+00:00",
+      "lat": 43.7254056,
+      "lng": -79.2973602,
+      "location": "Eglinton Avenue",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7439961",
+      "source": "cbc",
+      "title": "Coroner's jury deems Jamal Francique's death a homicide, makes 21 recommendations",
+      "summary": "A coroner's jury has deemed the death of Jamal Francique after an attempt to arrest him a homicide as it made more than 20 recommendations, most of them aimed at Peel regional police.",
+      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-inquest-homicide-9.7439961?cmp=rss",
+      "ts": "2026-11-28T00:17:06+00:00",
+      "lat": 43.65,
+      "lng": -79.75,
+      "location": "Peel Region",
+      "approximate": true
+    },
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4970477",
+      "source": "citynews",
+      "title": "\u2018Not child\u2019s play anymore\u2019: Owner believes thieves who crashed SUV into his game store were after Pok\u00e9mon cards",
+      "summary": "The owner of a Whitby game store that was broken into on Thursday night believes the culprits were after valuable Pok\u00e9mon cards. Kamal Lalli, owner of We Got Gamez at 1910 Dundas Street East, told CityNews the cards can have staggering value. &#8220;It&#8217;s not child&#8217;s play anymore,&#8221; he said. &#8220;These are worth hundreds, tens of [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/27/game-store-robbery-pokemon-cards-whitby/",
+      "ts": "2026-11-27T23:05:29+00:00",
+      "lat": 43.6565147,
+      "lng": -79.3810752,
+      "location": "Dundas Street",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4970335",
       "source": "citynews",
@@ -68,8 +104,8 @@
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4970287",
       "source": "citynews",
-      "title": "Suspect identified in fatal stabbing on TTC bus in Scarborough",
-      "summary": "Toronto police investigators have identified a suspect after a man was fatally stabbed on a TTC bus in Scarborough on Thursday night. Nicholas Crawford, 40, of Toronto, is wanted for second-degree murder. Officers were called to the Eglinton Avenue East and Falmouth Avenue area, near Danforth Avenue, at around 10:04 p.m. for reports of a [&#8230;]",
+      "title": "Toronto man, 40, charged with murder in deadly stabbing on TTC bus",
+      "summary": "Toronto police have arrested a man in connection with a deadly stabbing on a TTC bus in Scarborough on Thursday night. Nicholas Crawford, 40, of Toronto, turned himself in to police on Friday and was charged with second-degree murder. Officers called initially called to the Eglinton Avenue East and Falmouth Avenue area, near Danforth Avenue, [&#8230;]",
       "link": "https://toronto.citynews.ca/2026/11/27/suspect-identified-in-fatal-stabbing-on-ttc-bus-in-scarborough/",
       "ts": "2026-11-27T17:52:25+00:00",
       "lat": 43.7254056,
@@ -104,8 +140,8 @@
     {
       "id": "news_cbc_9.7438378",
       "source": "cbc",
-      "title": "Man, 34, dead after stabbing on TTC bus in Scarborough",
-      "summary": "Toronto police are investigating after a man died following a stabbing on a TTC bus in Scarborough on Thursday evening. Police are looking for a 40-year-old man wanted for second-degree murder.",
+      "title": "Man surrenders to police after fatal stabbing on TTC bus in Scarborough",
+      "summary": "A man has surrendered to police after a stabbing on a TTC bus in Scarborough left another man dead on Thursday, police say.",
       "link": "https://www.cbc.ca/news/canada/toronto/fatal-stabbing-scarborough-ttc-bus-9.7438378?cmp=rss",
       "ts": "2026-11-27T11:33:12+00:00",
       "lat": 43.7731,

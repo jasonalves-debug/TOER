@@ -964,5 +964,15 @@
   "st:harlandale ave|harlandale parkette trl|north york": null,
   "xx:islington ave|millwick dr": null,
   "xx:kingston rd|silver birch ave": null,
-  "st:new toronto st|toffee crt|etobicoke": null
+  "st:new toronto st|toffee crt|etobicoke": null,
+  "st:valhalla inn rd|the east mall|etobicoke": {
+    "lat": 43.6419234,
+    "lng": -79.5576818
+  },
+  "st:bob yuill dr|isaac devins blvd|north york": null,
+  "st:bloor st|devonshire pl|toronto": null,
+  "st:king st|brant st|toronto": {
+    "lat": 43.647389,
+    "lng": -79.3985453
+  }
 }
