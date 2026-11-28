@@ -1,10 +1,46 @@
 {
-  "generated": "2026-11-28T04:07:49.005163+00:00",
+  "generated": "2026-11-28T13:01:28.649215+00:00",
   "source_status": {
     "citynews": "live",
     "cbc": "live"
   },
   "articles": [
+    {
+      "id": "news_citynews_https://toronto.citynews.ca/?p=4970597",
+      "source": "citynews",
+      "title": "Man in hospital after crash near St. Lawrence Market",
+      "summary": "A man has been taken to hospital after a two-vehicle crash near St. Lawrence Market early Saturday morning. Emergency crews were called to the Lower Jarvis Street and Wilton Street area just before 6:30 a.m. One man involved in the crash was taken to a hospital with serious but non-life threatening injures, police said. The cause [&#8230;]",
+      "link": "https://toronto.citynews.ca/2026/11/28/man-in-hospital-after-crash-near-st-lawrence-market/",
+      "ts": "2026-11-28T12:57:25+00:00",
+      "lat": 43.6449488,
+      "lng": -79.3695672,
+      "location": "Lower Jarvis Street",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7439280",
+      "source": "cbc",
+      "title": "Cabin community to provide 50 homes for unhoused people in Durham Region in 2027",
+      "summary": "Construction has begun on a cabin community that will provide 50 homes for unhoused people in Durham Region.",
+      "link": "https://www.cbc.ca/news/canada/toronto/clarington-cabins-bowmanville-9.7439280?cmp=rss",
+      "ts": "2026-11-28T09:00:00+00:00",
+      "lat": 43.9,
+      "lng": -78.9,
+      "location": "Durham Region",
+      "approximate": true
+    },
+    {
+      "id": "news_cbc_9.7439870",
+      "source": "cbc",
+      "title": "How Brampton businesses are coping with the delayed Hurontario LRT",
+      "summary": "The Hurontario LRT is two years overdue. While most of the line is in Mississauga, three stops run through Brampton. And early assessment work is underway for a downtown extension. CBC\u2019s Nav Nanwa checks in on how local businesses are coping with the construction.",
+      "link": "https://www.cbc.ca/player/play/9.7439870?cmp=rss",
+      "ts": "2026-11-28T09:00:00+00:00",
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "location": "Downtown",
+      "approximate": true
+    },
     {
       "id": "news_citynews_https://toronto.citynews.ca/?p=4970543",
       "source": "citynews",
@@ -102,18 +138,6 @@
       "approximate": true
     },
     {
-      "id": "news_citynews_https://toronto.citynews.ca/?p=4970287",
-      "source": "citynews",
-      "title": "Toronto man, 40, charged with murder in deadly stabbing on TTC bus",
-      "summary": "Toronto police have arrested a man in connection with a deadly stabbing on a TTC bus in Scarborough on Thursday night. Nicholas Crawford, 40, of Toronto, turned himself in to police on Friday and was charged with second-degree murder. Officers called initially called to the Eglinton Avenue East and Falmouth Avenue area, near Danforth Avenue, [&#8230;]",
-      "link": "https://toronto.citynews.ca/2026/11/27/suspect-identified-in-fatal-stabbing-on-ttc-bus-in-scarborough/",
-      "ts": "2026-11-27T17:52:25+00:00",
-      "lat": 43.7254056,
-      "lng": -79.2973602,
-      "location": "Eglinton Avenue",
-      "approximate": true
-    },
-    {
       "id": "news_cbc_9.7438839",
       "source": "cbc",
       "title": "Senior dead 2 weeks after being hit by car in Scarborough",
@@ -171,18 +195,6 @@
       "lat": 43.6532,
       "lng": -79.3832,
       "location": "Downtown",
-      "approximate": true
-    },
-    {
-      "id": "news_cbc_9.7437268",
-      "source": "cbc",
-      "title": "Anti-Black racism may have played a role in Jamal Francique's death, mother tells inquest",
-      "summary": "The mother of a man who was fatally shot by police during an attempted arrest in Mississauga, Ont., told a coroner's inquest today she believes anti-Black racism played a role in her son's death.",
-      "link": "https://www.cbc.ca/news/canada/toronto/jamal-francique-coroners-inquest-mother-racism-9.7437268?cmp=rss",
-      "ts": "2026-11-26T17:33:38+00:00",
-      "lat": 43.589,
-      "lng": -79.6441,
-      "location": "Mississauga",
       "approximate": true
     }
   ]
